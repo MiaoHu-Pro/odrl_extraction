@@ -1,0 +1,204 @@
+COMPANY NAME: PROCEDURE NUMBER:
+Hillcrest G10D
+PROCEDURE TITLE:
+Data Sharing
+This document can be produced in different formats, for example, in larger print or audio-format,
+and in other languages, as appropriate. We promote equality through seeking to eliminate unlawful
+and unfair treatment on the ground of any protected characteristic, as appropriate.
+1. Introduction
+Data sharing, otherwise known as information sharing, is the disclosure of information from
+one organisation to another or between multiple organisations. It can also refer to the
+sharing of data within an organisation. Data sharing can take many forms:
+- a reciprocal exchange of data
+- one or more organisations providing data to a third party or parties
+- several organisations pooling information and making it available to each other
+- several organisations pooling information and making it available to a third party or
+parties
+- exceptional, one-off disclosures of data in unexpected or emergency situations
+- different parts of the same organisation making data available to each other.
+This procedure refers only to the sharing of personal data under the Data Protection
+legislation. It covers both systematic sharing of personal data and one-off decisions to share
+personal data.
+This procedure should be read in conjunction with G10 Data Protection Policy and G10A
+Data Protection Procedure.
+
+`
+Contents
+1. Introduction ..................................................................................................................................... 1
+2. Why is personal data being shared? ............................................................................................... 3
+3. What is being shared? ..................................................................................................................... 3
+4. What is the lawful basis for sharing the data? ................................................................................ 3
+5. How to share data ........................................................................................................................... 5
+6. Informing the data subject .............................................................................................................. 5
+7. Data sharing agreements and contracts ......................................................................................... 6
+8. Responsibility .................................................................................................................................. 7
+9. Reviewing the data sharing ............................................................................................................. 7
+Procedure Document Governance and Management ........................................................................ 8
+............................................................................................................................................................ 8
+
+`
+2. Why is personal data being shared?
+In order to comply with the Data Protection Principles the sharing of personal data must be
+for a specific and legitimate purpose. This purpose must be determined prior to the sharing
+of data. To help determine the purpose, consider what the sharing is meant to achieve and
+what its objectives are. On most occasions the reason for the sharing of data will be clear
+and obvious. If there is no specific and legitimate reason to share the personal data, then no
+personal data should be shared.
+Additionally, you must consider if the purpose could be achieved without the sharing of
+personal data. For example, could the data be anonymised or pseudonymised (replacing
+identifying information with artificial data e.g. Mr X)?
+These considerations should be taken into account when setting up regular sharing of
+personal data or when making one-off decisions to share data.
+3. What is being shared?
+When sharing personal data, only the minimum data necessary should be shared. Having
+determined why you are sharing the data, you should identify what data needs to be shared
+in order to fulfil that purpose. No further personal data should be shared. For example, if
+the purpose could be fulfilled by providing a third party with only a person’s name then no
+other details, like their date of birth or address, should be shared.
+You should take reasonable steps to ensure that the data being shared is accurate. If you
+discover that inaccurate data has been shared then you are obliged to contact the
+organisations the data has been shared with in order to correct this inaccuracy unless this is
+impossible or would involve disproportionate effort.
+4. What is the lawful basis for sharing the data?
+For the sharing of data to be lawful, it must be based on a lawful basis in the Data Protection
+legislation. The lawful bases are:
+(a) the data subject has given consent to the processing of his or her personal data for
+one or more specific purposes;
+
+`
+(b) processing is necessary for the performance of a contract to which the data subject is
+party or in order to take steps at the request of the data subject prior to entering into
+a contract;
+(c) processing is necessary for compliance with a legal obligation to which the data
+controller (company within Hillcrest) is subject;
+(d) processing is necessary in order to protect the vital interests of the data subject or of
+another natural person;
+(e) processing is necessary for the performance of a task carried out in the public interest
+or in the exercise of official authority vested in the controller (company within
+Hillcrest);
+(f) processing is necessary for the purposes of the legitimate interests pursued by the
+controller or by a third party, except where such interests are overridden by the
+interests or fundamental rights and freedoms of the data subject which require
+protection of personal data, in particular where the data subject is a child.
+Prior to sharing data, whether setting up a sharing agreement or just sharing on a one-off
+occasion, you must decide on which lawful basis the sharing will be based. Sharing of data
+should only be based on consent if no other basis can be identified. You should not seek
+consent if you would need to continue sharing the data if an individual withdrew their
+consent.
+If sharing is based on consent, you must gain this from the individual prior to sharing
+personal data. Under the GDPR, consent means ‘any freely given, specific, informed and
+unambiguous indication of the data subject's wishes by which he or she, by a statement or
+by a clear affirmative action, signifies agreement to the processing of personal data relating
+to him or her.’ Therefore the individual must be informed of the data sharing and must
+actively consent. We cannot rely on silence, pre-ticked boxes, opt-out measures or any
+other form of inactivity.
+If you are sharing sensitive data, anything classed as a special category of data under the
+GDPR or data relating to criminal convictions or offences, then there are additional lawful
+bases which must be met (both the special categories of data and the further lawful bases
+can be found in G10A Data Protection Procedure).
+
+`
+5. How to share data
+Personal data should be shared in a safe and secure manner. You should consider the
+method by which information should be shared e.g. verbal, face to face, email, automated
+transfer etc.
+Where data is being shared using any electronic means, the IT department should be
+consulted to ensure that appropriate technological measures are in place to ensure the
+security of the data.
+Part of this exercise should include checking that the organisation the data is being shared
+with has appropriate measures in place to protect the data.
+6. Informing the data subject
+Prior to sharing personal data, individuals should be informed of certain details. This is
+necessary in most circumstances but exceptions are when the sharing of data is already
+clear and obvious to the individual or where data is being shared for the prevention or
+detection of crime, the apprehension or prosecution of offenders or the assessment or
+collection of tax duty. In emergency situations it may not be possible to inform a data
+subject prior to sharing data but this should be done after the sharing of data at the earliest
+opportunity. The details to be provided are listed in section 5 of G10A Data Protection
+Procedure.
+This information may already have been provided in Hillcrest’s privacy notice on the website
+or in a privacy statement provided to the individual when the data was collected. If so, we
+will already have met any obligation to inform individuals of the processing. Where the
+processing of information is new, unexpected, a one-off occasion and is not covered by a
+privacy notice or statement, we will need to actively inform individuals of the data sharing.
+The same exceptions as described above will apply.
+When informing individuals of data sharing, we should include the information listed in
+section 5 of G10A Data Protection Procedure except the elements already covered in a
+privacy notice or statement. Informing individuals can be done by contacting them directly
+(in writing so there is evidence of our actions) or, in circumstances where the processing is
+minor in nature, by publishing an updated privacy notice and drawing attention to it.
+Consideration must be given to whether or not a published privacy notice is accessible to all
+individuals.
+
+`
+Where information is shared between two data controllers, it is important to decide who
+will inform data subjects of the data sharing. In general, this obligation falls to the
+organisation that originally collected the data but it is good practice for both to ensure data
+subjects are aware of the data sharing, particularly when different organisations are sharing
+the same data but for different purposes.
+7. Data sharing agreements and contracts
+Where the sharing of data will be on a regular or routine basis, you should use a data
+sharing agreement to document the data sharing and to set the various conditions for the
+sharing of information. The agreement should include what is being shared and why, how it
+will be shared, what the lawful basis is for sharing the data and any other necessary
+information. For a starting point, please see Appendix 1 – Data Sharing Agreement
+Template. Any data sharing agreements should be signed by all Parties prior to the sharing
+of information.
+Where personal data is being shared with a data processor that will be processing data on
+behalf of any company within Hillcrest, the processing must be governed by a contract (or
+other legal act) in order to comply with the GDPR. That contract must stipulate the
+following:
+- that the data processor will only process data in line with written instructions from
+the data controller
+- that the persons processing the personal data have committed themselves to
+confidentiality
+- that the data processor will comply with Article 32 of the GDPR (implementing
+appropriate security measures)
+- that the data processor will not engage another data processor without prior written
+authorisation from Hillcrest and, where another data processor is engaged, that the
+same obligations are imposed on that processor by contract (or other legal act)
+- that the data processor will assist in responding to a data subject exercising their
+rights
+- that the data processor will assist in ensuring compliance with articles 32 to 36 of the
+GDPR
+- that the data processor will return or delete (it will be our choice to decide) all
+personal data at the end of the contract and deletes any existing copies
+- that the data processor will make available all information necessary to demonstrate
+compliance with Article 28 of the GDPR and allow for and contribute to audits and
+inspections carried out by, or on behalf of, Hillcrest.
+
+`
+Where there is an agreement or contract between Hillcrest and another company in relation
+to the processing of personal data, a copy of the agreement or contract should be provided
+to the Information Governance Adviser so they can have oversight of the sharing through a
+Data Sharing Log. This log will note the company the data is being shared with and relevant
+dates for reviewing the agreement/contract.
+8. Responsibility
+Decisions relating to the sharing of personal data should be taken by the manager of the
+service/department that holds the information. This may be a decision about the regular
+sharing of data or a one-off decision to share data. This does not prevent staff sharing
+information in line with agreed processes as the decision about data sharing will already
+have been made in these circumstances.
+Where procedures and agreements are in place, all staff are responsible for ensuring they
+follow the correct processes when sharing data.
+All staff are responsible for ensuring that personal data relating to tenants, service users,
+staff and other data subjects should not be shared with any person who is not entitled to
+have that information.
+Employees should seek the advice of the Information Governance Adviser when necessary
+but particularly when considering new ways of sharing personal data.
+9. Reviewing the data sharing
+Any arrangements for the sharing of data should be kept under review to ensure that the
+sharing continues to be appropriate and is achieving its purpose. Timeframes for reviews
+should be documented and complied with and should be included in any data sharing
+agreements that are in place.
+
+`
+Procedure Document Governance and Management
+Author/ Lead: Marc Hadden, Information Governance Adviser
+Version number: v1
+Current version referred for approval to: SMT
+Current version approved on: 28/02/2018
+Date of next review: 28/02/2021
+Date of Equality Impact Assessment: Click here to enter a date.
+Date of Privacy Impact Assessment: Click here to enter a date. N/A ☒
+D ate of Environmental Impact Assessment: Click here to enter a date. N/A ☒

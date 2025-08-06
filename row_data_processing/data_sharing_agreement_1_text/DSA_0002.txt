@@ -1,0 +1,775 @@
+Data Sharing Agreement
+Anti-Social Behaviour (ASB) and Disorder
+Contents
+1. Introduction to the Sharing 2
+1.1. Partner / Parties 2
+1.2. Ownership of this agreement 3
+1.3. Responsibilities of parties involved 3
+1.4. Confidentiality and vetting 3
+1.5. Assessment and review 4
+1.6. Termination of agreement 4
+1.7. Outside of this agreement 4
+2. Purpose and Benefits 5
+2.1. Purpose 5
+2.2. Benefits 5
+2.3. Principles of information sharing 6
+2.4. Lawful Basis 6
+2.5. Consent 9
+2.6. Proportionality and necessity 9
+2.7. Other relevant legislation 10
+2.8. Common Law Duty of Confidence 10
+2.9. Freedom of Information 10
+3. Individuals 11
+3.1. Right to be informed – Privacy notices 11
+3.2. Data subject rights requests and complaints 11
+3.3. Data subjects 11
+4. Data 12
+4.1. The data to be shared 12
+4.2. Deceased persons 14
+4.3. Confidential information 14
+4.4. Storing and handling information securely 14
+4.5. Access controls and security 15
+4.6. Outside UK processing 15
+1
+
+4.7. Data quality 15
+4.8. Data breaches/incidents 16
+4.9. Retention & Disposal 16
+6. Appendices 18
+6.1. Appendix A: Parties to this agreement 18
+6.2. Appendix B: Data Protection & Caldicott Principles 19
+6.3. Appendix C: Applicable legislation 20
+6.4. Appendix D: Information Sharing Checklist 23
+1. Introduction to the Sharing
+This Data Sharing Agreement [DSA] documents how the parties to this agreement, listed in Appendix A,
+will share personal data about disorder and anti-social behaviour. By signing this Agreement, the named
+agencies agree to accept the conditions set out in this document, according to their statutory and
+professional responsibilities, and agree to adhere to the procedures described.
+This Agreement has been developed to:
+● Define the specific purposes for which the signatory agencies have agreed to share information.
+● Outline the Personal, Special Category and Criminal Data to be shared.
+● Set out the lawful basis condition under UK GDPR and Data Protection Act 2018 through which
+the information is shared, including reference to the Human Rights Act 1998 and the Common
+Law Duty of Confidentiality.
+● Stipulate the roles and procedure that will support the processing/sharing of information between
+agencies.
+● Describe how the rights of the data subject(s) will be protected as stipulated under the data
+protection legislation.
+● Describe the security procedures necessary to ensure that compliance with responsibilities under
+data protection legislation and agency-specific security requirements.
+● Describe how this arrangement will be monitored and reviewed.
+● To illustrate the flow of information from referral through processing and outcome.
+Parties to this agreement cannot amend or add appendices unless agreed as part of a formal review. It is
+expected that each party will have procedures, processes and policies sitting underneath this
+agreement, for their respective organisations. These will, for example, describe the specific processes
+for secure transfer of data.
+1.1. Partner / Parties
+For simplicity, the Partner Organisation will be referred to as ‘Partner’, ‘Partner Organisation’ or ‘Partner
+Agency’ in this agreement.
+‘Parties’ is used to refer to both the MPS, the Probation Service, and the ‘Partner Organisation’.
+The partnership brings together a number of parties that in isolation are having a minimal effect on crime
+reduction, but in partnership are capable of pooling sufficient resources and information to have a
+2
+
+significant effect on crime reduction within their area. As a collective group, in order to address crime at a
+local level that will benefit all members within the community.
+1.2. Ownership of this agreement
+This agreement was drafted by a working group of representatives of the Metropolitan Police Service,
+the London Borough of Camden and the London Borough of Islington. These professionals were
+specialists in police procedures, information governance and law. The local authority representatives
+worked under the banner of the Information Governance for London Group (IGfL), to draft one
+agreement that would work for all boroughs, CCGs and police BCUs across London. The aim is to
+reduce the number of versions of sharing agreements that historically differed between boroughs, partly
+to reduce the burden on pan-London organisations that must have agreements with multiple boroughs.
+IGfL, a group of information and security professionals at London boroughs, assisted with co-ordination
+of this agreement, but the responsibilities within it, and compliance with data protection legislation,
+remain with the listed data controllers.
+1.3. Responsibilities of parties involved
+The parties are registered Data Controllers under the Data Protection Act. Signatories are identified as
+those who have signed this agreement on the platform on which this agreement is hosted (expected to
+be the Information Sharing Gateway). A list of expected types of signatories is at Appendix A.
+All parties confirm that they comply with data protection legislation by:
+●having a lawful basis for processing and sharing personal data.
+●ensuring data quality.
+●storing and sharing information securely, with access management controls.
+●having policies and procedures for compliance with data protection legislation including for managing
+data subject rights & complaints, identifying and managing data breaches/incidents and retention &
+disposal.
+●ensuring that mandatory training is undertaken regularly by their employees to ensure they are clear
+and up to date on their responsibilities. Every individual must uphold the principles of this agreement
+and overarching confidentiality, and seek advice from the relevant Data Protection Officer when
+necessary.
+●undertaking appropriate data protection due diligence checks with any contractors/data processors
+they employ, and ensuring that a written agreement is in place with each data processor, and that all
+data processors will be bound by this agreement.
+●having written processes for the processing of data to ensure employees use and share personal data
+in line with data protection law, the data protection principles, and this agreement.
+Organisations and their staff must consult the organisation’s Data Protection Officer/Information
+Governance Manager and/or Caldicott Guardian if they are unsure at any point in the processing and
+sharing of personal data.
+3
+
+1.4. Confidentiality and vetting
+Each Partner must ensure that there are appropriate written contracts or agreements with employees,
+agency staff, volunteers etc. These must include requirements to ensure compliance with policies which
+include confidentiality.
+Each Partner must ensure that suitable vetting has taken place. This may be through standard employee
+checks (BPSS or equivalent), DBS, Security Vetting or Counter Terrorist Check [CTC].
+1.5. Assessment and review
+A review of this information sharing agreement will take place after six months, and then yearly
+thereafter, unless otherwise agreed by the organisations’ Data Protection Officers. The aim of the review
+will be to ensure the purposes are still relevant, the scope has not slipped, the benefits to the data
+subjects and organisations are being realised, and the procedures followed for information security are
+effective.
+Changes in legislation and developments in the areas of public sector data sharing will be considered as
+and when they arise, as will any changes to the signatory parties.
+The working group who drafted this agreement strongly recommend that a working group approach is
+used for any reviews, as this was a successful way to achieve pan-London and cross-specialism
+consensus to one sharing agreement.
+1.6. Termination of agreement
+In the event of termination of this agreement each party may continue to hold information originating
+from other parties for which they are data controller.
+1.7. Outside of this agreement
+There are multiple other information sharing arrangements that form part of the duties of the parties and
+involve similar data for often similar overall purposes, like safeguarding and preventing crime. A
+non-exclusive list is below.
+Area of work Description
+Gangs/Gangs Violence Matrix The gang and serious youth violence projects are part of
+specific police-led initiatives.
+Multi-Agency Public Protection Arrangements. Public protection involves generally a different level of
+discussion to other agreements.
+Prevent The PREVENT strategy is aimed at reducing the risk of
+radicalisation of young persons
+Rescue & Response (County Lines) The exploitation of persons to sell and move drugs between
+areas, commonly known as “county lines” is a major element
+of modern exploitation of young persons and in some cases,
+modern slavery.
+4
+
+IOM Offender management
+MAS/MASH The multi-agency safeguarding DSA covers safeguarding
+sharing
+Licensing This covers sharing for all licensing including alcohol,
+gambling, special treatments and sexual entertainment
+venues
+Adult Safeguarding All aspects of adult safeguarding including cuckooing,
+financial and physical abuse, vulnerable person.
+General Crime not included in other DSA/ISA This covers sharing of lower level information about crime or
+harm not covered in other agreements, such as that in local
+authority caution registers, non-licensing test purchasing,
+lower level criminal matters
+CCTV Agreements with police and other trusted agencies to cover
+sharing of CCTV footage for various crime and other related
+purposes
+YOT/YOS DSAs covering youth offending team and services
+MARAC Domestic abuse data sharing initiatives
+2. Purpose and Benefits
+2.1. Purpose
+This agreement covers the sharing of information by and between the listed agencies for the purpose of
+the Prevention and Detection of Anti-Social Behaviour and associated Crime and disorder and in the
+interests of community safety.
+In the interests of community safety covers all areas regarding Community Protection Notices, Criminal
+Behaviour Orders, ASB Injunctions and other areas that require joint working for the prevention and
+detection of crime related to anti-social behaviour , and the reduction of anti-social behaviour. It includes
+information sharing where this will help agencies understand the root causes of ASB and assist them in
+identifying the most appropriate action to take.
+2.2. Benefits
+The sharing will allow both partners to better deliver their statutory series and will allow more effective
+use of resources, giving more joined up working which increases efficiencies. The public will benefit
+from this approach, as services will be delivered in a more streamlined way that utilities the information
+shared to provide better tailored and appropriate services.
+Anti-social behaviour (ASB) is defined in the Crime and Disorder Act (1998) as acting 'in a manner that
+caused or was likely to cause harassment, alarm or distress to one or more persons not of the same
+household as the perpetrator.’ ASB can be targeted to a specific individual or group or community.
+Environmental antisocial behaviour is when a person’s actions affect the wider environment, such as
+5
+
+public spaces or buildings. Antisocial behaviour can have a lasting impact on neighbourhoods and
+communities as it often leads to an increase in crime, particularly violence and criminal damage.
+The benefits of this DSA are to:
+● Cover the sharing of information for the Prevention and Detection of crime and Anti-Social
+Behaviour.
+● Remove barriers to effective information sharing.
+● Sets parameters for sharing personal data and clearly identifies the responsibilities of
+organisations.
+● Identify the correct lawful basis to share personal information.
+● Ensure information is shared whenever there is a requirement to do so.
+● Enables authorities to share data on performance, quality assurance, learning and impact
+analysis.
+● Raises awareness amongst all agencies of the key issues relating to information sharing and
+gives confidence in the process of sharing information with others.
+● Allow agencies to deal more effectively with ASB issues including by identifying unmet needs or
+vulnerabilities that may be present and to identify the appropriate courses of action
+2.3. Principles of information sharing
+Effective information sharing is a vital element of the prevention and detection of crime and Anti-Social
+Behaviour. Organisations can hold different pieces of information which need to be placed together to
+enable a joined up problem solving approach.
+To share information, a lawful basis for doing so must be identified. This may come from legislation or
+from statutory guidance such as Crime and Disorder Act 1998, amongst other relevant legislation, which
+established the formation of statutory Crime and Disorder Reduction Partnerships (CDRP) in recognition
+of the idea that crime reduction cannot be the responsibility of one agency, such as the police and should
+be tackled by a variety of agencies working together in partnership.
+The sharing of personal data must comply with both the GDPR Principles and the Caldicott Principles,
+listed at Appendix B. Together, those principles lead to a series of questions and considerations to be
+answered before sharing takes place. These are listed as an Information Sharing Checklist in Appendix
+D: Information Sharing Checklist.
+2.4. Lawful Basis
+The sharing of information must comply with the law relating to confidentiality, data protection and human
+rights. Having a legitimate purpose for sharing information is an important part of meeting those legal
+requirements. This is a complex area and each Partner must take their own decisions and seek advice
+from their organisation’s Data Protection Officer/Information Governance Manager and/or Caldicott
+Guardian.
+6
+
+For purposes other than law enforcement by competent authorities
+Articles 6, 9 and 10 of the UK GDPR, and section 8 of the DPA 2018 set out the acceptable conditions
+for the processing and sharing of personal, special category, and criminal data. The conditions relevant
+in the UK GDPR to data processed under this agreement are below.
+Article 6 (1) – Personal Data Processing
+(c) processing is necessary for compliance with a legal obligationto which the controller is subject
+(e) processing is necessary for the performance of a task carried out in the public interestor in theexercise of official
+authority vested in the controller
+Use of this article requires that the Data Protection Act section 8 be satisfied. The laws given at AppendixC – Applicable
+legislationprovide for each party a legal basis undersection 8 – the specifics are noted in the appendix.
+Article 9 (2) – Special Category Personal Data Processing
+(b)social protection law- processing is necessaryfor the purposes of carrying out the obligations and exercising specific
+rights of the controller or of the data subject in the field of employment and social security and social protection law in so
+far as it is authorised by Union or Member State law or a collective agreement pursuant to Member State law providing for
+appropriate safeguards for the fundamental rights and the interests of the data subject;
+(g)substantial public interest- processing is necessaryfor reasons of substantial public interest, on the basis of Union or
+Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and
+provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject
+Use of this article requires that the Data Protection Act Section 10(3) be satisfied. This requires that a condition within
+Schedule 1, Part 2 is met. For this agreement these are:
+● Statutory etc., and government purposes under Para 6(1)(2)
+● Preventing and detecting unlawful acts under Para 10(1)(2)(3)
+● Safeguarding children and individuals at risk under Para 18(1)(2)(3)(4)
+Art. 10 GDPR : Processing of personal data relating to criminal convictions and offences
+Processing of personal data relating to criminal convictions and offences or related security measures based on
+Article 6(1) shall be carried out only under the control of official authority or when the processing is authorised by
+Union or Member State law providing for appropriate safeguards for the rights and freedoms of data subjects. Any
+comprehensive register of criminal convictions shall be kept only under the control of official authority.
+PART 2 Substantial public interest conditions
+Requirement for an appropriate policy document when relying on conditions in this Part
+5(1) Except as otherwise provided, a condition in this Part of this Schedule is met only if, when the processing is
+carried out, the controller has an appropriate policy document in place (see paragraph 39 in Part 4 of this Schedule).
+(2) See also the additional safeguards in Part 4 of this Schedule.
+Statutory etc and government purposes
+6(1) This condition is met if the processing—
+(a) is necessary for a purpose listed in sub-paragraph (2), and
+(b) is necessary for reasons of substantial public interest.
+7
+
+(2) Those purposes are—
+(a) the exercise of a function conferred on a person by an enactment or rule of law;
+Preventing or detecting unlawful acts
+10(1) This condition is met if the processing—
+(a) is necessary for the purposes of the prevention or detection of an unlawful act,
+(b) must be carried out without the consent of the data subject so as not to prejudice those purposes, and
+(c) is necessary for reasons of substantial public interest.
+For the purposes of law enforcement by competent authorities
+The “competent authorities” are defined in Section 30 of the DPA which refers to Schedule 7. The
+competent authorities under this agreement are generally (but not exclusively) police, probation services,
+youth offending teams and government departments.
+The “law enforcement” purposes are defined in Section 31 of the DPA as “prevention, investigation,
+detection or prosecution of criminal offences or the execution of criminal penalties, including the
+safeguarding against and the prevention of threats to public security”.
+There are additional safeguards required for “sensitive processing”. This is defined in Section 35(8) as:
+(a) the processing of personal data revealing racial or ethnic origin, political opinions, religious or
+philosophical beliefs or trade union membership;
+(b) the processing of genetic data, or of biometric data, for the purpose of uniquely identifying an
+individual;
+(c) the processing of data concerning health;
+(d) the processing of data concerning an individual’s sex life or sexual orientation.
+The additional requirements are given in Section 35(4) and (5). Both require an appropriate policy
+document, and this document will form part of the policy for such processing, although competent
+authorities will need to satisfy themselves their own internal policy documents fully cover such use.
+Section 35(4) requires the consent of the data subject, 35(5) requires that the processing be strictly
+necessary for the law enforcement purposes, and meets a condition in Schedule 8.
+For the processing in relation to the purposes here, the following conditions in Schedule 8 are met:
+● Statutory etc. purposes Para 1(a)(b);
+● Administration of justice Para 2;
+● Protecting individual’s vital interests Para 3;
+● Safeguarding of children and of individuals at risk Para 4(1)(2)(3)(4);
+The applicable legislation that provides the lawful basis is listed in more detail in Appendix C –
+Applicable legislation.
+8
+
+2.5. Consent
+The parties will often work collaboratively with data subjects and aim for agreement with them on the
+actions to be taken. However, it is recognised that this is different to using consent (Article 6 (a)) or
+explicit consent (Article 9 (a)) as the lawful basis conditions used for processing under this agreement.
+Consent is not generally the lawful basis the public sector organisations use for processing information
+shared under this agreement. It is possible that the other parties, such as voluntary groups, may use
+consent as lawful basis for some personal data processing. Each party is responsible for managing
+consent where they use consent as the lawful basis condition.
+2.6. Proportionality and necessity
+Proportionality, data minimization, necessity and not being excessive are factors to be taken into
+consideration when deciding whether to share personal information. In making the decision, employees
+must weigh up what might happen as a result of the information being shared against what might happen
+if it is not, and apply their professional judgement. It is for this reason professionals must ensure they
+comply with Article 5(1)(c) and share the adequate and relevant information, and limit that information to
+what is necessary for the achieving of the DSA aims.
+There are legal safeguards which mean that it is a defence when sharing that you believed it was:
+● necessary for the purposes of preventing or detecting crime
+● required or authorised by an enactment, by a rule of law or by the order of a court or tribunal
+● in the particular circumstances, was justified as being in the public interest.
+Or that you acted in the reasonable belief that:
+● the person had a legal right to do the obtaining, disclosing, procuring or retaining
+● the person would have had the consent of the controller if the controller had known about the
+obtaining, disclosing, procuring or retaining and the circumstances of it, or
+● the person acted—
+(i) for the special purposes,
+(ii) with a view to the publication by a person of any journalistic, academic, artistic or literary
+material, and
+(iii) in the reasonable belief that in the particular circumstances the obtaining, disclosing,
+procuring or retaining was justified as being in the public interest
+Professionals must record:
+● the decision to share, or not to share
+● the lawful basis for sharing
+● to whom the information was shared
+This will enable you to account for decisions made.
+9
+
+2.7. Other relevant legislation
+The actual disclosure of any personal data to achieve these objectives must also be conducted within
+the framework of the Human Rights Act 1998 (HRA) and the Common Law Duty of Confidence. Caldicott
+Principles also apply to all information sharing and they are listed in Appendix B: Data Protection &
+Caldicott Principles.
+●Human Rights Act 1998 (HRA)
+●Common law duty of confidentiality
+●Confidentiality and Sharing for Direct Care
+2.8. Common Law Duty of Confidence
+Much of the police information to be shared will not have been obtained under a duty of confidence as it
+is legitimately assumed that data subjects will understand that police will act appropriately with regards to
+the information for the purposes of preventing harm and/or for the purpose of the Prevention and
+Detection of Crime and Anti-Social Behaviour.
+However, for the police, as a safeguard before any information is passed on, it will undergo an
+assessment check within relevant policies. The assessment and decision making will require the police
+to comply with Part 3 of the Data Protection Act, relying on section 37 to share adequate, relevant and
+not excessive information for the law enforcement purpose. This will allow the police to confidently share
+information for the protection of vulnerable persons or premises, to fulfil a legal obligation and/or
+legitimate interest pursued by the police. This also allows the police to share information with third
+parties (partner agency) when passing the information to a partner agency would facilitate a task carried
+out in the public interest.
+Duty of confidence is not an absolute bar to disclosure as information can be shared where consent has
+been provided or where there is a strong enough public interest to do so.
+When overriding the duty of confidentiality, the parties may seek the views of the organisation who hold
+the duty of confidentiality and consider their views in relation to breaching confidentiality. The
+organisation may wish to seek legal advice if time permits.
+2.9. Freedom of Information
+The Freedom of Information Act 2000 gives all individuals the right to access official information held by
+a public authority (the Environmental Information Regulations 2004 also allow access to data. For ease
+of drafting, FOI is used to cover both legislation). Limited exemptions may apply and all public authorities
+must ensure they have recognised procedures in place for administering requests of this nature.
+All requests for FOI will be directed through the relevant organisations’ FOI processes. Each party will
+seek advice/opinion from the other parties where there is concern about that information being released
+and any impact it is likely to have. The final decision to disclose or not will lie with the party who holds
+the information (data controller).
+It is encouraged that all parties proactively publish this document. It may also be disclosed to the public
+under FOI.
+10
+
+3. Individuals
+Organisations processing personal data are required to begin with the ethos of Data Protection by
+Design and Default (also known as Privacy by Design (PbD)). This means that we must consider and
+uphold the privacy of an individual’s data before we begin and throughout the processing taking place.
+Each party agrees that they have undertaken a DPIA (Data Protection Impact Assessment), where they
+feel the processing meets the legislative criteria for a DPIA.
+3.1. Right to be informed – Privacy notices
+Where personal data is created or received by one of the parties, they are responsible, as required by
+law, for making the data subject(s) aware within a reasonable time frame that the organisation holds
+the data, what they will do with it, how long they will keep it, and who they will share it with (such as
+under this DSA). This is normally done through a privacy notice, whether written or verbal.
+Organisations agree that they will adhere to the transparency requirements of the UK_GDPR and
+will issue appropriate notices which inform the data subject that the information will be shared with
+the parties under this agreement.
+In some cases, it may not be appropriate to let a person know that information about them is being
+processed and shared. Consideration should be given to whether notifying the individual may place
+someone at risk or prejudice a police or safeguarding investigation. In these circumstances, the
+parties need not inform individuals that the information is being processed/shared; but should record
+their reasons for sharing information without making the individual aware.
+3.2. Data subject rights requests and complaints
+Each organisation must have in place appropriate policies and processes to handle data subject
+requests made in line with data protection law, to ensure they are responded to within deadline and in an
+appropriate manner. Requests include; right of access, right to rectification, right to erasure, right to
+restrict processing, right to data portability, right to object and rights related to automated decision
+making including profiling.
+If an individual successfully requests the erasure or limitation of use of their data (right to erasure, right to
+rectification, right to restrict processing, right to object), the party that has been informed by the data
+subject will communicate this to the other parties where relevant and appropriate. In each case each
+party is responsible for securely disposing of such information or limiting its processing.
+Each party must have clear, fair and objective complaint procedures. Any complaints from individuals
+how their data is being processed or shared will be handled under the policy and processes of
+organisation concerned.
+3.3. Data subjects
+There is a breadth of data subjects whose data is shared under this agreement. The data subjects
+include the following:
+11
+
+● Victims of crime or anti-social behaviour
+● Witnesses
+● For the police : suspects; For the council: actual or suspected perpetrators
+● professional opinions of employees eg social workers, probation officers, and police officers
+● people captured on CCTV or similar
+● persons contacting the council and/or the police in connection with ASB related concerns
+Many of the data subjects are vulnerable. Parties to this agreement are in positions of power over data
+subjects and data subjects have little or no control over why and how their data is processed.
+4. Data
+The personal data and its processing involved in these workstreams is extensive, highly sensitive and at
+times intrusive. There is a high volume of data and data subjects.
+Anonymisation or pseudonymisation will rarely be possible because of the way the work focusses on
+individuals, although any statutory returns, workforce planning and management reports should be
+anonymised if possible.
+Information will include:
+●Personal, special category and criminal data to enable the swift and effective safeguarding of
+children and improved safeguarding provision in the borough
+●Personal, special category and criminal data for law enforcement purposes, including data defined
+as sensitive data for the competent authorities for law enforcement purposes
+●Aggregated (anonymised or pseudonymised) data reporting to enable the partnership to further
+understand the safeguarding priorities.
+●Aggregated (anonymised or pseudonymised) and personal dataregarding employees in relation to serious
+case reviews, investigations into allegations against staff, learning review and workforce development.
+●Personal and anonymised datarequired for statutoryreturns.
+4.1. The data to be shared
+Due to the complexity of the police, probation, and council work in these areas, providing a prescriptive
+list of data fields to be shared is difficult. Not all the above information will be shared in every case; only
+relevant information will be shared on a case-by-case basis where an organisation has a ‘need-to-know’
+the information.
+Data that will be shared includes:
+●name and contact details
+●address
+●age/date of birth
+●equalities information
+12
+
+●physical description
+●criminal information on allegations and convictions, police information and intelligence, anti-social
+behaviour (ASB) data
+●information as to whether a victim is a repeat victim
+●school and educational information
+●housing information
+●social services information, referrals and assessments, which may include physical and mental health
+needs where relevant,
+●financial information
+●images / video footage in photographs, film or CCTV
+●employment information
+●next of kin and carer contact details
+●any known risk
+The data will cover the categories of ASB identified by the police:
+1. Vehicle abandoned: This covers vehicles that appear to have been left by their owner, rather than
+stolen and abandoned. It includes scrap or ‘end of life’ vehicles and those damaged at the scene
+of a road traffic collision that have been abandoned and aren’t awaiting recovery.
+2. Vehicle nuisance or inappropriate use: This relates to vehicles being used in acts such as street
+cruising (driving up and down the street causing annoyance and bothering other road users),
+vehicle convoys and riding or driving on land other than a road. It also covers the misuse of
+go-peds, motorised skateboards and electric-propelled cycles, and the unlicensed dealing of
+vehicles where a person has two or more vehicles on the same road within 500 metres of each
+other.
+3. Rowdy or inconsiderate behaviour: This refers to general nuisance behaviour in a public place or
+a place to which the public have access, such as private clubs. It does not include
+domestic-related behaviour, harassment or public disorder which should be reported as crimes.
+4. Rowdy or nuisance neighbours: This covers any rowdy behaviour or general nuisance caused by
+neighbours, including boundary and parking disputes. It also covers noise nuisance from parties
+or playing loud music.
+5. Littering or drugs paraphernalia: This includes fly posting and discarding litter, rubbish or drugs
+paraphernalia in any public place.
+6. Animal problems: This covers any situation where animals are creating a nuisance or people’s
+behaviour associated with the use of animals is deemed as antisocial. It includes uncontrolled
+animals, stray dogs, barking, fouling and intimidation by an animal.
+7. Trespassing: This is any situation in which people have entered land, water or premises without
+lawful authority or permission. It ranges from taking an unauthorised shortcut through a garden to
+setting up unauthorised campsites.
+8. Nuisance calls: This covers any type of communication by phone that causes anxiety and
+annoyance, including silent calls and intrusive ‘cold calling’ from businesses. It does not cover
+indecent, threatening or offensive behaviour which should be reported as crimes.
+13
+
+9. Street drinking: This relates to unlicensed drinking in public spaces, where the behaviour of the
+persons involved is deemed as antisocial. It also covers unplanned and spontaneous parties
+which encroach on the street.
+10.Activity related to the sex worker industry: This relates to any activity involving sex workers such
+as loitering, displaying cards or promoting prostitution. It may also refer to activities in and around
+a brothel that impact on local residents. It does not include ‘kerb-crawling’ which should be
+reported as a crime.
+11. Nuisance noise: This relates to all incidents of noise nuisance that do not involve neighbours (see
+‘Nuisance neighbours’ above).
+12.Begging: This covers anyone begging or asking for charitable donations in a public place, or
+encouraging a child to do so, without a license. Unlicensed ticket sellers at or near public
+transport hubs may also fall into this category.
+13.Misuse of fireworks: This will include the inappropriate use of fireworks, the unlawful sale or
+possession of fireworks and noise created by fireworks
+4.2. Deceased persons
+It is noted that the sharing may involve data of deceased persons which will not be covered by data
+protection legislation but will still require due regard to the common law duty of confidentiality and the
+Human Rights Act.
+4.3. Confidential information
+In this agreement, we refer to personal data, as defined by data protection legislation. However, the word
+’confidential’ may be used by individuals and practitioners to describe information and can mean different
+things to different people.
+Confidential can mean:
+●Personal and special category data as defined by data protection legislation
+●Patient Identifiable Information (PII) or ‘personal confidential information’; both terms most commonly
+used in health settings
+●Information which is not already lawfully in the public domain or readily available from another public
+source
+●Information that has been provided in circumstances where the person giving the information could
+reasonably expect that it would not be shared with others.
+4.4. Storing and handling information securely
+Information should only be stored and shared in accordance with data protection legislation and follow
+information security policies and procedures of the relevant organisation.
+Information should always be shared securely, either by a secure IT connection, encrypted email, secure
+sharing platform, or secure and tracked transfer of paper documents. Information should never be sent
+via a non-secure method. Special category data may need a higher level of security. The employee /
+organisation sending the information must chose the most appropriate method of transfer and be
+responsible for its safe delivery.
+14
+
+Organisations will have secure data repository and sharing platforms as part of their network, such as
+MS Teams, Google, FTP sites. To use these, the parties must establish that these are suitably secure,
+and that access is only provided to those who need it, and only to the data needed
+Email is not generally a secure method of transferring personal data. Although two or more of the parties
+may have additional encryption that allows for an encrypted path between two of the parties, this cannot
+be identified simply from the email address. It would be prudent for parties to establish whether there are
+any encrypted paths between them, and write that into the organisation’s processes for employees.
+In the absence of that, secure email systems such as CJSM, Egress or another agreed secure encrypted
+email system agreed by the parties must be used. Description of specific transfer processes must be in
+relevant process documents within each organisation.
+Information may be shared over the phone, in a virtual meeting in a format acceptable to all parties, or a
+face to face meetings. Employees must ensure that attendance and distribution of content is limited, with
+minutes or recordings with limited distribution. Sharing by telephone should be avoided unless the
+requirement is urgent and email is not practicable. You must ensure you are in a place where you cannot
+be overheard, including by smart tech or ‘Internet of Things’ devices, like Alexa, Siri etc.
+Any paper records printed must be kept to a minimum and kept secure at all times whether in the office,
+home or during transit. Organisations must adopt an appropriate policy surrounding the use and transfer
+of paper records. Appropriate security methods must be applied when storing or disposing of paper
+records.
+4.5. Access controls and security
+All parties will ensure that they have appropriate technical and organisational security measures in place
+to guard against unauthorised or unlawful processing of personal data and against accidental loss or
+destruction of, or damage to, personal data.
+All personal data held by partner organisations electronically will be stored in a secure network area with
+password protected entry and appropriate back-up functionality. The systems will be auditable so that it
+is possible for any auditor to establish who has accessed the system. All laptops, computers, and any
+other portable devices will be encrypted.
+Any individual no longer required to have access will promptly have such access revoked by the line
+manager and Human Resources related to the relevant employer.
+There is an expectation that partner organisations will either be working toward ISO 27001, the
+International Standard for Information Security Management, or a similar standard of security.
+4.6. Outside UK processing
+Parties are responsible for ensuring that if information is processed or shared outside the UK, that
+suitable written agreements are in place, and that appropriate due diligence has been completed for the
+transfer of data.
+15
+
+4.7. Data quality
+Each partner is responsible for ensuring the accuracy and relevance of the personal data that it
+processes and shares and must have clear processes in place for managing data quality.
+Any party learning of the inaccuracy of personal data is responsible for informing the parties with whom
+that data has been shared.
+4.8. Data breaches/incidents
+All parties must have a clear policy and procedure regarding the reporting and handling of data
+protection breaches or data loss incidents. This must include assessing the level of risk to the data
+subject(s), as well as to make a decision on notifying the ICO within the statutory time frame of 72 hours.
+This complies with Articles 33 and 34 of UKGDPR, and Section 67 and 68 of the DPA 2018 for personal
+data processed for law enforcement purposes.
+If the incident may impact the processing of another party to this agreement, all relevant parties should
+be informed and appropriate co-ordination of the incident must take place. The decision to report the
+incident will lie with the data controller(s) of the information concerned. The parties agree to provide all
+reasonable and necessary assistance at their own expense to each other to facilitate the handling of any
+personal data breach in an expeditious and compliant manner.
+It is confirmed that security breaches (including misuse or unauthorised disclosure) are covered by the
+partner’s internal disciplinary procedures. If misuse is found there should be a mechanism to facilitate an
+investigation, including initiating criminal proceedings where necessary.
+4.9. Retention & Disposal
+Organisations are required by data protection legislation to document processing activities for personal
+data, such as what personal data is held, where it came from and with whom it has been shared. This
+Record of Processing Activity (ROPA) must include the retention period for the data.
+Information must not be retained for longer than necessary for the purpose for which it was obtained.
+Disposal or deletion of personal data once it is no longer required, must be done securely with
+appropriate safeguards, in accordance with that organisation’s disposal policies.
+Signatures
+5.
+For the Metropolitan Police:
+16
+
+Agreed as appropriate for business use by;
+Commander Alison Heydari, Front Line Policing, Metropolitan Police Service
+Date: 7 December 2021
+Local Authorities:
+All local authorities signing this DSA will do so via a centralised electronic system rather than
+physically signing a document.
+Version control
+Document production date December 2021
+Document currency Final 1.1
+17
+
+6. Appendices
+6.1. Appendix A: Parties to this agreement
+Organisation Duties
+Metropolitan ●The prevention and detection of crime
+Police
+●The maintenance of the Queen’s peace
+●Protection of the vulnerable
+London ●Co-ordinates, gathers, processes, risk assesses and shares information
+Borough held about all the areas covered in the DSA in conjunction with information
+received from partner agencies, to enable the council to undertake its
+statutory duties in these areas
+●Makes decisions on whether to undertake enforcement or other appropriate
+actions under its powers in the legislation listed in this DSA
+●Allocates resources in accordance with priority of tasks and policies
+●Co-ordinates, gathers, processes, risk assesses and shares information
+covering all the areas under this DSA with partners to achieve common
+goals
+●Undertakes interventions as necessary to ensure the safeguarding of
+vulnerable people
+●Decides whether to undertake prosecutions when offences covered by the
+legislation in this DSA has been breached and it is within the council’s remit
+●Takes appropriate and proportionate steps to ensure the safety of
+employees and others
+Probation ●The Probation Service is a statutory criminal justice service that supervises
+Service high-risk offenders released into the community.
+18
+
+6.2. Appendix B: Data Protection & Caldicott Principle
+The Principles as described in Article 5 of the General Data
+Protection Regulation.
+1
+
+The Caldicott Principles
+
+6.3. Appendix C: Applicable legislation
+Legislation Main purpose of Legislation
+The Mental Health Act The Code of Practice provides statutory guidance to registered medical
+1983and the Mental Health practitioners, approved clinicians, managers and staff of providers, and approved
+Act Code of Practice mental health professionals on how they should carry out functions under the
+Mental Health Act in practice. The act was substantially revised by the 2007 act but
+remains the key legislation.
+This regulation provides specific powers for dealing with mental health issues giving
+a legal basis under Section 8 of the DPA for this use. It specifically excludes
+learning disability, alcohol or drug dependence.
+Crime & Disorder Act 1998 This legislation established the formation of statutory Crime and Disorder Reduction
+Partnerships (CDRP) in recognition of the idea that crime reduction cannot be the
+responsibility of one agency, such as the police and should be tackled by a variety
+of agencies working together in partnership.
+Police & Criminal Evidence Governs how evidence is collected and used in criminal proceedings and sets out
+Act 1984 the obligations of organisations as prosecuting authorities.
+Common Law Provides a legal obligation on an individual requiring adherence to a standard of
+reasonable care, thus establishing a duty of care on a responsible authority.
+Human Rights Act 1998 TheHuman Rights Act 1998 sets out the fundamentalrightsand freedoms that
+everyone in the UK is entitled to.
+The Health Protection Covers restrictions on gatherings, opening of premises and conduct of persons
+(Coronavirus) Regulations during the current Covid 19 pandemic
+2020
+Public Order Act 1986 Provides for a range of offences and orders for conduct such as harassment,
+incitement to religious and racial hatred, and public order offences
+Antisocial behaviour crime Provides a range of powers and orders to deal with a wide range of anti-social
+and policing act 2014 behaviour, including ability to close premises
+Other legislation that may be relevant when sharing information includes:
+●Immigration and Asylum Act 1999
+●The Localism Act 2011
+●Welfare Reform Act 2012
+●Magistrates Court Act 1980
+●Criminal Procedure Rules 2020
+●Police Reform Act 2002
+Legislation and Main purpose of Legislation (or) applicable Link
+guidance links
+20
+
+Crime & Disorder Act https://www.legislation.gov.uk/ukpga/1998/37/contents
+1998
+The Mental Health Act https://www.legislation.gov.uk/ukpga/1983/20/contents
+1983 and the Mental
+Health Act Code of
+Practice
+Police & Criminal https://www.legislation.gov.uk/ukpga/1984/60/contents
+Evidence Act 1984
+Common Law
+Human Rights Act 1998 http://www.legislation.gov.uk/ukpga/2018/42/schedule/1/part/I/chapter/7
+Article 8 Human Rights
+Act 1998 (Right to
+respect for private and
+family life)
+The Health Protection https://www.legislation.gov.uk/uksi/2020/129/contents/made
+(Coronavirus)
+Regulations 2020
+[Covers restrictions on
+gatherings, opening of
+premises and conduct of
+persons during the
+current Covid 19
+pandemic]
+Public Order Act 1986 https://www.legislation.gov.uk/ukpga/1986/64
+Antisocial behaviour
+https://www.legislation.gov.uk/ukpga/2014/12/contents/enacted
+crime and policing act
+2014
+Children Act 2004 Section 11 Children Act 2004 (Arrangements to safeguard and promote
+welfare): http://www.legislation.gov.uk/ukpga/2004/31/section/11
+Education Act 2002
+Section 175 Education Act 2002 (Duties of LEAs and governing bodies
+in relation to welfare of children):
+http://www.legislation.gov.uk/ukpga/2002/32/section/175
+Freedom of Information
+http://www.legislation.gov.uk/ukpga/2000/36/contents
+Act 2002
+MPS Right of Access
+https://www.met.police.uk/globalasspublic-right-of-access-application-fo
+Request
+rm
+Government Security
+https://www.gov.uk/government/publications/security-policy-framework
+framework policy
+21
+
+DBS checks (previously
+https://www.gov.uk/disclosure-barring-service-check/overview
+CRB checks)
+Common Technology
+https://www.gov.uk/guidance/common-technology-services-cts-secure-
+Services (CTS) (Secure
+email-blueprint
+email blueprint)
+College of Policing
+https://www.app.college.police.uk/app-content/data-management/mana
+(2014) Management of
+gement-of-police-data/
+Police Information
+Data Protection Act 2018 http://www.legislation.gov.uk/ukpga/2018/12/contents/enacted
+(contents):
+Part 3, Chapter 2, Data http://www.legislation.gov.uk/ukpga/2018/12/part/3/chapter/2/enacted
+Protection Act 2018 (The
+principles):
+Relevant sections DPA https://publications.parliament.uk/pa/bills/cbill/2017-2019/0190/18190.p
+2018 df
+The first data protection Part 3, Chapter 2, Section 35(1) Data Protection Act 2018 (The first
+principle principle):
+http://www.legislation.gov.uk/ukpga/2018/12/section/35/enacted
+Data Protection Act 2018
+http://www.legislation.gov.uk/ukpga/2018/12/contents
+(contents)
+Schedule 3 Data Protection Act 2018 (Conditions relevant for purposes
+of the first principle: processing of sensitive personal data):
+http://www.legislation.gov.uk/ukpga/2018/12/section/35/enacted
+417 The Data Protection (Processing of Sensitive Personal Data) Order
+2000: http://www.legislation.gov.uk/uksi/2000/417/contents/made
+22
+
+6.4. Appendix D: Information Sharing Checklist
+The following questions must be considered when deciding whether to share information.
+● Whose information is this?
+● Is there a lawful basis to share the information? Justify the purpose and identify relevant legislation
+that applies.
+● Can information be pseudonymised or anonymised ahead of sharing?
+● How have individuals been informed that the information will be shared eg via a privacy notice?
+Will they have the expectation that their information will be shared? Consider whether notifying the
+individual of the sharing may place someone at risk or prejudice a police or safeguarding
+investigation.
+● Have any requests not to share been received and considered?
+● How much information is it necessary to share in this situation?
+● Is the information accurate and up to date? Has the difference between fact and opinion been
+stated?
+● Is access to the information limited to only those who need it? Is it being given to the right person?
+● Is the information being shared in a secure way?
+Has the decision to share or not share been recorded?
+23

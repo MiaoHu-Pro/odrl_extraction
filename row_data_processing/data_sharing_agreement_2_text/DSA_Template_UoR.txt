@@ -1,0 +1,577 @@
+AGREEMENT FOR THE SHARING OF DATA
+between
+THE UNIVERSITY OF READING
+and
+READING UNIVERSITY STUDENTS UNION
+1
+
+This agreement (the “Agreement”) is made 2019
+Parties
+1. The University of Reading (Royal charter number 000665) of Whiteknights, PO Box
+217, Reading RG6 6AH (the “University”); and
+2. Reading University Students Union (registered charity number 1158523) of Po Box
+230, Whiteknights, Reading, Berkshire, RG6 6AZ (“RUSU”)
+Each referred to as a “Party” and together the “Parties”.
+Background
+(1) The following agreement between the University and RUSU reflects the arrangements that
+they have agreed to put in place to facilitate the sharing of Personal Data relating to Students
+between the Parties acting as data controllers, and explains the purposes for which that
+Personal Data may be used.
+(2) As such, the University agrees to share the Personal Data with RUSU on the terms set out
+in this Agreement and RUSU agrees to use the Personal Data on the terms set out in this
+Agreement.
+1. INTERPRETATION
+1.1 Definitions:
+Academic Year: shall mean 1 September to 31 August inclusive.
+Agreed Purposes: shall mean those purposes set out in clause 2.5 of this
+Agreement.
+Business Days: a day other than a Saturday, Sunday or public holiday in England
+when banks in London are open for business or a University closure day.
+Data Discloser: the Party transferring the Personal Data to the Data Receiver.
+Data Protection Authority: the relevant data protection authority in the territories
+where the Parties to this Agreement are established, here the Information
+Commissioner’s Office (ICO).
+Data Receiver: The Party receiving the Personal Data from the Data Discloser.
+Data Security Breach: a breach of security leading to the accidental or unlawful
+destruction, loss, alteration, unauthorised disclosure of, or access to the Shared
+Personal Data.
+Data Protection Legislation: the Data Protection Act 2018 (DPA), - the General
+Data Protection Regulation (EU) (2016/679) (GDPR), the Privacy and Electronic
+Communications Directive (2002/58/EC) (as updated by Directive 2009/136/EC), the
+2
+
+Privacy and Electronic Communications Regulations 2003 (SI 2426/2003) (as
+amended) and all applicable laws and regulations relating to the processing of the
+Personal Data and privacy in force from time to time in the UK, including where
+applicable the guidance and codes of practice issued by the UK Information
+Commissioner or any other national data protection authority, and the equivalent of
+any of the foregoing in any relevant jurisdiction .
+Shared Personal Data: the Personal Data and Special Category Data to be shared
+between the Parties under clause 4 of this Agreement.
+Students: shall mean students registered at the University on a University course
+resulting in qualification.
+Subject Access Request: has the same meaning as "Right of access by the data
+subject” in Article 15 of the GDPR and in the DPA.
+Term: shall mean for the period of 5 Academic Years.
+Data Controller, Data Processor, Data Subject and Personal Data, Special
+Category Data, processing, Right to Object and appropriate technical and
+organisational measures shall have the meanings given to them in the Data
+Protection Legislation.
+2. PURPOSE
+2.1 This Agreement sets out the framework for the sharing of Personal Data between the
+Parties as Data Controllers and defines the principles and procedures that the Parties
+shall adhere to and the responsibilities the Parties owe to each other.
+2.2 RUSU is a student body providing a range of services, facilities and personal
+development opportunities for Students to enable and supplement their academic
+studies. As a general rule, all Students are members of RUSU and are able to
+participate in the functioning of the union. However, in some cases, students studying
+outside the UK may not be able to participate in the functioning of a union of this nature
+due to the law of the country in which they are studying.
+2.3 RUSU requires access to certain Personal Data relating to Students to ensure that all
+Students are informed of, and able to fully participate in the services and opportunities
+available via the union.
+2.4 Members of RUSU (including Students) may also access Personal Data when
+representing RUSU on various committees of the University. It is recognised that there
+are significant benefits to both Parties of having this representation. This Agreement is
+required to ensure that where Personal Data may be accessed, such access will at all
+times comply with the requirements of the Data Protection Legislation.
+3
+
+2.5 The sharing of Personal Data is necessary to support the following Agreed Purposes of
+both Parties:
+1. to support the efficient and effective communication of RUSU services to all Students,
+administration of elections, clubs, societies, Junior Common Rooms and
+memberships;
+2. to support the efficient and effective engagement of all eligible Students in the
+democratic functions of RUSU and verification of Student’s identity and eligibility;
+3. to enable effective management and planning of RUSU services and facilities by
+receiving comprehensive demographic information;
+4. to support the inclusion of representatives of RUSU (including Student
+representatives) on University committees that may include discussions about, or the
+provision of, data or statistics that could potentially include that of identifiable persons
+(including other Students);
+5. to support any investigations, or matters pertaining to, student safety, wellbeing,
+safeguarding or the prevention or detection of crime in order to ensure a secure and
+safe environment for students, staff and visitors;
+6. To comply with any legal obligation to which either Party is subject.
+2.6 The Parties agree that this Agreement formalises a lawful transfer of Personal Data
+between the Parties and presents no new or additional privacy concerns. A risk
+assessment has been conducted in respect of the Personal Data to be shared and the
+necessity of the sharing; this Agreement serves to address any residual privacy or
+information risks and document the actions taken to identify, address and mitigate
+those risks wherever possible.
+2.7 The Parties shall not process Shared Personal Data in a way that is incompatible with
+the Agreed Purposes.
+2.8 The University takes no responsibility for obtaining consent for the purposes of sending
+marketing communications. The University provides the Shared Personal Data as listed
+in clause 4 of this agreement for the Agreed Purposes as listed in clause 2.5 only. As a
+Data Controller, RUSU remain responsible for ensuring that all uses of the Shared
+Personal Data are in compliance with all applicable Data Protection Legislation.
+4
+
+3. COMPLIANCE WITH NATIONAL DATA PROTECTION LAWS
+3.1 Each Party must ensure compliance with applicable national data protection laws at all
+times during the Term.
+3.2 Each Party has a valid registration with its national Data Protection Authority if required
+which, by the time that the data sharing is expected to commence, covers the intended
+data sharing pursuant to this Agreement.
+(a) University Registration Number Z5668803
+(b) RUSU Registration Number Z6782306
+4. SHARED PERSONAL DATA
+4.1 For the purposes of Agreed Purposes 1-3 as listed in clause 2.5 of this Agreement, the
+following types of Personal Data may be shared between the Parties during the Term:
+mode of attendance; student code (University ID number); first name; middle name(s);
+surname; date of birth; sex; personal email address; University email address;
+Placement (whether a student is on placement or not); Erasmus indicator; Mature
+Student Indicator; Distance learner indicator; nationality; country of domicile; Location;
+Study Site; Home or Overseas status for fee payments; course code; course name;
+enrolment status; Student Type (Full time, part time), Mode of Study (i.e. UG, PG or
+other types); data pertaining to student performance data including
+progression/classification; faculty; school; department; year of study, expected end of
+study date (or finalist flag), and where relevant, hall of residence.
+4.2 For the purposes of Agreed Purpose 4, as listed in clause 2.5 of this Agreement, the
+following types of Personal Data may be shared between the Parties during the Term:
+statistical information, reports, summaries and that used for the purposes of assessing,
+reviewing, and implementing University plans, projects or initiatives which may include
+data that, particularly in the case of very small datasets, could reveal Personal Data (as
+listed in clause 4.1) and Special Category Data relating to ethnicity, disability and/ or
+physical and mental health status for both prospective, current and past students.
+4.3 For the purposes of Agreed Purpose 5, as listed in clause 2.5 of this Agreement, the
+following types of Personal Data and Special Category Data may be shared between
+the Parties during the Term: Personal Data (as listed in Clause 4.1), data relating to
+alleged or actual criminal offences, breaches of codes of conduct or student rules and
+regulations and Special Category Data relating to physical and mental health status.
+4.4 In respect of clause 4.2, the University will, as far as is reasonably practical, anonymise
+or pseudoanonymise all Personal Data contained in statistics, reports and summaries
+to minimise the amount of Personal Data shared. Clause 4.2 of this Agreement exists
+to ensure that, where a residual risk remains of Data Subjects being identifiable from
+5
+
+the data shared, that RUSU handle this in the strictest confidence and in compliance
+with the DPA and GDPR and the terms of this Agreement.
+4.5 In respect of clause 4.1, the University will only provide Personal Data of Students. For
+the avoidance of doubt, any Personal Data relating to the following students shall be
+excluded: students who have left the University, withdrawn or deceased; University of
+Reading Malaysia students; College of Estate Management students; students on short
+courses (less than four weeks); students studying outside the UK, where the University
+reasonably believes that that national laws of the relevant country (i.e. the country in
+which the student is studying a University course) do not permit its citizens to be a
+member of a union; any individual student who has indicated to the University that they
+object to their data being provided to RUSU (including those that wish to be excluded
+temporarily, for example, whilst they wait for a University email address, because they
+do not wish their personal email address to be passed to RUSU).
+4.6 The Shared Personal Data must not be irrelevant or excessive with regard to the
+Agreed Purposes.
+5. FAIR AND LAWFUL PROCESSING
+5.1 Each Party shall ensure that it processes the Shared Personal Data fairly and lawfully
+in accordance with clause 5.2 during the Term of this Agreement.
+5.2 For the purposes of Agreed Purposes 1-3 as listed in clause 2.5 of this Agreement,
+each Party shall ensure that it Processes Shared Personal Data on the basis of one
+of the following legal grounds:
+(a) processing is necessary for the performance of a task carried out in the
+public interest or in the exercise of official authority vested in the controller
+(GDPR Art 6. 1 (e) ) or,
+(b) processing is necessary for the purposes of the legitimate interests
+pursued by the controller or by a third party, except where such interests
+are overridden by the interests or fundamental rights and freedoms of the
+data subject which require protection of personal data (GDPR Art 6. 1 (f)).
+5.3 For the purposes of Agreed Purpose 4 as listed in clause 2.5 of this Agreement, each
+Party shall ensure that it Processes shared Personal Data on the basis of the legal
+grounds as listed in clause 5.2. Where Special Category Data is shared this will be on
+the following additional grounds:
+(a) Processing of Special Category Data is necessary for reasons of
+substantial public interest, on the basis of Union or Member State law
+which shall be proportionate to the aim pursued, respect the essence of
+the right to data protection and provide for suitable and specific measures
+6
+
+to safeguard the fundamental rights and the interests of the data subject
+(GDPR Art 9.2 (g)).
+(b) The processing of Special Category Data is necessary for the purposes of
+identifying or keeping under review the existence or absence of equality of
+opportunity or treatment between groups of people specified in relation to
+that category with a view to enabling such equality to be promoted or
+maintained.
+- Groups of people include those; (i) of different racial or ethnic origins, or
+(ii) holding different religious or philosophical beliefs, or (iii) with different
+states of physical or mental health, or (iv) with different sexual orientation;
+- Processing does not meet the condition above;
+(1) If it is carried out for the purposes of measures or decisions with
+respect to a particular data subject; OR
+(2) If it is likely to cause substantial damage or substantial distress to an
+individual.
+(DPA Schedule 1, Part 2, paragraph 8)
+5.4 For the purposes of Agreed Purpose 5, as listed in clause 2.5 of this Agreement,
+Personal Data (as listed in clause 4.1) and Special Category Data (as listed in clause
+4.2) may be shared in addition to Personal Data relating to alleged or actual criminal
+offences, breaches of codes of conduct or student rules and regulations, only where
+one of the following lawful grounds apply:
+a) The processing in necessary in order to protect the vital interests of
+the data subject or another person where the data subject is
+physically of legally incapable of giving consent (GDPR Art 9.2(c)),
+(DPA, Schedule 1, Part 3, paragraph 30).
+b) Processing is necessary for reasons of substantial public interest, on
+the basis of Union or Member State law which shall be proportionate
+to the aim pursued, respect the essence of the right to data
+protection and provide for suitable and specific measures to
+safeguard the fundamental rights and the interests of the data
+subject (GDPR Art 9.2 (g));
+(i) Preventing or detecting unlawful acts (DPA, Schedule 1, Part 2,
+paragraph 10);
+(ii) Safeguarding of children and of individuals at risk (DPA, Schedule
+1, Part 2, paragraph 18);
+7
+
+5.5 Both Parties shall, in respect of Shared Personal Data, ensure that their privacy
+notices are clear and provide sufficient information to Data Subjects in order for them
+to understand what of their Personal Data the Parties are sharing, the circumstances
+in which it will be shared, the purposes for the data sharing and either the identity with
+whom the data is shared or a description of the type of organisation that will receive
+the Personal Data.
+5.6 Both Parties undertake to inform Data Subjects of the purposes for which it will
+process their Personal Data and provide all of the information that it must provide in
+accordance with its own applicable laws, to ensure that the Data Subjects understand
+how their Personal Data will be processed by the Data Controller.
+6. DATA QUALITY
+6.1 The Data Discloser shall ensure that Shared Personal Data is accurate.
+6.2 Where either Party becomes aware of inaccuracies in Shared Personal Data, they will
+notify the other Party.
+6.3 Shared Personal Data shall be limited to the Personal Data described in clause 4.1
+and clause 4.2 and 4.3 of this Agreement.
+7. DATA SUBJECTS' RIGHTS
+7.1 Data Subjects have the right to obtain certain information about the processing of
+their Personal Data through a Subject Access Request. Data Subjects may also
+request rectification, erasure or blocking of their Personal Data.
+7.2 The Parties shall maintain a record of Subject Access Requests, the decisions made
+and any information that was exchanged. Records must include copies of the request
+for information, details of the data accessed and shared and where relevant, notes of
+any meeting, correspondence or phone calls relating to the request.
+7.3 The Parties agree that the responsibility for complying with a Subject Access Request
+falls to Party receiving the Subject Access Request in respect of the Personal Data
+held by that Party.
+7.4 The Parties agree to provide reasonable and prompt assistance (within 5 Business
+Days of such a request for assistance) as is necessary to each other to enable them
+to comply with Subject Access Requests and to respond to any other queries or
+complaints from Data Subjects.
+8
+
+8. DATA RETENTION AND DELETION
+8.1 The Data Receiver shall not retain or process Shared Personal Data for longer than is
+necessary to carry out the Agreed Purposes.
+8.2 Notwithstanding clause 8.1, the Parties shall continue to retain Shared Personal Data
+in accordance with any statutory or professional retention periods applicable in their
+respective countries and/or industry.
+8.3 The Data Receiver shall ensure that any Shared Personal Data are returned to the
+Data Discloser or destroyed in the following circumstances:
+(a) on termination of the Agreement for whatever reason;
+(b) on expiry of the Term (unless extended further to the terms of this
+Agreement);
+(c) once processing of the Shared Personal Data is no longer necessary for
+the purposes it were originally shared for, as set out in clause 2.5.
+9. TRANSFERS
+9.1 For the purposes of this clause, transfers of personal data shall mean any sharing of
+personal data by the Data Receiver with a third party, and shall include, but is not
+limited to, the following:
+(a) sharing of the Shared Personal Data with any other third party
+(b) publication of the Shared Personal Data via any medium, including, but
+not limited to; social media, websites, publically available communications.
+(c) storing Shared Personal Data on servers outside the EEA.
+(d) subcontracting the processing of Shared Personal Data to data processors
+located outside the EEA.
+(e) granting third parties located outside the EEA access rights to the Shared
+Personal Data.
+9.2 The Data Receiver shall not share the Shared Personal Data with a third party without
+the express written permission of the Data Discloser.
+9.3 Where express written permission has been granted further to clause 9.2, the Data
+Receiver shall not disclose or transfer Shared Personal Data outside the EEA without
+ensuring that adequate and equivalent protections will be afforded to the Shared
+Personal Data,
+9.4 Clause 9.2 will not apply to any data transfers carried out by the Data Discloser in
+respect of Shared Personal Data.
+9
+
+10. SECURITY AND TRAINING
+10.1 The Data Discloser shall be responsible for the security of transmission of any Shared
+Personal Data in transmission to the Data Receiver by using appropriate technical
+methods. These are detailed below:
+The University will only share Shared Personal Data in compliance with its encryption
+policy (a copy of the current version can be found via the following link
+http://www.reading.ac.uk/web/files/imps/encryption_policy_v1.3CURRENT.pdf)
+10.2 The Parties agree to implement appropriate technical and organisational measures to
+protect the Shared Personal Data in their possession against unauthorised or
+unlawful processing and against accidental loss, destruction, damage, alteration or
+disclosure, including but not limited to:
+Ensuring IT equipment, including portable equipment is kept in lockable
+o
+areas when unattended;
+Not leaving portable equipment containing the Personal Data unattended;
+o
+Ensuring that staff use appropriate secure passwords for logging into
+o
+systems or databases containing the Personal Data;
+Ensuring that all IT equipment is protected by antivirus software, firewalls,
+o
+passwords and suitable encryption devices;
+In particular ensure that any Sensitive Personal Data is stored and
+o
+transferred (including where stored or transferred on portable devices or
+removable media) using industry standard 256-bit AES encryption or suitable
+equivalent;
+Limiting access to relevant databases and systems to those of its officers,
+o
+staff agents and sub-contractors who need to have access to the Personal
+Data, and ensuring that passwords are changed and updated regularly to
+prevent inappropriate access when individuals are no longer engaged by the
+Party;
+Conducting regular threat assessment or penetration testing on systems.
+o
+Ensuring all staff handling Personal Data have been made aware of their
+o
+responsibilities with regards to handling of Personal Data.
+Allowing for inspections and assessments to be undertaken by the other
+o
+Party in respect of the security measures taken, or producing evidence of
+those measures if requested.
+10
+
+11. DATA SECURITY BREACHES AND REPORTING PROCEDURES
+11.1 The Parties are under a strict obligation to notify any potential or actual losses of the
+Shared Personal Data to the other Party as soon as possible and, in any event, within
+1 Business Day of identification of any potential or actual loss to enable the Parties
+to consider what action is required in order to resolve the issue in accordance with the
+applicable Data Protection Legislation.
+11.2 Clause 11.1 also applies to any breaches of security which may compromise the
+security of the Shared Personal Data.
+11.3 The Parties agree to provide reasonable assistance as is necessary to each other to
+facilitate the handling of any Data Security Breach in an expeditious and compliant
+manner.
+12. RESOLUTION OF DISPUTES WITH DATA SUBJECTS OR THE DATA PROTECTION AUTHORITY
+12.1 In the event of a dispute or claim brought by a Data Subject or the Data Protection
+Authority concerning the processing of Shared Personal Data against either or both
+Parties, the Parties will inform each other about any such disputes or claims, and will
+cooperate with a view to settling them amicably in a timely fashion.
+12.2 The Parties agree to respond to any generally available non-binding mediation
+procedure initiated by a Data Subject or by the Data Protection Authority. If they do
+participate in the proceedings, the Parties may elect to do so remotely (such as by
+telephone or other electronic means). The Parties also agree to consider participating
+in any other arbitration, mediation or other dispute resolution proceedings developed
+for data protection disputes.
+12.3 In respect of breaches relating to this Agreement, each Party shall abide by a
+decision of a competent court of the Data Discloser’s country of establishment or of
+any binding decision of the relevant Data Protection Authority.
+13. WARRANTIES
+13.1 Each Party warrants and undertakes that it will:
+(a) Process the Shared Personal Data in compliance with all applicable laws,
+enactments, regulations, orders, standards and other similar instruments
+that apply to its personal data processing operations.
+(b) Make available upon request to the Data Subjects who are third party
+beneficiaries a copy of this Agreement, unless the Clause contains
+confidential information.
+11
+
+(c) Respond within a reasonable time and as far as reasonably possible to
+enquiries from the relevant Data Protection Authority in relation to the
+Shared Personal Data.
+(d) Respond to Subject Access Requests in accordance with the terms of this
+Agreement and in accordance with the Data Protection Legislation.
+(e) Where applicable, maintain registration with all relevant Data Protection
+Authorities to process all Shared Personal Data for the Agreed Purpose.
+(f) Take all appropriate steps to ensure compliance with the security
+measures set out in clause 10 above.
+13.2 The Data Discloser warrants and undertakes that it will ensure that the Shared
+Personal Data are accurate.
+13.3 The Data Recipient warrants and undertakes that it will not disclose or transfer
+Shared Personal Data to third parties either within or outside the European Economic
+Area (EEA) unless it complies with the obligations set out in clauses 9.2 and 9.3
+above.
+13.4 Except as expressly stated in this Agreement, all warranties, conditions and terms,
+whether express or implied by statute, common law or otherwise are hereby excluded
+to the extent permitted by law.
+14. INDEMNITY
+14.1 RUSU shall indemnify the University and shall keep the University indemnified
+against all liabilities, losses, damages, costs or expenses (including but not limited to
+any direct, indirect or consequential losses, loss of profit, loss of reputation and all
+interest, penalties and legal costs (calculated on a full indemnity basis) and all other
+reasonable professional costs and expenses) suffered or incurred by the University
+arising out of or in connection with any claim made against it in relation to any breach
+by RUSU of the Data Protection Legislation or RUSU’s obligations under this
+Agreement.
+15. LIMITATION OF LIABILITY
+15.1 Neither Party excludes or limits liability to the other Party for
+(a) fraud or fraudulent misrepresentation;
+(b) death or personal injury caused by negligence;
+(c) a breach of any obligations implied by section 12 of the Sale of Goods Act
+1979 or section 2 of the Supply of Goods and Services Act 1982; or
+(d) any matter for which it would be unlawful for the Parties to exclude liability.
+12
+
+15.2 Subject to Clause 15.1 neither Party shall in any circumstances be liable whether in
+contract, tort (including for negligence and breach of statutory duty howsoever
+arising), misrepresentation (whether innocent or negligent), restitution or otherwise,
+for
+(a) any loss (whether direct or indirect) of profits, business, business
+opportunities, revenue, turnover, reputation or goodwill;
+(b) loss (whether direct or indirect) of anticipated savings or wasted
+expenditure (including management time); or
+(c) any loss or liability (whether direct or indirect) under or in relation to any
+other contract.
+16. TERM AND TERMINATION
+16.1 This Agreement shall commence on [1 September 2019] and shall continue in force
+for the Term.
+16.2 The Parties shall review the effectiveness of this Agreement prior to the
+commencement of each Academic Year during the Term, having consideration to the
+aims and purposes set out in Clauses 2.2 and 2.3. The Parties shall continue,
+amend or terminate the Agreement depending on the outcome of this review.
+16.3 The review of the effectiveness of the Agreement shall involve:
+(a) Assessing whether the purposes for which the Shared Personal Data is
+being processed are still the ones listed in clause 2.3 - 2.5 of this
+Agreement;
+(b) Assessing whether the Shared Personal Data is still as listed in clause 2.5
+of the Agreement;
+(c) Assessing whether the legal framework governing data quality, retention,
+and data subjects’ rights are being complied with; and
+(d) Assessing whether personal data breaches involving the Shared Personal
+Data have been handled in accordance with this Agreement and the
+applicable legal framework.
+16.4 Any amendments to the Agreement shall be made in writing and signed by both
+authorised signatories of Parties.
+16.5 Upon expiry of the Term, the Agreement shall automatically terminate.
+16.6 The Agreement may be terminated by either Party:
+(a) where it considers that the other Party is not processing the Shared
+Personal Data in accordance with this Agreement;
+13
+
+(b) upon giving 3 months written notice to the other Party.
+17. ROLES AND RESPONSIBILITIES
+17.1 Each Party shall nominate a single point of contact within their organisation who can
+be contacted in respect of queries or complaints regarding the Data Protection
+Legislation and/or compliance under the terms of this Agreement.
+UNIVERSITY OF READING READING UNIVERSITY STUDENTS UNION
+Data Protection Officer Chief Executive Officer
+IMPS, Whiteknights House RUSU, PO Box 230
+University of Reading Whiteknights
+PO Box 217 Reading, RG6 6AZ
+Reading, RG6 6AH
+imps@reading.ac.uk enquiries@rusu.co.uk
++44 (0)118 378 8981 +44 (0)118 378 4100
+18. THIRD PARTY RIGHTS
+18.1 No one other than a Party to this Agreement shall have any right to enforce any of its
+terms.
+19. VARIATION
+19.1 No variation of this Agreement shall be effective unless it is in writing and signed by
+the Parties (or their authorised representatives).
+20. WAIVER
+20.1 No failure or delay by a Party to exercise any right or remedy provided under this
+Agreement or by law shall constitute a waiver of that or any other right or remedy, nor
+shall it prevent or restrict the further exercise of that or any other right or remedy. No
+single or partial exercise of such right or remedy shall prevent or restrict the further
+exercise of that or any other right or remedy.
+21. SEVERANCE
+21.1 If any provision of this Agreement (or part of any provision) is found by any court or
+other authority of competent jurisdiction to be invalid, illegal or unenforceable, that
+provision or part-provision shall, to the extent required, be deemed not to form part of
+this Agreement, and the validity and enforceability of the other provisions of this
+Agreement shall not be affected.
+14
+
+21.2 If a provision of this Agreement (or part of any provision) is found to be illegal, invalid
+or unenforceable, the provision shall apply with the minimum modification necessary
+to make it legal, valid and enforceable.
+22. ASSIGNMENT
+22.1 This Agreement is personal to the Parties and neither Party shall assign, transfer,
+mortgage, charge, subcontract, declare a trust over or deal in any other manner with
+any of its rights and obligations under this Agreement.
+23. CHANGES TO THE APPLICABLE LAW
+23.1 In case the Data Protection Legislation change in a way that the Agreement is no
+longer adequate for the purpose of governing lawful data sharing exercises, the
+Parties agree that they will negotiate in good faith to review the Agreement in light of
+the new legislation.
+24. NO PARTNERSHIP OR AGENCY
+24.1 Nothing in this Agreement is intended to, or shall be deemed to, establish any
+partnership or joint venture between the Parties, constitute any Party the agent of
+another Party, or authorise any Party to make or enter into any commitments for or on
+behalf of any other Party.
+24.2 Each Party confirms it is acting on its own behalf and not for the benefit of any other
+person.
+25. ENTIRE AGREEMENT
+25.1 This Agreement constitutes the entire agreement between the Parties in relation to its
+subject matter, namely the sharing of Student Personal Data, and supersedes and
+extinguishes all previous agreements, promises, assurances, warranties,
+representations and understandings between them, whether written or oral, relating to
+its subject matter.
+25.2 Each Party acknowledges that in entering into this Agreement it does not rely on and
+shall have no remedies in respect of any statement, representation, assurance or
+warranty (whether made innocently or negligently) that is not set out in this
+Agreement.
+25.3 Each Party agrees that it shall have no claim for innocent or negligent
+misrepresentation or negligent misstatement based on any statement in this
+Agreement.
+15
+
+25.4 Nothing in this clause shall limit or exclude any liability for fraud.
+26. FORCE MAJEURE
+26.1 Neither Party shall be in breach of this Agreement nor liable for delay in performing,
+or failure to perform, any of its obligations under this Agreement if such delay or
+failure result from events, circumstances or causes beyond its reasonable control. In
+such circumstances the affected party shall be entitled to a reasonable extension of
+the time for performing such obligations. If the period of delay or non-performance
+continues for 3 months, the Party not affected may terminate this Agreement by
+giving 30 days’ written notice to the affected Party.
+27. NOTICE
+27.1 Any notice required to be given under this Agreement shall be in writing and shall be
+delivered personally or sent by pre-paid first-class post, recorded delivery or by
+commercial courier to the other Party as set out in Clause 25.2 below.
+27.2 The Parties' addresses and contacts are:
+Party: The University
+Contact: Data Protection Officer
+Address: IMPS, Whiteknights House
+University of Reading
+PO Box 217
+Reading, RG6 6AH
+Party: RUSU
+Contact: Chief Executive Officer
+Address: PO Box 230, Whiteknights, Reading, RG6 6AZ
+27.3 Any notice shall be deemed to have been duly received if delivered personally, when
+left at the address set out above or, if sent by pre-paid first-class post or recorded
+delivery, at 10.00 am on the second business day after posting, or if delivered by
+commercial courier, on the date and at the time that the courier's delivery receipt is
+signed.
+27.4 This Clause 25 shall not apply to the service of any proceedings or other documents
+in any legal action.
+27.5 A notice required to be given under or in connection with the Agreement shall not be
+validly served if sent by email or fax.
+16
+
+28. GOVERNING LAW AND JURISDICTION
+28.1 This Agreement and any dispute or claim (including non-contractual disputes or
+claims) arising out of or in connection with it or its subject matter or formation shall be
+governed by and construed in accordance with the law of England and Wales.
+28.2 Each Party irrevocably agrees that the courts of England and Wales shall have
+exclusive jurisdiction to settle any dispute or claim (including non-contractual disputes
+or claims) arising out of or in connection with this Agreement or its subject matter or
+formation.
+29. COUNTERPARTS
+29.1 This Agreement may be executed in any number of counterparts, each of which when
+executed and delivered shall constitute a duplicate original, but all the counterparts
+shall together constitute the one agreement. No counterpart shall be effective until
+each Party has executed and delivered at least one counterpart.
+This has been entered into on the date stated at the beginning of it.
+EXECUTED as an agreement:
+SIGNED for and on behalf of
+UNIVERSITY OF READING
+Name:
+Position: University Secretary
+Signature:
+EXECUTED as an agreement:
+SIGNED for and on behalf of
+READING UNIVERSITY STUDENTS UNION
+Name:
+Position: Deputy Chief Executive
+Signature:
+Version Control
+17
+
+VERSION SECTION KEEPER REVIEWED APPROVING APPROVAL START NEXT
+AUTHORITY DATE DATE REVIEW
+3.0 IMPS OCT 19 AGS NOV 19 SEP 19 SEP 20
+18

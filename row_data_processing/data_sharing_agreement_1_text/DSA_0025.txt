@@ -1,0 +1,601 @@
+Data Sharing Framework Data Agreement (controller to controller) (UK GDPR and DPA 2018) in relation to
+sharing personal data for communicable disease and other risks to public health
+Framework Agreement Reference: LondonBoroughofCamden_16112022
+
+CONTENTS
+____________________________________________________________
+CLAUSE
+1. Interpretation ......................................................................................................................................... 1
+2. Purpose ................................................................................................................................................. 4
+3. Compliance with the Data Protection Legislation ................................................................................... 4
+4. Shared Personal Data ........................................................................................................................... 4
+5. Lawful, fair and transparent processing ................................................................................................. 5
+6. Data quality ........................................................................................................................................... 5
+7. Data Subjects' rights .............................................................................................................................. 5
+8. Data retention and deletion .................................................................................................................... 5
+9. Transfers ............................................................................................................................................... 6
+10. Security and training .......................................................................................................................... 6
+11. Personal data breaches and reporting procedures ............................................................................. 7
+12. Review of Agreement ......................................................................................................................... 7
+13. Term and Termination ........................................................................................................................ 8
+14. Resolution of disputes with Data Subjects or the Supervisory Authority ............................................. 9
+15. Warranties ......................................................................................................................................... 9
+16. Allocation of cost .............................................................................................................................. 10
+17. Limitation of liability .......................................................................................................................... 10
+18. Third party rights .............................................................................................................................. 10
+19. Variation .......................................................................................................................................... 11
+20. Waiver ............................................................................................................................................. 11
+21. Severance ........................................................................................................................................ 11
+22. Changes to the applicable law ......................................................................................................... 11
+23. No partnership or agency ................................................................................................................. 11
+24. Entire agreement ............................................................................................................................. 11
+25. Further assurance ............................................................................................................................ 12
+26. Force majeure .................................................................................................................................. 12
+27. Rights and remedies ........................................................................................................................ 12
+28. Notice .............................................................................................................................................. 12
+29. Governing law .................................................................................................................................. 13
+30. Assignment and novation ................................................................................................................. 13
+SCHEDULE
+Schedule 1 Key legislative provisions and authoritative guidance ......................................................... 14
+Schedule 2 Sample Template Data Sharing Addendum ....................................................................... 15
+Schedule 3 Appropriate technical and organisational security measures .............................................. 16
+Schedule 4 Deletion Procedure ............................................................................................................ 18
+
+DATED as of the date of last signature
+PARTIES
+(1) UK Health Security Agency, an executive agency of the Department of Health and
+Social Care, located at Nobel House, 17 Smith Square, London, SW1P
+3HX (hereinafter referred to as “UKHSA” or “Data Discloser”);
+(2) London Borough of Camden, whose registered office is located at 5 Pancras Square,
+5 Pancras Road, London, N1C 4AG (herein after referred to as “Data Receiver”)
+(3) During the Term of this Agreement it may occur that the Data Receiver transfers its
+data to the Data Discloser in which case the terms of this Agreement shall apply as if,
+in relation to such data, the Data Receiver were the data discloser and the Data
+Discloser were the data receiver.
+each a Party and together the Parties.
+BACKGROUND
+(A) The Parties wish to enter into a data sharing framework agreement to create a
+framework of terms and conditions that will apply on each and every occasion one
+Party wishes to transfer Shared Personal Data to the other Party.
+(B) This is a free-standing Agreement that does not incorporate commercial business
+terms established by the Parties under separate commercial arrangements.
+(C) The terms and conditions of this Agreement will govern the relationship between the
+Parties in respect of Shared Personal Data and provide a mechanism whereby the
+Parties may enter into data sharing arrangements in response to a public heath
+incident or event in relation to communicable disease and other risks to public health
+through the execution of a Data Sharing Addendum (DSA).
+(D) This Agreement including associated DSAs will ensure all Parties can carry out their
+statutory functions in line with Regulation 3 of The Health Service (Control of Patient
+Information) Regulations 2002 in a lawful, auditable and transparent manner.
+(E) The Data Receiver agrees to use the Personal Data within the EEA on the terms set
+out in this Agreement.
+AGREED TERMS
+1. Interpretation
+The following definitions and rules of interpretation apply in this Agreement.
+1
+
+1.1 Definitions:
+Agreed Purpose: has the meaning given to it in clause 2 of this Agreement and as set
+out in each fully executed Data Sharing Addendum (DSA).
+Agreement: this data sharing framework agreement, which is a free-standing
+document that does not incorporate commercial business terms established by the
+Parties under separate commercial arrangements.
+Business Day: a day other than a Saturday, Sunday or public holiday in the UK when
+banks in London are open for business.
+Commencement Date: the date when the Agreement has been signed by all of the
+Parties.
+Data Sharing Addendum or DSA: the Data Sharing Addendum agreed between the
+Parties in accordance with Clause 2 (Purpose) for the Agreed Purpose, containing
+detailed information about the type of Personal Data to be shared, the Agreed Purpose
+for sharing and using the Personal Data, any special conditions for use or reuse of the
+Shared Personal Data and the related matters listed in the template DSA set out in
+Schedule 2.
+Data Sharing Code: The Information Commissioner's Data Sharing Code of Practice
+issued in September 2021, as updated or amended from time to time.
+Data Protection Legislation: all applicable data protection and privacy legislation in
+force from time to time in the UK including the General Data Protection Regulation as
+enacted into English law by the EU (Withdrawal) Act 2018 and as amended by the
+Data Protection Act 2018 and Privacy and Electronic Communications (Amendments
+etc) (EU Exit) Regulations 2019 (UK GDPR); the Data Protection Act 2018 (DPA
+2018); the Privacy and Electronic Communications Regulations 2003and any other
+legislation and regulatory requirements in force from time to time which apply to a Party
+relating to the use of Personal Data (including, without limitation, the privacy of
+electronic communications) and the guidance and codes of practice issued by the
+Supervisory Authority.
+EEA: The European Economic Area as established via the Agreement on the
+European Economic Area, an international agreement which enables the extension of
+the European Union's single market to member states of the European Free Trade
+Association.
+Personal Data Breach: a breach of security leading to the accidental or unlawful
+destruction, loss, alteration, unauthorised disclosure of, or access to the Shared
+Personal Data.
+Shared Personal Data: the Personal Data and Special Categories of Personal data
+to be shared between the Parties pursuant to a fully executed DSA under the terms of
+this Agreement and detailed within each fully executed DSA.
+Special Categories of Personal Data: the categories of Personal Data set out in
+Article 9(1) of the UK GDPR.
+2
+
+Subject Access Request: the exercise by a Data Subject of his or her rights under
+Article 15 of the UK GDPR and the DPA 2018.
+Supervisory Authority: the relevant data protection authority in the territories where
+the Parties to this Agreement are established.
+Term: the period commencing on the Commencement Date and ending on termination
+of this Agreement under clause 13.2 or clause 13.5.
+1.2 Controller, Processor, Data Subject and Personal Data, Processing and
+"appropriate technical and organisational measures" shall have the meanings given to
+them in the Data Protection Legislation.
+1.3 Clause, schedule and paragraph headings shall not affect the interpretation of this
+Agreement.
+1.4 The schedules form part of this Agreement and shall have effect as if set out in full in
+the body of this Agreement. Any reference to this Agreement includes the schedules.
+1.5 Unless the context otherwise, requires, words in the singular shall include the plural
+and in the plural shall include the singular.
+1.6 A reference to a company shall include any company, corporation or other body
+corporate, wherever and however incorporated or established.
+1.7 A reference to a statute or statutory provision shall include all subordinate legislation
+made from time to time under that statute or statutory provision.
+1.8 References to clauses and schedules are to the clauses and schedules of this
+Agreement and references to paragraphs are to paragraphs of the relevant Schedule.
+1.9 Any words following the terms including, include, in particular or for example or
+any similar phrase shall be construed as illustrative and shall not limit the generality of
+the related general words.
+1.10 In the case of any ambiguity between any provision contained in the body of this
+Agreement and any provision contained in the DSA, schedules or appendices, the
+provision in the body of this Agreement shall take precedence.
+1.11 Unless the context otherwise requires, any reference to European Union law that is
+directly applicable or directly effective in the UK at any time is a reference to it as it
+applies England from time to time.
+1.12 A reference to writing or written includes email.
+1.13 Unless the context otherwise requires the reference to one gender shall include a
+reference to the other genders.
+3
+
+2. Purpose
+2.1 This Agreement sets out the framework for the sharing of Personal Data when one
+Controller (the Data Discloser) discloses Personal Data to another Controller (the
+Data Receiver). It defines the principles and procedures that the Parties shall adhere
+to and the responsibilities the Parties owe to each other.
+2.2 The Parties consider this data sharing necessary to fulfil their statutory duties in
+relation to public health and communicable disease surveillance.
+2.3 Each time the Data Receiver is engaged to receive Shared Personal Data, a DSA shall
+be completed. The Parties shall assist each other to discuss and agree each DSA and
+both Data Receiver and Data Discloser shall sign the DSA once it has been agreed.
+Upon the execution of each DSA the terms and conditions agreed in the DSA shall be
+incorporated into this Agreement and shall not form a separate contract to it.
+2.4 The Parties shall not process Shared Personal Data in a way that is incompatible with
+the purposes described in this Clause 2 and the DSA (Agreed Purpose).
+2.5 Each Party shall appoint a single point of contact (SPoC) and delegated deputy who
+will work together to reach an agreement with regards to any issues arising from the
+data sharing and to actively improve the effectiveness of the data sharing initiative.
+The points of contact for each of the Parties are:
+(a) , Head of Information Governance & Privacy, UKHSA
+(b) , Public Health Intelligence Lead, London Borough of
+Camden
+3. Compliance with the Data Protection Legislation
+3.1 Each Party must ensure compliance with the Data Protection Legislation at all times
+during the Term of this Agreement.
+3.2 Each Party has such valid registrations and paid such fees as are required by its
+Supervisory Authority which, by the time that the data sharing is expected to
+commence, covers the intended data sharing pursuant to this Agreement, unless an
+exemption applies.
+4. Shared Personal Data
+4.1 Further detail on the Shared Personal Data will be detailed in each fully executed DSA,
+together with any access and processing restrictions as agreed and established by the
+Parties.
+4.2 The Shared Personal Data must not be irrelevant or excessive with regard to the
+Agreed Purpose.
+4
+
+5. Lawful, fair and transparent processing
+5.1 Each Party shall ensure that it processes the Shared Personal Data fairly and lawfully
+during the Term of this Agreement.
+5.2 Each Party shall ensure that it has legitimate grounds under the Data Protection
+Legislation for the processing of Shared Personal Data.
+5.3 Each Party agrees that the legitimate grounds under the Data Protection Legislation
+for the processing of Shared Personal Data are:
+(a) UK GDPR Article 6(1)(e) – the processing is necessary for the performance
+of the Parties’ official tasks carried out in the public interest.
+(b) UK GDPR Article 9(2)(i) – the processing is necessary for reasons of public
+interest in the area of public health.
+(c) Data Protection Act 2018 – Schedule 1, Part 1 (3) – ‘Public Health’
+6. Data quality
+6.1 The Data Discloser shall take all reasonable steps to ensure that the Shared Personal
+Data are accurate.
+6.2 Shared Personal Data must be limited to the Personal Data described in each
+associated fully executed DSA to this Agreement.
+7. Data Subjects' rights
+7.1 The Parties each agree to provide such assistance as is reasonably required to enable
+the other Party to comply with requests from Data Subjects to exercise their rights
+under the Data Protection Legislation within the time limits imposed by the Data
+Protection Legislation.
+7.2 The SPoC for each Party is responsible for maintaining a record of individual requests
+for information, the decisions made and any information that was exchanged. Records
+must include copies of the request for information, details of the data accessed and
+shared and where relevant, notes of any meeting, correspondence or phone calls
+relating to the request. The SPoC for each Party are detailed in clause 2.5.
+8. Data retention and deletion
+8.1 The Data Receiver shall not retain or process Shared Personal Data for longer than is
+necessary to carry out the Agreed Purpose.
+8.2 Notwithstanding clause 8.1, the Parties shall continue to retain Shared Personal Data
+in accordance with any statutory or professional retention periods applicable in their
+respective areas of work and profession.
+5
+
+8.3 The Data Receiver shall ensure that any Shared Personal Data are returned to the
+Data Discloser or destroyed in accordance with the agreed Deletion Procedure set out
+in Schedule 4 in the following circumstances:
+(a) on termination or expiry of the Agreement;
+(b) on expiry of the Term of the DSA;
+(c) once processing of the Shared Personal Data is no longer necessary for the
+purposes it was originally shared for, as set out in clause 2.3 and each DSA.
+8.4 Following the deletion of Shared Personal Data in accordance with clause 8.3, the
+Data Receiver shall notify the Data Discloser that the Shared Personal Data in question
+has been deleted in accordance with the Deletion Procedure set out in Schedule 4 to
+this Agreement.
+9. Transfers
+9.1 For the purposes of this clause, transfers of Personal Data shall mean any sharing of
+Personal Data by the Data Receiver with a third party, and shall include, but is not
+limited to, the following:
+(a) subcontracting the processing of Shared Personal Data;
+(b) granting a third party controller access to the Shared Personal Data.
+(c) third parties commissioned by either Party to share Personal Data as part of
+the Purpose.
+9.2 If the Data Receiver appoints a third party Processor to process the Shared Personal
+Data it shall comply with Article 28 and Article 30 of the UK GDPR and shall remain
+liable to the Data Discloser for the acts and/or omissions of the Processor.
+9.3 The Data Receiver shall not disclose or transfer Shared Personal Data outside the
+EEA.
+10. Security and training
+10.1 The Data Discloser shall only provide the Shared Personal Data to the Data Receiver
+by using secure methods as agreed and set out in Schedule 3.
+10.2 The Parties undertake to have in place throughout the Term appropriate technical and
+organisational security measures to:
+(a) prevent:
+(i) unauthorised or unlawful processing of the Shared Personal Data; and
+(ii) the accidental loss or destruction of, or damage to, the Shared
+Personal Data;
+(b) ensure a level of security appropriate to:
+6
+
+(i) the harm that might result from such unauthorised or unlawful
+processing or accidental loss, destruction or damage; and
+(ii) the nature of the Shared Personal Data to be protected.
+10.3 The level of technical and organisational measures agreed by the Parties as
+appropriate as at the Commencement Date having regard to the state of technological
+development and the cost of implementing such measures is set out in Schedule 3.
+The Parties shall keep such security measures under review and shall carry out such
+updates as they agree are appropriate throughout the Term.
+10.4 It is the responsibility of each Party to ensure that its staff members are appropriately
+trained to handle and process the Shared Personal Data in accordance with the
+technical and organisational security measures set out in Schedule 3 and the Data
+Protection Legislation, and have entered into confidentiality agreements relating to the
+processing of Personal Data.
+10.5 The level, content and regularity of training referred to in clause 10.3 shall be
+proportionate to the staff members' role, responsibility and frequency with respect to
+their handling and processing of the Shared Personal Data.
+11. Personal data breaches and reporting procedures
+11.1 The Parties shall each comply with its obligation to report a Personal Data Breach to
+the appropriate Supervisory Authority and (where applicable) Data Subjects under
+Article 33 of the UK GDPR and shall each inform the other Party of any Personal Data
+Breach involving data shared under this Agreement irrespective of whether there is a
+requirement to notify any Supervisory Authority or Data Subject(s).
+11.2 The Parties agree to notify each other and provide reasonable assistance as is
+necessary to each other to facilitate the handling of any Personal Data Breach in an
+expeditious and compliant manner.
+12. Review of Agreement
+12.1 The Parties shall review the effectiveness of this data sharing initiative every 12
+months, having consideration to the aims and purposes set out in clause 2. The
+Parties shall continue, amend or terminate the Agreement depending on the outcome
+of this review.
+12.2 The review of the effectiveness of this Agreement will involve:
+(a) assessing whether the purposes for which the Shared Personal Data is being
+processed are still the ones listed in clause 2 of this Agreement;
+(b) assessing whether the legal framework governing data quality, retention, and
+Data Subjects' rights are being complied with; and
+7
+
+(c) assessing whether personal data breaches involving the Shared Personal
+Data have been handled in accordance with this Agreement and the
+applicable legal framework.
+12.3 Each Party reserves its rights to inspect the other Parties arrangements for the
+processing of Shared Personal Data and to terminate the Agreement where it
+considers that the other Party is not processing the Shared Personal Data in
+accordance with this Agreement.
+13. Term and Termination
+13.1 This Agreement shall take effect on the Commencement Date and shall continue in full
+force and effect unless it is terminated under clause 13.2 or clause 13.5.
+13.2 Any Party may terminate this Agreement during its Term by giving written notice to the
+other Parties in accordance with clause 28. Such termination shall be effective on the
+expiry of all DSAs entered into before the date on which the notice is served, unless
+otherwise agreed to by the Parties in writing.
+13.3 If any Party exercises the option to terminate under clause 13.2 and all DSAs have
+expired, this Agreement will terminate with immediate effect and no new DSAs shall
+be entered into.
+13.4 If this Agreement is entered into after the Parties have begun sharing Personal Data
+with each other, it shall apply retrospectively to the Processing of such Personal Data
+from the date on which such sharing began.
+13.5 The Data Discloser may suspend or terminate this Agreement with immediate effect
+by giving written notice to the other Parties in accordance with clause 28 if:
+(a) the Data Receiver is in material breach of this Agreement and/or any Data
+Sharing Addendum, and that breach cannot be remedied;
+(b) the Data Receiver is in material breach of this Agreement and/or any Data
+Sharing Addendum which can be remedied but the Data Receiver fails to do
+so within 30 days starting on the day after receipt of written notice from the
+SPoC;
+(c) in respect of Shared Personal Data, the Data Receiver no longer has the legal
+basis to Process such Shared Personal Data;
+(d) it becomes unlawful for the Data Receiver to perform all or any of its
+obligations under this Agreement; or
+(e) there is a change to the Data Protection Legislation which materially affects
+the Data Discloser’s powers to provide Personal Data to the Data Receiver.
+13.6 On termination of this Agreement under clause 13.5, all existing DSAs shall terminate
+automatically.
+8
+
+13.7 The Parties shall not enter into any further DSAs after the date on which notice to
+terminate is served under clauses 13.2 or 13.5.
+14. Resolution of disputes with Data Subjects or the Supervisory Authority
+14.1 In the event of a dispute or claim brought by a Data Subject or the Supervisory
+Authority concerning the processing of Shared Personal Data against one or more
+Parties, the Parties will inform each other about any such disputes or claims, and will
+cooperate with a view to settling them amicably in a timely fashion.
+14.2 The Parties agree to respond to any generally available non-binding mediation
+procedure initiated by a Data Subject or by the Supervisory Authority. If they do
+participate in the proceedings, the Parties may elect to do so remotely (such as by
+telephone or other electronic means). The Parties also agree to consider participating
+in any other arbitration, mediation or other dispute resolution proceedings developed
+for data protection disputes.
+14.3 Each Party shall abide by a decision of a competent court of the Data Discloser's
+country of establishment or of the Supervisory Authority.
+15. Warranties
+15.1 Each Party warrants and undertakes that it will:
+(a) Process the Shared Personal Data in compliance with the Data Protection
+Legislation;
+(b) Make available on request to the Data Subjects who are third party
+beneficiaries a copy of this Agreement, unless the Agreement contains
+confidential information;
+(c) Respond within a reasonable time and as far as reasonably possible to
+enquiries from the relevant Supervisory Authority in relation to the Shared
+Personal Data;
+(d) Provide appropriate privacy information to Data Subjects, which includes
+details of the data sharing pursuant to this Agreement.
+(e) Respond to requests by Data Subjects to exercise their rights in accordance
+with the Data Protection Legislation;
+(f) Where applicable, maintain registration with all relevant Supervisory
+Authorities to process all Shared Personal Data for the Agreed Purpose; and
+(g) Take all appropriate steps to ensure compliance with the security measures
+set out in clause 10 above.
+15.2 The Data Discloser warrants and undertakes that it is entitled to provide the Shared
+Personal Data to the Data Receiver and it will take all reasonable steps to ensure that
+the Shared Personal Data are accurate.
+9
+
+15.3 The Data Receiver warrants and undertakes that it will not disclose or transfer Shared
+Personal Data outside the EEA.
+15.4 Each Party warrants and undertakes that it has full capacity and authority to enter into
+and to perform its own obligations under this Agreement.
+15.5 Except as expressly stated in this Agreement, all warranties, conditions and terms,
+whether express or implied by statute, common law or otherwise are hereby excluded
+to the extent permitted by law.
+16. Allocation of cost
+Each Party shall perform its obligations under this Agreement at its own cost.
+17. Limitation of liability
+17.1 Neither Party excludes or limits liability to the other Party for:
+(a) fraud or fraudulent misrepresentation;
+(b) death or personal injury caused by negligence;
+(c) a breach of any obligations implied by section 12 of the Sale of Goods Act
+1979 or section 2 of the Supply of Goods and Services Act 1982; or
+(d) any matter for which it would be unlawful for the parties to exclude liability.
+17.2 Subject to clause 17.1, neither Party shall in any circumstances be liable whether in
+contract, tort (including for negligence and breach of statutory duty howsoever arising),
+misrepresentation (whether innocent or negligent), restitution or otherwise, for:
+(a) any loss (whether direct or indirect) of profits, business, business
+opportunities, revenue, turnover, reputation or goodwill;
+(b) loss (whether direct or indirect) of anticipated savings or wasted expenditure
+(including management time); or
+(c) any loss or liability (whether direct or indirect) under or in relation to any other
+contract.
+18. Third party rights
+18.1 Except as expressly provided in clause 7 (Data Subjects rights) and elsewhere in this
+Agreement, a person who is not a party to this Agreement shall not have any rights
+under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this
+Agreement. This does not affect any right or remedy of a third party which exists, or is
+available, apart from that Act.
+18.2 No one other than a Party to this Agreement, their successors and permitted
+assignees, shall have any right to enforce any of its terms.
+10
+
+19. Variation
+No variation of this Agreement shall be effective unless it is in writing and signed by
+the Parties (or their authorised representatives).
+20. Waiver
+No failure or delay by a Party to exercise any right or remedy provided under this
+Agreement or by law shall constitute a waiver of that or any other right or remedy, nor
+shall it prevent or restrict the further exercise of that or any other right or remedy. No
+single or partial exercise of such right or remedy shall prevent or restrict the further
+exercise of that or any other right or remedy.
+21. Severance
+21.1 If any provision or part-provision of this Agreement is or becomes invalid, illegal or
+unenforceable, it shall be deemed deleted, but that shall not affect the validity and
+enforceability of the rest of this Agreement.
+21.2 If any provision or part-provision of this Agreement is deemed deleted under clause
+21.1, the Parties shall negotiate in good faith to agree a replacement provision that, to
+the greatest extent possible, achieves the intended commercial result of the original
+provision.
+22. Changes to the applicable law
+If during the Term the Data Protection Legislation change in a way that this Agreement
+is no longer adequate for the purpose of governing lawful data sharing exercises, the
+Parties agree that the SPoCs will negotiate in good faith to review this Agreement in
+the light of the new legislation.
+23. No partnership or agency
+23.1 Nothing in this Agreement is intended to, or shall be deemed to, establish any
+partnership or joint venture between any of the Parties, constitute any Party the agent
+of another Party, or authorise any Party to make or enter into any commitments for or
+on behalf of any other Party.
+23.2 Each Party confirms it is acting on its own behalf and not for the benefit of any other
+person.
+24. Entire agreement
+24.1 This Agreement (including all executed DSAs) constitutes the entire agreement
+between the Parties and supersedes and extinguishes all previous agreements,
+promises, assurances, warranties, representations and understandings between
+them, whether written or oral, relating to its subject matter.
+11
+
+24.2 Each Party acknowledges that in entering into this Agreement it does not rely on, and
+shall have no remedies in respect of any statement, representation, assurance or
+warranty (whether made innocently or negligently) that is not set out in this Agreement.
+24.3 Each Party agrees that it shall have no claim for innocent or negligent
+misrepresentation or negligent misrepresentation based on any statement in this
+Agreement.
+25. Further assurance
+Each Party shall, and shall use all reasonable endeavours to procure that any
+necessary third party shall, promptly execute and deliver such documents and perform
+such acts as may reasonably be required for the purpose of giving full effect to this
+Agreement.
+26. Force majeure
+No Party shall be in breach of this Agreement nor liable for delay in performing, or
+failure to perform, any of its obligations under this Agreement if such delay or failure
+result from events, circumstances or causes beyond its reasonable control. In such
+circumstances the affected Party shall be entitled to a reasonable extension of the time
+for performing such obligations. If the period of delay or non-performance continues
+for three months, the Parties not affected may terminate this Agreement by giving 30
+days' written notice to the affected Party.
+27. Rights and remedies
+Except as expressly provided in this Agreement, the rights and remedies provided
+under this Agreement are in addition to, and not exclusive of, any rights or remedies
+provided by law.
+28. Notice
+28.1 Any notice given to a Party under or in connection with this Agreement shall be in
+writing, addressed to the SPoCs and shall be:
+(a) delivered by hand or by pre-paid first-class post or other next working day
+delivery service at its registered office (if a company) or its principal place of
+business (in any other case); or
+(b) sent by email to the SPoC.
+28.2 Any notice shall be deemed to have been received:
+(a) if delivered by hand, on signature of a delivery receipt;
+(b) if sent by pre-paid first-class post or other next working day delivery service,
+at 9.00 am on the second Business Day after posting or at the time recorded
+by the delivery service;
+12
+
+(c) if sent by email, at the time of transmission, or if this time falls outside business
+hours in the place of receipt, when business hours resume. In this clause
+28.2(c), business hours means 9:00 am to 5:00 pm Monday to Friday on a
+day that is not a public holiday in the place of receipt.
+28.3 This clause does not apply to the service of any proceedings or other documents in
+any legal action or, where applicable, any arbitration or other method of dispute
+resolution
+29. Governing law
+29.1 This Agreement and any dispute or claim (including non-contractual disputes or claims)
+arising out of or in connection with it or its subject matter or formation shall be governed
+by and construed in accordance with the law of the respective jurisdictions of the
+United Kingdom for each Party to this Agreement.
+30. Assignment and novation
+30.1 No Party shall assign, novate, or otherwise dispose of or create any trust in relation to
+any or all of its rights, obligations or liabilities under this Agreement or any part of it
+without the prior written approval of the other Parties.
+This Agreement has been entered into on the date stated at the beginning of it.
+13
+
+Schedule 1 Key legislative provisions and authoritative guidance
+• The UK Data Protection Legislation
+• The Health Service (Control of Patient Information) Regulations 2002
+14
+
+
+
+Schedule 3 Appropriate technical and organisational security measures
+1. Without prejudice to the Parties’ other obligations in respect of information security,
+the Parties shall:
+1.1 having regard to the state of technological development, provide a level of
+security (including appropriate technical and organisational measures)
+appropriate to:
+1.2.1 the harm that might result from unauthorised or unlawful processing
+of Shared Personal Data or accidental loss, destruction or damage
+of such Shared Personal Data; and
+1.2.2 the nature of the Shared Personal Data.
+1.2 ensure that access to the Shared Personal Data is limited to those personnel
+who need access to the Shared Personal Data to meet the Parties obligations
+under this Agreement;
+1.3 take reasonable steps to ensure the reliability of the Parties personnel who
+have access to the Shared Personal Data.
+1.4 inform the other Party as soon as reasonably practicable of any particular risk
+to the security of the Shared Personal Data of which it becomes aware,
+and of the categories of Data and individuals which may be affected;
+2 The Parties shall implement and maintain security standards, facilities, controls and
+procedures appropriate to the nature of the Shared Personal Data held by it and the
+harm that would be caused by its loss or disclosure including a comprehensive
+and up-to-date data protection policy. The Parties shall ensure that all their
+personnel who have access to the Shared Personal Data shall comply with the
+obligations upon them contained in the data protection policy.
+3 Each Party shall ensure:
+3.1 that it has properly configured access rights for its personnel including a
+well-defined joiners and leavers process to ensure access rights to the
+Shared Personal Data are properly managed;
+3.2 that it has proper controls in place to make sure that complex alphanumeric
+passwords are required for access to the Shared Personal Data and
+that training is provided in relation to the need to keep such passwords
+secure;
+3.3 it has in place procedures to identify wrongful use of Shared Personal Data,
+including the monitoring of wrongful access to Shard Personal Data;
+3.4 suitable and effective authentication processes are established and used to
+protect Shared Personal Data;
+3.5 Shared Personal Data is backed up on a regular basis and that all back up
+data is subject to such vigorous security procedures as are necessary in order
+to protect data integrity, such security measures being commensurate to the
+nature of the data. The Parties shall take particular care when transporting
+16
+
+backup data and other personal information and shall ensure such backup
+data and other personal information is transported in a safe and secure
+manner;
+3.6 Shared Personal Data transferred electronically is encrypted;
+3.7 information stored on laptops or other portable media is encrypted and that
+the Parties maintains an accurate, up to date asset register, including all
+such portable media used to process the Shared Personal Data;
+3.8 that suitable physical security measures are established commensurate to
+the harm that could result from the unlawful disclosure of the Shared
+Personal Data. Such physical security measures shall be as identified in
+the Parties data protection policy;
+3.9 without prejudice to the Parties obligations in relation to the disposal of the
+Shared Personal Data, all Shared Personal Data which is disposed of must
+be disposed of pursuant to the Parties policy for the disposal of data identified
+in the data protection policy, including the disposal of assets containing
+personal data, a copy of which policy shall be provided, on request, to the
+other Party;
+3.10 the Parties establishes and maintains adequate data security compliance
+policies and audits its use of personal data in compliance with its data
+security policies on a regular basis and in any event annually; and
+4 All data transfers will be via access to systems managed and maintained by
+the Data Discloser or via a secure data transfer mechanism. Any and all
+electronic transfers will be encrypted with decryption passwords
+communicated by alternative method to data transfer.
+17
+
+Schedule 4 Deletion Procedure
+A data destruction certificate must be used to notify the Data Discloser of the destruction of
+the Shared Personal Data.
+The terms of this Agreement require confirmation that all the physical and logical data detailed
+on a data destruction certificate has been destroyed, including the original data and any copies
+in whole or in part.
+The following standards and guidelines are the minimum basis for data decommissioning or
+destruction:
+National Cyber Security Centre (NCSC) guidance on end-user device reset procedures:
+https://www.ncsc.gov.uk/guidance/end-user-device-guidance-factory-reset-and-
+reprovisioning
+NCSC guidance on secure sanitisation of storage media:
+https://www.ncsc.gov.uk/guidance/secure-sanitisation-storage-media
+18
+
+Signed by
+for and on behalf of UKHSA , Deputy
+Director for Info Mgmt & Data
+Date: 30/06/2022
+Governance (also covering
+Privacy)
+Signed by
+for and on behalf of London Borough of Camden , Public Health
+Intelligence Lead
+Date:
+19

@@ -1,0 +1,4126 @@
+Safeguarding D
+Sharing Agreem
+(DSA)
+For agencies and organisations
+safeguarding children and families
+Guidance Document
+This Guidance document should be read and use
+Safeguarding Data Sharing Agreement (DSA) Tem
+S
+S
+Version 1.3 June 2023 (please refer to the onli
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ta
+nt
+in conjunction with the
+late
+uth, Central and West
+Commissioning Support Unit
+uth, Central and West
+Commissioning Support Unit
+e documentation for an up-to-date version of the template and guidance)
+
+Acknowledgement of C
+This document has been created with co
+valued feedback.
+● Information Commissioner’s Office (ICO)
+● Department for Levelling Up Housing and
+● Department for Education (DfE)
+● National Police Chiefs’ Council (NPCC)
+● London Office of Technology and Innovati
+● NHS South, Central and West Commission
+● National Police Freedom of Information an
+● Bristol City Council
+● Somerset Council
+● Kent County Council
+● Stockport Council
+In order to continuously improve this Dat
+keen to receive your feedback.
+Please take five minutes of your time to let us
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ntributions
+tributions from the following agencies – we thank them for their
+ommunities (DLUHC)
+n (LOTI)
+ng Support Unit
+Data Protection Unit (NPFDU Police)
+Sharing Agreement template and accompanying guidance, we are
+know your thoughts. Click here to access the survey. Thank you.
+V1.3 June 2023
+
+Contents
+1 Introduction 6
+Welcome to your sharing journey 6
+What is Safeguarding? 6
+First steps to get started 7
+What is next? 9
+2 Purpose and benefits 11
+How to complete 11
+2a completed example 1 3
+2b example scenarios 1 6
+2c what your DPO will need to know 17
+2d further reading and guidance 17
+3 Data Controller(s) / Joint Controller(s) 18
+How to complete 18
+3a completed example 1 9
+3b example scenarios 2 0
+3c what your DPO will need to know 21
+3d further reading and guidance 21
+3e c ompleted example of Joint Controller Responsibilities
+template 2 2
+
+Safeguarding Data Sharing Agreement – Guidance Document
+4 Processor(s) 26
+4a completed example 2 6
+4b example scenarios 2 7
+4c what your DPO will need to know 28
+4d further reading and guidance 28
+5 Data shared between partners 29
+How to complete 29
+What is personal data? 2 9
+What is special category data? 2 9
+What is criminal offence data? 30
+5a completed example 3 1
+5b example scenarios 3 3
+5c what your DPO will need to know 34
+5d further reading and guidance 34
+V1.3 June 2023
+
+6 Lawfulness – UK GDPR Article 6 and Article 9 conditions 35
+How to complete 35
+6a completed example 3 6
+6b e xample scenarios 3 7
+6c w hat your DPO will need to know 40
+6d further reading and guidance 40
+6A Lawfulness – Data Protection Act 2018 41
+How to complete 41
+6Aa c ompleted example 4 3
+6Ab e xample scenarios 4 6
+6Ac w hat your DPO will need to know 47
+6Ad f urther reading and guidance 47
+7 Non-interference – Common law duty of confidentiality 48
+How to complete 48
+7a c ompleted example 4 9
+7a e xample scenarios 5 0
+7c w hat your DPO will need to know 51
+7d f urther reading and guidance 51
+
+Safeguarding Data Sharing Agreement – Guidance Document
+7A Non-interference – Human Rights Act 1998, Article 8 52
+How to complete 52
+7Aa c ompleted example 5 3
+7Aa e xample scenarios 5 4
+7Ac w hat your DPO will need to know 55
+7Ad f urther reading and guidance 55
+8 Transparency 56
+How to complete 56
+8a completed example 5 7
+8b example scenarios 5 9
+8c what your DPO will need to know 61
+8d further reading and guidance 61
+9 Individuals’ rights 62
+How to complete 62
+9a completed example 6 3
+9b example scenarios 6 3
+9c what your DPO will need to know 66
+9d further reading and guidance 66
+V1.3 June 2023
+
+10 How data sharing will be carried out 67
+10a completed example 67
+10b example scenarios 6 8
+10c what your DPO will need to know 69
+10d further reading and guidance 69
+
+Safeguarding Data Sharing Agreement – Guidance Document
+Abbreviations and glossary 70
+Further Reading and guidance 75
+Toolkit 1: Informal sharing 81
+Toolkit 2: Levels of identifiability 83
+Further links and guidance 8 4
+Toolkit 3: W hat is a Data Protection Impact Assessment
+(DPIA)? 85
+Toolkit 4: Digital Economy Act 2017 86
+Toolkit 5: Consent considerations 87
+Further links and guidance 8 8
+V1.3 June 2023
+
+1 Introduction
+Welcome to your sharin
+To make informed decisions about safeg
+achieve quality outcomes for children an
+we have to share information either int
+or with our partner agencies who also h
+responsibilities for safeguarding and pre
+It has been frequently recognised in local an
+reviews of practice that failing to share infor
+at critical times has costs lives or led to detri
+outcomes. A fear of sharing sensitive inform
+be a blocker to safeguarding and promoting
+children and families at risk. The relevant UK
+departments and independent non-departm
+government bodies responsible for protectin
+and/or regulating data protection therefore s
+policy, legislation and statutory guidance on
+child protection system should work and dat
+compliance is achieved at the same time. Th
+of legislation are in place for local authorities
+sharing partners to be used to justify inform
+and to allow it in a safe and legal way. Some
+puts a duty on us to share and others provid
+power to do so.
+
+Safeguarding Data Sharing Agreement – Guidance Document
+journey
+arding and What is safeguarding?
+families,
+The Care Quality Commission (CQC) describes
+rnally
+safeguarding as protecting people’s health, wellbeing and
+ve
+human rights, and enabling them to live free from harm,
+ention.
+abuse and neglect. It’s fundamental to high-quality health
+national and social care. The Department for Education defines
+ation safeguarding as follows within their ‘Working Together
+ental to Safeguard Children’ guide to inter-agency working to
+tion must not safeguard and promote the welfare of children:
+the welfare of
+a. Protecting children from maltreatment
+government
+ntal b. Preventing impairment of children’s mental and
+children physical health or development
+t out
+c. Ensuring that children are growing up in
+ow the
+circumstances consistent with the provision of safe
+protection
+and effective care
+se pieces
+d. Taking action to enable all children to have the
+and their
+best outcomes
+tion sharing
+legislation Safeguarding must therefore be seen as a protection of
+us with wellbeing (including physical, mental & emotional); a
+prevention of harm and reduction of risk through care
+and support requiring information sharing. This allows
+intervention in immediate situations demanding the
+safeguarding of children and individuals but also sharing
+for prevention and early intervention in less immediate or
+high-risk situations.
+V1.3 June 2023
+
+First steps to get started
+Our guidance and template have been d
+take you through this journey. It not onl
+a template but also guidance including
+what is needed, technical advice and sig
+other key documents which can help yo
+1. Why is the information needed?
+What is the purpose for sharing the relevant
+and the wider public.
+2. What information is needed?
+Be specific and descriptive, consider how oft
+‘Information to be shared by partners’ withi
+3. What organisation can provide the
+Have you explored if the information is avail
+a counterpart in the potential sharing organi
+4. H ave you completed a Data Protec
+Be aware that a DPIA is likely to be a legal re
+guidance document to learn more about the
+5. How will it be transferred?
+Consider your options and assess the risk of
+for more complex digital solutions (e.g. data
+6. Where will it be held?
+Consider your options and assess the risk of
+technical teams for more complex digital sol
+
+Safeguarding Data Sharing Agreement – Guidance Document
+signed to Here is a simple flow chart of what you will need to do to
+provides go from having concerns about sharing data to sharing
+xamples of data legally and securely with confidence.
+posting to
+.
+nformation, think about the purpose for individuals, your organisation
+n it is required, refer to the data item template available under 5.
+the guidance document.
+information?
+ble already, maybe in other parts of your organisation. Have you spoken to
+ation who can advise you on what information is available and how often.
+ion Impact Assessment (DPIA)?
+uirement. Complete it before you start processing any data. Use the
+requirement to complete a DPIA.
+hose. Transfers must be safe and secure, consult with your technical teams
+ransfer system to system or via Secure File Transfer Protocol [SFTP]).
+hose. Any information must be held safe and secure, consult with your
+tions.
+V1.3 June 2023
+
+7. A re you sure the information is acc
+Take all reasonable steps to ensure the perso
+personal data is incorrect or misleading you
+any challenges to the accuracy of personal d
+8. How will you process it?
+Define what solutions are available to proces
+usage to inform cases), work closely with th
+9. How long will you keep it?
+Follow your internal retention policy and est
+outcome products and long term requireme
+10. How will you delete the data?
+Follow your internal records retention or dat
+Consider the method depending on your sto
+The UK GDPR sets out seven key principles
+● Lawfulness, fairness and transparency
+● Purpose limitation
+● Data minimisation
+● Accuracy
+● Storage limitation
+● Integrity and confidentiality (security)
+● Accountability
+Please visit the ICO website for more detail o
+
+Safeguarding Data Sharing Agreement – Guidance Document
+rate and not misleading?
+al data you hold is not incorrect or misleading. If you discover that
+ust take steps to correct or erase it as soon as possible. Carefully consider
+ta.
+the information (e.g. data warehouse, modelling, risk scoring, manual
+relevant teams (e.g. analytics, IT, ethics).
+blish how long you actually need the information. Include any potential
+ts to hold the data.
+destruction policy to assure safe destruction of the information you hold.
+age solution to allow for safety of destruction.
+hich should lie at the heat of your approach to processing personal data:
+the principles.
+V1.3 June 2023
+
+What is next
+Once you have answered the essential q
+established details, and maybe started t
+your Data Protection Impact Assessment
+start to think about completing the Safe
+Data Sharing Agreement template.
+We hope this introduction, the Data Sharing
+template and accompanying guidance give c
+in pursuing the important journey to sharing
+safeguarding information and reduces the fe
+unknown. You might want to start with the
+if you glance through it now, it will help you
+through the template. And don’t forget the
+inside (Caldicott Guardian, information gove
+(IG) colleagues, Data Protection Officer, colle
+experience of information sharing) and outsi
+provided a page with relevant links to valuab
+within the guidance document) your organis
+This Data Sharing Agreement template shoul
+and used alongside the guidance document.
+of the DSA is accompanied by the relevant e
+completed DSAs, example scenarios and gui
+completing the template. Data Protection Of
+and templates for relevant appendices are al
+This Data Sharing Agreement Template and
+been developed to:
+
+Safeguarding Data Sharing Agreement – Guidance Document
+estions, 1. Help agencies and organisations to gain
+complete confidence and understanding of sharing for
+you can safeguarding purposes through the spectrum of
+uarding sharing scenarios considering:
+● Sharing with individual or multiple sharing partners
+Agreement
+● Different types of partners (e.g. police, education,
+nfidence
+housing)
+relevant
+r of the ● Information sharing of specific data items (e.g. name
+and relevant services open to) to mass data sharing for
+lossary,
+analytical and risk modelling purposes
+going
+elp available ● Simple exchanges of data to the use of complex data
+nance warehouses
+gues with
+● Sharing for immediate safeguarding needs or early
+e (we have
+intervention and prevention
+e information
+tion. 2. Assist agencies and organisations by providing
+complex, specialised information governance
+requirements in an easily accessible and
+be read
+understandable way tackling issues like:
+Each section
+amples of ● Lack of expertise and knowledge
+ance for
+● Under resourced IG teams and relevant professional
+cer advice
+subject matter experts
+o included.
+● General resource and available time to research data
+uidance has
+protection requirements
+V1.3 June 2023
+
+3. Clarify commonly held misconception
+● Not being able (allowed) to share
+● Needing consent to share
+● Only being able to share with statutory bo
+4. Provide a Safeguarding Data Sharing
+Template and a corresponding Guidan
+with the required help for all levels of
+involved with an Information Sharing
+including front line practitioners recei
+making data requests, through to Dat
+Officers tasked with reviewing and as
+relevant Information Governance doc
+to assure lawful and safe sharing/pro
+of data.
+The Template and Guidance will lead you t
+the relevant sections and considerations re
+allow sharing and to complete the Safegu
+Sharing Agreement. Alternatively if you alr
+such agreements, it can be used to quality
+existing approaches.
+1
+
+Safeguarding Data Sharing Agreement – Guidance Document
+, such as: It will assist by going through the relevant steps of
+consideration:
+● What information are you requesting to receive or share
+and what is the purpose for doing so?
+ies
+● What organisations are involved and what are their
+greement
+specific roles and responsibilities?
+e Document
+● Is a Data Protection Impact Assessment required and has
+staff
+it been completed (since the sharing is about children it
+Initiative,
+is very likely that a DPIA will be required)?
+ing and
+Protection ● Is the sharing justified (agree this in principle first) and
+essing the what are your lawful bases and gateways that support
+mentation the sharing?
+essing
+● How should you share the information (is it secure),
+what is happening to the data at every stage?
+rough
+● How will access to the information be limited to only
+uired to
+those who need to have access?
+rding Data
+ady have ● How will you comply with transparency/informing
+obligations?
+assure
+● What quality checks are required to ensure the shared
+data is accurate and up-to-date?
+● What retention periods are appropriate? How is
+destruction managed?
+V1.3 June 2023
+
+2 Purpose and benefi
+How to complete
+This section describes your sharing proje
+and clearly sets out the purpose(s) for w
+information is being shared.
+This should be set out in clear and understa
+language, describing the:
+● nature (what is planned to be done with t
+personal data)
+● scope (what does the processing cover – d
+agreed scope of sharing set out in the agr
+outline how the data shared will be mana
+ensuring those that need it can see it, but
+don’t, can’t])
+● context (wider picture which might affect
+or impact)
+● purposes for processing (reason why perso
+be processed, benefit that the sharing will
+or risks and possible consequences of not
+how sharing information is necessary to a
+aims).
+In these circumstances, ‘necessity’ with regar
+why information is shared should be in the c
+‘reasonably necessary’, rather than strictly or
+necessary. Sharing has to be a proportionate
+the risk situation.
+1
+
+Safeguarding Data Sharing Agreement – Guidance Document
+s
+t/initiative This section should set out what form the sharing
+ich the agreement is covering, such as formalised sharing via a
+Multi-Agency Safeguarding Hub or in support of more ad
+hoc sharing via the inter-agency communications that take
+dable
+place around managing the welfare and safeguarding of
+children, or both.
+e
+The section also links to a Data Protection Impact
+Assessment (DPIA), often required in support of data
+fine the
+sharing and ideally performed early in the establishment of
+ement and
+the sharing initiative. Detail from the DPIA around purpose
+ed [i.e.
+may also be drawn into this section.
+hose that
+The purpose section of the sharing agreement is the
+key section to be written by the relevant service leads
+xpectations
+at each organisation. All partners/parties must agree on
+the purpose.
+al data will
+This section can use text/language from other documents,
+rovide and/
+such as a business case, grant application or committee
+haring and
+report. This helps to ensure consistency.
+hieve those
+to justifying
+ntext of
+absolutely
+response to
+V1.3 June 2023
+
+You should include a short description of an
+functions and/or applicable legislation, such
+Children Act 1989 requires all local authoriti
+You can also include a time period for the sh
+sharing relates to a project with an end date
+the sharing is expected to be ongoing.
+● Is this a pilot?
+● Is the project grant funded and are there a
+requirements or restrictions related to the
+● Is there a plan to expand the project to ne
+organisations or a larger number of data s
+pilot is successful?
+● What outcome do you expect the sharing
+Use plain English and spell out any abbreviat
+purpose should be understandable to data s
+the public in general.
+1
+
+Safeguarding Data Sharing Agreement – Guidance Document
+statutory Think about all possible benefits whether they are
+s, “The quantitative or qualitative. Describe what benefits
+s to…”. there will be to data subjects/individuals, the partner
+organisations, and society. If using statements such as ‘to
+ring, if the
+improve the welfare of children’, make sure you describe
+or whether
+how the sharing will support that aim.
+Consider including the potential consequences of not
+sharing, such as “serious case reviews have directly
+y
+attributed the lack of good information sharing to
+unding?
+subsequent death”.
+bjects if the
+o achieve?
+ons. The
+bjects and
+V1.3 June 2023
+
+2a Purpose and benefits – completed example
+Describe your sharing ini
+To assess the risk to a chil
+family around concerns rec
+MASH gathers information
+the MASH include, but are
+and schools.
+Information is being gather
+parents, professionals wor
+child.
+The MASH will record (dat
+and non-sensitive shared b
+shared and what has been
+the lead social worker withi
+Sharing rules are documen
+Sharing will commence thr
+(if available).
+Please refer to the MASH
+Please also refer to the M
+further details.
+The core benefit of the sha
+safeguarding services, incr
+reducing the need for react
+1
+
+Safeguarding Data Sharing Agreement – Guidance Document
+iative/project (summary):
+and make an informed decision on how to protect them and their
+ived within the Multi-Agency Safeguarding Hub (MASH) the
+rom partner agencies, children and their families. Agencies within
+ot limited to; the police, health, social care, early help, probation
+d by sharing existing documentation and/or speaking to the
+ing with the child and family or in some cases speaking with the
+and time enquiry has been received, all information both sensitive
+partners, how it has been shared) what information has been
+retained after a decision has been made. This will be facilitated by
+the local authority.
+ed within the MASH Terms of Reference.
+ugh discussions, email exchange and access directly to systems
+PIA V3 for further details.
+SH police and non-police process chart in appendix 4 for
+ing arrangement is to ensure more timely and effective
+asing the prevention of adverse impacts on individuals and
+ve services.
+(Continues)
+V1.3 June 2023
+
+Clearly set out your pu
+(include a description
+Research and experienc
+professional boundaries t
+emphasises the importa
+– which include the polic
+sure that functions are di
+children.
+The Act also states that t
+to improve the wellbeing
+decisions in relation to c
+statutory agencies. Many
+safeguarding partnership
+serious case reviews an
+directly attributed the lac
+death of an individual.
+To deliver the best safeg
+interventions, decision m
+their circumstances to be
+the full picture or identify
+available and accessible
+Agreement in dischargin
+(Thanks to London Safe
+1
+
+Safeguarding Data Sharing Agreement – Guidance Document
+pose(s) and benefits for sharing
+f the nature, scope and context):
+has demonstrated the importance of information sharing across
+safeguard the welfare of children. The Children Act 2004
+e of safeguarding children by stating that relevant partner agencies
+, local authority children services and NHS Trusts – must make
+charged with the aim of safeguarding and promoting the welfare of
+ey must promote cooperation between relevant partner agencies
+f children in their area. Information necessary for safeguarding
+ildren and young people is held by numerous statutory and non-
+sad cases across the UK have highlighted deficiencies within
+in relation to the sharing of information and communication. Some
+inquiries (such as the Laming, Bichard and Baby P inquiries) have
+of good information sharing and communication to the subsequent
+arding decisions that ensure timely, necessary and proportionate
+kers need the full information picture concerning an individual and
+available to them. Information viewed alone or in silos may not give
+he true risk. All the information from various agencies needs to be
+n one place; to keep children safe and assist signatories to this
+their obligations under the Act and other legislation.
+arding Children Partnership for the above example)
+(Continues)
+V1.3 June 2023
+
+Clearly set out your pu
+(include a description
+Purposes:
+• identify, protect and su
+• early and effective ide
+• mitigation of risk to mi
+• better understanding ri
+• joint decision making
+• stopping abuse/sufferi
+• informed decision mak
+Who benefits:
+• individuals (children, p
+• organisations
+• society
+1
+
+Safeguarding Data Sharing Agreement – Guidance Document
+pose(s) and benefits for sharing
+f the nature, scope and context):
+port children
+tification of risk
+s individuals (slipping through the safeguarding net)
+ks
+nd coordinated action
+g before it occurs
+ng on how to best ensure children are protected
+rents, families)
+V1.3 June 2023
+
+2b Purpose and benefits – example s
+Scenario 1:
+A local authority and mental health trust see
+improve steps to prevent suicides by sharing
+data concerning individuals considered to be
+suicide. The police are also asked and agree
+relevant information but will not be accessin
+routinely (though may request or be informe
+information on an ad-hoc basis).
+The local authority and mental health trust h
+an application available to care professionals
+in jointly provided suicide prevention services
+information they need. They have identified
+risk factors in their individual data sources th
+to be related to suicide and by combining ris
+from both organisations will have a fuller pic
+to individuals. The application will also help t
+individuals who may be new to one service,
+known to the other.
+The information sharing is necessary so that
+involved with the individuals have the full pi
+current risks, concerns and services involved
+so can assess any change in circumstances a
+advice, guidance and support as required to
+the risk of suicide and in time manage the c
+individual to the point when they no longer
+prevention service support. They have docu
+a Data Sharing Agreement.
+1
+
+Safeguarding Data Sharing Agreement – Guidance Document
+enarios
+Scenario 2:
+to The Local Authorities Early Years Portage and Inclusion
+ersonal Team provide support to families and early years
+at risk of practitioners for children from birth to five years, who have
+o provide a disability and/or have special educational needs (SEN).
+information In order to provide the service needed, information sharing
+of relevant between the local authority, the child’s setting and other
+professionals who work with the child (e.g. GP, speech
+therapist, SEN Team) takes place.
+ve developed
+they employ The information sharing is necessary to complete and
+to manage review educational progress over time and for planning
+number of the effective delivery of the service. The information will
+t are known be used to fulfil the duties placed on local authorities;
+factors namely for the provision and monitoring of support and
+ure of risks services for families with young children, and planning
+em identify future services and support, in the local area, and to
+ut already ensure that awareness, and availability, so families can
+attend appropriate family support services. They have
+documented this in a Data Sharing Agreement.
+he staff
+ture of
+ith them,
+d provide
+revent
+re of the
+eed the
+ented this in
+V1.3 June 2023
+
+2c Purpose and benefits – What you
+The purpose section is important for the DP
+them establish whether the sharing will follo
+Protection Principles and be ‘fair and lawful’.
+the DPO is a good test of how well the purp
+has been set out and will help the DPO to id
+Further notes on what the DPO will want to
+included throughout this guidance.
+2d Purpose and benefits – Further re
+● DSA guidance – see benefits and purpos
+Data sharing agreements | ICO
+Information Commissioner’s Office (ICO)
+● General Medical Council – Protecting c
+and Young People, Confidentiality and
+information
+Confidentiality and sharing information
+Ethical guidance – GMC (gmc-uk.org)
+GMC
+● Caldicott report ‘To Share or not to sh
+(particularly section 10)
+The Information Governance Review
+(publishing.service.gov.uk)
+National Data Guardian’s Office
+1
+
+Safeguarding Data Sharing Agreement – Guidance Document
+DPO will need to know
+, to help
+the Data
+Review by
+se section
+ntify gaps.
+now are
+ding and guidance
+sections ● How do we describe processing
+How do we do a DPIA?
+ICO
+ildren ● Deciding to share data
+sharing Deciding to share data
+ICO
+re’
+V1.3 June 2023
+
+3 Data Controller(s) /
+How to complete
+It is essential to identify and document t
+each organisation involved in any data s
+determine if they are a controller, joint c
+or processor (Processor(s) are covered in
+section under 4 Processor(s)) for the per
+being shared.
+Data controllers decide why and how the pe
+will be processed and shared. We establish t
+each organisation to help determine the acti
+for which each partner is responsible. Some
+will be more straight forward than others. Pl
+help available on the following pages to esta
+relevant roles and use 3E to document any j
+arrangements (joint controllers must enter in
+arrangement under Article 26 of the UK GD
+1
+
+Safeguarding Data Sharing Agreement – Guidance Document
+oint Controller(s)
+e roles of It may also be useful to identify if organisations identified
+aring and as controllers contribute and/or view data (depending on
+ntroller the sharing scenario). It is possible that some partners may
+he next only view data provided by others. Such organisations
+onal data might be controllers if they are determining the purposes
+and means of processing.
+sonal data It is also possible that some organisations may be a
+e status of controller, but not contribute or access any personal
+ns and risks data. Whilst this is uncommon, if they are involved in
+cenarios the determination of purposes and means, they are a
+ase use the controller. An example may be an NHS Integrated Care
+lish the Board (ICB) that has been involved in the development
+int controller and governance of a Shared Care Record used by multiple
+o an health and social care organisations that it commissions to
+R). provide services.
+V1.3 June 2023
+
+3a Data Controller(s) / Joint Controller(s) – completed exa
+Name of Organisation(s):
+Police
+Local Authority (LA)
+Mental Health Trust
+Voluntary sector commissi
+*add additional rows as requir
+1
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ple
+Status:
+Controller
+Contributing data but no access to data
+contributed by sharing partners. No access to
+data contributed by sharing partners.
+Joint-controller
+Use of data determined jointly by both LA &
+Mental Health Trust. LA contributing data.
+LA has additional processing responsibilities
+for processing of data contributed by Mental
+Health Trust and Police. Access to all data
+contributed.
+Joint-controller
+Use of data determined jointly by both
+LA & Mental Health Trust. Mental Health
+Trust contributing data. Access to all data
+contributed.
+ned provider Controller
+Not contributing data but accessing data
+provided by other partners to deliver
+commissioned service.
+Has determined data that is available via this
+sharing is what it requires for it’s purposes.
+d
+V1.3 June 2023
+
+3b Data controller(s) / joint controlle
+Scenario 1: Joint controller arrangement:
+Joint controller arrangement:
+A local authority and mental health trust see
+improve steps to prevent suicides by sharing
+data concerning individuals considered to be
+suicide. The local authority and mental healt
+developed an application accessible over the
+care professionals they employ in jointly prov
+prevention services to manage information t
+The Police are also asked and agree to share
+information but do not require access to hea
+social care service information (though may r
+be informed of relevant information on an a
+The local authority and mental health trust a
+controllers of the data processed in the web
+2
+
+Safeguarding Data Sharing Agreement – Guidance Document
+(s) – example scenarios
+Scenario 2: Controller arrangement:
+Controller arrangement:
+to A local authority, an acute NHS hospital trust and a
+ersonal community mental health NHS trust establish a regular
+at risk of multi-disciplinary team meeting to discuss a cohort of
+trust have individuals that they either are all, or may all be involved
+internet to with, providing complex care needs. The meeting is to
+ded suicide discuss both current caseload and potential individuals
+ey need. to come on to the caseload. Each party brings notes to
+elevant the meeting and shares what they think is relevant at the
+th and meeting. No joint notes are taken and no shared systems
+quest or are used. Each party might record in their own notes
+-hoc basis). some information from the others. In this circumstance
+e joint the organisations are likely to be separate controllers
+pplication. exchanging data as required as they do not have a shared
+asset (e.g. database) and whilst their objectives may be
+linked they are not necessarily the same.
+V1.3 June 2023
+
+3c Data controller(s) / joint controlle
+The DPO needs to know the relationships be
+the parties to a data sharing agreement, so t
+establish each party’s responsibilities for com
+the Data Protection Principles. Which organi
+● have decided what data will be shared an
+be handled (determination of purposes an
+● will be contributing/sharing data?
+● will be accessing/receiving data?
+● will be handling/processing data on behalf
+organisations (acting as data processors)?
+3d Data controller(s) / joint controlle
+● Determining data relationships - who a
+who are joint controllers, and who is a pro
+Controllers and processors | ICO
+ICO
+● Definition of Controller (Paragraph 7)
+Chapter 1 – Article 4 | UK GDPR (uk-gdpr.
+UK GDPR
+● Definition of Joint Controllers
+Chapter 4 - Article 26 | UK GDPR (uk-gdpr
+UK GDPR
+● Controllers and Processors
+Controllers and processors
+ICO
+● Joint Controller responsibilities
+What does it mean if you are joint controll
+ICO
+2
+
+Safeguarding Data Sharing Agreement – Guidance Document
+(s) – What your DPO will need to know
+ween all A Data Protection Impact Assessment is very likely to be
+ey can help required in many sharing scenarios and the DPO should be
+lying with actively involved in advising on this at an early stage in the
+ations: development.
+how it will Please also note that if a sharing initiative is a joint-
+means)? controller arrangement the Data Sharing Agreement (and
+all other relevant information governance documentation)
+must be completed jointly.
+of other
+(s) – further reading and guidance
+e controllers, ● Overall Data Sharing Code of Practice
+essor Data sharing: a code of practice
+ICO
+● Competent Authority (Law Enforcement processing)
+Definition of Competent Authority (for Law
+rg) Enforcement Processing), Link: Part 3, Chapter 1, s31,
+DPA 2018
+DPA 2018
+org) ● Controller definition (Law Enforcement processing)
+Controller/Processor (for Law Enforcement Processing),
+Link: Part 3, Chapter 1, s32, DPA 2018
+DPA 2018
+● UK GDPR guide
+ico.org.uk/for-organisations/guide-to-data-protection/
+rs? guide-to-the-general-data-protection-regulation-gdpr/
+ICO
+V1.3 June 2023
+
+3e Data Controller(s) / Joint Controller(s) – completed example of J
+Area of responsibility: L
+Conduct DPIA on the data C
+processing. D
+Individuals are informed about T
+the use of their information d
+(unless an exemption applies): in
+Develop privacy information. u
+c
+pr
+in
+Data is processed lawfully: D
+Define the shared purposes d
+for use of the data via this pr
+agreement. A
+Data is used for limited E
+purposes: Establish agreed n
+purposes and if necessary, a
+a process to identify, assess E
+and agree other uses with the st
+controllers. th
+The minimum data is used: E
+Ensure the minimum necessary pr
+data is used by staff. d
+a
+ot
+c
+c
+2
+
+Safeguarding Data Sharing Agreement – Guidance Document
+int Controller Responsibilities template
+cal authority Mental health trust
+llaborate with joint controllers on Collaborate with joint controllers on
+IA production. DPIA production.
+e organisation will ensure The organisation will ensure
+ta subjects are sufficiently data subjects are sufficiently
+ormed (as appropriate) of its informed (as appropriate) of its
+e of their data through effective use of their data through effective
+mmunications (such as a website communications (such as a website
+vacy notice that can be linked to privacy notice that can be linked to
+letters/emails, posters, leaflets). in letters/emails, posters, leaflets).
+fine purposes for processing Define purposes for processing
+ta and confirm lawful bases for data and confirm lawful bases for
+cessing in the Data Sharing processing in the Data Sharing
+reement (see s.2 & s.7) Agreement (see s.2 & s.7)
+tablish agreed purposes and if Establish agreed purposes and if
+cessary a process to identify, necessary a process to identify,
+sess and agree other uses. assess and agree other uses.
+sure access is only given to Ensure access is only given to
+ff needing to view the data for staff needing to view the data for
+ir role. their role.
+sure design of the systems Ensure design of the systems
+vides the minimum necessary provides the minimum necessary
+ta to end users (via role-based data to end users (via role-based
+cess control (RBAC)). Apply any access control (RBAC)). Apply any
+er required filters on sensitive other required filters on sensitive
+des and the agreed population codes and the agreed population
+verage. coverage.
+(Continues)
+V1.3 June 2023
+
+Area of responsibility: Lo
+Data is accurate: Ensure Re
+processes to link and/or display pro
+data do not compromise sha
+accuracy.
+Data retained only as long as Re
+necessary: Ensure data is not ap
+kept for longer than appropriate
+periods.
+Define and implement Re
+appropriate security controls sys
+for the relevant exchange of
+data. Where a system is used
+- security control definition:
+Identify risks and design
+appropriate control measures to
+secure the system.
+Define and implement Re
+appropriate security controls ma
+for the relevant exchange of
+data. Where a system is used –
+system security management:
+Application of any requirements
+when setting up users.
+2
+
+Safeguarding Data Sharing Agreement – Guidance Document
+al authority Mental health trust
+ponsibility for technical Local authority to lead on this area
+esses within system used to
+e/record data.
+ponsibility for retaining data for Local authority to lead on this area
+ropriate period.
+ponsibility for appropriate Local authority to lead on this area
+em security controls.
+ponsibility for system security Local authority to lead on this area
+agement.
+(Continues)
+V1.3 June 2023
+
+Area of responsibility: Lo
+Encryption and Re
+pseudonymisation: ap
+Determination of applicability as pse
+risk controls and implementation con
+where possible.
+Resilience and restoration: Re
+Determination of applicability as an
+risk controls and implementation
+where possible.
+Security audits are undertaken: Re
+Security controls as defined sec
+in the Data Protection Impact eff
+Assessment are audited to con
+assure effectiveness.
+Usage audits are undertaken. Pro
+org
+To
+All access is by authorised To
+users only: Process to ensure all Re
+access is authorised. pro
+Maintaining records of To
+processing (ROPA): Hold records con
+of all data contributions and
+access controls.
+2
+
+Safeguarding Data Sharing Agreement – Guidance Document
+al authority Mental health trust
+ponsibility to apply To agree where encryption and/
+ropriate encryption and/or or pseudonymisation should be
+donymisation where an agreed applied as a control.
+rol.
+ponsibility to ensure resilience Local authority to lead on this area
+restoration of system/data.
+ponsibility for undertaking Local authority to lead on this area
+rity audits to test the
+tiveness of the security
+rols.
+ision of audit reports to support To audit own staff use.
+nisational audit activities.
+udit own staff use.
+gree user set up process. To agree user set up process.
+ponsibility to ensure user set up
+ess is followed.
+old records of all data To hold records of all data
+ributions and access controls. contributions and access controls.
+(Continues)
+V1.3 June 2023
+
+Area of responsibility: Lo
+Breach notification: Notify Not
+any breaches to all affected par
+partners and agree co-ordinated res
+response. req
+co
+res
+Maintain any changes or Re
+additional processing.
+Audit risk control measures Co
+Support Data Subject Rights: To
+Agree and maintain joint for
+processes to support any req
+requests related to shared data.
+*add additional rows as required
+2
+
+Safeguarding Data Sharing Agreement – Guidance Document
+al authority Mental health trust
+fy any breaches to all affected Notify any breaches to all affected
+ners and agree co-ordinated partners and agree co-ordinated
+onse, reporting via DSPT as response, reporting via DSPT as
+ired, nominally by the ‘lead required, nominally by the ‘lead
+troller’ if no single party deemed controller’ if no single party deemed
+onsible. responsible.
+iew DPIA and responsibilities. Review DPIA and responsibilities.
+duct auditing and share results. Conduct auditing and share results.
+gree and follow processes To agree and follow processes
+esponding to subject rights for responding to subject rights
+ests. requests.
+V1.3 June 2023
+
+4 Processor(s)
+4a Processor – completed example
+Controller that Proce
+processing data on
+of
+Name of
+processor
+Processor – NHS Local Authority
+Commissioning
+Support Unit A
+*add additional rows as required
+2
+
+Safeguarding Data Sharing Agreement – Guidance Document
+Status
+sor is Details of the data being Is an agreement (as per UK
+ehalf processed or to be GDPR Article 28) in place
+processed (what data, how between the Controller and
+is it being processed and Processor that covers the
+why?) processing detailed above?
+NHS CSU to receive data Yes, a data processing
+feeds from contributing agreement is in place with
+controllers on monthly basis, the Local Authority. Other
+containing: contributing controllers are
+First name, last name, third party beneficiaries under
+date of birth, address, post the Contracts (Rights of Third
+code, NHS number (where Parties) Act 1999.
+available), case notes
+relevant to suicide risk.
+NHS CSU to match data
+feeds, present them in
+application to end users
+(staff).
+The system/data is being
+processed to support services
+to prevent suicides.
+V1.3 June 2023
+
+4b Data processor(s) – example scen
+Scenario 1:
+A local authority and mental health trust see
+steps to prevent suicides by sharing personal
+concerning individuals considered to be at ri
+The police are also asked and agree to share
+information but do not require access to hea
+social care service information (though may r
+informed of relevant information on an ad-h
+The joint controllers decide that they will inst
+organisation, an NHS commissioning suppor
+to receive data feeds and display data in a sy
+CSU will maintain and support.
+The CSU is therefore a data processor to the
+authority and mental health trust as joint co
+must have a contract/agreement in place as
+of the UK GDPR but can have a multi-party c
+either organisation can contract with the CS
+the other organisation is named as a benefic
+the contract.
+2
+
+Safeguarding Data Sharing Agreement – Guidance Document
+rios
+Scenario 2:
+to improve A local authority is working with the police, public health
+data nursing and the Department for Work and Pension (DWP)
+k of suicide. matching individuals data to households within a data
+relevant warehouse to establish a single view of the child and
+th and family to enhance partnership working, early intervention
+quest or be and enable targeted support for children and their
+c basis). families. The data warehouse is hosted by Microsoft Azure
+which must be classed as the data processor acting on
+uct another
+behalf/instructions of the data controller. A contract is in
+unit (CSU),
+place as per legal requirement under UK GDPR, Article 28.
+tem, that the
+local
+trollers. They
+er Article 28
+ntract or
+, provided
+ary of
+V1.3 June 2023
+
+4c Data processor(s) – what your DP
+This section must highlight clearly the Data S
+Agreement personal data to be processed a
+organisation(s).
+Consider processor due diligence; assurance
+processor will handle data appropriately (this
+included within a DPIA). What agreement or
+act is in place with the processor? The DPO c
+ensuring the agreement is compliant with U
+28 requirements.
+A Data Protection Impact Assessment is likel
+required for most safeguarding sharing. This
+identify data processors and must be review
+approved by the DPO before processing take
+4d Data processor(s) – further readin
+● Controllers and Processors
+Controllers and processors | ICO
+ICO
+● Contracts between Controllers and Pr
+Contracts | ICO
+ICO
+● Definition of Processor
+Chapter 1 - Article 4 | UK GDPR (uk-gdpr.
+UK GDPR
+● Controller and Processor
+Chapter 4 - Article 28 | UK GDPR (uk-gdpr
+UK GDPR
+2
+
+Safeguarding Data Sharing Agreement – Guidance Document
+will need to know
+aring Where there is a data processor, the DPO will need to
+d by which see the agreement and check for appropriate clauses
+aligned to UK-GDPR article 28. A data processor may
+be processing data on behalf of multiple controllers and
+that the
+each controller must have an appropriate Data Processing
+may be
+Agreement with the processor. This can take the form
+other legal
+of one contract with one controller as long as the other
+n assist in
+controllers are identified as ‘beneficiaries’ to that contract
+GDPR article
+under the ‘Contracts (Rights of Third Parties) Act 1999’.
+to be
+should
+d and
+place.
+and guidance
+● Contracts (Right of Third Parties) Act 1999
+Summary of CRTP Act 1999 (legislation.gov.uk website)
+Legislation website (National Archives)
+cessors ● Contracts and liabilities between controllers and
+processors Contracts and liabilities between controllers
+and processors
+ICO
+rg)
+org)
+V1.3 June 2023
+
+5 Data shared betwe
+How to complete
+Service leads, operational staff and anal
+who understand the information should
+with the information governance team
+organisation’s DPO to decide what data/
+is necessary and proportionate to share,
+the stated purpose.
+The main considerations here are justificatio
+we need this information and does the law
+process it for the intended purpose(s) and pr
+(how much information do we need and is t
+reach the goal with less or pseudonymised o
+data). For details about the different levels o
+please see Toolkit 2.
+If your sharing initiative is straight-forward y
+able to list the required details directly in the
+agreement. If the intended sharing of inform
+a more informal way (corridor conversations)
+Toolkit 1 for further details.
+Some (maybe less formal) sharing initiatives
+require you to have a conversation to establi
+information should be considered to be shar
+organisations requesting data for safeguardi
+not necessarily understand what information
+be shared.
+2
+
+Safeguarding Data Sharing Agreement – Guidance Document
+n partners
+tical staff Therefore it is important to push (what do you have that
+work other parties are not asking for but in your view they need
+nd the to know) and pull (what are the parties asking for) in order
+nformation to get to the required results faster and safer. It is good
+to achieve practice to include this in the Data Sharing Agreement to
+document good practice.
+(why do What is personal data?
+llow us to
+Personal data relates to a directly or indirectly identified or
+portionality
+identifiable living individual. What identifies an individual
+ere a way to
+could be as simple as a name or a number or could
+anonymised
+include other identifiers such as an IP address or a cookie
+identifiability
+identifier, or other factors. If identifiers are being removed
+from data in order to pseudonymise the data it is still
+u will be personal data under the UK GDPR. Please see Toolkit 2 for
+data sharing more details around levels of identifiability.
+tion is in
+please see
+ight
+h what
+d. Partner
+g reasons do
+is available to
+V1.3 June 2023
+
+What is special category data?
+The UK GDPR singles out some types of data
+considered to be more sensitive and you ma
+them in more limited circumstances. Special
+includes:
+● Racial or ethnic origin
+● Political opinions
+● Religious or philosophical beliefs
+● Trade Union Membership
+● Genetic data
+● Biometric data
+● Data concerning health
+● Data concerning a person’s sex life
+● Sexual orientation
+3
+
+Safeguarding Data Sharing Agreement – Guidance Document
+What is criminal offence data?
+which are The UK GDPR gives extra protection to the personal data
+only process of offenders or suspected offenders.
+ategory data
+This includes personal data relating to criminal convictions
+and offences or related security measures and covers
+information in the context of criminal activity, allegations,
+investigations and proceedings.
+Please refer to 5F for a completed example of an indicator/
+data index template.
+If you have related sharing agreements already in
+place, check the data items listed in those and use
+those as a starting point for any new agreements
+as it is important to ensure consistency of language
+and terms.
+V1.3 June 2023
+
+5a Information shared between partners – completed exa
+DPIA reference: 007 SF Sha
+One way, two way or Two way s
+multi-party sharing:
+Personal identifiable Two way s
+data:
+Informatio
+School att
+• Children
+• Child mi
+• Perman
+• Child wh
+For the pur
+match data
+individuals
+exclude so
+the exact i
+identity of t
+required fo
+3
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ple
+ing DPIA
+aring
+aring between police and local authority
+shared by local authority with police:
+ndance data:
+ho have not been attending school regularly
+sing three periods of school or more due to fixed term exclusions
+ntly excluded from school
+is on part time timetable
+oses this data will be shared full identification is required to a)
+ets from different sources and b) match the vulnerabilities to
+o allow intervention as required. However, it has been decided to
+e identification when it comes to family members as details about
+cident (e.g. why was the police involved with the family) and the
+e exact individual (e.g. who had involvement with the police) are not
+the purpose of processing the relevant information.
+(Continues)
+V1.3 June 2023
+
+Identificati
+can link to
+reducing ri
+them and
+Indicator di
+required to
+Location d
+display for
+Special categories of Information
+data: Information
+Criminal Offence Data: Information
+Criminal Of
+• ASB (An
+• Police C
+For the pur
+match data
+individuals
+exclude so
+the exact i
+identity of t
+required fo
+Please find
+appendix 2
+3
+
+Safeguarding Data Sharing Agreement – Guidance Document
+n of pupil vulnerability and potential early indicator of behaviour that
+riminality. Allows for the police to make earlier interventions around
+ks of criminality and encourages a joined up approach between
+ther agencies.
+played for individuals with occurrence only. Minimum data shared
+identify, accurately match between different systems. Fact and
+ta is required to use the data for the purpose defined. Does not
+amily members.
+shared by local authority with police: n/a
+shared by police with local authority: n/a
+shared by police with local authority:
+ence data:
+i-social behaviour) Incidents
+iminal Involvement Flag
+oses this data will be shared full identification is required to a)
+ets from different sources and b) match the vulnerabilities to
+o allow intervention as required. However, it has been decided to
+e identification when it comes to family members as details about
+cident (e.g. why was the police involved with the family) and the
+e exact individual (e.g. who had involvement with the policy) are not
+the purpose of processing the relevant information.
+details including data items, necessity and proportionality in
+of this agreement.
+V1.3 June 2023
+
+5b Information shared between par
+Scenario 1:
+The local Multi-Agency Safeguarding Hub (
+makes assessments of risk to children and yo
+to allow informed decision making on what
+best protect that child. To make a decision t
+share information between a number of part
+(e.g. police, health, social care, early help etc
+and families.
+An overall Data Sharing Agreement is in plac
+helps all relevant partners to understand the
+the sharing, what will happen at each stage
+responsibilities they have. The partners have
+to put a specific Data Sharing Agreement in
+go into more details about responsibilities an
+measures. Because the MASH share different
+depending on the case it has been decided t
+overall likely types of data which can potenti
+but to highlight that each practitioner within
+will need to make a balanced judgement on
+case basis.
+This will be with the formal structure of the
+meetings, but also on an ad-hoc basis, eithe
+a request/response or where deemed necess
+pro-active disclosure to reduce the risk of ha
+relevant agencies.
+3
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ers – example scenarios
+Scenario 2:
+ASH) team A local authority receives information from different
+ng people partner organisations to better understand vulnerabilities
+o do to of children, young people and their families within
+e team the relevant area. The system/warehouse collating and
+er agencies matching the data allows the local authority to undertake
+), children analytical work to better understand how to improve
+or target the appropriate support to individuals or
+households.
+which
+urpose for The local authority is reviewing if it would be possible
+nd what to share less data, but the proposed datasets offer the
+ow decided complete view of vulnerability based on the system.
+lace to Sharing less would mean the risk of failing to spot
+security specific issues and potential further escalation of risk for
+information individuals and families. Failing to share personal data
+document means opportunities for targeted support would be lost
+lly be shared and the data immeasurably less valuable. Data types and
+the MASH items have therefore been included to reduce this risk. If
+case by going forward experience shows that some data items are
+not required the Data Sharing Agreement will be adjusted
+to reflect this and sharing of those items will be stopped.
+ASH
+It is notable the data protection principle related to what
+as
+proportion of data to use starts with the words ‘adequate,
+ry a
+relevant’ before mentioning ‘limited to...’
+m between
+V1.3 June 2023
+
+5c Information shared between part
+The DPO needs to know what data will be s
+they can help you identify which lawful basis
+apply, and whether any of the personal data
+be processed for law enforcement purposes.
+obligations apply when processing personal
+enforcement purposes.
+If you haven’t already completed a Data Prot
+Assessment (DPIA), listing the types of data
+DPO decide if a DPIA is necessary. Given the
+scale of the data shared for safeguarding an
+purposes, it is likely that a DPIA will be requi
+5d Information shared between par
+● Personal Identifiable Data:
+What is personal data? | ICO
+ICO
+● Special Categories of Data:
+What is special category data? | ICO
+ICO
+3
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ers – what your DPO will need to know
+ared, so The DPO needs to know how you decided what data is
+conditions necessary and proportionate to share, and who made that
+is likely to decision. This helps the DPO decide if what you have listed
+Different is justifiable as necessary and proportionate and will help
+ata for law identify risks associated with the data sharing.
+Think about what level of identity is required to fulfil the
+ction Impact purpose of sharing the data. Does the data need to be
+ill help the directly identifiable (linked to e.g. a name and address) or
+ensitivity and can it be pseudonymised (linked to a key e.g. ID number
+prevention available to certain staff only) Please see Toolkit 2 for
+ed. more details on anonymisation and options to reduce
+identifiability.
+ers – further reading and guidance
+● Data Sharing Checklist
+(Annex A of the Data Sharing Code of Practice)
+Annex A: data sharing checklist | ICO
+ICO
+● Criminal Offence Data
+What is criminal offence data?
+ICO
+V1.3 June 2023
+
+6 Lawfulness – UK GDPR lawf
+How to complete
+All personal data processing must compl
+the UK GDPR, and the Data Protection A
+(DPA 2018). If the purpose can be achiev
+the processing of personal data (e.g. by
+anonymous data) you will not have a la
+to process.
+To process personal data you must identify a
+listed in the UK GDPR (Article 6). The type of
+purposes for processing, and the relationshi
+individual (data subject) will impact which la
+is appropriate.
+If you are processing special category person
+in section 5 guidance) you must also meet a
+condition in Article 9.
+When processing special category data, you
+identify a condition from Schedule 1 Part 1,
+Part 2 of the DPA 2018 (see section 6a and
+For processing personal data related to crimi
+convictions and offences (known as Law Enf
+processing) Article 10 of the UK GDPR applie
+condition from the DPA 2018 Schedule 1 Par
+identified. For more detail please see Law En
+section on page 41.
+3
+
+Safeguarding Data Sharing Agreement – Guidance Document
+l basis and Article 9 condition
+with both Please use the lawful basis interactive guidance tool (refer
+t 2018 to 6d) provided by the ICO and the help available on the
+d without following pages to assist you.
+rocessing
+Identifying the appropriate lawful basis helps to meet
+ful basis
+Principle 1 of the GDPR, for fair and lawful processing
+of personal data. The lawful basis affects how the rights
+lawful basis of the data subject apply, and will determine how you
+data, the meet your obligations to be transparent with a data
+with the subject about how their data is processed and shared. For
+ful basis example, choosing 6(1)(c) for processing under a legal
+obligation, removes the right to erasure, to portability and
+to object.
+l data (listed
+awful basis An Appropriate Policy Document (APD) is required when
+using most of the public interest conditions under the
+DPA 2018. If you are processing under Article 9(2)(g) for
+ust also
+Safeguarding reasons it is very likely that you will require
+r Schedule 1
+an APD (please see 6d if you require further details).
+uidance).
+If you establish legitimate interests as your most
+al
+appropriate basis in law you must complete a legitimate
+rcement
+interests assessment to help you demonstrate compliance
+, and a
+if required. Please find details on this under 6d,
+3 must be
+Legitimate Interests.
+orcement
+V1.3 June 2023
+
+6a Lawfulness – UK GDPR lawful basis and Article 9 condi
+Highlight your lawful bas
+personal data:
+Local authority:
+6(1)(c) Legal obligation: x
+(see linked legal gateways
+6(1)(e) Public task: x
+Police:
+6(1)(c) Legal obligation: x
+(see linked legal gateways
+6(1)(e) Public task: x
+Highlight your processin
+special category data:
+Local authority:
+9(2)(g) Substantial public i
+(see linked legal gateways
+Police:
+9(2)(g) Substantial public i
+(see linked legal gateways
+3
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ion – completed example
+s under Article 6 of the UK GDPR for processing of
+nder 6b)
+nder 6b)
+condition under Article 9 of the UK GDPR for processing of
+terest *: x
+nder 6b; see APD in section below)
+terest *: x
+nder 6b; see APD in section below)
+V1.3 June 2023
+
+6b Lawfulness – UK GDPR lawful basis
+Scenario 1: Multi agency sharing
+In order to support vulnerable victims of domes
+police need to know which services some childr
+are open to and the contact details of lead prof
+so that they can work in an integrated way by s
+information appropriately with individuals who
+with the family. It is therefore necessary for the
+be able to understand if an individual is open t
+services and for the police to then share inform
+that professional.
+Article 6(1)(c) legal obligation – need to pro
+comply with a common law or statutory obligat
+Police example – Domestic Abuse Statutory G
+2022, Section 248, 439, 443
+Local authority example – Domestic Abuse S
+Guidance July 2022, Section 248, 439, 443
+The Children Act 2004, Section 11
+Article 6(1)(e) public task
+Article 9(2)(g) reasons of substantial public inte
+Safeguarding of children and individuals at risk
+The partners have explored the specific purpos
+the context of processing and have used the int
+guidance tool provided by the ICO. They have
+more than one basis applies under Article 6.
+Please note: This is an example only, not all rele
+scenarios have been shared here (e.g. children
+harm, child protection plan due to neglect). Th
+police involvement in such a situation need to
+their primary purpose for using the data comes
+definition of Law Enforcement processing.
+3
+
+Safeguarding Data Sharing Agreement – Guidance Document
+nd Article 9 condition – example scenarios
+Scenario 2: T wo way sharing between a local authority
+and police
+ic abuse the
+n/ families The local police hold information about children and
+ssionals young people at risk of or experiencing child sexual and
+aring
+criminal exploitation. The local authority covering the
+re working
+same geographical area also holds important information
+olice to
+that identifies these risks. In order to have a complete
+specific
+picture of the risk to certain children it is necessary to share
+tion with
+relevant information to create a common understanding of
+those risks and to ensure that all agencies with statutory
+ess data to
+responsibilities to safeguard are aware of the appropriate
+on.
+information to make the right decisions. Sharing has
+idance July previously happened in an informal way on an individual,
+case by case basis. The two partner organisations (local
+authority and police) have now decided to share the
+atutory
+relevant data in bulk in order to combine knowledge
+to allow a better awareness in general and to do risk
+modelling for early intervention and/or prevention. Both
+parties have established the most appropriate lawful basis
+est –
+under the UK GDPR as follows:
+Article 6(1)(c) legal obligation – need to process data to
+s and
+comply with a common law or statutory obligation.
+ractive
+ecided that Police example – Common Law Policing Purposes which
+may be summarised as protecting life and property,
+preserving order, preventing the commission of offences,
+ant
+and bringing offenders to justice and/or any duty or
+t risk of
+se leading responsibility arising from statute or other rule of law
+etermine if including court order and royal prerogative.
+within the
+V1.3 June 2023
+
+Local authority example –The Children Ac
+Section 11
+Article 9(2)(g) reasons of substantial public i
+Safeguarding of children and individuals at ri
+The partners have explored the specific purp
+the context of processing and have used the
+guidance tool provided by the ICO. Please n
+leading police involvement in such a situatio
+to determine if their primary purpose for usi
+data comes within the definition of law enfo
+processing.
+Scenario 3: Onward sharing to schools
+The local authority is collating relevant infor
+different internal and external partner organ
+(police, housing, education, health visiting,
+This has three primary aims, to identify famili
+multiple disadvantages, the improvement or
+of appropriate support to individuals or hous
+ultimately the improvement of the physical,
+emotional, social or economic wellbeing of i
+families.
+In order to support educational settings with
+individuals risks and vulnerabilities more effe
+to ensure that appropriate support and inter
+in place for vulnerable individuals and famili
+the relevant information will be onward shar
+within the relevant area via a Power BI dash
+Schools have a responsibility to meet the ne
+pupils and to safeguard them including early
+In order to do this effectively they need to u
+the lives of their pupils better to ensure they
+3
+
+Safeguarding Data Sharing Agreement – Guidance Document
+2004, safe and appropriate interventions. It is important for
+the school to understand the status of a child in the
+safeguarding system, details of lead professionals working
+terest –
+with the family, some interactions with the police e.g.
+k
+reported missing, domestic incidents.
+ses and
+Article 6(1)(c) legal obligation - need to process data to
+interactive
+comply with a common law or statutory obligation.
+te, those
+Education example – Education Act 2002, Section 175,
+need
+157
+g the
+cement Local authority example –The Children Act 2004,
+Section 11
+Article 9(2)(g) reasons of substantial public interest -
+Safeguarding of children and individuals at risk
+ation from
+The partners have explored the specific purposes and
+sations
+the context of processing and have used the interactive
+WP etc.).
+guidance tool provided by the ICO. Those leading police
+s facing
+involvement in such a situation need to determine if their
+argeting
+primary purpose for using the data comes within the
+holds and
+definition of law enforcement processing.
+ental,
+dividuals and Scenario 4: Sharing with other Local Authority
+Many children live in one area and go to school or access
+managing services in another local authority. Local authority A
+tively and is sharing information about a looked after child with
+entions are Local authority B as the child has been placed in an out
+s some of of county placement. In order to meet the needs of
+d to schools the child and to provide the appropriate support it is
+oard. often necessary for staff with safeguarding / early help
+responsibilities to understand issues such as events in that
+ds of their
+person’s life, services they are accessing, issues pertaining
+intervention.
+to school life. It is necessary to share information in
+derstand
+order to provide the appropriate level of support to meet
+ut in place
+their needs.
+V1.3 June 2023
+
+Article 6(1)(c) legal obligation – need to p
+comply with a common law or statutory obli
+Local authority example – The Children A
+Section 11
+Article 9(2)(g) reasons of substantial public i
+Safeguarding of children and individuals at ri
+The partners have explored the specific purp
+the context of processing and have used the
+guidance tool provided by the ICO.
+Please note: This is an example only, some p
+forces may share the relevant information di
+educational settings.
+3
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ocess data to Scenario 5: Sharing with Health
+ation
+In order for the local authority to comply with the Children
+t 2004, and Social Work Act 2017 which sets a duty on local
+authorities to support care leavers, the Drug and Alcohol
+Support Service provided by the local NHS Foundation
+terest –
+Trust shares weekly appointment and intervention
+k
+information for relevant young people aged 16–18 years
+ses and
+who are being supported by the Leaving Care Team (part
+interactive
+of the local authority). The Trust knows which service
+users are relevant as the local authority first shares details
+lice (limited to ‘personal data only’, names and DOB) that are
+ctly with currently engaged with their service and, where required,
+the local authority informs service users of this sharing.
+Article 6(1)(e) public task
+Article 9(2)(h) health or social care
+The partners have explored the specific purposes and
+the context of processing and have used the interactive
+guidance tool provided by the ICO.
+V1.3 June 2023
+
+6c Lawfulness – UK GDPR lawful basis a
+Public authorities can only perform functions
+have ascribed to them in legislation and stat
+for detail). Such legislation provides the duty
+to deliver a service, but seldom do they refer
+and information. Therefore it can be difficult
+establish if the purpose of the intended shari
+in law or inferred (implied) by law and furthe
+establish the most appropriate lawful basis f
+under the UK GDPR and the Data Protection
+is important to assure that the specific purpo
+of processing and relationship to the individ
+considered in order to get it right from the s
+is documented before processing commence
+6d Lawfulness – UK GDPR Article 6 and
+● Lawfulness
+Lawfulness
+ICO
+● Lawful basis for processing under the
+Lawful basis for processing
+ICO
+● Lawful basis interactive guidance tool
+Lawful basis interactive guidance tool
+ICO
+● Legislation guides
+Legislation guides
+Local Government Association (LGA)
+4
+
+Safeguarding Data Sharing Agreement – Guidance Document
+d Article 9 condition – what your DPO will need to know
+that they If the purpose does not require the processing of
+te (see 6b the relevant data we do not have a lawful basis and
+or power consultation with the team is required to establish
+nce data alternatives (e.g. using anonymised data, not sharing
+for staff to data). It is also essential to assure accountability by
+g is specified documenting the lawful basis where necessary (Records
+more to of Processing Activities, Transparency Information, Data
+r processing Sharing Agreement, DPIA etc.).
+Act 2018. It
+Consider Schedule 1 of the DPA 18 for the processing of
+es, context
+Criminal Offence Data.
+als are
+art and that it
+.
+rticle 9 condition – further reading and guidance
+● Appropriate Policy Document Template
+appropriate-policy-document.docx (live.com)
+ICO
+K GDPR ● Substantial Public Interest Conditions
+(including the requirement of an appropriate policy
+document).
+What are the substantial public interest conditions?
+ICO
+● Sensitive processing (law enforcement)
+Data Protection Act 2018 (legislation.gov.uk)
+UK Government
+● Legitimate interests
+Legitimate interests
+ICO
+V1.3 June 2023
+
+6A Lawfulness – Data P
+How to complete
+If you are relying on UK GDPR Article 9 cond
+(g), (h), (i), or (j) please make sure you also m
+relevant condition under Schedule 1, Parts 1
+Data Protection Act 2018 (see under 6a – La
+Data Protection Act 2018 Your DPO will help
+which schedule condition applies to the shar
+The conditions under schedule 1 map to the
+9 conditions as follows:
+● 9.2.b – employment, social security & soci
+DPA 2018, Schedule 1, Part 1, paragraph
+● 9.2.g – substantial public interest – DPA 2
+1, Part 2 (there are a number to choose fr
+● 9.2.h – Provision of health and social care
+Schedule 1, Part 1, paragraph 2
+● 9.2.i – Public health – DPA 2018, Schedule
+paragraph 3
+● 9.2.j – Research – DPA 2018, Schedule 1,
+paragraph 4
+4
+
+Safeguarding Data Sharing Agreement – Guidance Document
+otection Act 2018
+tion (b), Law enforcement processing
+et the
+Processing personal data for law enforcement purposes
+2 of the
+is covered by Part 3 of the DPA 2018. There are different
+fulness –
+conditions that apply. Where processing is taking place
+you identify
+for law enforcement, you need to check whether you are
+ng).
+listed as a competent authority in Schedule 7 of the DPA
+GDPR article 2018. If you are not listed in Schedule 7, you may still be a
+competent authority if you have a legal power to process
+l protection – personal data for law enforcement purposes. For example,
+local authorities who prosecute trading standards
+offences or the Environment Agency when prosecuting
+18, Schedule
+environmental offences.
+m)
+A key question regarding processing for law enforcement
+DPA 2018,
+purposes is whether law enforcement is the primary
+purpose for processing the data shared between the
+1, Part 1, parties. In terms of safeguarding children, where data is
+shared for ensuring their safety and wellbeing, it is likely
+that law enforcement is not the primary purpose of a
+art 1,
+local authority. However, it may be the purpose for a
+police force, in the same Data Sharing Agreement, for the
+prevention and detection of crime.
+V1.3 June 2023
+
+For example, data shared by the local author
+the situation around a child may indicate cri
+behalf of one or more parents, which the po
+then need to investigate. Local authorities m
+processing for both usual purposes and law
+purposes, for example when a Youth Offend
+is involved.
+It is possible that law enforcement processin
+outside the scope of the Data Sharing Agree
+the data has been shared for the primary pu
+safeguarding but further processing is neces
+law enforcement by the police, then the poli
+responsible for ensuring that activity is done
+manner. For more guidance see the ICO Gui
+Law Enforcement processing link in the guid
+this section.
+4
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ty regarding
+inality on
+ice would
+y be
+nforcement
+ng Team
+may fall
+ent. If
+pose of
+ary for
+e are
+n a compliant
+ance on
+nce for
+V1.3 June 2023
+
+6Aa Lawfulness – Data Protection Act 2018 – completed e
+Identify the appropriate c
+the DPA 2018
+Local Authority:
+DPA 18, Schedule 1, Part
+DPA 18, Schedule 1, Part
+applicable (18. Safeguard
+DPA 18, Schedule 1, Part
+Police:
+DPA 18, Schedule 1, Part
+DPA 18, Schedule 1, Part
+DPA 18, Schedule 1, Part
+The sharing is for one of
+prevention, investigation
+of criminal penalties, incl
+to public security – the sh
+2018 (DPA) with the polic
+4
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ample
+ndition(s) in UK law, set out in Schedule 1, parts 1, 2 & 3 of
+– Conditions relating to employment, health and research etc: n/a
+– Substantial public interest conditions:
+ng of children and individuals at risk)
+- Additional conditions relating to criminal convictions etc: n/a
+– Conditions relating to employment, health and research etc: n/a
+– Substantial public interest conditions: n/a
+- Additional conditions relating to criminal convictions etc: n/a
+he law enforcement purposes – defined as the purposes of the
+detection or prosecution of criminal offences or the execution
+ding the safeguarding against and the prevention of threats
+ring falls under the scope of Part 3 of the Data Protection Act
+acting as a competent authority.
+(Continues)
+V1.3 June 2023
+
+Complete the below if thi
+Law enforcement purpose
+or prosecution of criminal o
+safeguarding against and t
+Local Authority: n/a
+Police:
+Law Enforcement proces
+• a competent authority (a
+• any other organisation w
+(highlight which is appropri
+and
+1. the data subject has giv
+2. the processing is neces
+(highlight which is appropri
+Law Enforcement proces
+law enforcement processin
+1. the data subject has giv
+2. the processing is strictly
+3. a nd for both cases an a
+(This DSA does also fun
+required.)
+4
+
+Safeguarding Data Sharing Agreement – Guidance Document
+activity includes processing for a law enforcement purpose
+are the purposes of the prevention, investigation, detection
+fences or the execution of criminal penalties, including the
+e prevention of threats to public security
+ing as per DPA18, Section 30(1) is carried out by:
+per DPA18, Schedule 7), or
+th a statutory law enforcement function
+te)
+n their consent for the processing, or n/a
+ary for a law enforcement purpose x
+te)
+ing of sensitive data (processing of special category data under
+) as per DPA18, Part 3, Section 35(2) can be carried out where:
+n their consent for the processing, or n/a
+ecessary for a law enforcement purpose x
+propriate policy document (APD) is in place x
+tion as the APD and will be reviewed and updated regularly and as
+(Continues)
+V1.3 June 2023
+
+Complete the below if t
+Law enforcement purpos
+or prosecution of criminal
+safeguarding against and
+If 2. strictly necessary for
+The sensitive processing
+(highlight from the below)
+• Statutory purpose
+• Administration of justic
+• Vital interests
+• Safeguarding children
+• Data made public
+• Legal claims
+• Judicial acts
+• Preventing fraud
+• Archiving
+4
+
+Safeguarding Data Sharing Agreement – Guidance Document
+is activity includes processing for a law enforcement purpose
+s are the purposes of the prevention, investigation, detection
+ffences or the execution of criminal penalties, including the
+the prevention of threats to public security
+law enforcement purpose
+eets a legitimising condition in Schedule 8 of the DPA18
+nd adults at risk x
+V1.3 June 2023
+
+6Ab Lawfulness – Data Protection A
+Scenario:
+In order to support vulnerable victims of do
+the police need to know which services som
+families are open to and the contact details
+professionals so that they can work in an int
+by sharing information appropriately with in
+who are working with the family. It is theref
+for the police to be able to understand if an
+open to specific services and for the police t
+information with that professional.
+For disclosure to the police by the local auth
+local authority relies on Article 9(2)(g) of the
+Appropriate public interest condition identifi
+Schedule 1, Part 2, 18. Safeguarding of child
+individuals at risk. Appropriate policy docum
+4
+
+Safeguarding Data Sharing Agreement – Guidance Document
+t 2018 – example scenarios
+estic abuse
+children/
+f lead
+grated way
+ividuals
+re necessary
+ndividual is
+then share
+rity, the
+K GDPR.
+d as
+en and
+nt required.
+V1.3 June 2023
+
+6Ac Lawfulness – Data Protection Ac
+It is likely that the lawful basis for processing
+category data for safeguarding reasons is un
+of Article 9(2)(g), substantial public interest
+GDPR. This will require organisations to mee
+conditions and safeguards set out in UK law,
+1 of the DPA 2018. All relevant partner orga
+determine the relevant condition for processi
+they begin sharing/processing the data.
+6Ad Lawfulness – Data Protection A
+● Law enforcement processing
+Guide to Law Enforcement Processing
+ICO
+● Substantial public interest conditions
+Special category data
+ICO
+● Data Protection Act 2018
+Data Protection Act 2018 (legislation.gov.
+UK Government
+4
+
+Safeguarding Data Sharing Agreement – Guidance Document
+2018 – what your DPO will need to know
+of special It is an additional requirement to have an appropriate
+er the basis policy document in place in order to meet some of the
+f the UK Schedule 1 conditions. This Data Sharing Agreement
+additional might be sufficient to function as the appropriate policy
+in Schedule document as it is likely that all relevant aspects are covered
+isations must within it.
+g before
+t 2018 – further reading and guidance
+● Law enforcement processing principles
+Principles
+ICO
+● Lawfulness
+Lawfulness
+ICO
+k)
+V1.3 June 2023
+
+7 Non-interference – commo
+How to complete
+There are three general approaches to sharin
+data without interference with the common
+confidentiality. These are if you have consent
+individual (data subject), if there is a substan
+interest which allows you to process the info
+question or if there is a legal duty (e.g., a co
+in place asking you to disclose information o
+duty to share in legislation). You should utilis
+appropriate condition for the circumstances.
+It is of note that consent under the Commo
+of Confidentiality is not the same then cons
+lawful basis under data protection law. Cons
+be implied and is a valid basis under the co
+duty of confidentiality (in contrary to consen
+data protection law which must be freely giv
+and involve an affirmative action (UK GDPR
+compliance)). This can be achieved by the in
+being made aware (informed) at which point
+raise queries or concerns if they have any.
+4
+
+Safeguarding Data Sharing Agreement – Guidance Document
+law duty of confidentiality
+personal The conditions to be met for the common law duty
+aw duty of of confidentiality are different to the conditions for
+from the processing under UK GDPR. However, you can consider
+ial public them in a similar way, and use the GDPR conditions to
+mation in describe why the common law duty is met.
+rt order
+Local authorities and their sharing partners will very
+clear
+likely share information with each other on the basis of
+the most
+public interest for safeguarding children. This includes
+the protection of individuals from neglect or physical,
+Law Duty mental, or emotional harm but also the protection of
+nt as a physical, mental or emotional well-being of an individual.
+nt can This doesn’t mean individuals should not be informed
+mon law and engaged about the sharing of their data, but that
+under they should understand why it needs to be done. The
+n, specific, best approach in general in safeguarding (or potential)
+rticle 7 circumstances is to consider sharing on the basis of
+ividual(s) substantial public interests and when doing so inform the
+they can relevant individual(s) about what, why and who, unless the
+circumstances are such that to inform could increase the
+risk to individual(s).
+V1.3 June 2023
+
+7a Non-interference – common law duty of confidentialit
+Please state here and ex
+1) Consent: n/a
+2) S ubstantial public inte
+children and individuals
+3) Legal duty: n/a
+4
+
+Safeguarding Data Sharing Agreement – Guidance Document
+– completed example
+lain how you will be satisfying Confidentiality:
+est: Sharing initiative is based on the public interest to Safeguard
+t risk.
+V1.3 June 2023
+
+7b Non-interference – common law
+Scenario 1:
+A local authority children’s social care depart
+sharing safeguarding relevant information w
+Agency Safeguarding team in order to allow
+assessment of specific safeguarding concern
+completed to allow to make an informed de
+to do to best protect a vulnerable child and f
+the case.
+The circumstances describe a scenario of no
+with the common law duty of confidentiality
+sharing is done in reliance with the public int
+condition under the UK GDPR and DPA18.
+Scenario 2:
+A local authority receives a court order statin
+information held about a child known to the
+must be disclosed within two weeks’ time in
+inform decision making at court. This includ
+and highly sensitive information which can b
+as safeguarding relevant. The individuals rec
+details of child sexual exploitation, self-harm
+by parents and carers of the individual.
+Disclosure of information is required by law.
+confidentiality is overridden and compliance
+order instructions is required.
+5
+
+Safeguarding Data Sharing Agreement – Guidance Document
+uty of confidentiality – example scenarios
+Scenario 3:
+ent is Social worker asks parent if they would like to attend a
+th a Multi- parenting course. Parent says yes. The social worker tells
+for a risk them who runs the service and that they will be sending
+to be over relevant information about their circumstances to
+ision on what help them arrange an appointment and ensure they are
+mily part of put on the right course. The social worker sends a follow
+up letter to confirm this with a link to further information
+about the use of their information.
+-interference
+because So, they’ve agreed to attend the parenting course and
+rest been informed about the use of their data as part of this,
+and they have not raised any objections to the sharing of
+their data. This therefore satisfies the common law duty of
+confidentiality as there is implied consent on this basis.
+that all
+authority
+order to
+s all relevant
+classed
+rds include
+and neglect
+he duty of
+ith the court
+V1.3 June 2023
+
+7c Non-interference – common law dut
+To determine/confirm whether the intended
+satisfies the common law duty of confidenti
+DPO will need to understand what is being s
+is it subject to the common law duty?), why
+shared (i.e. the grounds/purpose for sharing)
+individuals to whom it pertains be informed
+The DPO will also look at the elements of tra
+(see section 8) and subject rights (see sectio
+7d Non-interference – common law du
+● Common law duty of confidentiality
+Duty of confidentiality
+The UK Caldicott Guardian Council
+5
+
+Safeguarding Data Sharing Agreement – Guidance Document
+of confidentiality – what your DPO will need to know
+haring
+lity, the
+ared (i.e.
+t is being
+and will the
+f the sharing.
+sparency
+9).
+y of confidentiality – further reading and guidance
+V1.3 June 2023
+
+7A Non-interference – Hum
+How to complete
+The Human Rights Act 1998, Article 8 (HRA)
+fundamental rights and freedoms that every
+UK is entitled to (e.g. the right to marry or t
+protected from discrimination). It gives publi
+a legal framework to help them to assure th
+they do respects the human rights of the ind
+are providing services for. Article 8 is the righ
+for private and family life (privacy) and is rele
+considering information sharing (are we assu
+interference with everyone’s right to respect
+and family life, their home and their corresp
+The right of respect for private and family lif
+restricted. If so, please state why this is nece
+it is proportionate (e.g. necessary if balanced
+protection of the rights and freedoms of oth
+than required to achieve the purpose for sha
+5
+
+Safeguarding Data Sharing Agreement – Guidance Document
+n Rights Act 1998, Article 8
+sets out the In practice the right to respect for private and family life is
+ne in the very similar to the common law duty of confidentiality and
+e right to be the same general bases that support data sharing under
+authorities the common law will support interference with the right
+t everything to privacy.
+viduals they
+Article 8 states: There shall be no interference by a public
+to respect
+authority with the exercise of this right except such as is in
+ant when
+accordance with the law and is necessary in a democratic
+ed of non-
+society in the interests of national security, public safety or
+or private
+the economic wellbeing of the country, for the prevention
+ndence?).
+of disorder or crime, for the protection of health or
+may be morals, or for the protection of the rights and freedoms of
+sary and if others.
+against the
+There are clear links in safeguarding circumstances with
+rs, not more
+the protection of health, the protection of rights (e.g.
+ing).
+right to life, prohibition of torture) and in some cases the
+prevention of crime.
+V1.3 June 2023
+
+7Aa Non-interference – Human Rights Act 1998, Article 8
+Please state here if there
+Yes: ( Local Authorities m
+necessary and prop
+• protect national sec
+• protect public safet
+• protect the econom
+• protect health or m
+• prevent disorder or
+• protect the rights a
+(if yes, why is it necessar
+n/a
+No:
+Data sharing/processing d
+relationships without gover
+to enjoy their home peacef
+5
+
+Safeguarding Data Sharing Agreement – Guidance Document
+completed example
+is any interference with the Human Rights Act 1998, Article 8
+ght be able to interfere with the right if the action is lawful,
+rtionate in order to:
+rity
+rals
+rime, or
+d freedoms of other people)
+and proportionate to share/process data)
+es not interfere with the right to live your life privately or enjoy family
+ment interference. It does not interfere with the right of individuals
+lly.
+V1.3 June 2023
+
+7Ab Non-interference – Human Righ
+Scenario 1:
+(NB – this is the same scenario as section 7 b
+from the Human Rights Act perspective)
+A local authority children’s social care depart
+sharing safeguarding relevant information w
+Agency Safeguarding team in order to allow
+assessment of specific safeguarding concern
+completed to allow to make an informed de
+to do to best protect a vulnerable child and f
+the case.
+The circumstances are a justified interferenc
+Article 8 in order to protect the health of the
+and possibly prevention of crime and in wors
+circumstances protect the life of the child.
+5
+
+Safeguarding Data Sharing Agreement – Guidance Document
+s Act 1998, Article 8 – example scenarios
+Scenario 2:
+t viewed (NB – this is the same scenario as section 7 but viewed
+from the Human Rights Act perspective)
+ent is A local authority receives a court order stating that all
+th a Multi- information held about a child known to the authority
+for a risk must be disclosed within two weeks’ time in order to
+to be inform decision making at court. This includes all relevant
+ision on what and highly sensitive information which can be classed
+mily part of as safeguarding relevant. The individuals records include
+details of child sexual exploitation, self-harm and neglect
+by parents and carers of the individual.
+with HRA
+child The circumstances are a justified interference with HRA
+case Article 8 in order to protect the health of the child
+and possibly prevention of crime and in worst case
+circumstances protect the life of the child.
+V1.3 June 2023
+
+7Ac Non-interference – Human Rights
+If you disclose or share personal data only in
+with the common law duty of confidentiality
+current UK Data Protection legislation (UK G
+DPA 18) it is likely that you will also meet th
+under and therefore comply with Article 8 of
+7Ad Non-interference – Human Rights
+● Human Rights Act 1998, Article 8: Res
+private and family life
+Article 8: Respect for your private and fam
+life | Equality and Human Rights Commissi
+(equalityhumanrights.com)
+Equality and Human Rights Commission
+● Human Rights Act 1998, Article 8: Res
+private and family life
+Human Rights Act 1998 (legislation.gov.uk
+UK Parliament
+5
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ct 1998, Article 8 – what your DPO will need to know
+ompliance
+and the
+PR &
+requirements
+the HRA.
+ct 1998, Article 8 – further reading and guidance
+ect for your ● What is the impact of human rights law?
+Lawfulness
+ly ICO
+n
+● Article 8 of the Human Rights Act
+The Human Rights Act 1998 | Department of Health
+(health-ni.gov.uk)
+ect for your Department of Health
+V1.3 June 2023
+
+8 Transparency
+How to complete
+There are a number of things to consider wh
+transparency to ensure individuals are inform
+their data is being processed, why it is being
+and what rights are available to them in ord
+control over the process of sharing/processin
+Considerations and expectations are as follo
+● Provide Privacy Notice content including th
+information under Article 13 and 14 of th
+● Provide the information in a timely manne
+13 and 14 of the UK GDPR
+● Assure that privacy information is provide
+effective manner for the target audience
+● Are your staff aware of their obligations ar
+transparency and how the organisation ex
+information to be provided?
+5
+
+Safeguarding Data Sharing Agreement – Guidance Document
+n managing Please consider any relevant exemptions from the duty to
+d about how provide privacy information. For example, where informing
+processed a data subject may impact the ability to investigate crime,
+r to have or where it may risk serious harm to the physical or mental
+. health of any individual.
+s:
+required
+UK GDPR
+as per Article
+in an
+und
+ects privacy
+V1.3 June 2023
+
+8a Transparency – completed example
+Have Privacy Notices been
+more organisations as/if re
+Local authority: Privacy Not
+include the relevant informati
+Police: Privacy Notice has b
+Educational settings: A Priv
+Privacy Notice has been shar
+be undertaken as part of the
+Is privacy information shar
+from the individual and if c
+Local authority: Privacy Info
+links to Privacy Information a
+and are able to explain the n
+Police: The police does not c
+information would involve a d
+the police will share privacy i
+Authority (unless there is a re
+Individuals are also aware th
+this Data Sharing Agreement
+information will be available o
+DPA18, Part 3, Article 45.
+Educational settings: All chi
+information sharing. Any Priv
+registered with the school.
+5
+
+Safeguarding Data Sharing Agreement – Guidance Document
+pdated to reflect the details around the sharing initiative (add
+uired)?
+ce has been reviewed and updated on the public facing website to
+n.
+en reviewed. No updates are required as sharing is covered already.
+cy Notice statement which links to the relevant local authority
+d with all relevant schools. For assurance a transparency audit will
+haring initiative.
+d in a timely manner? (Include when data is collected directly
+ntained from source other than individual)
+mation will be shared with individuals and families at first contact and
+e on all relevant online and offline forms. All front line staff are trained
+cessary privacy information to individuals.
+llate information from individuals directly and the provision of such
+sproportionate effort as per the UK GDPR Article 14, 5(b). If relevant,
+formation at the point of first contact after receiving it from the Local
+son not to do so e.g. interference with a police investigation).
+t information is shared with the police for the purposes described in
+For processing of data for law enforcement purposes the relevant
+the police privacy notice (excluding relevant restrictions) as per
+dren and families attending the school are regularly informed about
+cy Notice updates are communicated to all families with children
+V1.3 June 2023
+
+What other tools are in pla
+Local authority: Staff trainin
+email note on standard email
+templates and other as requi
+Police: Information on letter
+template.
+Educational settings: Link t
+page is shared with students
+5
+
+Safeguarding Data Sharing Agreement – Guidance Document
+e to comply with transparency?
+for front line staff around data sharing conversations, leaflets &
+templates, promotion of Privacy Notice on relevant web sites, letter
+ed.
+emplates and link to Privacy Notice on standard email signature
+privacy information on induction pack for parents, GDPR content
+and parents when starting school.
+V1.3 June 2023
+
+8b Transparency – example scenarios
+What must be included in a Privacy Notice
+● Full contact details
+● Types of personal information processed
+● Where information was collated
+● Reason for collating information and what
+with it
+● Lawful basis
+● Who the information will be shared with
+● How long the information will be held
+● Individuals rights
+● DPO contact details for questions and co
+● Information Commissioner’s contact detail
+How do you need to provide Privacy Notic
+● Concise (brief but comprehensive)
+● Transparent (open and honest, without se
+● Intelligible (understandable for non-expert
+or individuals with learning difficulties; diff
+might have to be provided)
+● Clear and plain language
+● Communicated in a way that is effective f
+audience (e.g. accessible by children, Engli
+second language, individuals with cognitiv
+more than one version of the privacy notic
+be required)
+5
+
+Safeguarding Data Sharing Agreement – Guidance Document
+Techniques used to provide Privacy Notices
+● Layered (short notice with links to each relevant section)
+● Just-in-time notices (presented at the time of data
+collection)
+● Mobile and smart device functionalities (e.g. pop-ups)
+will be done
+When do you need to provide it
+Privacy information must be provided at the time of
+collection (of personal data) from the individual.
+If personal data is obtained from a source other than
+the individual it relates to, privacy information must be
+provided to them:
+plaints
+● within a reasonable period of obtaining the personal
+data and no later than one month;
+s ● if communication with individual is planned, at the
+latest, when the first communication takes place; or
+● if disclosure of data to someone else is planned, at the
+rets)
+latest, when the data is disclosed.
+and children
+Subject to exemptions as per Article 13 and 14 of the UK
+rent versions
+GDPR.
+r the target
+h as a
+issues etc.;
+might
+V1.3 June 2023
+
+Scenario
+A local authority went live with the nationwi
+Protection – Information Sharing project (CP
+It requires the local authority to upload detai
+all looked after children or children subject t
+protection plan. The information can then b
+with clinical staff in unscheduled healthcare
+help them make more informed decisions. A
+time, CP-IS notifies the local authority if and
+presents for unscheduled treatment anywhe
+In order to comply with transparency under
+5, 12, 13 and 14 of the UK GDPR the local a
+updated their current privacy information on
+facing website to include the above informa
+correspondence and service materials link to
+for privacy information). The local authority
+their communications team and patient adv
+representatives to ensure the content is provi
+GDPR requirements above (e.g. clear plain la
+6
+
+Safeguarding Data Sharing Agreement – Guidance Document
+e Child
+IS) recently.
+s about
+a child
+shared
+ettings to
+the same
+hen a child
+e in England.
+rticle
+thority
+the public
+ion (as
+he website
+lso got
+cates/
+ed as per UK
+guage).
+V1.3 June 2023
+
+8c Transparency – what your DPO will n
+Consider that some individuals (e.g. children
+with cognitive issues or learning difficulties, i
+with English as a second language) need par
+protection when processing their personal d
+they understand any potential risks and are f
+Privacy Notices should therefore be written i
+and clear way to assure they understand wh
+is being shared/processed, what will happen
+what their rights are. It should be considered
+privacy information should be made availabl
+8d Transparency – further reading and
+● Transparency
+Transparency
+ICO
+● Privacy Notice
+Make your own privacy notice
+ICO
+● Privacy Notice template
+privacy-template.docx (live.com)
+ICO
+6
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ed to know
+individuals Additionally the effectiveness of the existing privacy
+dividuals information should be assessed. Are there proactive tools
+icular to inform individuals, is a combination of different tools
+ta to assure being used, is it written in a way that is understood by the
+lly protected. target audience.
+a simple
+An emphasis should also be put on automated decision-
+their data
+making and profiling. Can individuals access the data for
+ith it and
+review and accuracy assurance. Are individuals aware of
+if separate
+what the impact could be and do they understand the
+.
+process of using the data. Are they aware of the rights
+they have and how to exercise them.
+uidance
+● Fairness and transparency
+Fairness and transparency in data sharing
+ICO
+V1.3 June 2023
+
+9 Individual rights
+How to complete
+Every individual is entitled to have their pers
+information protected, used in a fair and law
+made available to them when they ask for a
+individual feels that their personal informati
+incorrect they are entitled to ask for that inf
+corrected.
+The responsibility to comply with individual r
+and therefore to establish how they are man
+lays with the controllers of the information b
+processed and must be taken seriously.
+Processes must be agreed with all controllers
+than one) to allow individuals to exercise the
+in a straight forward and safe way. Emphasis
+put on managing requests considering exem
+disclosure of third party information or infor
+could cause severe harm and distress); follo
+requirements (e.g. legal timeframes, providin
+contact details); and allowing case by case a
+involving the relevant parties, but at the sam
+it easy and understandable for individuals to
+their rights.
+6
+
+Safeguarding Data Sharing Agreement – Guidance Document
+nal Sharing partners may be able to specifically state an
+ul way, and agreed process for how to manage individual rights
+opy. If an (including subject access request) if agreed in advance.
+n is factually Processes documentation (e.g. process map, standard
+rmation to be operating procedures (SOPs)) can be added to the Data
+Sharing Agreement as an appendix.
+ghts requests In terms of safeguarding children, any processes must be
+ged lawfully set out with the safeguarding of the child at the centre.
+ing shared/ Requests to exercise data protection rights may come from
+children, or often someone with parental responsibility.
+Consideration must be given to the age and capacity of
+(if more
+the child when the request comes from someone with
+r rights
+parental responsibility. The Data Sharing Agreement must
+must be
+link to sufficient partner organisational policy and process
+tions (e.g.
+to deal with such requests and detail how these are
+ation which
+tackled in a collaborative manner where data is shared.
+ing legal
+regulator NB where the example refers to ‘system’ that can be taken
+sessments to mean a shared database either set up specifically or
+time making where partners provide access to each other’s systems.
+exercise
+V1.3 June 2023
+
+9a Individuals Rights – completed example
+State below what processe
+subjects to exercise their i
+The right of access: Any co
+subject access request (SAR
+or a shared one. When such
+party for the response and wi
+been received. As the frame
+terms of exemptions and req
+system and determine what
+to provide their disclosable d
+from the data base can be pr
+The right of rectification: A
+to the source system/organis
+with all relevant parties as an
+The right to restrict proces
+received should be directed t
+immediately. Outcomes will b
+be put in place accordingly.
+6
+
+Safeguarding Data Sharing Agreement – Guidance Document
+relevant partner organisations have in place to enable data
+formation rights:
+troller subject to this Data Sharing Agreement could receive a
+for shared data processed/held on an individual in their own system
+request is received then the receiving party will be the co-ordinating
+l contact the other relevant parties and inform them the request has
+orks applied to SARs are slightly different between all parties (in
+irements to inform), then each partner will check their data in the
+an be disclosed. The co-ordinating party will require the other parties
+ta by an agreed date, so that the sum of disclosable information
+vided to the data subject within the appropriate legal timeframe.
+y identified requirement for rectification received should be directed
+tion that the data comes from immediately. Outcomes will be shared
+if required and actions will be put in place accordingly.
+ing: Any identified requirement for the restriction of processing
+the source system/organisation that the data comes from
+shared with all relevant parties as and if required and actions will
+V1.3 June 2023
+
+State below what processe
+subjects to exercise their i
+The right to object: Any obj
+covered in this agreement ne
+best placed to respond they
+the relevant organisation. Th
+for the objection and whether
+refuse. It is quite possible m
+legitimate basis to refused a
+determined individually.
+Rights in relation to autom
+the use of the database are
+solely automated decision m
+decision will be made, theref
+as the use of the data and th
+The right to be informed is
+reasons of safeguarding in th
+would not apply in this exam
+Right to erasure
+Right to portability
+Right to object (applies for p
+6
+
+Safeguarding Data Sharing Agreement – Guidance Document
+relevant partner organisations have in place to enable data
+formation rights:
+ction received to the processing of data related to the sharing
+ds to be carefully considered. If the receiving organisation is not
+hould direct the requestor (or pass with requestor’s permission) to
+organisation should make a determination based on the reasons
+there are any compelling legitimate reasons on which they could
+y safeguarding situations are such that there would be compelling
+objection. However each case must be judged on its merits and
+ted decision making and profiling: Some of the activities within
+alculating items (e.g. vulnerability/risk scores), this is however not
+king or profiling as there will always be human intervention before a
+re at present this right does not apply. This will be kept under review
+system output products develop.
+overed under 8 Transparency of this DSA: Processing for
+s case will be done under the ‘public task’ basis. The following rights
+le:
+blic task but not for legal obligation)
+V1.3 June 2023
+
+9b Individual rights – example scena
+Scenario 1:
+The police is sharing relevant information wi
+authority under the Supporting Families Prog
+allow early intervention and prevention arou
+child sexual exploitation and NEET (Not in Ed
+Employment or Training). The local authority
+shares some of the information to education
+within the relevant area in order for schools
+children and young people with the best out
+and safeguard individuals as required. Sharin
+have agreed for all individual rights requests
+relevant information to be directed to the lo
+and for the police to be involved in decision
+around disclosures. This has been document
+the Data Sharing Agreement and a Standard
+Procedure and Process has been shared with
+6
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ios
+Scenario 2:
+h the local The local authority is onboarded to the local Shared
+amme to Care Record and can access relevant information from
+d risks of a number of local health care partners including GP’s,
+cation, ambulance Services, the local hospital and mental health
+onward services. It also provides relevant local authority data
+l settings around vulnerabilities to the Shared Care Record. The
+o provide Shared Care Record Programme has written a Data
+ome possible Subject’s Right Policy which has been signed off by the
+partners IG Group and Programme board. The policy describes in
+or the detail how the programme and it’s sharing partners will
+al authority uphold those rights. All relevant partners have access
+aking to the policy to help ensure that staff are informed and
+d within well equipped to support individuals exercising their
+Operating rights. The policy works in conjunction with and does not
+all partners. replace the local authority’s policy in relation to upholding
+individuals rights.
+V1.3 June 2023
+
+9c Individual rights – what your DPO wi
+Individual Rights are established under chapt
+of the data subject, UK GDPR.
+Your DPO must be assured that compliance i
+Checks need to be completed to assure that
+policies and procedures are in place to mana
+rights. It must be documented what process
+been agreed and how responsibilities have b
+between partners (e.g. which organisation p
+privacy notice, handles data subject access r
+9d Individual rights – further reading a
+● Individual Rights
+Individual rights
+ICO
+● Law Enforcement Processing
+Individual rights
+ICO
+6
+
+Safeguarding Data Sharing Agreement – Guidance Document
+l need to know
+r III – Rights All relevant staff must be aware of those policies and
+procedures in order to allow them to follow the required
+process once requests are being received. Relevant
+managed.
+staff also must be trained to understand the legal
+elevant
+requirements for responding to individuals right requests
+e individual
+(e.g. legal timeframes, ways of how they can be received,
+s have
+what rights are relevant). Requests can come into the
+en divided
+organisation in different ways and can be directed at any
+oduces the
+staff member.
+quests etc.).
+Individual Rights for law enforcement processing are
+established under Part 3, Chapter 3 of the DPA18. Please
+refer to further reading under 9d.
+d guidance
+● Right of Access
+Right of access
+ICO
+● Your rights (for the public)
+For the public
+ICO
+V1.3 June 2023
+
+10 How data sharing
+10a How data sharing will be carried out – completed exampl
+The approach or mechanism/meth
+Automated data transfer of an agree
+is assessed in the Data Protection I
+Protection of data in transit:
+Encrypted data transfer (detail in the
+Organisation(s) responsible for th
+Asset owned by local authority supp
+Frequency and extent of sharing:
+Updates/changes to data on daily ba
+If data is being transferred outsid
+See 11.
+6
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ill be carried out
+d by which data will be shared:
+dataset to a shared care record application. (Technical detail
+pact Assessment)
+PIA)
+security of data:
+rted by application supplier.
+is.
+the UK:
+V1.3 June 2023
+
+10b How data sharing will be carrie
+Scenario 1:
+A shared care record application is develope
+partnership working. The application is devel
+a third party organisation (‘supplier’) led by t
+authority who own the application/asset. It i
+multiple organisations will share key, relevan
+the shared record to enable more effective p
+working. The data will be used for the provis
+to individuals so needs to be reasonably up-t
+reduce need for additional contacts by other
+telephone calls and/or emails).
+As such, the organisations involved share th
+data via encrypted transfer mechanisms (ove
+the system supplier), sharing updates/chang
+previous data feed (to reduce amount of dat
+and processing load). Detail of the various d
+the technical methods of transfer and uploa
+application are held in documents managed
+authority overseeing the development, imple
+and maintenance of the application. Risks a
+for the methods of transfer and upload are a
+addressed within the Data Protection Impact
+for the programme.
+6
+
+Safeguarding Data Sharing Agreement – Guidance Document
+out – example scenarios
+Scenario 2:
+to enable A group of public sector organisations from across health,
+ped by social care, education and the police have established a
+e local monthly ‘data sharing’ meeting and have a set of criteria
+agreed that they use to identify individuals on their separate caseloads
+data into that may benefit from a multi-disciplinary discussion
+rtnership to ensure these individuals are offered and receiving
+on of care appropriate support.
+-date to
+Prior to each meeting the staff attending have a report
+means (i.e.
+that they run on their organisational systems to highlight
+the particular individuals and provide a summary of
+key, relevant data on each. This is sometimes complemented by staff
+seen by reviewing the individuals’ records and noting other key
+s to the information. This is then shared verbally at the meeting
+transferred and a record of the discussions and actions related to each
+ta sources, individual is made. This is stored in a shared electronic
+ing into the space that each service can access. The shared space has
+y the local been provided by the local authority who are responsible
+entation for the security of the shared space and providing access
+d mitigations to the relevant staff from each partner. The partner
+sessed and agencies are responsible for identifying specific staff who
+Assessment should have access.
+V1.3 June 2023
+
+10c How data sharing will be carried o
+The DPO needs to know the procedures for t
+of data, to help assess risks to the data and
+mitigations. This is relevant to the specific da
+agreement, and helps the DPO ensure that y
+organisation’s processes comply with extern
+for data security, such as that needed for acc
+government’s Public Services Network (PSN)
+Security & Protection Toolkit (DSPT) required
+NHS systems.
+For manual/procedural sharing:
+Identification of data sources and flows and
+methods for transfer (manual, email, phone
+10d How data sharing will be carried o
+● Data Security
+Data security - NCSC.GOV.UK
+NCSC
+● ICO Data Sharing Code – Security
+Security
+ICO
+6
+
+Safeguarding Data Sharing Agreement – Guidance Document
+t – what your DPO will need to know
+e transfer For sharing that is supported with technical solutions/
+ecessary applications:
+a sharing
+● What are the transfer options to enable the objectives of
+ur
+the sharing to be met?
+l standards
+ss to the ● Has the organisation’s IT Security Manager or similar role
+approved the IT security standards?
+r the Data
+or access to ● Are there written procedures for how data will be
+transferred?
+● How will staff know about these procedures?
+greed Do you need to provide external guidance, such as how
+all etc). an individual can use the council’s secure email system/
+portal such as Egress or Encrypt & Send. See section 11
+for information on whether any personal data is shared or
+accessible outside of the UK.
+t – further reading and guidance
+V1.3 June 2023
+
+Abbreviations and gl
+Ad-hoc data sharing
+Information sharing outside a formal meetin
+often on a one-off basis.
+Appropriate Policy Document (APD)
+An appropriate policy document is a short d
+outlining your compliance measures and ret
+It is required under the Data Protection Act
+of the conditions documented in Schedule 1
+and 3).
+Caldicott Guardian
+A senior person responsible for protecting th
+confidentiality of people’s health and care in
+making sure it is used properly. All NHS orga
+local authorities which provide social services
+a Caldicott Guardian. Further, guidance has
+under the Health and Social Care (National
+Act 2018 that recommends “other organisat
+services as part of the publicly funded health
+adult social care, or adult carer support” sho
+a Caldicott Guardian by 30/06/2023:
+Caldicott_Guardian_guidance_v1.0_27.08.2
+7
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ssary
+Commissioning Support Unit (CSU)
+or system, CSUs are organisations whose primary purpose is to
+provide Integrated Care Boards with external support,
+specialist skills and knowledge to support them in their
+role as commissioners. They were established following
+cument
+the changes brought about by the Health and Social Care
+ntion policies.
+Act 2012, to support Clinical Commissioning Groups (now
+018 for some
+ICBs) after Primary Care Trusts were retired. However,
+(Part 1, 2
+CSUs have evolved to provide a much wider array of
+services, with a broad portfolio, such as supporting
+national programmes and providers of all types.
+Common law duty of confidentiality
+ormation and
+The common law duty of confidentiality is not codified; it
+isations and
+is based on previous judgements in court. Whilst various
+must have
+interpretations of the common law may be possible it is
+een issued
+widely accepted that, where information which identifies
+ata Guardian)
+individual service users is provided and held in confidence,
+ons providing
+disclosure may only be justified in one of three ways:
+service,
+ld have 1. the service user has given consent for their information
+to be used;
+.pdf
+2. the balance of public and private interest favours public
+interest disclosure; or
+3. a statutory basis exists which permits or requires
+disclosure.
+(source: Health and Social Care (Control of Data
+Processing) Act (Northern Ireland) 2016, Explanatory Note,
+Common Law Duty of Confidentiality)
+V1.3 June 2023
+
+Consent
+Refer to Toolkit item 5
+Criminal Offence Data
+Includes personal data relating to the allege
+of offences by the data subject, or, proceedi
+offence committed or alleged to have been
+by the data subject or the disposal of such p
+including sentencing.
+Data
+The use of data in this document must be u
+as information which may refer to non-ident
+identifiable data. It will be specified if it refer
+data.
+Data Controller / Joint Controller
+The natural or legal person, public authority,
+other body which, alone or jointly with othe
+the purposes and means of the processing o
+data.
+Data Protection Act (DPA) 2018
+The DPA 2018 sits alongside and supplemen
+GDPR.
+Data Protection Impact Assessment (DPIA)
+A process to help you identify and minimise
+protection risks related to processing of pers
+DPIA is legally required in some circumstanc
+7
+
+Safeguarding Data Sharing Agreement – Guidance Document
+Data Protection Officer (DPO)
+The primary role of the data protection officer (DPO) is to
+ensure that their organisation processes the personal data
+commission of its staff, customers, providers or any other individuals
+gs for an (also referred to as data subjects) in compliance with the
+ommitted applicable data protection rules.
+oceedings,
+Data Subject
+The individual to whom the data being processed relates
+and is identified/identifiable by that data.
+derstood
+Data Sharing
+fiable or
+Data sharing as used within this document can be
+to personal
+understood as sharing of personal data.
+Data Sharing Agreement (DSA)
+Terminology can vary (Data Sharing Protocol, Data Sharing
+agency or
+Contract, Personal Data Sharing Agreement), but can be
+s, determines
+used interchangeably in guidance.
+personal
+A DSA can be used between sharing partners (Controllers)
+to help demonstrate compliance with the UK General Data
+Protection Regulation (UK GDPR), the Data Protection Act
+s the UK
+2018, the common law duty of confidentiality and other
+relevant laws. It should help you justify your data sharing,
+clarify responsibilities of the sharing partners and set
+he data agreed parameters for the use of data.
+nal data. A
+Department for Work and Pensions (DWP)
+s.
+The DWP is responsible for welfare, pensions and child
+maintenance policy.
+V1.3 June 2023
+
+Department of Education (DoE)
+The Department for Education is responsible
+services and education, including early years,
+higher and further education policy, apprenti
+wider skills in England.
+Digital Economy Act 2017
+See Toolkit item 4
+European Economic Area (EEA)
+The EEA includes EU countries and Iceland, L
+and Norway. The UK has adequacy regulatio
+about these countries (expected to last until
+2025).
+UK General Data Protection Regulation (G
+Legislation that determines lawful and unla
+of individuals’ data, and places requirements
+processing data, to ensure appropriate use a
+protections.
+ICO Registration Number
+Number attributed to an organisation that
+requirement to register with the ICO.
+Information
+The use of information in this document mu
+understood as organised data providing cont
+may refer to non-identifiable or identifiable
+specified if it refers to personal data.
+Information Commissioner’s Office (ICO)
+7
+
+Safeguarding Data Sharing Agreement – Guidance Document
+The UK’s independent body set up to uphold information
+rights.
+for children’s
+schools, Law Enforcement Processing
+eships, and Processing (including sharing) of personal data by
+competent authorities (for definition click here) for a Law
+Enforcement Purpose.
+Law Enforcement Purposes
+As defined by Section 31 Data Protection Act 2018 - the
+prevention, investigation, detection or prosecution of
+echtenstein,
+criminal offences or the execution of criminal penalties,
+s in place
+including the safeguarding against and the prevention of
+7 June
+threats to public security (for details click here).
+Legal gateway
+PR)
+Legislation and common law that establishes justifiable
+ful use
+grounds for the processing of personal data.
+on those
+d adequate
+eets the legal
+t be
+xt which
+ata. It will be
+V1.3 June 2023
+
+Local Authority (LA)
+An LA is a local government organisation res
+the administration of government policy at a
+Means [of processing]
+Actions taken in the processing of data to ac
+purpose(s) for its processing i.e. how the dat
+but can also be considered to extend to wha
+to achieve the purpose(s).
+Modelling
+The application of structured analysis, or use
+Multi-Agency Safeguarding Hub (MASH)
+The Multi-Agency Safeguarding Hub (MASH)
+professionals together to facilitate early, bett
+information sharing, analysis, and decision-
+safeguard vulnerable children and young pe
+effectively.
+Personal data
+Data that relates to a living identified or iden
+individual.
+Processor
+A natural or legal person, public authority, a
+other body which processes personal data o
+controller.
+Purpose(s) [of processing]
+Reasons to process personal data.
+7
+
+Safeguarding Data Sharing Agreement – Guidance Document
+Risk Scoring
+The application of a value/score based on a set of relevant
+onsible for
+risk factors and calculations/algorithms
+local level.
+Role-based access control (RBAC)
+A model for controlling access to resources (i.e., data)
+ieve the
+where permitted actions on resources are identified with
+is processed
+roles. (e.g., an employee with a health/care professional
+data is used
+role may access full service user health/care records, whilst
+a health/care service administrator may only access limited
+details from service user health/care records).
+of data.
+Secure File Transfer Protocol (SFTP)
+A protocol for securely accessing and transferring large
+brings key
+files across the web.
+r quality
+Senior Information Risk Owner (SIRO)
+aking, to
+The SIRO is responsible for managing information risks. In
+ple more
+small organisations, this might be part of a combined role.
+If the organisation appoints an IG Lead who is not part of
+the senior management team or board, then there should
+ifiable
+be a SIRO who they report to at the highest level of the
+organisation. Organisations operating under the standard
+NHS contract are required to assign the role of SIRO.
+ency, or
+behalf of the
+V1.3 June 2023
+
+Special Category Data
+Data pertaining to an identified or identifiabl
+that reveals their racial or ethnic origin, politi
+religious or philosophical beliefs, or trade uni
+membership, and the processing of genetic
+data for the purpose of uniquely identifying
+person, data concerning health or data conc
+natural person’s sex life or sexual orientation
+Supporting Families
+Supporting Families is part of a national pro
+helps thousands of families across England t
+they need to address multiple disadvantages
+whole-family approach, delivered by keywor
+for local authorities and their partners.
+UK Data Protection Legislation
+For the purpose of this template/guidance th
+protection legislation means the UK GDPR a
+2018 and regulations made under the DPA 2
+apply to a party relating to the use of person
+7
+
+Safeguarding Data Sharing Agreement – Guidance Document
+individual
+al opinions,
+n
+ata, biometric
+natural
+rning a
+ramme that
+get the help
+through a
+ers, working
+UK data
+d the DPA
+18 which
+l data.
+V1.3 June 2023
+
+Further reading and
+Please find below relevant reading and guidance relevant for the considerat
+Agreement in general and specifically for Local Authorities and their partne
+Topic Link
+Serious violence duty data Serious Violence Duty Data
+sharing requirements Sharing Requirements - LOTI
+Deciding to share data Deciding to share data | ICO
+Data sharing Data sharing | ICO
+Data sharing agreements Data sharing agreements | ICO
+Data sharing and children Data sharing and children | ICO
+Data sharing code of practice Data sharing: a code of practice |
+ICO
+The Independent Review of The-independent-review-of-
+Children's Social Care – Final childrens-social-care-Final-
+Report report.pdf (childrenssocialcare.
+independent-review.uk)
+Working Together to Safeguard Working Together to Safeguard
+Children Children 2018 (publishing.service.
+gov.uk) (due to be updated in 2023
+via public consultation)
+Information sharing: advice for Due to be updated in 2023 via
+practitioners (publishing.service. public consultation
+gov.uk)
+Sharing data to safeguard ICO guidance currently being
+children drafted, please check the ICO
+website for updates.
+7
+
+Safeguarding Data Sharing Agreement – Guidance Document
+uidance
+on of sharing information/data and the completion of an Data Sharing
+s when sharing information for Safeguarding reasons.
+Source Does it link to a specific section
+within the DSA ?
+London Office of Technology & All
+Innovation
+ICO All
+ICO All
+ICO All
+ICO All
+ICO All
+The Independent Review of All
+Children's Social Care by Josh
+MacAlister
+DfE All
+DfE All
+ICO All
+V1.3 June 2023
+
+Topic Link
+DSA guidance – see benefits and Data sharing agreements | ICO
+purpose sections
+General Medical Council - Confidentiality and sharing
+protecting children & young information - ethical guidance –
+people, confidentiality and GMC (gmc-uk.org)
+sharing information
+Caldicott report 'To share or not The Information Governance
+to share' particularly section 10 Review (publishing.service.gov.uk)
+How do we describe processing How do we do a DPIA? | ICO
+Deciding to share data Deciding to share data | ICO
+DSA guidance - see benefits and Data sharing agreements | ICO
+purpose sections
+General Medical Council – Confidentiality and sharing
+protecting children & young information - ethical guidance -
+people, confidentiality and GMC (gmc-uk.org)
+sharing information
+Caldicott report 'To share or not The Information Governance
+to share' particularly section 10 Review (publishing.service.gov.uk)
+Definition of joint controllers Chapter 4 - Article 26 | UK GDPR
+(uk-gdpr.org)
+Joint controller responsibilities What does it mean if you are joint
+controllers? | ICO
+Competent Authority (law Definition of Competent Authority
+enforcement processing) (for Law Enforcement Processing),
+Link: Part 3, Chapter 1, s31, DPA
+2018
+Controller definition (law Controller/Processor (for Law
+enforcement processing) Enforcement Processing), Link:
+Part 3, Chapter 1, s32, DPA 2018
+7
+
+Safeguarding Data Sharing Agreement – Guidance Document
+Source Does it link to a specific section
+within the DSA ?
+ICO 2 Purpose and benefits
+GMC 2 Purpose and benefits
+National Data Guardian's Office 2 Purpose and benefits
+ICO 2 Purpose and benefits
+ICO 2 Purpose and benefits
+ICO 2 Purpose and benefits
+GMC 2 Purpose and benefits
+National Data Guardian's Office 2 Purpose and benefits
+UK GDPR 3 D ata controller(s) / joint
+controller(s)
+ICO 3 D ata controller(s) / joint
+controller(s)
+DPA 2018 3 D ata controller(s) / joint
+controller(s)
+DPA 2018 3 D ata controller(s) / joint
+controller(s)
+V1.3 June 2023
+
+Topic Link
+UK GDPR guide Guide to the UK General Data
+Protection Regulation (UK GDPR)
+| ICO
+Controller definition (law Controller/Processor (for Law
+enforcement processing) Enforcement Processing), Link:
+Part 3, Chapter 1, s32, DPA 2018
+Controllers and processors Controllers and processors | ICO
+Definition of controller, joint Chapter 1 - Article 4 | UK GDPR
+controller and processor (uk-gdpr.org)
+Contracts between controllers Contracts | ICO
+and processors
+Controller and processor Chapter 4 - Article 28 | UK GDPR
+(uk-gdpr.org)
+Contracts (Right of Third Parties) Summary of CRTP Act 1999
+Act 1999 (legislation.gov.uk website)
+Contracts and liabilities between Contracts and liabilities between
+controllers and processors controllers and processors | ICO
+Personal data What is personal data? | ICO
+Special category data What is special category data? |
+ICO
+Data sharing checklist (Annex Annex A: data sharing checklist |
+A of the Data Sharing Code of ICO
+Practice)
+Criminal offence data What is criminal offence data? |
+ICO
+Deciding to share data - data Annex B: Data sharing request
+sharing request form template form template | ICO
+7
+
+Safeguarding Data Sharing Agreement – Guidance Document
+Source Does it link to a specific section
+within the DSA ?
+ICO 3 D ata controller(s) / joint
+controller(s)
+DPA 2018 3 D ata controller(s) / joint
+controller(s)
+ICO 3 D ata controller(s) / joint
+controller(s), 4. Processor(s)
+UK GDPR 3 D ata controller(s) / joint
+controller(s), 4. Processor(s)
+ICO 4 Processor(s)
+UK GDPR 4 Processor(s)
+Legislation website (National 4 Processor(s)
+Archives)
+ICO 4 Processor(s)
+ICO 5 I nformation sharing between
+partners
+ICO 5 I nformation sharing between
+partners
+ICO 5 I nformation sharing between
+partners
+ICO 5 I nformation sharing between
+partners
+ICO 5 I nformation sharing between
+partners
+V1.3 June 2023
+
+Topic Link
+Deciding to share data - decision Data sharing decision form
+form template template | ICO
+Lawfulness Lawfulness | ICO
+Lawful basis for processing Lawful basis for processing | ICO
+under the UK GDPR
+Lawful basis interactive Lawful basis interactive guidance
+guidance tool tool | ICO
+Legislation guides Legislation guides | Local
+Government Association
+Appropriate policy document appropriate-policy-document.docx
+template (live.com)
+Substantial Public Interest What are the substantial public
+Conditions (including the interest conditions? | ICO
+requirement of an appropriate
+policy document)
+Sensitive processing (law Data Protection Act 2018
+enforcement) (legislation.gov.uk)
+Legitimate interests Legitimate interests | ICO
+Law enforcement processing Guide to Law Enforcement
+Processing | ICO
+Law enforcement processing Principles | ICO
+principles
+Data Protection Act 2018 Data Protection Act 2018
+(legislation.gov.uk)
+Common law duty of Duty of confidentiality — UKCGC
+confidentiality
+7
+
+Safeguarding Data Sharing Agreement – Guidance Document
+Source Does it link to a specific section
+within the DSA ?
+ICO 5 I nformation sharing between
+partners
+ICO 6 L awfulness – UK GDPR Article 6
+& Article 9 condition
+ICO 6 L awfulness – UK GDPR Article 6
+& Article 9 condition
+ICO 6 L awfulness – UK GDPR Article 6
+& Article 9 condition
+Local Government Association 6 L awfulness – UK GDPR Article 6
+(LGA) & Article 9 condition
+ICO 6 L awfulness – UK GDPR Article 6
+& Article 9 condition
+ICO 6 L awfulness – UK GDPR Article 6
+& Article 9 condition
+UK Government 6 L awfulness - UK GDPR Article 6
+& Article 9 condition
+ICO 6 L awfulness – UK GDPR Article 6
+& Article 9 condition
+ICO 6A L awfulness – Data Protection
+Act 2018
+ICO 6A L awfulness – Data Protection
+Act 2018
+UK Government 6A Lawfulness – Data Protection
+Act 2028
+The UK Caldicott Guardian Council 7 N on-interference – Common law
+duty of confidentiality
+V1.3 June 2023
+
+Topic Link
+Human Rights Act, Article 8: Article 8: Respect for your
+Respect for your private and private and family life | Equality
+family life and Human Rights Commission
+(equalityhumanrights.com)
+Human Rights Act, Article 8: Human Rights Act 1998
+Respect for your private and (legislation.gov.uk)
+family life
+What is the impact of human Lawfulness | ICO
+rights law?
+Article 8 of the Human Rights The Human Rights Act 1998 |
+Act Department of Health (health-ni.
+gov.uk)
+Fairness and transparency Fairness and transparency in data
+sharing | ICO
+Transparency Transparency | ICO
+Privacy notice Make your own privacy notice | ICO
+Privacy notice template privacy-template.docx (live.com)
+Individual rights Individual rights | ICO
+Right of access Right of access | ICO
+Your rights (for the public) For the public | ICO
+Law Enforcement Processing Individual rights ICO
+Data security Data security - NCSC.GOV.UK
+ICO Data Sharing Code – Security | ICO
+Security
+International data transfer International data transfers | ICO
+Data sharing in an urgent Data sharing in an urgent situation
+situation or emergency or in an emergency | ICO
+7
+
+Safeguarding Data Sharing Agreement – Guidance Document
+Source Does it link to a specific section
+within the DSA ?
+Equality and Human Rights 7A N on-interference – Human
+Commission Rights Act, Article 8
+UK Parliament 7A N on-interference – Human
+Rights Act, Article 8
+ICO 7A N on-interference – Human
+Rights Act, Article 8
+Department of Health 7A N on-interference – Human
+Rights Act, Article 8
+ICO 8 Transparency
+ICO 8 Transparency
+ICO 8 Transparency
+ICO 8 Transparency
+ICO 9 Individual rights
+ICO 9 Individual rights
+ICO 9 Individual rights
+ICO 9 Individual rights
+NCSC 10 How data sharing will be carried
+out
+ICO 10 H ow data sharing will be carried
+out
+ICO 11 Outside EEA processing
+ICO Toolkit item 1: Informal sharing
+V1.3 June 2023
+
+Topic Link
+Guidance on anonymisation and ICO call for views: Anonymisation,
+pseudonymisation pseudonymisation and privacy
+enhancing technologies guidance |
+ICO
+Data protection impact Data protection impact
+assessment (DPIA) assessments | ICO
+Consent Consent | ICO
+8
+
+Safeguarding Data Sharing Agreement – Guidance Document
+Source Does it link to a specific section
+within the DSA ?
+ICO Toolkit item 2, 5 Information shared
+between partners
+ICO Toolkit item 3, 5 Information shared
+between partners
+ICO Toolkit item 5, 6 Lawfulness – UK
+GDPR Article 6 & 9 condition
+V1.3 June 2023
+
+Toolkit 1: Informal sh
+‘Informal’ sharing refers to sharing that
+take place between professionals that is
+shared system/database or via a formal
+(e.g. MDT meeting, MASH etc). Informal
+well lead onto more formalised actions
+from procedural sharing via a system or
+In essence this relates to the ‘corridor co
+between a nurse and a social worker, or
+officer etc.
+When faced with an opportunity to ask or
+You may well find yourself with the opportu
+tell a colleague (internal or external) for infor
+child(ren) and family you are involved with. I
+consider:
+● Would the child(ren)/family reasonably exp
+speak to your colleague about them?
+● If they may not reasonably expect you to d
+feel the colleague is likely to be able to hel
+their wellbeing or their safety, or you need
+something to assist with their involvement
+should have the conversation with your co
+When seeking an opportunity to ask or te
+This is similar to the above, but when the co
+more planned, i.e, deciding to call or email a
+only difference is that if you are unsure abou
+8
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ring
+eeds to the child(ren)/family would reasonably expect you to have
+’t via a the conversation and you can’t easily justify having the
+ommittee conversation without their knowledge, then there is the
+haring may opportunity to have a discussion with them first, if that is
+r may come appropriate. This isn’t to get their consent but to ensure
+atabase. they are informed. If the circumstances are urgent and
+versation’ delay may increase the risk in a safeguarding context or
+olice in fact discussion with the family may also increase the
+risk, then that is a robust basis to have the conversation
+without involvement of the child(ren)/family.
+tell…
+When asked about something you know….
+ity to ask or
+ation on a As with the above circumstances this may be an
+this situation unplanned conversation or one you’ve scheduled to
+have. The same approach will generally apply, when
+you are asked, consider if the child(ren)/family would
+ct you to
+reasonably expect you to answer or if the circumstances
+of the case warrant and urgent response or if seeking
+so, but you
+family involvement would potentially increase risk to the
+you ensure
+child(ren).
+to tell them
+Having a conversation, not a question and answer
+then you
+session…
+league.
+Sharing information is critical to effective safeguarding.
+l…
+Many agencies involved can be said to have a ‘need to
+versation is
+know’. However, if the sharing is simply a question and
+contact. The
+answer session, then key information may not get shared.
+whether
+V1.3 June 2023
+
+If you decide that the requestor needs to kn
+you can give them, also think around the wi
+what you know, that they may need to be t
+be things they haven’t asked for as they don
+you know.
+Checklist of things to consider:
+● Do you need to identify who you are talki
+you have a conversation along the lines of
+of ‘x’ where ‘y’ might be taking place, wh
+advise I do about it?’. Often you will need
+specific individuals, but before you do con
+can discuss anonymously first?
+● Inform the individual before sharing wher
+and where it does not prevent sharing tha
+ensure the safeguarding of an individual.
+● How much do you need to share? It is imp
+remember data sharing should be kept to
+necessary, but the minimum could be quit
+note is that the relevant legal principle star
+‘adequate, relevant’ before mentioning li
+● When sharing consider the confidence yo
+accuracy of data, highlighting any concern
+have.
+8
+
+Safeguarding Data Sharing Agreement – Guidance Document
+w the answer ● Do discuss whether data can be shared beyond the
+er context of conversation you are having, so others are aware of
+ld, which may your views on that aspect.
+t know what
+● Document the sharing as soon as possible, by making
+appropriate notes about what you’ve shared and why
+and also what you have been told (this may be a note
+on a file, or logging a disclosure request).
+g about? Can
+‘I have a case
+t would you
+o discuss
+ider if you
+appropriate
+is urgent to
+rtant to
+he minimum
+a lot. Also of
+s by stating
+its.
+have in the
+you may
+V1.3 June 2023
+
+Toolkit 2: Levels of id
+Article 5 (c) of UK GDPR requires that pe
+shall be ‘adequate, relevant and limited
+necessary in relation to the purposes for
+are processed (‘data minimisation’)’.
+You must only use the minimum amount of
+necessary to achieve the stated purpose, an
+must describe why they need the specified d
+purpose may be achieved using pseudonymi
+anonymised data.
+Reducing the level of identifying factors in a
+the minimum required reduces the risk to pri
+likelihood of a damaging impact if mistakes
+with the data. For example, if a dataset cont
+care reference number for each person and
+social care needs, but no detail on their nam
+address or other identifiers, then if the datas
+the wrong person, the likelihood of damage
+being caused is reduced.
+Controllers must consider whether individuals
+identifiable by others, even where it is not req
+justified in respect of the purpose for processi
+steps to pseudonymise/anonymise data, the c
+data, i.e. a combination of information and/o
+of individuals, means that identification of ind
+possible. You should take further steps to miti
+of identification, such as restricting access to
+outputs or suppressing data with low number
+8
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ntifiability
+sonal data Personal data
+o what is
+Data that can be used to identify an individual, such as:
+which they
+● Name
+ersonal data ● Date of birth
+controllers ● NHS number
+ta. The
+● Home address
+ed or
+● National Insurance number
+y data to ● Employee reference number
+acy and the
+Pseudonymised data
+re made
+Pseudonymisation refers to techniques that replace,
+ins a social
+remove or transform information that identifies
+etails of their
+individuals, and keep that information separate. The
+, specific
+data is changed so that the personal data can no longer
+t is sent to
+be attributed to a specific data subject without the use
+r distress
+of additional information, provided that such additional
+information is kept separately and is subject to technical
+may still be
+and organisational measures to ensure that the personal
+ired nor
+data are not attributed to an identified or identifiable
+g. Despite
+natural person. Techniques include replacing personal data
+ntext of the
+with a unique reference that is restricted to only those that
+low numbers
+need to be able to identify the individual. Pseudonymised
+viduals is
+data is still considered personal data under the UK GDPR.
+ate the risk
+rocessing
+.
+V1.3 June 2023
+
+Anonymised data
+UK GDPR (recital 26) defines anonymous dat
+information which does not relate to an iden
+identifiable natural person or to personal dat
+anonymous in such a manner that the data s
+or no longer identifiable.
+Effectively anonymised data
+There is a correlation between ‘effectively an
+data’ and ‘pseudonymised data’. However ‘e
+anonymised’ is a wider form of data. In pseu
+data, all or most of the identifiers have been
+replaced with a pseudonym (often a referen
+that as few organisations and individuals as
+reverse if needs be. ‘Effectively anonymised
+that has had identifiers removed to the point
+unlikely to be identifiable as risk of re-identi
+sufficiently remote, taking account of the co
+and purposes of what the data is used for, t
+measures to protect the data, the environme
+the data is to be disclosed.
+Further links and guidance
+● Guidance on anonymisation and pseu
+ICO call for views: Anonymisation, pseudo
+and privacy enhancing technologies guida
+ICO
+8
+
+Safeguarding Data Sharing Agreement – Guidance Document
+Identifiable in context
+as: Where it is not intended for individuals to be identified
+ified or but it is possible to identify individuals from the data/
+rendered information included. For example, it may be possible to
+bject is not identify an individual from a description or by something
+specific that they are quoted to have said that others
+would have heard them say. It may be possible to identify
+someone through a combination of data, such as a
+nymised
+postcode combined with equalities data like ethnicity,
+fectively
+health condition or religion.
+onymised
+Low number suppression
+removed and
+e number) Individuals may be identified when data/information
+ossible can is attributed/linked and refers to a small number of
+ata’ is data individuals. For example, the following data may clearly be
+that it is linked to an individual if they are the only person of the
+cation is characteristics living in a particular place: male, Chinese,
+text, scope prosthetic arm, living in postcode district XX11.
+chnical
+In such instances results are often suppressed and reported
+t in which
+as “less than 5” or categories can be merged, age brackets
+increased, etc.
+onymisation
+ymisation
+ce
+V1.3 June 2023
+
+Toolkit 3: W hat is a D
+Assessment
+(From the ICO’s guide to UK GDPR)
+You must do a DPIA for processing that is lik
+a high risk to the rights and freedoms of indi
+includes some specified types of processing.
+screening checklists to help you decide whe
+It is also good practice to do a DPIA for any
+project which requires the processing of pers
+Your DPIA must:
+● describe the nature, scope, context and p
+processing;
+● assess necessity, proportionality and compl
+measures;
+● identify and assess risks to individuals; and
+● identify any additional measures to mitigat
+To assess the level of risk, you must consider
+likelihood and the severity of any impact on
+High risk could result from either a high pro
+some harm, or a lower possibility of serious
+might be unnecessary intrusion into an indivi
+or the potential for physical or mental harm
+were used inappropriately.
+8
+
+Safeguarding Data Sharing Agreement – Guidance Document
+ta Protection Impact
+(DPIA)
+You must consult your data protection officer (if you have
+one) and, where appropriate, individuals and relevant
+ly to result in
+experts. Any processors may also need to assist you.
+iduals. This
+ou can use If you identify a high risk that you cannot mitigate, you
+to do a DPIA. must consult the ICO before starting the processing.
+ther major
+nal data.
+rposes of the
+ance
+those risks.
+both the
+ndividuals.
+ability of
+arm. Risk
+ual’s privacy,
+f the data
+V1.3 June 2023
+
+Toolkit 4: Digital Eco
+From the ICO’s ‘Data sharing across the pu
+the Digital Economy Act codes’:
+Part 5 of the Digital Economy Act 2017 (DE
+on digital government, providing gateways t
+specified public authorities to share data wit
+Some of these gateways enable the sharing
+data, while others allow the sharing of non-i
+data. The objectives and purposes for da
+under the DEA powers are tightly define
+Under the DEA you must still comply with th
+protection legislation.
+Part 5 of the DEA explicitly:
+● States that all processing of information u
+powers must comply with data protection
+and
+● prohibits the disclosure of information wh
+contravene data protection legislation.
+“Examples of where the DEA may be us
+gateway for sharing data include:
+● where the purpose is the improvement of
+of individuals or households (including ph
+and emotional well-being of children).
+8
+
+Safeguarding Data Sharing Agreement – Guidance Document
+omy Act 2017
+lic sector: Case example
+Somerset Council have registered an Data Sharing
+) focuses Agreement with the DEA as its legal gateway for the
+at allow following purpose:
+each other.
+Providing early intervention opportunities and presenting
+f personal
+multi-agency data pertaining to social issues to a range
+entifying
+of frontline professionals. The integration and sharing
+a sharing
+of this joined up data will elicit a deeper and broader
+.
+understanding of the multiple issues affecting individuals/
+data families.
+It will reduce duplication and resource for practitioners
+supporting the family, as it contains headline detail on
+assessments and current and historic involvement, not just
+der the DEA
+with statutory services, but commissioned providers. It will:
+egislation;
+● identify families facing multiple disadvantages
+re it would ● enable the improvement or targeting of appropriate
+support to individuals or households
+d as a legal ● enable the improvement of the physical, mental,
+emotional, social or economic wellbeing of individuals
+and families”
+he well-being
+sical, mental
+V1.3 June 2023
+
+Toolkit 5: Consent co
+Consent under the UK General Data Prot
+Regulation is just one lawful basis for pr
+personal data.
+It is unlikely for you to require consent in dat
+law to share data about a child, young perso
+member if the sharing is for safeguarding re
+However, you do need a lawful basis in data
+legislation to share personal data, but conse
+one of the options available. Instead, it is lik
+depending upon the type of organisation yo
+the circumstances, the appropriate lawful ba
+public task, legitimate interests, legal obligat
+interests. The ICO’s interactive lawful basis g
+and guidance on Consent | ICO will help you
+the right one.
+When is consent inappropriate?
+It follows that if for any reason you cannot o
+genuine choice over how you use their data,
+not be the appropriate basis for processing.
+the case if, for example:
+● you would still process the data on a differ
+basis if consent were refused or withdraw
+● you ask for ‘consent’ to the processing as
+of accessing your services; or
+8
+
+Safeguarding Data Sharing Agreement – Guidance Document
+siderations
+ction ● you are in a position of power over the individual – for
+cessing of example, if you are a public authority or an employer
+processing employee data.
+protection A common issue related to consent is the
+or family misunderstanding about consent under data protection
+sons. law and consent in a different context, such as the
+rotection provision of services by a local authority or the provision
+t is just of healthcare by the NHS. Consent to receive treatment
+ly that, or a service offered by an organisation or team is different
+are and from consent as a lawful basis under data protection law.
+es will be As stated earlier, it is unlikely to be appropriate to use
+on or vital consent as a lawful basis under data protection law; other
+idance tool lawful bases will be more suitable.
+to choose
+It is important to keep in mind that whichever lawful basis
+the processing of personal data is based on does not alter
+the requirement to inform individuals of how their data
+is being used (unless there is a legitimate reason not to
+fer people a
+inform them).
+consent will
+his may be
+nt lawful
+;
+precondition
+V1.3 June 2023
+
+Further links and guidance
+● Consent
+Consent
+ICO
+8
+
+Safeguarding Data Sharing Agreement – Guidance Document
+● Working together to Safeguard Children 2018
+Working Together to Safeguard Children 2018
+(publishing.service.gov.uk)
+DfE
+V1.3 June 2023

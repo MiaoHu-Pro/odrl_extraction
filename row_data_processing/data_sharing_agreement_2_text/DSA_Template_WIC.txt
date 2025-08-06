@@ -1,0 +1,401 @@
+﻿
+
+
+Data Sharing Agreement for
+Network and Information Systems
+And Information Asset Access
+Oregon State WIC and   RECEIVER 
+
+This Agreement is between Oregon State WIC (WIC) and RECEIVER.
+
+I.	PURPOSE
+This agreement is to acknowledge the interdependence and partnership required of WIC and   RECEIVER  in allowing access to network and information systems and information assets for the administration of programs between WIC and   RECEIVER .
+
+This agreement defines the roles and responsibilities of the parties when accessing information, networks, and systems of either party, to identify which party is receiving the access/information (  RECEIVER ) and which party is providing the access/information (WIC), and to identify the information/system access required.
+It addresses policies, security and confidentiality issues, costs, and processes to facilitate sharing of WIC data with   RECEIVER . This agreement allows designated staff of   RECEIVER  to be provided with access to certain WIC information maintained by Oregon State WIC. 
+
+Pursuant to CFR §246.26(h), confidential applicant and participant information can only be used for non-WIC purposes in the administration of State or local agency programs that serve persons eligible for the WIC Program, or to public organizations for use in the administration of their programs that serve persons eligible for the WIC program. 
+
+In order for the State to disclose confidential applicant or participant information for non-WIC purposes, the following steps must be accomplished: 
+
+    1. State Health Officer has provided written designation of the permitted use and name of organization
+    2. Applicants and participants have been notified about the use and the name of the organization.
+    3. This agreement has been signed by both parties. 
+
+
+
+
+PURPOSE OF REQUESTED ACCESS TO CONFIDENTIAL WIC INFORMATION
+
+  RECEIVER  may only use the confidential applicant and participant information for:
+
+    1. Establishing the eligibility of WIC applicants or participants for the programs that the organization administers;
+    2. Conducting outreach to WIC applicants and participants for such programs;
+    3. Enhancing the health, education, or well-being of WIC applicants or participants who are currently enrolled in such programs, including the reporting of known or suspected child abuse or neglect that is not otherwise required by State law;
+    4. Streamlining administrative procedures in order to minimize burdens on staff, applicants, or participants in either the receiving program or WIC program; and/or
+    5. Assessing and evaluating the responsiveness of a State’s health system to participants’ health care needs and health care outcomes.
+
+  RECEIVER ’s reasons for requesting access to confidential information:
+
+
+
+   
+
+
+
+
+II.	DEFINITIONS
+    • “Access” means access to any combination of Client Records, Information Assets, and Network and Information Systems.
+    • “Agreement” means this Interagency Data Sharing Agreement, including all documents attached or incorporated by reference.
+    • “Client Record(s)” means any client, applicant, or participant information regardless of the media or source, provided by WIC to   RECEIVER .
+    • “Confidentiality” is the preservation, in confidence, of all information concerning a participant and/or applicant that may be disclosed between the WIC participant/applicant and WIC staff, and where release of the information would constitute an invasion of privacy.
+    • “Conflict of Interest” refers to the circumstance wherein an individual’s personal interests might benefit from his/her work activities or public responsibilities.
+    • “Data sharing” means the exchanging, collecting or disclosing of “personal information” by an organization with other organizations of the state or country.  
+    • “Individual User Profile (IUP)” refers to a DHS form used to authorize a User, identify their job assignment and the required access to DHS/OHA Network and Information System(s). It generates a unique alpha/numeric code used to access the DHS/OHA Network and Information Systems. 
+    • “Information Asset(s)” refers to all information provided through WIC, regardless of the source, which requires measures for security and privacy.
+    • “Incident” is a threat or event that compromises, damages, or causes a loss of confidential or protected information (e.g., unauthorized disclosure of information, failure to protect user ID’s, theft of computer equipment or Client Records, etc.)
+    • “Network and Information System(s)” is the computer infrastructure which provides personal communications; Client Records; regional, wide area, and local networks; and the internetworking of various types of networks.
+    • “Participant records” are documents, regardless of medium or physical form, containing data/information relating to TWIST database management system.
+    • “Personal information” is data relating to an individual who can be identified from that data or by other data which is in the possession of or likely to come into the possession of the partner organization.
+    • “  RECEIVER ” is the program requesting the data.
+    • “Subcontractor” is any individual or business that contracts to provide a service for another business or individual.
+    • “User” means any individual authorized to access Network and Information Systems and who has an assigned unique log-on identifier.
+    • “WIC” is the Oregon State WIC Office providing the data.
+
+III.	GENERAL TERMS AND CONDITIONS
+1.	Effective Date and Duration
+This Agreement shall become effective on the date the agreement is signed and shall remain effective for two years from the date of the last signature on the agreement.
+
+2.	Termination/Revocation of Access
+This Agreement may be terminated at any time by mutual consent of the parties.
+
+This Agreement may be terminated by either party upon delivery of 30 days written notice of the other party.
+
+WIC reserves the right to immediately revoke the Access granted through this Agreement for failure to comply with the requirements of this Agreement.
+
+WIC reserves the right to terminate this Agreement or modify access to the information if there are changes or revised interpretations in federal or state laws, rules, or regulations, or if WIC has changes in policies that require such change.
+
+  RECEIVER  hereby grants WIC access to its officers, agents, contractors, subcontractors, employees, facilities and nutrition records for WIC to determine:
+    • Compliance with the terms and conditions of this Agreement and OARs 943-014-0300 through 943-014-0465; 
+    • Whether or not to continue to grant access, in whole or in part, under this Agreement; 
+    • Any additional information WIC may require to meet any state or federal laws, rules and regulations regarding use and disclosure; and
+    •   RECEIVER ’s documentation of a written security risk management plan.
+
+WIC may exercise these rights at anytime, with or without notice.
+
+In the event the   RECEIVER  fails to abide with the above requirement, WIC reserves the right to immediately revoke the access granted through this Agreement.
+
+3.	Restrictions and Conditions of Use
+WIC agrees that it shall make available data, as defined in the data dictionary, requested by the   RECEIVER  for the specific purposes previously outlined. Data subject to this agreement and distributed by WIC are intended for the sole use of   RECEIVER  for the specific purpose above.  Raw data acquired under this agreement may not be disseminated or otherwise disclosed to any individual or organization. The aggregate data may be released in statistical summary to assist in assessing population health status and need, and to promote and strengthen linkages with other public services and programs but must meet the following conditions:
+
+    • WIC will be given access to all nutrition information generated from WIC data.  This includes access to all information that supports the findings, conclusions, and recommendations of   RECEIVER ’s reports, including computer models and methodology for those models. 
+    •   RECEIVER  agrees to make identified information covered under this agreement available to WIC for inspection or to amend the identified State WIC information, and to incorporate any amendments to the personal information into all copies of such personal information maintained by   RECEIVER  or its subcontractors.
+
+
+4.	Permitted Data Uses and Disclosures
+  RECEIVER  may use the confidential applicant and participant information as per Specifications for   RECEIVER  to Use State WIC Data, provided by WIC.
+
+
+5.	Security 
+  RECEIVER  shall have established privacy and security measures in place that meet or exceed the standards set in laws, rules, and regulations, and that are applicable to Users regarding the safeguarding, security and privacy of Client Records, all Information Assets, regardless of the media, and all Network and Information Systems.
+
+  RECEIVER  shall prevent any unauthorized access to WIC’s Network and Information Systems by its Users.   RECEIVER  shall ensure the level of security and privacy protection required in accordance with this Agreement is documented in a security risk management plan.   RECEIVER  shall make its security risk management plan available to WIC for review upon request. 
+
+  RECEIVER  shall maintain security of equipment and ensure the proper handling, storage and disposal of all Information Assets accessed, obtained, or reproduced through this Agreement to prevent inadvertent destruction or loss.    RECEIVER  shall also ensure proper disposal when the authorized use of that information ends, consistent with the record retention requirements otherwise applicable to this Agreement.
+
+6.	User Disclosure of Information
+
+The use and disclosure of any Access is strictly limited to the minimum information necessary to perform the required services.
+
+    a.   RECEIVER  staff shall not disclose, in whole or in part, the data provided by State WIC to any third party individual or entity. Data may be disclosed only to persons within the   RECEIVER  that have the need to use the data to achieve the stated purposes of this Agreement.
+    b. There are no exceptions to these limitations.
+
+
+7.	PENALTIES FOR UNAUTHORIZED DISCLOSURE OF INFORMATION.  In the event   RECEIVER  fails to comply with any terms of this Agreement, State WIC shall have the right to take such action as it deems appropriate.  The exercise of remedies pursuant to this paragraph shall be in addition to all sanctions provided by law, and to legal remedies available to parties injured by unauthorized disclosure.
+
+  RECEIVER  accepts full responsibility and liability for any violations of the Agreement.	
+
+8.	EMPLOYEE AWARENESS OF USE/NON-DISCLOSURE REQUIREMENTS 
+  RECEIVER  shall ensure that all staff with access to the data described in this Agreement are aware of the use and disclosure requirements of this Agreement and will advise new staff of the provisions of this Agreement.  All Staff with access to the data will sign a Data Confidentiality Agreement as per State WIC.
+
+9.	DATA DISPOSITION
+Unless otherwise directed in writing by State WIC, at the end of this Agreement, or at the discretion and directions of State WIC,   RECEIVER  shall immediately destroy all copies of the original electronic data files and all printed copies of the original electronic data flies related to this Agreement after it has been used for the purposes specified therein.  
+
+In addition, if   RECEIVER  wants to destroy the data files, at any other time during the agreement period, State WIC must be notified.  
+
+  RECEIVER  shall notify the State WIC of data disposition by submission of the Certification of Data Disposition (Exhibit C).  Acceptable methods of destruction are described in Certificate of Date Disposition.
+
+
+IV.	COSTS
+Costs related to the acquisition of all equipment, software, data lines or connections necessary to provide access to WIC client records are the responsibility of   RECEIVER  unless otherwise agreed to by written agreement. There will be no cost related to obtain the data itself.
+
+V.	AGREEMENT CONTACTS
+WIC:	Craig Wallachy
+	800 NE Oregon St, Suite 865
+	Portland, Oregon  97232
+	Phone number:  971.217 5033
+	Fax Number:  971.673.0071
+	Email: craig.wallachy@state.or.us
+
+
+  RECEIVER :	Agreement Administrator
+	Name:        
+	Title:      
+	Address:      
+	Phone number:      
+	Facsimile number:      
+					Email:      
+
+
+VI.	ACCESS GRANTED BY WIC
+1.	Additional Definitions
+	None.
+2.	Access and Security of WIC
+The Work performed under this Agreement does not require   RECEIVER  to have access to or use of WIC’s computer system (TWIST).  
+
+VII.	ACCESS CONTROL
+
+	N/A
+
+VIII.	REVOKING ACCESS
+WIC may revoke   RECEIVER ’s access whenever employment of Users who have access to client records terminates; or when a User no longer requires access to client records due to changes in their individual duties or due to changes in the programs covered under this Agreement.
+
+Wrongful use or disclosure of client records by   RECEIVER  as determined under OARs 943-014-0300 through 943-014-0465 or DHS policy or rule may cause the immediate revocation of the   RECEIVER ’s access granted though this Agreement. Legal actions also may be taken for violations of applicable regulations and laws.
+
+  RECEIVER  shall be responsible for ensuring the screening of their own staff to prevent access to conflict of interest cases.
+
+IX.	USER DISCLOSURE OF INFORMATION
+Wrongful use or disclosure of Information Assets by   RECEIVER  or its Users may cause the immediate revocation of the access granted though this Agreement, at the sole discretion of WIC, or  may  give a reasonable opportunity for   RECEIVER  to cure the unauthorized use or disclosure and end the violation.  WIC may terminate access if   RECEIVER  does not cure within the time specified by WIC.  Legal action also may be taken for violations of applicable regulations and laws.
+
+  RECEIVER  shall comply with WIC’s policy for identifying and addressing a privacy or security Incident. This requirement applies regardless of whether the Incident was accidental or otherwise.    RECEIVER  shall immediately report any Incidents involving access addressed in this Agreement to WIC at dhsinfo.security@state.or.us and sara.e.sloan@dhsoha.state.or.us.   Examples and reporting requirements can be found in the DHS/OHA 090-005- Information Security Incident Management Policy.
+
+X.	SUBCONTRACTING
+Subcontracting is not permitted.    RECEIVER  shall not allow subcontractors access to the data.  
+
+
+XI.	DOCUMENTS
+This Agreement consists of this document and includes the following listed exhibits which are incorporated into this Agreement:
+	Exhibit A:	Receiver Data and Certification (External Agencies Only)
+	Exhibit B:	Data Management
+	Exhibit C:	Certification of Data Disposition
+	Exhibit D:	ODHS|OHA 090-003 Access Control Policy
+	Exhibit E:	Data Dictionary
+
+There are no other documents unless specifically referenced and incorporated in this Agreement.
+
+1.	ALL WRITINGS CONTAINED HEREIN
+This Agreement contains all the terms and conditions agreed upon by the parties.  No other understandings, oral or otherwise, regarding the subject matter of this Agreement shall be deemed to exist or to bind any of the parties hereto.
+
+WIC and   RECEIVER , by the signatures below of their authorized representatives, hereby acknowledge that they have read this Agreement, understand it, and agree to be bound by its terms and conditions.
+
+(  RECEIVER )
+
+_________________________________________________________________________
+Authorized Representative 			Date
+
+
+OREGON STATE WIC
+
+_________________________________________________________________________
+Tiare Sanna, Program Manager 	Date
+
+
+
+
+EXHIBIT A
+  RECEIVER  DATA AND CERTIFICATION (External Agencies Only)
+
+  RECEIVER  DATA AND CERTIFICATION
+a.	  RECEIVER  Tax Identification and Insurance Information.     RECEIVER  shall provide   RECEIVER ’s federal tax ID number and the additional information set forth below. This information is requested pursuant to ORS 305.385.
+
+Please print or type the following information:
+If   RECEIVER   is self-insured for any of the Insurance Requirements specified below,   RECEIVER  may so indicate by writing “Self-Insured” on the appropriate line(s).
+Name (exactly as filed with the IRS):       
+Address:      
+Telephone:  	     			Facsimile:       
+
+Proof of Insurance:A .  
+Workers Compensation – Insurance Company:       
+Policy #:      				 Expiration Date:      
+Professional Liability Insurance Company:       
+Policy #:      				 Expiration Date:      
+General Liability Insurance Company:      
+Policy #:      				 Expiration Date:      
+Auto Insurance Company:       
+Policy #:       				Expiration Date:      
+
+Federal Tax I.D.#:       
+
+The above information must be provided prior to Agreement approval.   RECEIVER  shall provide proof of Insurance upon request by WIC or WIC designee. WIC may report the information set forth above to the Internal Revenue Service (IRS) under the name and taxpayer identification number provided.
+
+b.	Certification. By signature on this Agreement, the undersigned hereby certifies under penalty of perjury that:
+(1)	The number shown in Section a. is    RECEIVER ’s  correct taxpayer identification and all other information provided in Section a. is true and accurate; and
+(2)	   RECEIVER  is not subject to backup withholding because:
+(a)	   RECEIVER  is exempt from backup withholding;
+(b)	   RECEIVER  has not been notified by the IRS that   RECEIVER  is subject to backup withholding as a result of a failure to report all interest or dividends; or
+(c)	The IRS has notified   RECEIVER  that   RECEIVER  is no longer subject to backup withholding.
+ EXHIBIT B
+DATA MANAGEMENT
+Updated 4-2021
+
+
+
+Definitions:
+    • “Data Request Intervals” means the frequency with which a data request may be made.  Data may be requested up to four times a year. 
+
+    • “Data Request Delivery” means the date on which the results of the data request will be sent to the requestor.  Data will be delivered within 15 working days of the request submission. 
+
+    •  “Secure Email” is an e-mail that is altered (or "encrypted") so that it is unintelligible to unauthorized parties. Instead of receiving email directly to their inbox, recipients of a secure email will receive a notification message stating that a secure e-mail is waiting for them on a secure server. A web link in the notification will take them to the secure server where they will log in and view the message and retrieve any attached data files.
+
+
+Steps for Requesting WIC 
+    • Enter the names and DOBs into an Excel spreadsheet.  
+    • Submit the Excel spreadsheet to the WIC representative via secure email.  
+
+
+Special Notes:
+    • Data requests must be compiled and submitted by a designated Head Start program representative and not individual Head Start sites.  
+
+    • Submission of accurate and complete participant information is the responsibility of the Head Start representative.  
+
+    • The Head Start representative is responsible for the management of their user name and password for the secure email site. 
+
+
+EXHIBIT C
+CERTIFICATION OF DATA DISPOSITION
+
+All electronic data files and printed copies of original data files must be destroyed after they have been used for the purpose specified in this agreement.   RECEIVER  shall notify the State WIC of data disposition by submission of the Certification of Data Disposition. 
+
+Date of Disposition:      
+
+	All copies of the original electronic data files related to the Agreement have been eradicated from all data storage systems, including the internal memory, buffers, or reusable memory, to effectively prevent any future access.
+
+	All printed copies of the original electronic data files related to Agreement have been destroyed on-site by cross cut shredding.
+
+	All copies of any original electronic data files related to agreement that have not been disposed of in a manner described above, have been returned to State WIC.
+
+	Other
+
+  RECEIVER  hereby certifies, by signature below, that the data disposition requirements as provided in Agreement have been fulfilled as indicated above.
+
+
+______________________________________________	
+Signature of Receiving Agency Data Recipient
+
+________________________
+Date
+
+EXHIBIT D
+Information Security Policies
+
+
+ODHS|OHA 090-003: Access Control Policy  
+
+ODHS|OHA 090-009: Administrative, Technical and Physical Safeguards Policy
+ 
+DAS 107-004-100: Transporting Information Assets Policy 
+
+HIPAA: 45 CFR 164
+
+ODHS: OARs 407-014-0300 through 407-014-0320
+
+OHA: OARs 943-014-0300 through 943-014-0465
+
+ Exhibit E	
+Data Dictionary
+
+
+Data Attribute Name
+Reference Name Information
+Example Value for Reference Name
+WIC_ID
+Generated WIC ID number
+12345678-01
+RECEIVER_COUNTY
+County information provided by RECEIVER
+Harney
+RECEIVER_SITE
+Site information provided by RECEIVER
+Hines
+RECEIVER_CHILD_NAME
+Child's full name as provided by RECEIVER
+Smith, John
+RECEIVER_DOB
+Child's date of birth as provided by RECEIVER
+7/1/2008
+LAST_NAME
+Client's surname.
+John Evan Smith
+FIRST_NAME
+A word or group of words indicating a person’s first (personal or given) name; the name that precedes the surname.
+John Evan Smith
+MIDDLE_NAME
+A word or group of words indicating a person’s second (personal or given) name; the name that precedes the surname.
+John Evan Smith
+DATE_OF_BIRTH
+Month, day, and year of participant's birth.
+7/1/2005
+STREET_ADDRESS
+The street name and building number where a person or organization can be found 
+800 NE Oregon St, Suite 865
+CITY
+A large or important municipality of a country, usually a major metropolitan center. 
+
+A large and densely populated urban area; a city specified in an address. 
+Portland
+STATE
+One of the fifty states which is a member of the federation known as the United States of America. Other US geographic areas, such as Puerto Rico and the District of Columbia, are essentially equivalent to State when used in an address. 
+Oregon
+ZIP 
+A system designed to expedite the sorting and delivery of mail by assigning a series of numbers to each delivery area in the United States.  Also used to refer to any individual delivery area code.  
+97232
+COLLECTION_DATE
+Date that the weight, height, and hemoglobin of the child were taken, as reported in the weight, height, and hemoglobin fields.
+1/1/2008
+WEIGHT_POUNDS 
+The child's weight, measured with minimal clothing and without shoes, to the nearest pound.
+32
+
+all 9s = not taken or unknown
+(e.g., 999 or 9999)
+
+Exhibit E	(Page2)
+Data Dictionary
+
+Data Attribute Name
+Reference Name Information
+Example Value for Reference Name
+WEIGHT_OUNCES
+The child's weight, measured with minimal clothing and without shoes, to the nearest ounce over the value in WEIGHT_POUNDS.
+6
+
+all 9s = not taken or unknown(e.g., 99)
+HEIGHT_INCHES 
+The child’s measured height, without shoes, or measured recumbent length if the child is < 24 months of age, to the nearest inch.
+42
+
+all 9s = not taken or unknown
+(e.g., 999 or 9999)
+HEIGHT_EIGHTHS
+The child’s measured height, without shoes, or measured recumbent length if the child is < 24 months of age, recorded to the nearest eighth of an inch over the value in HEIGHT_INCHES.
+5
+
+all 9s = not taken or unknown
+(e.g., 9)
+BMI PERCENTAGE
+After BMI is calculated for children, the BMI number is plotted on the CDC BMI-for-age growth charts (for either girls or boys) to obtain a percentile ranking. Percentiles are the most commonly used indicator to assess the size and growth patterns of individual. The percentile indicates the relative position of the child's BMI number among children of the same sex and age. 
+
+WIC plots BMI percentage for children when the child’s age is ≥ 24 months and the child’s height measurement is standing.
+HEMOGLOBIN
+Measure of concentration of hemoglobin in the blood.
+11.4
+
+all 9s = not taken or unknown
+(e.g., 999, 999.9 or 999.99)
+OVERALL_RISK_LEVEL
+Overall risk level assigned to the participant based on all assigned nutritional risk factors.
+1 = High
+2 = Medium
+3 = Low
+
+

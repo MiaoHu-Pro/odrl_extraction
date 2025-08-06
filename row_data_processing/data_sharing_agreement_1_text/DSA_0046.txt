@@ -1,0 +1,397 @@
+DATA SHARING AGREEMENT: Early Help and Supporting Families National Insights
+data collection
+DEPARTMENT FOR LEVELLING UP, HOUSING AND COMMUNITIES
+AND
+CAMDEN COUNCIL
+THIS AGREEMENT is made the 15th day of November 2023
+BETWEEN
+THE DEPARTMENT FOR LEVELLING UP, HOUSING AND COMMUNITIES of 2 Marsham
+Street, London, SW1P 4DF (“DLUHC”)
+and
+CAMDEN COUNCIL of 5 Pancras Square, London N1C 4AG
+1. BACKGROUND
+1.1 The Early Help data collection is aiming to collect data on all families worked with by
+early help services in all 152 upper tier local authorities in England bi-annually to better
+understand issues faced by families and the long-lasting positive change they have
+achieved.
+1.2 Insights from this research will enable central government and local authorities to
+resource and commission support more effectively and target specialist support at
+specific problems (thereby increasing the impact and value for money of existing
+programmes) and provide essential inputs to future policy discussions on the shape of
+early help and children’s social care and the response to the Care Review.
+1.3 This will be the first collection of its kind for Early Help cases.
+1.3.1 The collection will include all cases with an Early Help assessment, as well
+as Children’s Social Care cases if they have been successfully claimed
+under the Supporting Families programme.
+1.4 The data will be used by local authorities and central government to better understand;
+1.4.1 the problems families are facing
+1.4.2 which services are providing support to families
+1.4.3 whether long lasting positive change has been achieved across those
+problems.
+1.5 This insight will enable central government and LAs to resource and commission support
+more effectively, identify and share evidence of good practice and target specialist
+support towards specific problems.
+
+1.6 A DPIA has been carried out, which covers the data sharing process and reviewed by
+the KIA team.
+1.7 This Agreement exists to provide a framework for compliance with UK data protection
+provisions and the Human Rights Act 1998, including the data protection principles at
+article 5 of the UK GDPR, and taking account of the Information Commissioner’s Code of
+Practice on Data Sharing.
+IT IS NOW AGREED as follows:
+2. DEFINITIONS AND INTERPRETATION
+2.1 In this Agreement the following words and phrases shall have the following meanings,
+unless expressly stated to the contrary:
+“Authorised Representatives” means the nominated lead officer representing each of the
+parties with delegated authority to handle the day-to-day matters arising from this
+Agreement;
+“Data Controller” has the meaning in article 4(7) of the UK GDPR. For this project DLUHC
+will be the data controller of the personal data.
+“Data processor” has the meaning in article 4(8) of the UK GDPR. For this process, the
+Supplier (IFF Research) is a data processor on behalf of DLUHC. Additionally, a small
+number of analyst colleagues in the Department for Education will also perform the role of
+data processor on behalf of DLUHC.
+“Data Protection Legislation” means all applicable data protection and privacy legislation
+in force from time to time in the UK including, as defined at s.3(9) of the DPA 2018, the UK
+GDPR; the DPA 2018; regulations made under the DPA 2018; and regulations made under
+s.2(2) of the European Communities Act 1972 which relate to the EU GDPR or the Law
+Enforcement Directive
+“Data” means the data shared under this Agreement. In the case of this Agreement, data
+means the data shared between Local Authorities (on behalf of DLUHC) and the Supplier.
+“Data subject” means the subject of the personal data. In the case of this Agreement the
+data subjects are families with an Early Help assessment and worked with by a Lead
+Practitioner (under the Supporting Families programme).
+“DPA 2018” means the Data Protection Act 2018;
+“Environmental Information Regulations” means the Environmental Information
+Regulations 2004, as amended, together with any guidance and/or codes of practice for their
+application issued by the Information Commissioner or relevant government department in
+relation to such Regulations;
+“FOIA” means the Freedom of Information Act 2000 (as amended);
+
+“UK GDPR” means Regulation (EU) 2016/679 of the European Parliament and of the
+Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+personal data and on the free movement of such data, as it forms part of the law of England
+and Wales, Scotland and Northern Ireland by virtue of section 3 of the European Union
+(Withdrawal) Act 2018
+“Parties” means the parties to this Agreement, namely DLUHC and Camden Council;
+“Personal Data” has the meaning in article 4(1) of the UK GDPR;
+“Processing” has the meaning in article 4(2) of the UK GDPR;
+“Programme” here refers to the Supporting Families programme.
+“Project” here refers to the Early Help and Supporting Families National Insights data
+collection.
+“Pseudo-anonymised data” bears the meaning “being such data that cannot directly
+identify an individual as the personal data have been removed but includes a unique
+identifier that enables the person’s identity to be re-connected to the data by reference to
+separate databases containing the identifiers as identifiable data. The unique identifier
+allows datasets to be linked together without knowing the identity of the person.”
+“Request for Information” means a request under FOIA or the Environmental Information
+Regulations.
+“Supplier” refers to the contracted third party DLUHC have commissioned to undertake the
+data collection and analysis on our behalf. This is IFF Research.
+2.2 Headings are included in this Agreement for ease of reference only and shall not affect
+the interpretation or construction of this Agreement.
+2.3 References in this Agreement to Clauses, Paragraphs and Annexes are, unless
+otherwise provided, references to the Clauses, Paragraphs and Annexes of this Agreement.
+2.4 In the event and to the extent only of any conflict or inconsistency between the
+provisions of this Agreement and the provisions of any document referred to or referenced
+herein, the provisions of this Agreement shall prevail.
+3. COMMENCEMENT AND TERM
+3.1 This Agreement shall commence upon signature by the Parties and shall continue in
+effect until the end of the project (March 2025) in accordance with the requirements of this
+Agreement unless otherwise subject to earlier termination in accordance with Clause 17.
+3.2 The Parties may, by mutual consent in writing, agree to extend this Agreement for a
+period to be agreed between them.
+3.3 Amendments to this Agreement may only be made upon written agreement between the
+Parties.
+4. PURPOSE OF RESEARCH AND USE OF PERSONAL DATA
+
+4.1 Data Source:
+The data (family level and cohort level) will be provided by local authorities (LAs) from their
+own case management systems. This will be data collected from families and partners, to
+provide a holistic picture of all the issues faced by families supported in Early Help and/or
+Children’s Social Care (if the case is claimed under the Supporting Families payments by
+results process). The LA family identifier (Family ID) will be used to create pseudo-
+anonymised data.
+4.1.1 Collecting the data with a family identifier is necessary in order to identify which
+problems are correlated with one another and associated with outcomes. Without this
+identifier it would also not be possible to track trends over time (problems, outcomes,
+re-referrals).
+4.1.2 However, in the interest of data minimisation, the LA family identifier (Family ID) will
+be replaced by a new Family ID created by IFF before being shared back to DLUHC
+for government analytical use. This will minimise the sharing of personal data.
+4.2 How we will collect and use the data:
+DLUHC will ask the IFF Research to collect these data from local authorities via their secure
+data transfer portal. This portal is encrypted, and password protected. This portal will be
+subject to a full cyber assurance check by the DLUHC cyber security.
+4.2.1 IFF Research will store the data.
+4.2.2 IFF Research will perform data validations and analysis and provide reports back to
+the relevant local authority, and national reports to the national Supporting Families
+team. These reports will only contain cohort level data which is therefore non-
+identifiable or personal data.
+4.2.3 See data flow in clause 7 for full details.
+4.3 How the data will be shared:
+4.3.1 The processed data file data will be provided back to DLUHC by IFF using Egress, a
+DLUHC approved secure file-sharing software.
+4.3.2 DLUHC will share the processed data with a small number of analyst colleagues
+within the Department for Education (DfE) as the Supporting Families programme is
+a shared programme. The terms of this transfer with DfE are covered by a data
+processing agreement (MOU). This data will not include the original Family ID
+provided by LAs, and therefore will be fully anonymised.
+4.3.3 When the processed data files are shared with DfE colleagues this will be via a
+secure, encrypted, password protected platform (DLUHC SharePoint).
+4.3.4 The Supplier generated local and national reports produced will be shared with
+DLUHC. DLUHC will then share the relevant local and national reports back to the
+local authorities. Additionally, DLUHC will share the national with other relevant
+
+government departments (DWP, DfE, DHSC, MoJ). The unique identifier/Family ID
+will not be able to be accessed through these reports and therefore there is no
+personal identifiable data contained within these reports. Therefore, they will be
+shared via email.
+5. PURPOSE OF DATA SHARING
+5.1 This will be the first collection of its kind for Early Help cases. The data will be used by
+local authorities and central government to better understand; a) the problems families are
+facing, b) which services are providing support to families and c) whether long lasting
+positive change has been achieved across those problems. This insight will enable central
+government and LAs to resource and commission support more effectively, identify and
+share evidence of good practice and target specialist support towards specific problems.
+5.2 The project will involve processing and linking data on vulnerable families and children,
+but DLUHC will not have any direct relationship with these individuals.
+5.2.1 The purpose of the data collection is to capture the problems and outcomes that
+families experience who are worked with by early help services. The data will deliver
+insights into what particular services are supporting families and whether long lasting
+positive change has been achieved across these problems.
+5.3 The use of data in this way will be justified by both public interest for the general
+processing and the substantial public interest in protecting vulnerable children and
+families (special category data). This is in line with Article 6(1)(e) and Article 9(2)(g) of
+UK General Data Protection Regulation (GDPR) on the basis of Union or Member State
+law which shall be proportionate to the aim pursued, respect the essence of the right to
+data protection and provide for suitable and specific measures to safeguard the
+fundamental rights and the interests of the data subject.
+5.3.1 The insight generated from the data will enable central government and local
+authorities to resource and commission support more effectively, identify and share
+evidence of good practice and target specialist support at specific problems. This will
+lead to an improved service for individuals and families, and families receiving the
+right support at the right time.
+6. LAWFUL BASIS FOR PROCESSING THE DATA
+6.1 The following are the lawful bases in data protection legislation under which DLUHC will
+process the personal data (including special categories of personal data):
+6.1.1 Article 6(1)(e) of the UK GDPR - the processing is necessary for DLUHC to
+perform a task in the public interest or in the exercise of official authority. In
+particular, to help further the understanding of needs identified for families within
+Early Help, identify the scale of re-referrals and be able to share insight on a
+national and local level to support the work in improving the lives of families.
+6.1.1.1 In order to rely on article 6(1)(e), article 6(3) requires there to be a
+separate legal basis laid down in law to justify the processing. DLUHC
+is relying on its common law powers to justify this processing: the
+
+Secretary of State for Levelling Up, Housing and Communities relies on
+the common law powers of the Crown as the separate legal basis for
+this processing.
+6.1.2 Article 9(2)(g) of the UK GDPR – the processing is necessary for reasons of
+substantial public interest. DLUHC will rely on meeting the condition in Schedule
+1, Part 2, paragraph 6 of the DPA 2018 to process special category personal
+data in accordance with section 10(3) of the DPA 2018.
+6.1.2.1 In order to track re-referral rates i.e., families who receive multiple
+interventions, the pseudo-anonymised Family ID needs to be supplied.
+6.1.2.2 No other personal data is required to be shared so minimises the risk
+although the data still requires appropriate security and handling as
+personal data.
+6.1.3 DLUHC will also meet the conditions in article 10 of the UK GDPR and section
+10(5) of the DPA 2018 to process criminal offence data since processing is
+authorised under Section 10(5) and Schedule 1, Part 2, paragraph 6 of the DPA
+2018.
+6.1.3.1 Data relating to criminal convictions or offences will also be processed,
+for which we refer to Article 10 of GDPR. However, this will again be
+pseudo-anonymised non-identifiable and minimal (e.g., the presence or
+absence of criminal conviction within the family).
+6.2 The data protection lawful bases and legal powers under which IFF Research will
+process the personal data (including special categories of personal data) are contained
+within the Contract between DLUHC and the Supplier.
+6.2.1 Schedule 11 of this contract lays out the;
+6.2.1.1 Identity of data controllers and data processors
+6.2.1.2 The duration of processing
+6.2.1.3 The nature and purpose of purposing
+6.2.1.4 The type of personal data
+6.2.1.5 The categories of data subjects
+6.2.1.6 Plans for return and destruction of fata one processing is complete
+6.2.1.7 Confirmation that all data will only be processed within the United
+Kingdom.
+6.2.2 These data processing arrangements are also covered by a full DPIA which has
+been reviewed by the DLUHC KIA team.
+
+7. THE PROCESS FOR SHARING DATA
+Personal data Stage 1: Data Collection
+- Data is collected by family support workers from families and recorded in
+Non-personal data
+local authority case management systems.
+- These data are brought together with ‘hard data’ from partners, for example
+the % attendance at school.
+- This captures a holistic picture of all the issues faced by the family and tracks
+their outcomes as per the Supporting Families Outcomes Plan.
+Stage 2a: Family Level submission. Stage 2b: Cohort Level submission
+These data will be input into an Excel template by the local These data will uploaded via an Excel
+author ity. Data will be at a family level and contain an identifier template by the LA to IFF Research's
+numbe r/Family ID for each family. These will be shared by the secure transfer portal.
+local a uthority with IFF Research via a CSV file on a secure
+platfor m. There will be no name/address data.
+Stage 3: Data processing
+All data will be cleansed by IFF Research. The data will be processed, analysed
+and reports produced at a national and local level. Data will be stored securely
+on IFF Research IT systems (which have undergone DLUHC cyber assurance
+checks). Data to be retained by supplier for length of contract (until March 2025).
+IFF will ascribe each case a new unique identifier/Family ID before sharing back
+to DLUHC so as to minimise the transfer of personal data.
+Stage 4c: Storage of processed data files
+Stage 4a: Distributing Local
+Stage 4b: Publication of Evidence- The processed full data files (with new
+reports
+DLUHC and government unique identifiers/Family ID) will be
+Each partic ipating LA will departments supplied to DLUHC and DFE by IFF Research
+receive a ta ilored local report.
+using Egress. These files will not contain any
+National reports produced by IFF
+personal data as it will not include the
+These will be shared with Research will be shared with the
+original Family ID provided by LAs. This data
+DLUHC and sent via email as Supporting Families team in DLUHC.
+will be used for further analysis as needed
+they these will not contain any The national report for 2024 will be
+by ministers and government departments.
+personal data). published on gov.uk.
+This will be stored securely on departmental
+systems.
+
+8. PERSONAL DATA COVERED BY THIS AGREEMENT
+A unique identifier referenced as a ‘Family ID’ is being supplied with the data and so
+represents pseudonymised personal data. If local authority systems were compromised, and
+Family IDs matched with personal information held by local authorities, there is a risk
+families could be identified. This is therefore considered to be personal data because the
+data in the family ‘packet’ contains details relating to family needs, which includes sensitive
+topics such as domestic abuse and childhood sexual exploitation. However, we have
+minimised this risk by creating a new unique identifier/Family ID for government analytical
+use. This means the pseudonymised personal data is not shared any further than is
+necessary and therefore in adherence to the principle of data minimisation.
+9. PROTECTION OF PERSONAL DATA
+9.1 DLUHC and Camden Council agree to share the Personal Data only as set out in this
+Agreement.
+9.2 In relation to any third-party Processors appointed by the Parties to process the shared
+Personal Data, the Parties will comply with data protection legislation in relation to that
+appointment. In this case, the third-party Processors are small number of DfE analyst
+colleagues and IFF Research.
+9.3 DLUHC and Camden Council will maintain the levels of security under this Agreement
+throughout the process.
+9.4 DLUHC and Camden Council shall not disclose or transfer data outside the UK.
+9.5. DLUHC and Camden Council will each ensure that all staff involved in the processing of
+personal data under this Agreement have received appropriate data protection training.
+10. RETENTION AND DESTRUCTION OF DATA
+The data will be retained by the Supplier throughout the duration of the project (until March
+2025). This is needed in order to identify trends that emerge over time and successfully
+complete valuable analysis. DLUHC will retain non-personal data for further analytical use,
+however this data will not contain the Family ID and therefore will be fully anonymised. No
+personal data will be retained beyond March 2025 by DLUHC, DfE or IFF Research.
+11. LOSS OR UNAUTHORISED RELEASE
+11.1 DLUHC and Camden Council (including the Supplier, IFF Research) will report to all
+parties any loss or unauthorised release of the personal data no later than 48 hours after the
+loss or unauthorised release is identified (comes to their attention). In the case of a personal
+data breach, the data controller shall without undue delay and, where feasible, not later than
+72 hours after having become aware of it, notify the personal data breach to the Information
+Commissioner’s Office (as supervisory authority competent in accordance with article 55 UK
+GDPR), unless the personal data breach is unlikely to result in a risk to the rights and
+freedoms of natural persons. Where the notification to the supervisory authority is not made
+within 72 hours, it shall be accompanied by reasons for the delay.
+11.2 DLUHC and Camden Council acknowledge that any loss or unauthorised release of the
+personal data can be treated as valid grounds for immediately terminating this agreement by
+any party.
+
+12. FREEDOM OF INFORMATION
+12.1 DLUHC and Camden Council acknowledge that the information is subject to the
+requirements of the FOIA and the Environmental Information Regulations and shall assist
+and cooperate to enable compliance with their Information disclosure requirement in relation
+to the project/programme.
+13. RIGHTS OF DATA SUBJECTS
+13.1. DLUHC and Camden Council as independent data controllers will ensure that the
+processing of the shared personal data is fair and transparent and the data subjects’ right to
+be informed under the data protection legislation is met. Data subjects are already informed
+that data will be used for evaluation. However, we ask local authorities to update their
+privacy notices (held on websites and provided by workers to families on request) to explain
+that this will be shared with the national team on a pseudonymised basis.
+• We previously did this for the National Impact Study evaluation, so there is
+precedent, and areas have taken part in a similar exercise before.
+• This is in line with the right to be informed set out in Article 12(1), and Articles 13 and
+14 of the GDPR.
+13.2. Data subjects have the rights of access accorded by article 15 of the UK GDPR,
+including the right to obtain a copy of the information held about them. DLUHC and Camden
+Council as data controllers will each be responsible for responding to subject access
+requests, under their respective policies and procedures, that each receives. DLUHC and
+Camden Council will aim to respond appropriately to any subject access or other rights
+request within one month of receipt. If the request is more complex, DLUHC and Camden
+Council will respond to rights requests within the appropriate legislative timeframe.
+14. CORRECTING DATA
+14.1 The Parties will respond appropriately, under their respective policies and procedures,
+to any requests to correct the data they have shared.
+15. DELETING/ERASING DATA
+15.1 DLUHC and Camden Council will respect the right to erasure where it is applicable to
+the data concerned. Further information relating to requirements under this Agreement for
+the retention and deletion of the data is in section 10.
+15.2 The right to object may apply to the processing of data in certain circumstances and
+DLUHC and Camden Council as data controllers will assess whether processing should
+continue in accordance with article 21 UK GDPR in cases when an objection is received
+from a relevant data subject.
+16. AUTHORISED REPRESENTATIVES
+16.1 DLUHC and Camden Council will each appoint an Authorised Representative to be the
+primary point of contact in all day-to-day matters relating to this Agreement:
+
+16.2 For DLUHC
+Name: Matilda Wring
+Postal Address: Fry Building, 2 Marsham Street, London SW1P 4DF
+E-mail address: matilda.wring@levellingup.gov.uk
+Telephone number:
+16.3 For Camden Council
+Name: Andrew Maughan
+Postal Address: 5 Pancras Square, London, N1C 4AG
+E-mail address: dpo@camden.gov.uk
+Telephone number: 020 7974 4444
+17. TERMINATION
+17.1 Either Party may terminate this Agreement upon one month’s written notice to the
+other.
+17.2 Either Party may terminate this Agreement with immediate effect in the event of a
+material breach of its obligations by the other Party to this Agreement.
+18. STATUTORY COMPLIANCE
+18.1 The Parties shall comply with all relevant legislation, regulations, orders, statutory
+instruments and any amendments or re-enactments thereof from the commencement of this
+agreement.
+19. DISPUTE RESOLUTION
+19.1 The Parties shall each appoint a nominated representative to whom any disputes
+arising from the operation of this Agreement shall be referred.
+19.2 If the Parties are unable to agree a matter arising under the terms and clauses of
+this Agreement, such a dispute shall be referred to the senior officers of the nominated
+representatives for resolution. The decision of the senior officers shall bind all Parties and be
+treated as resolving the dispute.
+19.3 The Parties shall, where a dispute cannot be resolved by agreement between their
+senior officers, appoint an adjudicator whose decision shall be final.
+19.4 In the event of a dispute or claim brought by a data subject or the Information
+Commissioner’s Office concerning the processing of shared Personal Data against either of
+the Parties, the Parties will inform each other about any such disputes or claims and will
+cooperate with a view to settling them amicably in a timely fashion.
+20. REVIEW OF AGREEMENT
+20.1. This Agreement covers ongoing data shares (each bi-annual collection scheduled
+between July 2023 until February 2025).
+
+AS WITNESS of which the Parties have set their hands on the day and year first above
+written
+SIGNED for and on behalf of
+Deputy Director, Changing Futures & Supporting Families, Department for Levelling
+Up, Housing and Communities.
+By:
+___________________________
+Name: Kirby Swales
+Title: Deputy Director, Changing Futures and Supporting Families
+Date: 06/07/2023
+SIGNED for and on behalf of
+Director of Children’s Prevention, Family Help and Safeguarding, Camden Council
+THE INFORMATION ASSET OWNER AT CAMDEN COUNCIL
+By:
+___________________________
+Name: Rashida Baig
+Title: Director of Children’s Prevention, Family Help and Safeguarding
+Date: 15/11/2023

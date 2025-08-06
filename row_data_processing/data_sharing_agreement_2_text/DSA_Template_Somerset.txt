@@ -1,0 +1,233 @@
+
+
+
+
+Safeguarding Data 
+Sharing Agreement
+(DSA)
+
+For agencies and organisations 
+safeguarding children and families
+Template Document
+
+This Template document should be read and used in conjunction with the
+Safeguarding Data Sharing Agreement (DSA) Guidance Document
+Contents 
+Introduction
+Safeguarding Data Sharing Agreement (title page)
+1 Administration
+2 Purpose and benefits
+3 Data Controller(s) / Joint Controller(s)
+4 Processor(s)
+5 Data shared between partners
+6 Lawfulness – UK GDPR lawful basis and Article 9 condition
+6A Lawfulness – Data Protection Act 2018
+6B Lawfulness – legal powers and gateways
+7 Non-interference – Common law duty of confidentiality
+7A Non-interference – Human Rights Act 1998, Article 8
+8 Transparency
+9 Individual’s rights
+10 How data sharing will be carried out
+11 Processing outside of the UK 
+12 Accuracy of data before sharing
+13 Rectification of data that has been shared
+14 Retention and disposal
+15 Breach management
+16 IG contacts
+17 Review
+18 Variation
+19 Ending the agreement
+20 End date
+21 Signatories
+22 Abbreviations and glossary
+
+Introduction
+Completing the Data Sharing Agreement Template
+This Data Sharing Agreement (DSA) template has been developed to support agencies and organisations and their relevant partners when sharing personal information for safeguarding, prevention and well-being purposes. It forms part of a set of documents set out as guidance and templates. 
+Different terminology can be used to describe a data sharing agreement (data sharing protocol or contract, personal data or information sharing agreement). The term Data Sharing Agreement will be used throughout this document and can be understood as an agreement of roles and responsibilities, data flows, justification for processing and compliance with the current UK data protection legislation and its principles. This Data Sharing Agreement template should therefore be read and used alongside the guidance document. Each section of this DSA template is accompanied by relevant examples of completed DSAs, example scenarios, tips and guidance for considerations when completing the template, Data Protection Officer advice and templates for relevant appendices which can be used as part of the DSA template. 
+In practice the template and guidance can be used for new or existing sharing initiatives. If reviewing existing documentation, maybe as part of an annual scheduled review or because of significant changes to the sharing project, the template and corresponding guidance can be used to inform decision making and check for gaps or update requirements. If used for new initiatives it will help to go through the relevant process but also provide essential guidance on questions around the data protection lawful basis (including the consideration of consent in data protection terms), controllership, purpose for processing and other relevant topics. 
+Use this template:
+To inform the review of existing sharing arrangements around safeguarding children and families, and Information Governance considerations and documentation.
+To draw up your Data Sharing Agreement for new sharing initiatives around safeguarding children and families.
+To learn more about data sharing and how to do it safely.
+
+Safeguarding Data Sharing Agreement (DSA)
+ 
+
+
+
+
+
+[add name of sharing initiative]
+
+between
+
+[add names of sharing partners]
+
+1 Administration
+The organisations below are signatories to this Data Sharing Agreement:
+
+
+General:
+Version control:
+
+2 Purpose and benefits
+* See guidance section for how to set out purposes and benefits below.
+
+
+
+
+3 Data Controller(s) / Joint Controller(s)
+Please add all organisations which are controllers and are party to this Sharing Arrangement. 
+Please provide specific details in the 'Status' column about the organisations' involvement as a Controller, such as 'contributing data as a controller', 'viewing data only as a controller', 'performing the following processing functions: <list>' and 'determined the purposes and means of processing for <activity> jointly with (if applicable) <name organisation>'.
+
+
+Add additional rows as required
+A list of controller responsibilities is available in Appendix xx. (Please note this appendix is correct at the time of issue and subject to change in agreement with all parties affected by a proposed change).
+Joint Controller responsibilities
+Where organisations are joint controllers, they have shared responsibilities for complying with data protection laws, however they must agree how to attribute obligations between them in compliance with Article 26 of the UK GDPR.  This template is set out to determine the obligations attributed to each joint controller (this may need to be completed more than once if there is more than one joint controller arrangement). This would be completed with assistance from Data Protection Officer(s). If the sharing includes some controllers who are not joint, then their compliance requirements are set out throughout the DSA (single controller responsibilities, if no joint controller arrangement, are also set out throughout the DSA). 
+
+
+Add additional rows as required
+4 Processor(s)
+Add further rows as required
+
+
+5 Data shared between partners
+Document all types of data you plan to share here. List the detail of each type and your justification. Ensure that sharing is limited to what is necessary, do not share more than you need for the purpose defined in this agreement and consider what level of identification is required. If the data sharing this agreement supports is a formal multi-agency committee or informal collaborative working group that meets to discuss individuals, then set out the categories of data that are shared in the conversations that happen in the meeting.  If the agreement is supporting a more structured/procedural exchange of data or a collaborative activity supported by an information system then this section will be more detailed, although the detail on data items may be included in an appendix.
+This will help you especially (depending on the level of detail required) for bigger sharing initiatives or sharing with several partners. Make reference to the Data Protection Impact Assessment (see Toolkit 3). Use the help available listed below.
+
+
+The detail of the data to be shared between partner organisations is available in Appendix xx (please note this appendix is correct at the time of issue and subject to change in agreement with all parties affected by a proposed change).
+
+6 Lawfulness – UK GDPR lawful basis and Article 9 conditions
+Your DPO will help you identify the most appropriate lawful basis and Article 9 condition that applies to the data sharing. This will already have happened if you completed a DPIA. You are always required to establish a lawful basis under Article 6 for data processing. Additionally, you will need to identify the most appropriate condition under Article 9 for processing of special category data. 
+Use the guidance available under 6a – 6d, especially the Lawful Basis Interactive Guidance tool to help you understand the options. It is unlikely that consent is the most appropriate lawful basis for the processing or sharing of information by public sector organisations like local authorities. Read Toolkit 5 to understand more about the use of consent. Certain Data Protection lawful bases and conditions under the UK GDPR require you to satisfy other provisions under the Data Protection Act 2018 and might require you further to establish other legal gateways. Therefore, please ensure completion of 6A (DPA 18) and 6B (legal powers and gateways) of this template.  
+
+
+Add further organisations if required
+
+
+Add further organisations if required
+
+6A Lawfulness - Data Protection Act 2018
+Your DPO will help you to identify the appropriate condition(s) under the Data Protection Act 2018. Document the relevant sections under the DPA 2018 here once you have assessed what the most appropriate lawful basis is under the UK GDPR. Use the guidance available on the right.
+It is unlikely that consent is the most appropriate lawful basis for the processing of information for safeguarding reasons. 
+Add more organisations as and if required.
+Add further organisations if required
+
+Add further organisations if required
+
+
+
+6B Lawfulness – legal powers and gateways
+Data protection law requires data sharing to be lawful. An organisation needs to have a power to share data which may lie either in statute or in common law. The functions of a public sector organisation are set out in legislation, often referred to as 'legal powers and gateways'. Effective performance of those functions often requires the sharing of relevant personal and special category data. For some organisations the power to share data lies solely in common law although this is unlikely for public sector organisations. Knowing the legislation and common law duty or power that links to the relevant functions of safeguarding will provide a framework to enable the sharing of data to safeguard and protect children. 
+The detail of the relevant legislative powers may affect how we meet a data subject’s rights. For example, where there is a duty to perform a function and that can't be performed without relevant personal data, a data subject objecting to the processing may be told there are compelling legitimate reasons why their objection cannot be upheld. For example, if a data subject requested that notes are not taken and shared of a case conference meeting.
+Below is a list of legislation relevant for the processing/sharing of Safeguarding information between local authorities and their partners. This is not a full list of all relevant legislation but the most commonly used ones for sharing scenarios involving local authorities. It is important that the correct legal gateway is identified to establish grounds for processing/data sharing depending on the particular circumstances. Delete the Legislation not relevant for your sharing initiative and add any additional legislation applicable.
+
+
+7 Non-Interference – Common law duty of confidentiality
+Non-interference with the common law duty of confidentiality describes the duty we have, to keep personal information confidential under case law (not written out in a document (e.g., an Act) but based on previous court cases decided by judges). The law is applied by reference to those previous cases, so common law is also said to be based on precedent. The general position is that if information is given in circumstances where it is expected that a duty of confidence applies, that information cannot normally be disclosed unless is  lawful because 1) the individual has given consent, 2) where it is necessary to safeguard the individual, or others, or it is in the wider public interest, 3) where there is a legal duty to do so.
+
+* Please note that consent under the common law is not the same as consent under data protection law.  Consent under data protection law must be freely given, specific, and involve an affirmative action (UK GDPR Article 7 compliance).  Consent under common law is satisfied if the individual(s) are aware and not objecting.  This is 'implied' consent.  Data Protection legislation requires individuals to be informed (see section 8) and allows them the opportunity to object (see section 9). 
+7A Non-Interference – Human Rights Act 1998, Article 8
+Non-interference with Article 8 of the Human Rights Act 1998 guarantees the protection of individuals right to respect for private and family life, home and correspondence.
+
+
+8 Transparency
+Being open and honest with individuals whose data is shared/processed is a key requirement under current UK data protection legislation and one of the rights an individual is entitled to under the UK GDPR. Transparency gives individuals greater control of the data organisations hold on them and it is an essential exercise sharing partners must consider and comply with.
+Add further organisations if required.
+
+Add further organisations if required
+
+Add further organisations if required
+
+
+9 Individuals’ rights
+The UK data protection legislation provides a number of rights to individuals whose data is being processed/shared. Organisations are legally obliged to assure those rights are supported. 
+
+
+ How data sharing will be carried out
+This section should detail the approaches used to share data, which may be manual/procedural, potentially supported by technical solutions e.g., data will be shared 'face to face' at a multi-disciplinary meeting, where each partner brings their relevant records, such meetings may also be supported by technical solutions (e.g. manual upload of documents to shared space (cloud-based fileserver/MS Teams etc.), by automated data transfer from system to system, via email or other). 
+
+It should also be documented:
+How data is protected during transit e.g., SFTP (Secure File Transfer Protocol), upload/download to/from https or network accessed through VPN, encrypted email, etc. For the DSA this may be a brief overview, with detail in the Data Protection Impact Assessment (DPIA).
+
+The organisation(s) responsible for ensuring security i.e., one organisation may have developed/implemented a web application, a cloud-based fileserver, etc, for multiple organisations to use to share data.
+
+The frequency of sharing i.e., daily, once a week, once a month, etc, and extent of data shared each time i.e., new data, updates/changes since last data share.
+
+
+
+
+
+
+
+11 Processing outside of the UK 
+(Compliance with Article 45 of the UK GDPR)
+Transferring personal data outside the UK comes with the responsibility of following the relevant rules and safeguards to facilitate such transfers. Please refer to the available ICO guidance and checklist here. Please state below if any personal data will be transferred outside the UK. Advice from the DPO will be required for any potential transfers. 
+
+
+If outside the European Economic Area (EEA) please complete section 3 below.
+
+
+12 Accuracy of data before sharing
+Each sharing partner is responsible for ensuring the accuracy of the personal data that it shares and must have robust processes in place for managing data quality. Describe the processes for ensuring that information/data held and shared is accurate and relevant (e.g., testing, quality checks, removal of duplicates, review and testing of algorithms, data validation in data fields and exchanges etc.).  The DSA should give an overview of this element, detail as required can be included in any related Data Protection Impact Assessment (DPIA).
+This is key for any sharing that is facilitated by a data system/application, but also important for data sharing that is manual/procedural (such as via a multidisciplinary team (MDT)), although in such cases often reliant on organisational operational processes for the accurate recording of data.
+
+
+13 Rectification of data that has been shared
+Specify here any procedures in place, or to be put in place, for rectifying the sharing of inaccurate data. Explain how any updates will be shared with all recipients of the data.
+Note: Any party learning of the inaccuracy of personal data is responsible for informing the parties with whom that data has been shared. If a rectification request comes directly from a data subject, please refer to section 9 Individuals’ Rights in this template. 
+
+14 Retention and disposal
+Organisations are required by law to not retain information/data for longer than necessary for the purpose(s) for which it was collected. Partners must follow their organisational policies and procedures whilst adhering to statutory requirements. The deletion and disposal of information/data must be done securely with the appropriate safeguards in place. Consultation with Records Management or the Information Governance Team is advised. 
+Where organisations are sharing data into a shared repository then they will likely need to consider if there is any difference in retention periods and decide which will apply.  Where data is exchanged, i.e., copies of data passed between organisations, then the recipient of the copy is responsible for managing their retention of it (as agreed between the relevant parties).
+
+
+15 Breach management
+All relevant parties must have clear policies, procedures, and processes in place to manage Data Protection Incidents and Breaches in compliance with the current UK data protection legislation. If any incidents occur, then they will initially be managed by the incident management policy of the party identifying the breach. If they are joint controllers these procedures must be set out in the joint controller responsibility section of this template as per Article 26 of the UK GDPR (see under 3). If there is a controller-processor relationship this must be set out in the contract as per Article 28 of the UK GDPR (see under 4). 
+The first stage of investigation is to identify which organisation appears to be responsible for the circumstances leading to the breach. In many cases this can be established quickly and where this is not the organisation that has identified the breach, then the organisation(s) that appears responsible will take over the investigation.  
+Where the responsible organisation is not the original controller of the data that has been breached, then the responsible organisation will contact each and every controller whose data appears to be part of the breach to keep them informed of the investigation and all parties will collaborate as needed to support the investigation and any required remedial and safeguarding actions.
+This includes assessing the need to report, where required, to the supervisory authority (ICO notification must be done within 72 hours of becoming aware of the breach, where feasible) and, where required, the affected data subjects.
+
+16 IG Contacts
+List the relevant Information Governance Contacts here including the Caldicott Guardian, Data Protection Officer and Senior Information Risk Owner (SIRO) as appropriate.
+
+
+
+17 Review
+It is important to build in regular reviews at appropriate intervals to assure any relevant changes have been considered within the document.
+ 
+
+18 Variation
+
+
+19 Ending the agreement
+State how a party can end their participation in the agreement, and how data shared by the exiting party will be managed.  Where data is shared into a system/application, the data feed will likely be turned off and a decision on previously shared data needs to be made, both from a legal perspective but also a risk/safety perspective. If data has been shared between parties as an exchange, then it needs to be agreed what will happen. 
+
+20 End date
+You may have a planned date to stop sharing, especially if there is a finite project. If the sharing is expected to be ongoing, you can state this. 
+
+
+
+21 Signatories
+If this Data Sharing Agreement is published to a system that manages signatures/agreement, then this section can be removed. 
+
+Each organisation must sign here. Give the name and position of the signatory based on the sharing required. For example: DPO, SIRO, CG, CEO, Head of Service.
+By signing this DSA, all signatories acknowledge and accept the requirements placed upon them and others within their organisations by the DSA and their responsibilities under data protection legislation. Decision needs to be made if the signatory is a list of organisations all signing one document in turn, or if a single organisational signature is collected per copy of the DSA, with a central point of collection and maintained list of signatories.
+
+
+
+Add additional sections as required
+22 Abbreviations and glossary
+
+
+
+
+
+
+
+
+
+In order to continuously improve this Data Sharing Agreement template and accompanying guidance, we are keen to receive your feedback. Please take 5 minutes of your time to let us know your thoughts. Click here to access the survey. Thank you.

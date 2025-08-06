@@ -1,0 +1,40 @@
+London Borough of Camden and London Borough of Camden Electoral Registration Officer
+Memorandum of Understanding For the purpose of data sharing Between the Council Tax Team
+and the Electoral Registration Officer
+The London Borough of Camden Electoral Registration Officer is legally a different Data Controller to
+the London Borough of Camden but in practice is the same organisation. This Memorandum is non-
+binding but sets out the intentions of both data controllers to further the lawful purpose described
+below, aid appropriate information sharing, and safeguard the integrity and confidentiality of the
+data concerned. In the circumstances both data controllers agree that due to the close and
+intertwined nature of the relationships and processing, that a formal Data Sharing Agreement is
+disproportionate and that a MoU will suffice.
+It is agreed that the Electoral Registration Officer requires the personal data, detailed below, held by
+Council Tax to properly undertake their statutory duty to compile and maintain a register of electors.
+This Memorandum of Understanding sets out the respective roles of the parties and the conditions
+under which the data sharing is permitted.
+The data will be provided to the Electoral Registration Officer to an email address/es nominated by
+them. It will be provided in excel format by Council Tax. An initial data set will be provided by 7th
+August 2023 and thereafter in mid-June and mid-November.
+The fields will include:
+• Property reference (key as this should match the UPRN)
+• If property is recorded as a second home or not (sheet will show as second home)
+• Date property became empty
+• Liable party name
+• Forwarding address of that liable party
+• Empty property address
+• Empty exemption type (reason why empty)
+Exemption type is required because it will allow Electoral Registration to take appropriate action.
+For example, left by a deceased person allows removal from the register. However, if was standard
+empty follow up may be required as a property could become occupied before the end of canvass.
+Knowing about second homes helps Electoral Registration to not chase properties with no
+permanent resident.
+The Electoral Registration Officer confirms that the information requested comes within the scope of
+their legal powers in the Representation of the People (England & Wales) Regulations 2001 and
+that all those who will handle the disclosed data are bound by the employee code of conduct, have
+undergone appropriate employee checks as necessary for the role, will only use the information for
+purposes of their role and no other, will not share the information gained with other services or
+agencies (save where required to do so by law e.g. safeguarding duties, by court order or with the
+courts or as part of legal proceedings ), and that breach of these conditions may result in disciplinary
+action for breach of the code of conduct.
+Agreed:
+

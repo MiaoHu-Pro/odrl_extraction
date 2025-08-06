@@ -1,0 +1,122 @@
+Data Sharing Agreement
+This Data Sharing Agreement (hereina1er “agreement”) is designed to outline the process for data
+sharing between {OrganizaAon 1} (hereina1er “XX”) and {OrganizaAon 2} (hereina1er “YY”) in Iraq.
+Purpose of agreement
+The purpose of this document is to outline the role and responsibiliAes of XX and YY for data sharing
+between the two organizaAons. It discusses protocols for the data storage and access, and outlines steps
+for each agency to commit to regarding the data protecAon of the beneficiaries. Sharing idenAfying
+informaAon is:
+- To avoid duplicaAon by facilitaAng cross checking of individual beneficiary details. Both within
+and between agencies
+- To facilitate possible analysis of aggregate outputs and producAon of the lesson learnt
+documentaAon and between agencies
+- Facilitate referrals within and between agencies and addiAonal support to beneficiaries
+Timeframe of the agreement
+This agreement will be valid from the date of signature and remain valid for the period of six (6) months
+from the date of signing. Following this period, both agencies can revisit the needs for the conAnuaAon
+of the said agreement and terms of the agreement
+Consent
+Prior to the interviews or surveys or other data-collecAon, respondents should be briefed on the purpose
+of the assessment, the reason for collecAon informaAon, and the mechanisms for the protecAon
+respondents’ feedback and privacy. Respondents will be informed that all the data collected during the
+assessment will be managed by the collecAng agency and that this informaAon will only be shared with
+the other agency listed in this agreement for the performance of duplicaAon check. All the data
+enumerators/agency staff will proceed with the assessment only a1er obtaining this informed consent
+form the potenAal respondents prior to the assessment.
+PotenAal respondents will addiAonally, separately, be asked whether they consent to having their
+contact informaAon shared with other agencies for the purpose of referring them for addiAonal services
+to the two parAes in this agreement or other. Declining consent to have their informaAon shared would
+not exclude households from receiving the assistance. Respondents will be informed that they may ask
+quesAons or withdraw. Respondents will be informed that the agency may share response informaAon
+with donors or the other agency for the purpose of coordinaAng assistance or publish overall findings in
+the report to inform the humanitarian community but will not release their individual responses or
+personal informaAon publicly.
+Data content and confiden9ality
+XX and YY will share only criAcal idenAficaAon informaAon from the respondents and potenAal
+beneficiaries, including
+- Date of recording
+
+- Full name (including mother’s name)
+- Gender
+- Name of head of HH or alternate, if provided
+- HH PDS or similar idenAficaAon number
+- HH phone number
+- LocaAon; governorate, district, sub-district, village/neighborhood
+- Answers for relevant Shelter/ NFI quesAons
+- Overall vulnerability scoring for HH determined through SEVAT
+Each party shall provide basic informaAon regarding the reason for the request (e.g. acAvity) Ameline for
+the acAvity and locaAon of interest.
+XX and YY commit to ensuring that only the authorized agencies in this agreement and the designated
+focal point within them’ can access the data. Authorized designated focal points are employee of the
+agencies in this agreement who have a funcAonal or administraAve need to know role.
+Specifically, this will include {to be modified as relevant}.
+- YY Country Office representaAve
+- YY Shelter and NFI Project Manager
+- YY Database Manager
+- YY Cash/ NFI officer (1x)
+- XX Country Office representaAve
+- XX Cash/NFI Project Manager
+- XX Cash/NFI Senior Officers
+- XX InformaAon Management Officer
+- XX MEAL Coordinator
+Adding any addiAonal staff as Authorized persons (e.g. M&E or ReporAng Managers) will require wrifen
+prior approval between the two parAes. Accounts privileges will be set so that each user will only have
+access to depending on the user profile i.e funcAons like (imports, view, export, run, report, modify,
+delete, etc.) essenAal to fulfill their responsibiliAes, and restricAng permissions to modify or delete data
+as much as possible. Any addiAonal required features will require wrifen agreement between the two
+parAes.
+In the case of a data security breach, the responsible party will noAfy the other party immediately
+(within 24 hrs of breach) and all passwords to datasheets/inputs devices will need to be changed. The
+designated persons (Specialists or PMs) with IT staff will assess the extent of the risk related to the
+breach and develop and acAon plan accordingly. This acAon plan shall be communicated to all parAes.
+At bare minimum, safeguards for the protecAon of the personal informaAon shall include:
+- LimiAng access of personal informaAon to Authorized persons only;
+- Ensuring that once data is collected on mobile devices or paper, it is uploaded or housed in a
+lockable safe as soon as possible to minimize the amount of Ame data is stored on the devices or
+visible/accessible in paper form.
+- Password informaAon will be sent separately via email for the authorized person to gain access
+to the database or input devices.
+- Following a duplicaAon check of the data or other processes agreed, the shared data sheet from
+the sending party will be deleted by the receiving party within seven (7) working days
+
+Opera9ng Procedures for Iden9fied Duplica9on
+DuplicaAon check will be conducted by the agreed focal point in each agency in advance of acAviAes
+involving financial support to beneficiaries. Agencies agree to submit requests for duplicaAon check at
+least three (3) working days prior to payments to potenAal beneficiaries.
+XX and YY agree not to finalize any beneficiary payment lists prior to the receipt and review by the focal
+point to confirm that there are no duplicates have been found.
+In the case of idenAfied duplicaAons, the focal points shall inform their counterparts for correcAon.
+Both XX and YY will discuss and agree the way forward for duplicate cases based on available coverage,
+geographic locaAon, project Ame-frames and beneficiary preferences. Both agencies will retain a log of
+communicaAon and division-made in this instance, including communicaAon with beneficiary of
+duplicated case.
+Opera9ng Procedures for iden9fied caseload for referrals between actors
+A referral will be iniAated by the agreed focal point in each agency following the data clearing of the
+concluded assessment when (1) the referral selecAon criteria is met and (2) the beneficiary has given
+informed consent for their data to be passed on to a partner organizaAon. The informed consent needs
+to be taken in addiAon to the generic consent acquired during the assessment period and must include
+the services they might gain access to as well as the data protecAon measures put in place.
+The sharing of data will follow the above outlined process in the secAon on data content and
+confidenAality.
+The receiving agency will inform the sending agency about outcomes and follow up acAons taken on all
+cases.
+End user of data
+Exports of the data from the sending party by the receiving party shall require prior consent and
+agreement of both parAes. Any agreed use of anonymized data for staAsAcal purposes will be created as
+per donor requirements. Individual responses will never be published in full, and personally idenAfying
+details will not be released publically. If quotes are published, idenAfying details will be removed to
+protect the privacy of the respondents
+Should disputes arise out of this sharing agreement they will be resolved at field level between Project
+Managers of both agencies. In case of problems not being resolved to the saAsfacAon of both parAes the
+mafer will be escalated to the responsible line managers.
+Date:
+For and on behalf of XX:
+Signature:
+
+Name:
+Posi9on:
+Date:
+For and on behalf of YY:
+Signature:
+Name:
+Posi9on:

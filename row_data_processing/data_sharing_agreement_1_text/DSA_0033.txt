@@ -1,0 +1,433 @@
+DATED 07/04/2020
+(1) THE MAYOR AND BURGESSES OF THE LONDON BOROUGH OF CAMDEN
+(2) FairHeat Limited
+DATA SHARING AGREEMENT
+Data Sharing Agreement 1
+
+THIS AGREEMENT is made the 7th day of April 2020
+BETWEEN:
+(1) (1) THE MAYOR AND BURGESSES OF THE LONDON BOROUGH OF CAMDEN [a Local
+Authority registered in England under information commissioner number Z5948361] whose
+registered office is at Town Hall, Judd Street, London WC1H 9JE (“Disclosing Party”) and
+(2) FairHeat Limited [a company registered in England under number 09408296 and under
+information commissioner number Z5123315] whose registered office is at 10 Stoney Street,
+London SE1 9AD (“Receiving Party”).
+WHEREAS:
+(1) The Disclosing Party carries on the business of Local Authority and agrees to disclose to the
+Receiving Party certain personal data.
+(2) The Receiving Party agrees to use the personal data disclosed to it by the Disclosing Party
+subject to the terms of this Agreement.
+(3) This Agreement does not incorporate terms established by the Parties under other
+agreements.
+(4) Both parties are registered with the information commissioner.
+IT IS AGREED as follows:
+1. Definitions and Interpretation
+1.1 In this Agreement, unless the context otherwise requires, the following expressions have
+the following meanings:
+Data Sharing Agreement 2
+
+“Data Protection Legislation” means any data protection legislation from time to time in
+force in the United Kingdom including, but not limited to,
+the Data Protection Act 2018, any legislation which
+succeeds that Act, EU Regulation 2016/679 General Data
+Protection Regulation (“GDPR”), any other directly
+applicable European Union data protection or privacy
+regulations (for as long as, and to the extent that, the law
+of the European Union has legal effect in the United
+Kingdom), and, where applicable, guidance and codes of
+practice issued by any relevant data protection supervisory
+authority or authorities;
+“controller” shall have the meanings ascribed thereto in the Data
+“data controller” Protection Legislation;
+“data processor”
+“data subject”
+“personal data”
+“processing”
+“processor”
+“personal data breach”
+“special category personal
+data”
+“supervisory authority” and
+“appropriate technical and
+organisational measures”
+“Representatives” means, in relation to either Party, its officers and
+employees, professional advisers or consultants engaged to
+advise that Party, contractors or sub-contractors engaged
+by that Party;
+“Shared Personal Data” means the personal data [and special category personal
+data] to be shared between the Parties under this
+Agreement;
+“Stated Purposes” means the purposes set out in Schedule 1 for which the
+Shared Personal Data is to be shared;
+“Term” means the term of this Agreement, as set out in Clause 12.
+1.2 Unless the context otherwise requires, each reference in this Agreement to:
+Data Sharing Agreement 3
+
+1.2.1 “writing”, and any cognate expression, includes a reference to any
+communication effected by electronic or facsimile transmission or similar
+means;
+1.2.2 a statute or a provision of a statute is a reference to that statute or provision as
+amended or re-enacted at the relevant time;
+1.2.3 “this Agreement” is a reference to this Agreement and each of the Schedules as
+amended or supplemented at the relevant time;
+1.2.4 a Schedule is a schedule to this Agreement; and
+1.2.5 a Clause or paragraph is a reference to a Clause of this Agreement (other than
+the Schedules) or a paragraph of the relevant Schedule.
+1.2.6 a "Party" or the "Parties" refer to the parties to this Agreement.
+1.3 The headings used in this Agreement are for convenience only and shall have no effect
+upon the interpretation of this Agreement.
+1.4 Words imparting the singular number shall include the plural and vice versa.
+1.5 References to any gender shall include the other gender.
+1.6 References to persons shall include corporations.
+2. Stated Purposes
+2.1 This Agreement establishes the framework for the sharing of the Shared Personal Data
+between the Parties as data controllers.
+2.2 The Parties have determined that the sharing of the Shared Personal Data is necessary to
+create a heat loss models for the London Borough of Camden’s heating networks and
+carry out an investigation which allow for optimisation opportunities.
+2.3 The Parties shall not process the Shared Personal Data for any purpose or in any way that
+is incompatible with the Stated Purposes set out in Schedule 1.
+2.4 The Shared Personal Data shall be disclosed by the Disclosing Party to the Receiving Party
+only to the extent reasonably necessary for the Stated Purposes, as set out in Schedule
+1.
+2.5 It should be noted that both Parties are data controllers.
+3. Data Protection Compliance
+3.1 Each Party shall appoint a data protection officer Representatives as a point of contact for
+all issues relating to the sharing of the Shared Personal Data and the Data Protection
+Legislation (including, but not limited to, compliance, training, and the handling of
+personal data breaches). The contact details for the Parties’ appointed points of
+contact are as follows:
+3.1.1 Andrew Maughan, ICT Helpdesk 0207 974 4321, (c)
+dpo@camden.gov.uk and
+Data Sharing Agreement 4
+
+3.1.2 Gareth Jones, Managing Director, Gareth.jones@fairheat.com,
+3.2 Both Parties shall at all times during the Term of this Agreement comply with their
+obligations as data controllers, the rights of data subjects, and all other applicable
+requirements under the Data Protection Legislation. This Agreement is in addition to,
+and does not relieve, remove, or replace either Party’s obligations under the Data
+Protection Legislation. Any material breach of the Data Protection Legislation by either
+Party shall, if not remedied within 2 weeks of written notice from the other Party, give
+the other Party grounds to terminate this Agreement with immediate effect.
+4. The Shared Personal Data
+4.1 The Shared Personal Data, including any applicable restrictions relating to it agreed by the
+Parties is described fully in Schedule 1.
+4.2 No special category personal data is to be shared between the Parties.
+4.3 The Disclosing Party shall ensure that the Shared Personal Data is accurate and up-
+todate prior to its disclosure to the Receiving Party.
+4.4 The Parties shall use compatible technology for the processing of the Shared Personal
+Data in order to preserve accuracy.
+5. Shared Personal Data - Fair and Lawful Processing
+5.1 Both Parties shall at all times during the Term of this Agreement process the Shared
+Personal Data fairly and lawfully.
+5.2 Both Parties shall ensure that they have legitimate grounds for processing the Shared
+Personal Data under the Data Protection Legislation.
+5.3 The Disclosing Party shall ensure that it has in place all required notices and consents in
+order to enable the sharing of the Shared Personal Data under this Agreement. In
+particular, the Disclosing Party shall ensure that data subjects are provided with clear
+and sufficient information about the following:
+5.3.1 the purposes for which their personal data is to be processed;
+5.3.2 the legal basis upon which it is relying for such purposes;
+5.3.3 the fact that their personal data is to be transferred to a third party and sufficient
+detail about the transfer to enable the data subject to understand the purpose
+of the transfer and any risks associated therewith; [and]
+5.3.4 all other information required under Article 13 of the GDPR.
+5.4 The Receiving Party shall ensure that it has in place all required notices and consents in
+order to enable the sharing of the Shared Personal Data under this Agreement. In
+particular, the Receiving Party shall ensure that data subjects are provided with clear
+and sufficient information about the following:
+5.4.1 the purposes for which their personal data is to be processed;
+5.4.2 the legal basis upon which it is relying for such purposes; [and]
+Data Sharing Agreement 5
+
+5.4.3 [in the event that their personal data is to be transferred to a third party under
+Clause 8, the fact that such a transfer is to take place and sufficient detail about
+the transfer to enable the data subject to understand the purpose of the
+transfer and any risks associated therewith; [and]]
+5.4.4 all other information required under Article 14 of the GDPR.
+6. The Rights of Data Subjects
+6.1 The Parties shall assist one another in complying with their respective obligations and the
+rights of data subjects under the Data Protection Legislation. Such assistance shall
+include, but not be limited to:
+6.1.1 As data controllers each Party agrees to comply with the data protection
+legislation concerning data subject rights
+6.2 Each Party shall maintain records of all data subject requests received, the decisions made
+in response, and any information provided to the data subject(s) concerned. Such
+records shall include copies of the request, details of any data accessed and shared,
+and, if applicable, details of any further correspondence, telephone conversations, or
+meetings relating to the request.
+7. Data Retention and Deletion and/or Disposal
+7.1 Subject to sub-Clause 7.2, the Receiving Party shall hold and process the Shared Personal
+Data only for so long as is necessary for the fulfilment of the Stated Purposes.
+7.2 In the event that any statutory or similar retention periods apply to any of the Shared
+Personal Data, the relevant personal data shall be retained by the Receiving Party in
+accordance therewith.
+7.3 The Receiving Party shall delete (or otherwise dispose of) the Shared Personal Data (or the
+relevant part thereof) and any and all copies thereof or, on the written request of the
+Disclosing Party, return it to the Disclosing Party, subject to any legal requirement to
+retain any applicable personal data, in the following circumstances:
+7.3.1 upon the termination or expiry of this Agreement; or
+7.3.2 once the Stated Purposes have been fulfilled and it is no longer necessary to
+retain the Shared Personal Data (or the relevant part thereof) in light of the
+Stated Purposes;
+whichever is earlier.
+7.4 All Shared Personal Data to be deleted or disposed of under this Agreement shall be
+deleted or disposed of using the following method(s): personal data will be deleted
+upon completion of the project or after 7 months, whichever is sooner. Any personal
+data will become fully anonymised and will be stored on an aggregated level after the
+project completion.
+7.5 Following the deletion and/or disposal of the Shared Personal Data (as applicable), the
+Receiving Party shall notify the Disclosing Party of the same in writing, confirming that
+the Shared Personal Data has been deleted or disposed of using the method(s) set out
+above in sub-Clause 7.4.
+Data Sharing Agreement 6
+
+8. Shared Personal Data Transfers
+8.1 For the purposes of this Clause 8, the transfer of Shared Personal Data shall refer to any
+sharing of the Shared Personal Data by the Receiving Party with a third party. Such
+sharing shall include, but not be limited to, the appointment of a third-party
+data processor and sharing the Shared Personal Data with a third-party data controller.
+8.2 In the event that the Receiving Party wishes to appoint a third-party data processor, it shall
+remain liable to the Disclosing Party for any acts and/or omissions of the third-party
+processor and it shall comply with Articles 28 and 30 of the GDPR.
+8.3 The Receiving Party shall not transfer any of the Shared Personal Data outside of the
+European Economic Area.
+9. Shared Personal Data Security
+9.1 The Disclosing Party shall transfer the Shared Personal Data to the Receiving Party using
+the following secure method(s): the data will be accessed by the receiving party via
+Guru Pinpoint, a cloud-based performance monitoring platform. The platform is
+encrypted and password protected and access will be granted only for the limited time
+of the project as described in section 7.4.
+9.2 Both Parties shall ensure that they have in place appropriate technical and organisational
+measures (as set out in Schedule 2) [, as reviewed and approved by the other Party,]
+to protect against the unauthorised or unlawful processing of, and against the
+accidental loss or destruction of, or damage to, the Shared Personal Data, having
+regard to the state of technological development and the cost of implementing any
+such measures.
+9.3 When putting appropriate technical and organisational measures in place, both Parties
+shall ensure a level of security appropriate to the nature of the Shared Personal Data
+which is to be protected, and to the potential harm resulting from the unauthorised or
+unlawful processing of, the accidental loss or destruction of, or damage to, the Shared
+Personal Data.
+9.4 All technical and organisational measures put in place by both Parties shall be reviewed on
+six month basis by the respective Party, updating such measures upon the agreement
+of the other Party as appropriate throughout the Term of this Agreement.
+10. Training
+10.1 Both Parties shall ensure that any and all of their Representatives by whom the Shared
+Personal Data is to be handled and processed are appropriately trained to do so in
+accordance with the Data Protection Legislation and with the technical and
+organisational measures set out in Schedule 2.
+10.2 The Receiving Party shall further ensure that any of its Representatives to whom the
+Shared Personal Data is to be disclosed are subject to contractual obligations in relation
+to confidentiality and data protection that bind those Representatives and that are
+same as the obligations imposed upon the Receiving Party by this Agreement.
+Data Sharing Agreement 7
+
+11. Personal Data Breaches
+11.1 In the event of a personal data breach, each Party shall comply with its obligations to
+report such a breach to the supervisory authority and, if applicable, to the affected
+data subjects in accordance with Article 33 of the GDPR. Furthermore, each Party
+shall inform the other Party of any such breach without undue delay, irrespective of
+whether it is required to be reported to the supervisory authority or to data subjects.
+11.2 Each Party shall provide reasonable assistance to the other Party at its own cost
+12. Term, Review, and Termination
+12.1 This Agreement shall come into force on 7th of April 2020. The Parties shall review the
+sharing of the Shared Personal Data under this Agreement on a six month basis, in light
+of the reasons, aims, and benefits described in sub-Clause 2.2 and, based upon the
+outcome of such a review, the Parties shall continue, amend, or terminate this
+Agreement.
+12.2 Reviews under this Clause 12 shall address the following:
+12.2.1 evaluating the purposes for which the Shared Personal Data is being processed
+in order to determine whether those purposes are still limited to the Stated
+Purposes;
+12.2.2 evaluating whether the Parties are complying with the Data Protection
+Legislation and with the provisions of this Agreement governing fair and lawful
+processing (Clause 5), the rights of data subjects (Clause 6), data retention
+(Clause 7), and data security (Clause 9); and
+12.2.3 evaluating whether any personal data breaches affecting the Shared Personal
+Data have been handled in accordance with this Agreement and the Data
+Protection Legislation.
+12.3 Each Party shall have the right to inspect the other Party’s arrangements for holding and
+processing the Shared Personal Data and to terminate this Agreement if it considers
+that the other Party is not processing that Shared Personal Data in accordance with the
+Data Protection Legislation or this Agreement.
+13. Resolution of Disputes with Data Subjects or the Supervisory Authority
+13.1 In the event of a dispute or claim brought by a data subject or the supervisory authority
+concerning the processing of Shared Personal Data against either or both Parties, the
+Parties will inform each other about any such disputes or claims, and will cooperate
+with a view to settling them amicably in a timely fashion.
+13.2 The Parties agree to respond to any generally available non-binding mediation procedure
+initiated by a data subject or by the supervisory authority. If they do participate in the
+proceedings, the Parties may elect to do so remotely (such as by telephone or other
+electronic means). The Parties also agree to consider participating in any other
+arbitration, mediation, or other dispute resolution proceedings developed for data
+protection disputes.
+Data Sharing Agreement 8
+
+13.3 Each Party shall abide by a decision of a competent court of the Disclosing Party’s country
+of establishment or of the supervisory authority.
+14. Warranties
+14.1 Each Party hereby warrants and undertakes that it shall:
+14.1.1 hold and process the Shared Personal Data in compliance with the Data
+Protection Legislation and all other applicable laws, enactments, regulations,
+orders, standards, and similar applicable instruments;
+14.1.2 respond without undue delay and as far as reasonably possible to any enquiries
+from the supervisory authority relating to the Shared Personal Data;
+14.1.3 respond to data subject access requests in accordance with the Data Protection
+Legislation;
+14.1.4 if applicable, pay the appropriate fees to the supervisory authority; and
+14.1.5 take all appropriate steps to ensure compliance with the security measures set
+out in Clause 9 of this Agreement.
+14.2 The Disclosing Party hereby warrants and undertakes that it is authorised to share the
+Shared Personal Data with the Receiving Party and that the Shared Personal Data will
+be accurate and up-to-date.
+14.3 The Receiving Party hereby warrants and undertakes that it shall not transfer any of the
+Shared Personal Data outside of the UK and the European Economic Area
+14.4 Except as expressly stated in this Agreement, all other warranties, conditions, and terms,
+whether express or implied by statute, common law, or otherwise, are hereby
+excluded to the fullest extent permissible by law.
+15. No Partnership or Agency
+15.1 Nothing in this Agreement shall establish any partnership or joint venture between the
+Parties, constitute either Party the agent of the other Party, or authorise either Party
+to make or enter into any commitments for or on behalf of the other Party.
+15.2 Each Party hereby confirms that it is acting on its own behalf and not for the benefit of
+any other person.
+16. Non-Assignment of Agreement
+Neither Party may assign, transfer, sub-contract, or in any other manner make available to any
+third party the benefit and/or burden of this Agreement without the prior written consent of
+the other Party, such consent not to be unreasonably withheld.
+Data Sharing Agreement 9
+
+17. Entire Agreement
+This Agreement contains the entire agreement between the Parties with respect to its subject
+matter and may not be modified except by an instrument in writing signed by the duly
+authorised representatives of the Parties.
+18. Variation
+No variation of or addition to this Agreement shall be effective unless in writing signed by each
+of the Parties or by a duly authorised person on its behalf.
+19. No Waiver
+No failure or delay by either Party in exercising any of its rights under this Agreement shall be
+deemed to be a waiver of that right, and no waiver by either Party of a breach of any provision
+of this Agreement shall be deemed to be a waiver of any subsequent breach of the same or
+any other provision.
+20. Severance
+The Parties agree that, in the event that one or more of the provisions of this Agreement is
+found to be unlawful, invalid, or otherwise unenforceable, that or those provisions shall be
+deemed severed from the remainder of this Agreement. The remainder of this Agreement shall
+be valid and enforceable.
+21. Communication
+21.1 All notices under this Agreement shall be in writing and be deemed duly given if signed
+by the Party giving the notice or by a duly authorised officer thereof, as appropriate.
+21.2 Notices shall be deemed to have been duly given:
+21.2.1 when delivered, if delivered by courier or other messenger (including registered
+mail) during the normal business hours of the recipient; or
+21.2.2 when sent, if transmitted by facsimile or email and a successful transmission
+report or return receipt is generated; or
+21.2.3 on the fifth business day following mailing, if mailed by national ordinary mail,
+postage prepaid; or
+21.2.4 on the tenth business day following mailing, if mailed by airmail, postage
+prepaid.
+21.3 All notices under this Agreement shall be addressed to the most recent address, facsimile
+number, or email address notified to the other Party.
+22. Third Party Rights
+Unless expressly stated otherwise, this Agreement does not give rise to any rights under the
+Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Agreement.
+Data Sharing Agreement 10
+
+23. [Consideration
+The Receiving Party accepts the obligations in this Agreement in consideration of the payment
+of £1 from the Disclosing Party, which the Receiving Party hereby acknowledges.]
+24. Law and Jurisdiction
+24.1 This Agreement (including any non-contractual matters and obligations arising therefrom
+or associated therewith) shall be governed by, and construed in accordance with, the
+laws of England and Wales.
+24.2 Any dispute, controversy, proceedings or claim between the Parties relating to this
+Agreement (including any non-contractual matters and obligations arising therefrom or
+associated therewith) shall fall within the jurisdiction of the courts of England and Wales.
+SIGNED for and on behalf of the Disclosing Party by:
+Simronjit Dhinsa, Senior Energy Performance Officer
+__________________________________________________ Authorised
+Signature
+Date: ____________
+SIGNED for and on behalf of the Receiving Party by:
+Gareth Jones, Managing Director
+__________________________________________________
+Authorised Signature
+Date: ____________
+Data Sharing Agreement 11
+
+
+
+
+
+All Graduate and Lead engineers will
+analyse the dwelling level heat meter
+data. Associate and Director level to
+provide oversight.
+Data Sharing Agreement
+
+12
+
+
+
+
+
+SCHEDULE 2
+Technical and Organisational Data Protection Measures
+The following are the technical and organisational data protection measures referred to in
+Clause 9:
+1. Each Party shall ensure that, in respect of all Shared Personal Data, it maintains security
+measures to a standard appropriate to:
+1.1 the nature of the Shared Personal Data which is to be protected; and
+1.2 the potential harm resulting from the unauthorised or unlawful processing of, the
+accidental loss or destruction of, or damage to, the Shared Personal Data.
+2. In particular, each Party shall:
+2.1 have in place, and comply with, a security policy which:
+2.1.1 defines security needs based on a risk assessment;
+2.1.2 allocates responsibility for implementing the policy to a specific individual
+[(such as a data protection officer)] or personnel;
+2.1.3 is provided to the other Party on or before the commencement of this
+Agreement;
+2.1.4 is disseminated to all relevant Representatives (and other staff, if applicable);
+and
+2.1.5 provides a mechanism for feedback and review.
+2.2 ensure that appropriate security safeguards and virus protection are in place to protect
+the hardware and software which is used in processing the Shared Personal Data in
+accordance with best industry practice;
+2.3 prevent unauthorised access to the Shared Personal Data;
+
+2.4 protect the Shared Personal Data using pseudonymisation, where it is practical to do
+so;
+2.5 ensure that its storage of Shared Personal Data conforms with best industry practice
+such that the media on which Shared Personal Data is recorded (including paper
+records and records stored electronically) are stored in secure locations and access by
+personnel to Shared Personal Data is strictly monitored and controlled;
+2.6 have secure methods in place for the transfer of Shared Personal Data whether in
+physical form (for example, by using couriers rather than post) or electronic form (for
+example, by using encryption);
+2.7 password protect all computers and other devices on which Shared Personal Data is
+stored, ensuring that all passwords are secure (Passwords must be a minimum of 8
+characters and be a mixture of uppercase and lowercase, with a mix of numeric and
+alphabetic characters) and that passwords are not shared under any circumstances;
+2.8 [not allow the storage of the Shared Personal Data on any mobile devices such as
+laptops or tablets unless such devices are kept on its premises at all times;]
+2.9 take reasonable steps to ensure the reliability of personnel who have access to the
+Data Sharing Agreement 13
+Shared Personal Data;
+2.10 have in place methods for detecting and dealing with breaches of security (including
+loss, damage, or destruction of Shared Personal Data) including:
+2.10.1 the ability to identify which individuals have worked with specific Shared
+Personal Data;
+2.10.2 having a proper procedure in place for investigating and remedying breaches
+of the Data Protection Legislation; and
+2.10.3 notifying the other Party as soon as any such security breach occurs.
+2.11 have a secure procedure for backing up all electronic Shared Personal Data and storing
+back-ups separately from originals;
+
+2.12 have a secure method of disposal of unwanted Shared Personal Data including for
+back-ups, disks, print-outs, and redundant equipment; and
+2.13 adopt such organisational, operational, and technological processes and procedures as
+are required to comply with the requirements of ISO/IEC 27001:2013, as appropriate
+to the Stated Purposes and the nature of the Shared Personal Data.
+
+Data Sharing Agreement 14

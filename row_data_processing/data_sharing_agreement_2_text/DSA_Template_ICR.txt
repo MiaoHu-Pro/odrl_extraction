@@ -1,0 +1,432 @@
+
+
+
+
+
+
+
+
+
+Data Sharing Agreement for Integrated Care Records & Population Health Management
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+1	Introduction	4
+2	Scope	4
+3	Purposes for sharing data	4
+4	Liabilities & responsibilities	5
+5	Sharing for direct care	14
+6	Sharing for Population Health Management (PHM)	15
+7	Informing	18
+8	Agreement of data to be shared (Access Control & Data Minimisation)	18
+9	Data Quality	19
+10	Data Protection Impact Assessment (DPIA) – security of data	20
+11	Data Subject Rights	20
+12	Breaches	22
+13	Processes for data transfer	23
+14	Qualifying standards for organisational sign up	23
+15	Partners invited to sign	23
+16	Management of the agreement	24
+17	Signature	24
+Appendix A – Legal Gateways for providing direct care	26
+Appendix B – Data sharing/role based access matrix example	27
+Appendix C – Glossary	28
+Appendix D – National Record Locator Data Sharing	30
+
+
+Introduction
+This Data Sharing Agreement (‘the agreement’) is to support the development and use of integrated care records within Bath & North East Somerset, Swindon & Wiltshire (BSW) health and social care community.  
+The agreement relates to two main purposes:
+The use of integrated care records for the provision of care to individuals across multiple partner organisations, potentially to include service user held records where they can write in their own record. It also covers the use of the PHM platform where analytical activity is designed to support services in the delivery of individual care (such as case finding tools). 
+The use of pseudonymised and anonymised data to support Population Health Management (‘PHM’) activities.
+All partners have a legal responsibility to ensure that their processing of all personal data is lawful, properly controlled and that individual’s rights regarding their personal data are respected.
+The Agreement is part of the requirements of the Integrated Care Record (ICR) and PHM programme, for the partners to be able to demonstrate accountability with data protection legislation and where partners are joint controllers to set out the relevant arrangements for managing the joint control.
+The two purposes have been linked in one agreement on the basis that the same platform (Graphnet ‘CareCentric’) is used to provide the data requirements of both programmes.  The PHM programme benefits from data being linked from individual sources to support direct care and then pseudonymised & anonymised to support PHM activities.
+The Agreement must be signed by a senior accountable officer within the executive directorship of each partner.
+Please note the functions of the Clinical Commissioning Group in this agreement will be replaced by the Integrated Care Board within the lifetime of this agreement.
+
+Scope
+The scope of the agreement includes partners within the BSW Integrated Care System (ICS) involved in providing care services to individuals and contributing to the overall development of the health and care community in terms of integrated service design and implementation.
+Partners will be brought on when they have shown a need to access or provide relevant data within the system and sufficient compliance with the qualifying standards (see section 14) so that the other partners are assured of their ability to process the data appropriately.
+
+Purposes for sharing data
+Developments in health and care services are driving organisations to work even more closely together to provide the best quality care, whilst achieving the greatest value for money.  It is widely recognised that the sharing of relevant data in a timely and secure manner supports the delivery of effective care.
+Health and Care systems require detailed, accurate and rich sources of data, derived from linked and de-identified care records to support initiatives to improve the health and wellbeing of the population, transform quality of care whilst maintaining sustainable finances (triple aim).  Defined as ‘Population Health Management’.
+By building PHM from records linked for integrated care, the BSW health and care community will be able to alleviate some of the difficulties that other PHM approaches encounter around the linkage and pseudonymisation/de-identification of data.  As the data sources are linked at an identifiable level to support direct care to individuals, the processes to de-identify and pseudonymise the data that is already linked are easier to apply than alternatives such as ‘pseudonymisation at source’, where small variations in the demographic detail of the same patient across different systems can result in different pseudonyms being applied and records failing to link.
+The BSW ‘Five Year Plan’ (file (bswccg.nhs.uk) cannot be achieved without joining up records. 
+
+Liabilities & responsibilities 
+Partners are controllers in their own right for data they contribute to the point when the data is provided to the ICR & PHM platform.  They need to be sure that the data can be lawfully shared and reasonably assured that the parties it is shared with will use and manage the data appropriately.  
+Liability for appropriate use of data from the ICR/PHM platform resides with the organisation making the use.
+The controllership of personal data within the ICR and the PHM platform are considered as separate applications as set out below:
+The ICR (Integrated Care Record) – controllership:
+When data is shared, the level of involvement by partners will determine their status as controllers as follows: 
+Individual controllers contributing data – These are partners who are in agreement with the overall purposes that the shared personal data is used for (by sign up to this agreement) but are not actively involved in determining the specific purposes and the ‘means’ of processing, in terms of contributing to discussion and determination on design and implementation/use of the system.  They must be aware of the controls used to manage the data appropriately, but their involvement is limited to agreeing that the controls are sufficient in their individual view to permit them to share data.  In other words they have been approached by the programme with a defined set of purposes and means and their involvement is to agree the data they control can be used, but they themselves have not defined those purposes and means.
+
+For example, a General Practice needs to be happy that the data they control can be used for the overall purposes described in this agreement and assured that the security controls and processes are sufficient, but as an individual controller they are not responsible for the processing to establish the ICR/PHM platform, nor are they responsible for the use of the data by other partners.
+
+Joint controllers – Where partners are involved, jointly with others in determining the purposes of the use of data and actively involved in the design and determination of the means of processing (not simply agreeing that the means are sufficient), then they shall be joint controllers.  Controller responsibilities (as defined in the UK GDPR Article 24) can either be shared by the partners or allocated to individual partners respectively but must be subject to a transparent agreement.   The table below sets out the responsibilities and whether they are joint or individual.
+Partners to this agreement participating in the BSW DIGITAL BOARD are joint controllers of the Integrated Care Record as key decisions on purposes and means are taken via that Board.  Any partner that is actively participating in the determination of purposes and means with other partners is a joint controller, even if they do not themselves contribute or access the ICR, so the CCG (as an active member of the Digital Board) is a joint controller of the ICR on that basis alone but does also contribute Continuing Healthcare (CHC) data.
+
+Joint controllers are also likely to be contributors.  Where that is the case joint controller responsibilities are in addition to their contributing responsibilities. This agreement and related documentation (i.e. data subject rights processes) serves as the joint controller arrangements required under GDPR article 26. 
+
+Partners who only view data:
+If a partner is granted access to the systems but does not contribute data and is not identified as a joint controller, then they will have a subset of the responsibilities of a contributing controller (as detailed below).
+
+Controller responsibilities:
+
+
+Control of data recorded directly into the Integrated Care Record:
+The detail above relates to data extracted from existing systems and provided to the ICR.  The ICR also features the ability to record data directly for items such as careplans, so that the plan is recorded in one place and accessible to those who need to manage the plan and others who may need to view it.  
+By choosing to implement such functionality in the ICR, the overall joint controllers are responsible for the system module(s) performing appropriately.  
+Proposals to use direct recording functionality will be assessed on a case by case basis by the ICR programme and linked into the ICR data protection impact assessment framework.
+Where personal data is recorded directly into the ICR the organisation(s) recording or amending that data will be the controller(s) of the data they enter or amend.  This is on the basis that they have chosen to use the ICR as the ‘means’ of processing that data and by choosing to collect and share the relevant data are determining the ‘purpose’.  
+If more than one organisation is collaborating on a careplan or other directly recorded data, then they will be joint controllers of that data.  This may be a different group of joint controllers from those overseeing the ICR in general as set out in section 4.1 above.  Organisations that view directly recorded data but do not add or amend the data will be ‘view only’ controllers and not joint.
+
+Data sharing via National Record Locator (NRL)
+The ICR will also enable sharing of data via the NHS Digital National Record Locator platform.  The NRL enables specific data to be available to other organisations via the national Summary Care Record application (SCRa) or an authenticated organisational electronic care system.
+The data the BSW ICR will share with the NRL is:
+Frailty and End of Life Careplans directly recorded in the ICR
+Organisations that contribute to, and therefore control the above careplans, by signing this agreement confirm they agree to share this data to other users of the National Record Locator, via NHS Digital (as a data controller) as defined in appendix D.  
+In the illustration below the NRL provider is the BSW ICR adding ‘pointers’ to the data to be shared to the NRL, that ‘consumers’ find when searching for information on the patient via the NRL.
+Whilst the organisations contributing data to the frailty and end of life care plans are joint controllers, BSW CCG will act as the lead controller (of the relevant joint controllers) for the purposes of publishing the availability of these documents to the National Record Locator.
+
+
+Control of access to data shared via the NRL
+This agreement only covers provision of data to the NRL.  
+Signing this agreement does not provide any BSW ICR partner with access to other data available via the NRL.  Appendix D includes detail on how other organisations are assessed and validated to access data via the NRL.
+	
+Control of the Population Health Management (PHM) Platform:
+For the purposes of the PHM Platform, the data from the live ICR is copied in full to the Azure Data Factory.  At this point further data (such as reference data sources) are added.  Data from NHS Digital, jointly controlled by the CCG and NHS Digital is also added (i.e. SUS, HES etc).  The use of this data feed is limited to the approvals in the data sharing agreement between the CCG & NHS Digital.  Any use request seeking to use such data will be assessed to ensure compliance with the limitations established in the CCG/NHSD Data Sharing Agreement applicable at the time of the request.
+From this data factory the three ‘datasets’ are produced, namely anonymised, pseudonymised and identifiable, this is illustrated below.
+BSW CCG is the controller over the Azure Data Factory and the three datasets derived from it, on the basis that those datasets are generally to be used for purposes for the benefit of the registered population of the CCG and only the CCG has the statutory basis to process this data across the whole population.
+This is illustrated in the NHS England Secondary Use Data Governance Tool (https://data.england.nhs.uk/sudgt/home/exemplar-solution)
+
+Identifiable dataset
+Main uses will be for population health activities supporting the provision of direct care by partners, such as cohort finding for ensuring new models of care are delivered to the relevant individuals. 
+The CCG will manage the purposes for use of the identifiable dataset on behalf of all parties who may need to access the data within it.  Access will be permitted to the identifiable dataset for purposes related to patients who they have a legitimate care relationship with.
+For any proposed use of the identifiable dataset, where it is not for direct care of individuals that they have a care relationship with, the partner(s) requiring access will be permitted to use the dataset upon completion and approval of a Data Request (to CCG Business Intelligence Group) for the proposed use detailing the lawful basis on which the data can be used, with approval being determined by the CCG.  Details of the request and approval process will be published to all partners.
+The CCG will publish the Data Requests so that all partners to this agreement have visibility of the approved uses of the data.  The ICS Digital Board will hold the CCG to account for publication of the Data Requests (this may be via a suitably represented group governing the ICR/PHM programme).
+The CCG will on occasion use the identifiable dataset to produce reports which will not contain identifiable data in the output where the timeliness of data is critical, for example urgent capacity planning where there is a need to know how many individuals attended services in the last couple of days. These need to be run on the identifiable dataset as it is the only dataset currently updated daily.  The tools used to query the identifiable dataset in such circumstances would not include identifiable data in the output.  The other datasets are updated weekly.  If this frequency is increased then such may become unnecessary.
+In any circumstances where the CCG engages another party to process data on its behalf, it will set out and agree a data processing agreement.  These will also be published.
+Anonymised & pseudonymised datasets
+Access to the anonymised and pseudonymised datasets will be managed by the same Data request/approval process as access to the identifiable dataset.  The process will be a request to use data from the PHM platform and the detail of the requirement will be used to assess the most appropriate dataset source.  Uses of the data will include initiatives with partners to this agreement and also groups of organisations (i.e. PCNs, ICS) and external parties (e.g. Universities, research networks and others).  Over time ‘use case’ precedence will be developed to ensure an efficient process. 
+The key principle for any use of the datasets will be that the minimum personal identifiable data possible for the purpose will be used.  
+
+Dataflows & controllership – illustrated:
+(NB the illustration includes a one way flow of data from NHS Digital which is subject to control by the CCG aligned with its data sharing agreement with NHS Digital)
+
+
+
+
+
+
+
+
+The individual controllers that are contributing data via the ICR are not responsible for the processing undertaken between the live ICR, the Azure Data Factory and the anonymised and pseudonymised datasets.
+By signing this agreement the individual controllers are in agreement that the data they provide, which is taken via automated process into the Azure Data Factory and the PHM datasets, can be used by the CCG for any lawful purpose that the CCG is enabled by statute to undertake and that the CCG will act as gatekeeper for any other uses proposed by partners and other agencies.  On the basis that the CCG is the controller of the PHM platform, the CCG will be liable to ensure all uses are legal and appropriate. 
+To put context around the lawful powers of the CCG, the list below identifies some high level purposes that legislation permits the CCG to undertake.  These are drawn from the NHS England Secondary Uses Data Governance Tool (https://data.england.nhs.uk/sudgt/) where detail matrices of the legal powers of CCGs can be checked and will be linked into the request/approval process.  These purposes are listed in section 6.2 with the relevant data protection lawful basis for processing.
+High level population health purposes: (noting NHS Digital data use is restricted as per Section 251 approvals and data sharing agreement with the CCG)
+
+Processor responsibilities:
+Data Processors are listed in the ICR/PHM security statement that accompanies this agreement.  All contracted processors are required to meet the following commitments (BSW CCG holds the processor contract(s) on behalf of all partners, who are identified as beneficiaries of the contract):
+Share an annual audit of their compliance with the programme and partners.  The baseline standard will be the achievement of ‘standards met’ in the Data Security and Protection Toolkit (DSPT).  Where a processor has other accreditations related to data protection and information security, these will be expected to be maintained.  For Graphnet this will consist of confirmation of their compliance with ‘standards met’ in the Data Security & Protection Toolkit and maintaining compliance with ISO27001 and Cyber Essentials Plus accreditations.
+Have a Data Protection Officer.
+Ensure all their staff are appropriately trained in information governance requirements related to their role, by completing the training needs assessment required by the DSPT and providing training identified by that.
+Comply with GDPR article 32 by having appropriate technical and organisational measures against unauthorised or unlawful processing and against accidental loss or destruction/damage to personal data – these are determined by the risks and countermeasures in the Data Protection Impact Assessment and set out in the system security statement.
+Will ensure all processing activities maintain the accuracy of data processed. 
+Will not subcontract any processing activities to another party without prior informing and consent of the relevant controller(s).
+Will not relocate any processing operation outside the UK without prior consultation and approval from the relevant controller(s).
+Will only process personal data on the written instruction of the controller(s).
+In terms of the data processing activities for Graphnet, these are defined in the contract held by BSW CCG on behalf of the health community, with partner organisations identified as beneficiaries.
+
+Sharing for direct care
+Legal Gateways:
+The Legal gateway(s) contained in Appendix A set out the basis on which the partners can share data for the provision of direct care across health and care services.
+The Health & Social Care (Safety & Quality) Act 2015, places a duty on organisations providing health and adult social care services to share data where it facilitates the provision of care to an individual in their best interests, unless the individual objects or it relates to an anonymous access service.  This duty does not remove the need to comply with data protection legislation or common law confidentiality requirements.
+Each partner is responsible for ensuring that there are appropriate legal gateways (see Appendix A) for the data they share into the ICR.
+
+Lawful basis for processing
+Once a legal gateway has been established, then under Data Protection legislation an appropriate ‘lawful basis’ for processing needs to be defined.  
+Provision of care: (as defined in the Information Governance Alliance ‘GDPR guidance on lawful processing’)
+The key basis for processing personal data is:
+Article 6(1)e – ‘processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority’.  The legislation set out in Appendix A, related to Legal Gateways will give the ‘official authority’ for many organisations to rely on this basis.  
+In all cases the data will contain health & care information and will also be subject to identifying a basis to process under Article 9 (special categories of personal data).  The key basis for processing the special category personal data is:
+Article 9(2)h ‘processing is necessary for the purposes of… the provision of health or social care treatment or services… on the basis of Union or Member state law’.
+The reference to member state law relates to the legal gateways set out in appendix A.  The above lawful bases are sufficient and appropriate bases to share data for the provision of care; therefore, consent to data sharing is not required.
+
+Common law of confidentiality requirements:
+Sharing of data for the provision of care does in general engage the common law of confidentiality as the individual has an expectation that their information is only shared with those that need to know it and only where there is good reason.  The common law requirements are satisfied if:
+There is a legal duty to share, or;
+There is a robust public interest to share, or;
+The individual is aware of or expects the data to be shared and is not objecting (commonly referred to as ‘implied consent’ and the developing concept of ‘reasonable expectations’)
+
+Informing the individual is a requirement of data protection legislation and adherence to the ‘Caldicott principles (no.8). The approach within ICR is covered in section 7 of this agreement. Compliance of the ICR with common law confidentiality requirements is on the basis of awareness and expectations described as ‘implied consent or reasonable expectations’.
+
+In addition to access to the Integrated Care Record, provider organisations can be given access to the identifiable dataset from the PHM platform for the patients they are providing services to.  This allows the development of intelligence reports and decision support analysis that will aid the direct care of the patient.
+
+Sharing for Population Health Management (PHM)
+Legal Gateways
+All public sector organisations have legal powers for using data for purposes beyond the provision of direct care.  However the following restrictions need to be noted:
+Provider organisations – without further agreement can only use the personal data they control in relation to their own service development.
+Commissioning organisations – can use data related to the population that they cover.  
+The legal powers of public sector organisations are set out in the NHS England Secondary Use Data Governance Tool (SUDGT) and can be accessed here: https://data.england.nhs.uk/sudgt/activities#secondary-data-use-activities.
+The CCG has wide ranging statutory functions it performs that require the use of data for those functions to be performed effectively.  The PHM platform will provide the CCG with a richer source of data, where records have been robustly linked and de-identified than it has previously had access to. These functions can generally be supported by use of anonymised or pseudonymised data.
+
+Lawful basis for processing 
+
+Common law duty of confidentiality 
+The common law duty of confidentiality is engaged when there is a disclosure of information that risks breaching the confidentiality of the individual to whom the information relates, where they would not expect those seeing the data to have access, regardless of whether there is any harm that comes of that or not.  In terms of processing for analytical activities there are a number of factors that will ensure that the risk of a confidentiality breach is sufficiently minimised.  These are:
+Data from the shared care record used for direct care will be copied, combined with other data sources and segregated into the three ‘datasets’ as illustrated in section 4.2 and access to these datasets will be robustly controlled: 
+Identifiable dataset: for the use of intelligence data in relation to individuals (i.e., risk stratification case finding to support direct care provision).  This is in essence provision of direct care and so the application of common law of confidentiality is the same as the section on direct care.  Potential non direct care uses of this dataset are referenced in section 4.2 and subject to specific DPIA that will consider confidentiality on a case-by-case basis.
+Pseudonymised dataset: Use of this dataset will not be able to identify the individual and there is no disclosure of confidential data.
+Fully anonymised dataset: Uses of this dataset cannot identify individuals so there is no disclosure of confidential data.
+
+Data processing undertaken by the system supplier to put the three datasets in place will take a live copy of the shared care record (so as not to disrupt the use of the shared record for direct care itself).  Further data sources to support analytical activities (i.e. reference data) will be added to the copy and the three datasets developed from that.  All of this processing is undertaken by automated processes, therefore there are no disclosures to a person that risk a breach of confidentiality.
+
+Analysis requirements for specific initiatives will ensure that their data requirements are ‘minimised’.  This will be based on the data being shared being ‘the minimum necessary to serve the sharing purpose’.  In terms of sharing for purposes other than direct care the following are noted:
+Minimisation of identity factors.  By default analytical use will use anonymised data unless there is approved reason to use pseudonymised or identifiable data.  
+Governance processes around the use of data will also ensure that from any dataset, only the data items needed for a specific analysis are extracted via query tools.
+
+Access control processes will be in place to restrict users to the relevant datasets for the purposes they need to undertake.  Access can also be restricted for the user to only access data on specific organisations.  Unless staff have a cross organisational element to their role, the default will be they are set only to access data in the PHM datasets for their own organisation.  In general provider staff will be limited to their employing organisation.  CCG staff have a cross organisational function so will have cross organisational access.
+
+Individuals are generally aware about the data sharing, either by direct informing, or a mix of general informing/reasonable expectations.  This is also linked to GDPR requirements for informing under articles 13 & 14.  The ‘qualifying standard’ will require organisations to ensure they have sufficiently addressed the requirements to inform individuals about the potential further uses of their data and that they can exercise an opt-out via the National Data Opt-Out.  This will establish a basis of ‘implied consent’ although due to the management of requirements, access and disclosures set out above, this is an additional basis to support compliance with common law duty of confidentiality and is not relied upon on its own.
+Informing
+Each partner, by signing this agreement, commits to including reference to Integrated Care Records and Population Health Management in their existing ‘fair processing/privacy notice’ activities.  This will be supported by core web-based materials and posters designed specifically for the programme that can be linked to each partner’s existing web based, print based and other materials.  Partners can choose to use the materials they think will be effective in their circumstances.
+The ICR programme will also periodically review opportunities for wider publicity and public engagement.
+
+Agreement of data to be shared (Access Control & Data Minimisation)
+Each partner controller will determine the data they are happy to share based on the ‘need to know’ principle. This is established in the ‘on-boarding’ process for each partner, where they will map the data items from their operational systems to the data categories in the ICR.  Therefore, each contributing controller determines the data items they are willing to share from their systems and the links to access roles.  The matrix will be maintained by the programme.  
+Changes to data items supplied and roles will be managed through a formal change process, applying the principle that the contributing controller determines the data they supply and the access to it.
+The one exception will be data from General Practices as there needs to be commonality of data provided agreed across the contributing practices as the ICR cannot map data from GP systems in different ways for each practice.  
+Integrated Care Record access:
+Access to data by any user will be managed by a combination of controls.  Once a user is authenticated the aim is to ensure that they can only access the records and data that they need for legitimate reasons, and that potential for inappropriate access to records and data is minimised.
+The core controls to ensure data is only shared with those who need to know are:
+Legitimate relationship - This control will aim to limit the end user to only access records that they have a legitimate care relationship with.  Legitimate access will be established where possible by ‘context launch’ into integrated records from the user’s core record system when the patient/service user has already been selected.  All uses of data are recorded and fully auditable.
+Role Based Access   The role of the end user determines the screens, functions and data items that they can see.  These will be determined by the contributing controller on the basis of allowing access where there are ‘reasonably foreseeable reasons why the user role needs access to specific data items’. Any changes to the data sharing matrix will be proposed to and agreed by any contributing controller whose source data is affected by a change, i.e. a new role accessing data will be put to all affected controllers for agreement before it is enabled.  Additional data to be shared from any controller will be added to the matrix with references to the roles that will have access to the new data.  Agreement will be by positive response from the controller representative
+
+PHM Platform access:
+Access to data in the PHM Platform will be based around the agreed purpose for use.  A user conducting analysis where the approved purpose requires access to the relevant dataset will have access to that dataset.  Unlike the Integrated Care Record where user system role determines what items of data they can see, in the anonymised & pseudonymised datasets, then when access level is granted, access will be to all data, so that all relevant data items can be utilised in analysis work.  As the user will be restricted from the clear identity of the individuals, there is no need for data item access based on role.
+Access to the identifiable dataset for direct care purposes will be equivalent to the same access role for the user in the Integrated Care Record.
+Where the identifiable dataset is to be used for non-direct care purposes (subject to approved Data Protection Impact Assessment and appropriate lawful basis being identified – which may include Section 251 support of the National Confidentiality Advisory Group – CAG) the extraction and reporting of specific data items will be developed in the query routine and output specification. 
+
+Data Quality
+All partners are responsible for the quality and timeliness of data shared under this Agreement.  Contributing controllers (and their respective processors) are responsible for ensuring that extracted datasets, prior to uploading are the same as data held in their source system.
+Any data quality issues that may significantly affect the care of an individual will be reported to relevant partners immediately (i.e. any issue that may either delay provision of care or risk the effectiveness of care).
+Issues that are not critical, such as a potential misinterpretation of data (i.e. what does ‘general symptoms’ mean as a statement in a record) should be reported to the programme to assess and address. 
+There will also need to be a testing phase for each development.  The test system will use de-personalised data.  Once a development has been tested and is ready to launch into live, there may be some further testing conducted on live data.  Where possible this will be done by end-user staff from each organisation with a remit to view the data from their organisation in the system to check that it appears correct.
+
+Data Protection Impact Assessment (DPIA) – security of data
+DPIAs have been conducted and are maintained on the ICR/PHM programme.  
+A security statement detailing the key controls within the system and how they will be managed to reduce/remove risks identified in the DPIA is maintained by the programme and shared with all partners.
+
+Within the ICR data will not be retained for any longer than the applicable retention period in the source systems.  However it is noted that forthcoming developments of the NHS Records Management Code of Practice may require assessing whether the ICR is a record in its own right and subject to its own retention period.
+
+Any data directly recorded into the ICR will be subject to the relevant retention period in the NHS Records Management Code of Practice.
+
+Data Subject Rights
+
+Right of access:
+Partners that are contributing controllers to the ICR, but are not joint controllers of the ICR do not have to provide information from the ICR when they receive a subject access request.
+
+If a partner identified as a joint controller receives a request for ‘all my data’, they will need to clarify with the requestor if they wish to have the ICR data included.  In seeking that clarification they must inform the data subject that the ICR is only a small part of their data from the partners and if they are seeking their full records from multiple organisations they will need to contact each organisation to ensure they are provided with their full records. 
+
+Where the subject confirms they do want access to the ICR data the joint controller in receipt of the request must co-ordinate with each controller that contributes to the subject’s record to ensure that there is a co-ordinated response with appropriate assessment of any exemptions for harm/distress or confidential third-party data. 
+
+An individual may also ask for detail of who has accessed their record from any joint controller and this would be provided by the audit report on that individual’s record.
+
+The ICR also has a Personal Health Record (PHR) module designed for access by the patient that shows key data and appointments from their ICR.  As use of the PHR is developed it will be assessed in line with Subject Access exemptions to ensure that no data is available via the PHR that would be exempted from a subject access request.  This will be via maintaining the DPIA on the PHR app.
+
+Rights of rectification:
+Any data in the ICR that comes from another system that is found to be erroneous will need to be corrected in the source system.  
+
+Any data recorded directly that is considered erroneous will be checked with the relevant party(ies) and corrected within the ICR if appropriate.
+
+Right to erasure (to be forgotten):
+If an individual requests that their data is to be erased from the ICR this will need to be considered in respect of the lawful basis for processing data.  The right applies for certain lawful basis and not for others.  Where data is processed for a service that a partner is required to provide by statute (exercise of official authority) then the right to erasure does not apply.  This can also be delegated to non-public bodies by contract.  
+
+The use of data by an NHS body, Local Authority or contracted service provider for the care of an individual is very unlikely to be subject to the right to erasure.  Any individual requesting erasure of their ICR should be guided through the objection process.
+
+Right to restriction/objection
+Integrated Care Record:
+The ICR is becoming the default method of sharing data.  Much of that data is was previously shared via phone call, email, and letter.  The ICR is a more timely and secure method of sharing. 
+
+If an individual has raised a concern about the accuracy, lawfulness or retention of their data, they can request a restriction until such issues are resolved.  This would be enacted on the ICR by preventing the record from being accessed until the issue is resolved.
+ 
+If an individual raises an objection it will need to be checked as to whether they are objecting to the sharing of their data in general, or objection to sharing via the ICR as a mechanism.  Objections to sharing in general will have to be managed by the relevant partner’s policy.
+
+Where an individual raises concerns about the sharing of data via the ICR itself, then if these concerns cannot be addressed, a decision will need to be made by the relevant lead clinical/care professional as to whether safe and effective care can be delivered without using the ICR.  If the professional view is that it can be with data being shared by previous methods then the individual’s objection to the ICR may be upheld and their data prevented from being shared via the ICR.
+
+Where any data is also shared via the NRL (see section 4.3) then any objection to such data sharing that is upheld will need to be supported by removing any ‘pointers’ shared via NRL to data held within the ICR.
+
+PHM Platform
+Where an individual objects to their data being used for PHM activities, this will be handled by the National Data Opt Out which is applied to the pseudonymised and anonymised datasets.  It will also be part of the request/approval DPIA process for any proposed use of the identifiable dataset that is not for direct care. 
+
+Right to portability
+The right to portability only applies to data provided by the data subject where it is processed by automated means and is based on either the subject’s consent or a contract with the data subject.  In the ICR/PHM neither consent nor a contract will be used as a basis to process data, so the right will not apply.
+
+Right to not be bound by automated decision making (inc profiling)
+At present there is no intention to undertake ‘solely’ automated decisions on individuals.  Tools such as case finding/risk stratification and other elements of population health management will likely be developed for decision support, but they are not decision making, nor solely automated.
+
+Breaches
+Information breaches will be the responsibility of the organisation in which the breach occurred.  All breaches should be assessed in line with the ‘Guide to Notification of Data Security and Protection Incidents’ (https://www.dsptoolkit.nhs.uk/Help/29).  
+This provides a common tool for scoring of incidents, noting when an incident should be reported to the Information Commissioner’s Office (ICO) and affected individuals.  Where a partner identifies a reportable breach related to the ICR/PHM platform, then they should inform all other partners through the CCG/ICB, prior to any notification to the ICO.  This must be done within the 72 hour window for reporting notifiable breaches to the ICO.
+A breach that is classed as ‘not reportable’ will be managed by the partner identified as responsible and will engage other partners as required, in addition these will be reported to the programme who will monitor breaches. 
+
+Processes for data transfer
+These will be set in specific documentation that will establish the pathway and frequency of data transfers from each partner.  All data transfers will be via a secure encrypted method.
+
+Qualifying standards for organisational sign up
+The requirements of the qualifying standard apply to all partners involved in the integrated care record programme:
+
+Data Security and Protection Toolkit ‘Standards Met’
+Confirm appropriate update to fair processing information covering the requirements of the ICR/PHM platform (i.e. website privacy notice)
+Confirm ICO registration is current
+Commitment to conducting usage audits as defined by the programme
+
+By signing this agreement each partner is confirming that they are compliant with the above requirements.  Ongoing compliance will be assessed on an annual basis. The CCG will hold the results of this on behalf of all partners.  The assessment will be conducted after the date for submission of that year’s DSPT.
+
+Where a partner is unable to meet the qualifying standard, they will be required to detail where they are non-compliant and their action plan to achieve compliance to the Digital Board (joint controllers of the ICR) to determine whether access is appropriate.
+
+Partners invited to sign
+Royal United Hospitals, Bath, NHS Foundation Trust
+Bath & North East Somerset Council
+HCRG Care Group Ltd
+Dorothy House Hospice
+Salisbury NHS Foundation Trust
+Great Western Hospitals NHS Foundation Trust
+Medvivo Group Ltd (including partnership with DHU Healthcare and BEMS+)
+Wiltshire Health & Care NHS Partnership
+Prospect Hospice
+Salisbury Hospice
+Wiltshire Council
+Swindon Borough Council
+Avon & Wiltshire NHS Partnership Trust
+Oxford Health NHS Foundation Trust
+Bath, North East Somerset, Swindon & Wiltshire Clinical Commissioning Group
+General Practices in the BSW CCG area
+The above list is not exhaustive or exclusive.  Other partners will be invited to participate and sign the data sharing agreement as deemed necessary.  List of signature organisations is available from the CCG.
+
+Management of the agreement
+
+
+Signature
+By signing this agreement you are agreeing to the use of the data controlled by your organisation for the purposes and in the manner set out in this agreement.  You are also confirming your organisation is compliant with the qualifying standard in section 14. If your organisation is classed as a ‘joint controller’ of the ICR (see section 4.1) then you are signing to confirm acceptance of this role as a joint controller of the ICR data.
+
+Appendix A – Legal Gateways for providing direct care
+Public sector agencies can only share data where there is a legal gateway enabling the sharing of information.  This is legislation that permits the types of organisations to work together and within the approach to working together there is a requirement to share data.  The powers provided to public authorities can also be attributed to private providers by contract with an appropriate public authority.  Powers in such legislation may be express, or implied.  In addition, where such a power is in place it may be either mandatory or permissive.  
+For example, the Children Act 2004 Section 14 specifies that if a safeguarding board request information relevant to performing their function from an organisation that can assist, then the request must be complied with.  This is an example of an express mandatory power. 
+Many powers for day-to-day delivery of health and care are more likely to be implied and permissive, i.e., the agencies cannot easily provide their functions without sharing data, but legislation does not specifically mandate in a clearly expressed way that the data must be shared.  For example, the Care Act 2014, section 6 (Co-operation) states local authorities and partners must co-operate in relation to their respective functions relating to adults with needs for care and support.  This does not expressly refer to data sharing, nor does it mandate it, but can be seen as an implied, permissive power.
+Please see the embedded document for detail.  If required, the embedded document will be updated and circulated.
+
+
+
+
+Appendix B – Data sharing/role based access matrix example
+This section illustrates the data items and the organisational source. Access is controlled by a role having access to a ‘data category’.  
+
+The table below is illustrative of the principle of ‘role based’ access.  The actual datasets and roles will be created in the system along similar lines and managed as an access control matrix.  Each partner will be taken through an ‘on boarding process’ to identify the data they are in agreement to share, how it links to the data categories in the system and what roles will be able to access it.  
+
+Changes to this table as the use of the ICR develops will be agreed with the data controllers who supply the relevant information.  For example if a new role requires access to details of medications from General Practice, then prior to that being set up, approval will be sought from contributing general practices.  Approvals will be a positive confirmation by the respective data controllers. This process will be managed so that there are not continual small requests to data controllers for approval of changes.
+
+The ‘CareCentric Role Based Access overview’ document will be circulated with this agreement; however that document is not the exact matrix in use as each controller (GPs ‘en masse’) can decide to change their contribution.
+
+
+
+
+Appendix C – Glossary
+
+
+Appendix D – National Record Locator Data Sharing 
+
+NB – The following needs to be read on the basis that BSW CCG is acting as the lead controller of the joint controllers that are publishing data to the NRL.  Where BSW are acting as lead controller, any requirement upon them to interact with the other joint controllers of the BSW ICR (i.e. access request, data breach) will be managed under the terms of the overall DSA for the Integrated Care Record.
+
+The section that follows on access to data via NRL is included for information so that partners are aware of how data they provide is accessed by other users of the NRL.
+Access to NRL is controlled by smartcards.  This functions in two ways:
+Record types are grouped and, with the NRL framework, organisations can only access specific record types related to the care the organisation provides.
+End users in those organisations can only access records if their smartcard is enabled to access the NRL.
+Organisations seeking to access data via the NRL have to apply and are managed by NHS Digital Interoperability Working Group (IWG).  The IWG consists of representatives from the business, clinical safety, information governance and technical architecture and they determine:
+Validity of request
+Necessity, proportionality and lawful basis
+Organisational & end user appropriateness for the sharing of information
+	Successful applicants are added to the NRL Controller catalogue, which can be accessed at: Controller Catalogue | FHIR-NRLS-API (developer.nhs.uk).  The catalogue sets out:
+The organisation
+ODS code
+Start & End Dates (where applicable)
+The record types approved and whether the organisation is provider/consumer or both
+	This is essentially a form of ‘Organisational based access control’, as opposed to ‘role based’.  It also sets out the lawful basis from GDPR for the processing by Stakeholder groups, such as Mental Health Service, Ambulance service, Palliative care or Social care.
+	All approved partners must have completed their Data Security & Protection Toolkit assessments in the last 12 months and achieved ‘standards met’.  
+	Organisations will also have to have completed the NHS Digital Supplier Conformance Assessment List (SCAL).  
+	NRL Data Sharing Arrangement:  For any organisation to provide and or consume data from the NRL, they must agree to the NRL Data Sharing Arrangement.  This is included in this DSA at appendix D.
+Patients with an S-Flag (sensitive flag) on their NHS Number record will not have details displayed other than record(s) of certain type(s) exists, which can’t be accessed.  The user will know a plan exists but cannot access it via NRL.
+Audit logs of access are maintained by NHS Digital of all accesses to data via the NRL and are available to consuming and providing organisations.  Where a record from the provider has been requested and provided to a consumer organisation, the provider will be able to audit who has accessed the record.  If the consumer only views the pointer (the fact a record exists) can be audited in conjunction with audit data held by the NRL programme.
+
+NHS Digital - National Record Locator Data Sharing Arrangements
+
+Please note, text below has been provided by NHS Digital and is not altered.  There are references to consent for the creation of a careplan and the use of article 6(1)(a) of UK GDPR for that consent, whilst the basis for processing data in the careplan is the usual direct care UK GDPR articles.  Whilst patients who would benefit from having a plan should be engaged in the discussion about the creation of the plan, that should not be construed as consent to process the data in the plan.  If a patient is in agreement to having a plan, then the data within the plan needs to be processed to achieve the aim of the plan, in the same way such data is processed in a care record to deliver care.  The references to consent should be read in the context of the common law duty of confidentiality and not the GDPR.  Feedback has been given to NHS Digital on the current wording.
+
+BACKGROUND
+A	The National Record Locator (NRL) is a service set up by NHS Digital under the NHS Digital (Establishment of Systems: Digital Interoperability Platform) Directions 2019 from the Department of Health and Social Care (DHSC) to provide the Digital Interoperability Platform. The NRL enables sharing of nationally defined patient data required to inform clinical decisions across all health and care settings and improve the experience of service users by enabling and enhancing the flow of patient information.
+B	The NRL is a national index of pointers to patient care plans. A care plan is created for and is intended to be shared and used across health and care settings for the patient. It is created with the patient to inform those involved in their care of their health, care and wellbeing needs (“Care Plan”). Organisations that hold a Care Plan will create a pointer to it which can then be accessed by the Permitted Recipients for their purposes.    Permitted Recipients will ensure that users can access the record when necessary for the purposes of patient health and care. This could be an authorised clinician, care worker and/or administrator, in any health or care setting, to support that patient’s direct care.
+C 	This data sharing arrangement (“this Arrangement”) sets out the purposes for which, and the basis on which, the Shared Personal Data can be shared and received by the Parties, as independent Controllers. The terms set out in this Arrangement apply to all the parties that are sharing, accessing and processing care plans on the National Record Locator for the purposes of direct care. Parties to this Arrangement are expected to only share and receive data in accordance with the agreed purposes and obligations as set out in Annex 1.	
+D	The Shared Personal Data is accessed by a pointer which gives the location of the Care Plan and allows access to the Care Plan by the Permitted Recipients for the Agreed Purposes pursuant to the data subject’s consent as detailed in Annex 1 of this arrangement.  
+E	The Permitted Recipients of the Shared Personal Data are those organisations       either providing health and social care where the Care Plan is necessary for the purpose of provision of health and care, treatment, medical diagnosis and provision of social care services.  
+
+DEFINITIONS  
+Agreed Purposes: shall have the meaning as set out in Annex 1 of this arrangement;
+Controller, Processor, Data Subject, Personal Data, Personal Data Breach, Processing:  shall have the meanings as set out in the Data Protection Legislation in force at the time;
+Data Protection Legislation:  means (i) the General Data Protection Regulation ((EU) 2016/679) (GDPR) and any national implementing laws, regulations and secondary legislation, for so long as the GDPR is effective in the UK, (ii) the Data Protection Act 2018, and (iii) any other laws and regulations relating to the processing of personal data and privacy which apply to a party and, if applicable, the guidance and codes of practice issued by the relevant data protection or supervisory authority; 
+Data Subject Request: means a request made by, or on behalf of, a Data Subject in accordance with rights granted pursuant to the Data Protection Legislation;
+Law: means any law, subordinate legislation within the meaning of Section 21(1) of the Interpretation Act 1978, bye-law, enforceable right within the meaning of Section 2 of the European Communities Act 1972, regulation, order, regulatory policy, mandatory guidance or code of practice, judgment of a relevant court of law, or directives or requirements with which the Parties are bound to comply;
+Party, Parties: means the Record Publisher party to this Arrangement and any Permitted Recipient receiving the Shared Personal Data;
+Record Publisher; means the health and care organisation that will create a “pointer” showing the existence and location of a patients Care Plan, with the intention that ‘Permitted Recipients’ may access the Care Plan for the purpose of direct care when they need it. 
+(NB for the BSW ICR, the record publisher is the CCG as the lead controller on behalf of the joint controllers creating the record to be published).
+Permitted Recipients:  means those organisations providing health and social care, which have been approved and assured for access by NHS Digital, as they have demonstrated that access to the care plan is lawful and necessary for the purpose of provision of health and care, treatment, medical diagnosis and provision of social care services. These include but are not limited to:
+Ambulance Trusts/services 
+Acute and emergency care service providers
+NHS 111 service providers
+Care Homes 
+ 
+Shared Personal Data: means the personal data made accessible by the “pointer” published by the Record Publisher to all Permitted Recipients enabling access to Care Plans by those Permitted Recipients for the Agreed Purposes set out in Annex 1 of this Arrangement.
+Technical and Organisational Obligations: means the obligations set out in Annex 1 in respect of the technical and organisational measures to be put in place in relation to the Shared Personal Data.
+Independent Controllers of Shared Personal Data
+With respect to Shared Personal Data provided by the Record Publisher and accessed by the Permitted Recipients (“Parties”), each Party acts as Controller.  Each Party shall comply with the applicable Data Protection Legislation in respect of their Processing of such Shared Personal Data as Controller, and shall not cause the other Party to breach their Data Protection Legislation obligations.
+Any material breach of the Data Protection Legislation or the terms of this Arrangement by one Party shall give grounds to NHS Digital to terminate a Party’s involvement in the Arrangement and deny access to the NRL service. 
+Each Party shall Process the Shared Personal Data as set out in Annex 1 of this Arrangement and in accordance with the Agreed Purposes.
+Where a Party has provided Shared Personal Data to the Parties, the Permitted Recipients of the Personal Data will provide all such relevant documents and information relating to its data protection policies and procedures as the other Parties may reasonably require.
+The Parties shall be responsible for their own compliance with Articles 13 and 14 GDPR in respect of the Processing of Personal Data for the purposes of this arrangement. In particular, each Party shall give full information to any Data Subject whose Personal Data may be Processed under this arrangement of the nature of such Processing. This includes giving notice that, on the termination of this Arrangement, personal data relating to them may be retained by or, as the case may be, transferred to one or more of the Permitted Recipients, their successors and assignees. 
+The Parties will provide the Shared Personal Data to each other under this Arrangement:
+As set out in and for the Agreed Purposes only and shall make such data available to enable the Parties to perform their respective obligations for the delivery of health and care; and
+in compliance with the Data Protection Legislation.
+	Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of Processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, each Party shall, with respect to its Processing of Personal Data as Controller, implement and maintain appropriate technical and organisational measures to ensure a level of security appropriate to that risk, including, as appropriate, the measures referred to in Article 32(1)(a), (b), (c) and (d) of the GDPR, and the measures shall, at a minimum, comply with the requirements of the Data Protection Legislation, including Article 32 of the GDPR, as well as the Technical and Organisational Obligations as described at Annex 1.
+Where applicable, Parties must have met the standards as set out in the Data Security and Protection Toolkit (“DSPT”).
+A Party Processing Personal Data for the Agreed Purposes shall maintain a record of its Processing activities in accordance with Article 30 GDPR and shall make the record available to the other Party upon reasonable request.
+Where a Party receives a Data Subject Request in relation to the Personal Data provided to it by the other Party for the Agreed Purposes (“Request Recipient”):
+the other Party shall provide any information and/or assistance as reasonably requested by the Request Recipient to help it respond to the request or correspondence, at the cost of the Request Recipient; or
+where the request or correspondence is directed to the other Party and/or relates to that other Party's Processing of the Personal Data, the Request Recipient will:
+promptly, on receipt of the request or correspondence, inform the other Party that it has received the same and shall forward such request or correspondence to the other Party; and
+provide any information and/or assistance as reasonably requested by the other Party to help it respond to the request or correspondence in the timeframes specified by Data Protection Legislation.
+Each Party shall promptly notify the other Party upon it becoming aware of any Personal Data Breach relating to Personal Data provided by the other Party for the Agreed Purposes and shall: 
+do all such things as reasonably necessary to assist the other Party in mitigating the effects of the Personal Data Breach; 
+implement any measures necessary to restore the security of any compromised Personal Data; 
+work with the other Party to make any required notifications to the Information Commissioner’s Office and affected Data Subjects in accordance with the Data Protection Legislation (including the timeframes set out therein); and
+not do anything which may damage the reputation of the other Party or that Party's relationship with the relevant Data Subjects, save as required by Law. 
+	Personal Data shall not be retained or processed for longer than is necessary to perform each Party’s respective obligations for the Agreed Purposes. 
+The Parties acknowledge that the use of the NRL service is subject to the terms of this Arrangement, including the Annex, as amended from time to time. This Arrangement may be updated only by NHS Digital to reflect changes in the processing activities and/or the obligations on the Parties. The Parties shall ensure they keep up to date with any such changes, which will be communicated to the parties in the form of a revised arrangement. 
+Annex 1: Processing Personal Data 
+
+
+Use of NRL service is subject to these terms, including the Annex, as amended from time to time.
+Any amendments proposed will be reviewed by BSW CCG and as required agreed with joint controllers of the ICR.
+
+

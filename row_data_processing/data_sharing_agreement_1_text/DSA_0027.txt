@@ -1,0 +1,1345 @@
+Data Sharing Agreement – London Young People
+Study (LYPS)
+Contents
+1. Introduction to the Sharing 2
+1.1. Ownership of this agreement 2
+1.2. Responsibilities of parties involved 3
+1.3. Confidentiality and vetting 3
+1.4. Assessment and review 3
+1.5. Termination of agreement 4
+1.6. Outside of this agreement 4
+2. Purpose and Benefits 4
+2.1. Benefits 5
+2.2. Principles of information sharing 6
+2.3. Lawful Basis 6
+2.4. Consent 8
+2.5. Proportionality and necessity 8
+2.6. Other relevant legislation 9
+2.7. Freedom of Information 9
+3. Individuals 10
+3.1. Right to be informed – Privacy notices 10
+3.2. Data subject rights requests and complaints 10
+3.3. Data subjects 11
+4. Data 12
+4.1. The data to be shared 12
+4.2. Deceased persons 13
+4.3. Confidential information 13
+4.4. Storing and handling information securely 13
+o At the Local Authority 13
+o In Transmission from LAs to the IFS 13
+o At the IFS 14
+4.5. Access controls and security 14
+4.6. Outside UK processing 15
+4.7. Data quality 15
+1
+
+4.8. Data breaches/incidents 15
+4.9. Retention & Disposal 16
+6. Appendix A – Parties to this agreement 18
+7. Appendix B: Data Protection & Caldicott Principles 18
+8. Appendix C – Applicable legislation 19
+9. Appendix D: Information Sharing Checklist 19
+10. Appendix E: Full Scope of Data 20
+1. Introduction to the Sharing
+This Data Sharing Agreement [DSA] documents how the parties to this agreement, listed in Appendix A,
+will share information about young people. By signing this Agreement, the named agencies agree to
+accept the conditions set out in this document, according to their statutory and professional
+responsibilities, and agree to adhere to the procedures described.
+This Agreement has been developed to:
+● Define the specific purposes for which the signatory agencies have agreed to share information.
+● Outline the Personal, Special Category and Criminal Data to be shared.
+● Set out the lawful basis condition under UK GDPR and Data Protection Act 2018 through which
+the information is shared, including reference to the Human Rights Act 1998 and the Common
+Law Duty of Confidentiality.
+● Stipulate the roles and procedure that will support the processing/sharing of information between
+agencies.
+● Describe how the rights of the data subject(s) will be protected as stipulated under the data
+protection legislation.
+● Describe the security procedures necessary to ensure that compliance with responsibilities under
+data protection legislation and agency-specific security requirements.
+● Describe how this arrangement will be monitored and reviewed.
+● To illustrate the flow of information from referral through processing and outcome.
+Parties to this agreement cannot amend or add appendices unless agreed as part of a formal review. It is
+expected that each party will have procedures, processes and policies sitting underneath this
+agreement, for their respective organisations. These will, for example, describe the specific processes
+for secure transfer of data.
+1.1. Ownership of this agreement
+This agreement was drafted by a working group of representatives of the local authorities and London
+Councils. These professionals were specialists in information governance and law. The local authority
+representatives worked under the banner of the Information Governance for London Group (IGfL), to
+draft one agreement that would work for all boroughs across London. The aim is to reduce the number of
+versions of sharing agreements that historically differed between boroughs, partly to reduce the burden
+on pan-London organisations, that must have agreements with multiple boroughs.
+2
+
+IGfL, a group of information and security professionals at London boroughs, assisted with co-ordination
+of this agreement, but the responsibilities within it, and compliance with data protection legislation,
+remain with the listed data controllers.
+1.2. Responsibilities of parties involved
+The parties are registered Data Controllers under the Data Protection Act. Signatories are identified as
+those who have signed this agreement on the platform on which this agreement is hosted (expected to
+be the Information Sharing Gateway). A list of expected types of signatories is at Appendix A.
+All parties confirm that they comply with data protection legislation by:
+●having a lawful basis for processing and sharing personal data.
+●ensuring data quality.
+●storing and sharing information securely, with access management controls.
+●having policies and procedures for compliance with data protection legislation including for managing
+data subject rights & complaints, identifying and managing data breaches/incidents and retention &
+disposal.
+●ensuring that mandatory training is undertaken regularly by their employees to ensure they are clear
+and up to date on their responsibilities. Every individual must uphold the principles of this agreement
+and overarching confidentiality and seek advice from the relevant Data Protection Officer when
+necessary.
+●undertaking appropriate data protection due diligence checks with any contractors/data processors
+they employ and ensuring that a written agreement is in place with each data processor, and that all
+data processors will be bound by this agreement.
+●having written processes for the processing of data to ensure employees use and share personal data
+in line with data protection law, the data protection principles, and this agreement.
+Organisations and their staff must consult the organisation’s Data Protection Officer/Information
+Governance Manager and/or Caldicott Guardian if they are unsure at any point in the processing and
+sharing of personal data.
+1.3. Confidentiality and vetting
+Each Partner must ensure that there are appropriate written contracts or agreements with employees,
+agency staff, volunteers etc. These must include requirements to ensure compliance with policies which
+include confidentiality.
+Each Partner must ensure that suitable vetting has taken place.
+1.4. Assessment and review
+A review of this information sharing agreement will take place at the end of the pilot phase, as part of the
+decision on whether to move into the efficacy phase of the project. The aim of the review will be to
+ensure the purposes are still relevant, there has been no scope creep, the benefits to the data subjects
+and organisations are being realised, and the procedures followed for information security are effective.
+3
+
+Changes in legislation and developments in the areas of public sector data sharing will be considered as
+and when they arise, as will any changes to the signatory parties.
+The working group who drafted this agreement strongly recommend that a working group approach is
+used for any reviews, as this was a successful way to achieve pan-London and cross-specialism
+consensus to one sharing agreement.
+1.5. Termination of agreement
+In the event of termination of this agreement each party may continue to hold information originating
+from other parties for which they are data controller.
+1.6. Outside of this agreement
+This DSA only covers the data collected in the LA LYPS Workbook. The IFS and Anna Freud Centre
+have DPIAs that cover other aspects of the LYPS.
+2. Purpose and Benefits
+Purpose
+The London Young People Study (LYPS) is a pan-London project being run by the London Violence
+Reduction Unit and the Association of London Directors of Children's Services, funded by the Youth
+Endowment Fund (YEF). The program trains workers delivering services to young people (e.g. social
+workers, youth justice workers, teachers) to deliver high-intensity cognitive-behavioural therapy (CBT)
+informed support to young people aged 11-17, across the 32 London boroughs. This support, and the
+work to make it available, is branded ‘Your Choice’.
+The programme creates two groups; one where selected young people receive the CBT on top of normal
+interventions and support; and one with the majority in a control group where only normal interventions
+are delivered.
+Through the LYPS, Your Choice is being evaluated in London in order to determine whether the program
+is effective, and therefore whether it should receive funding to scale-up across the capital and
+nationwide. The proposed data sharing is in support of this evaluation and is a requirement of the YEF
+funding. The Institute for Fiscal Studies (IFS) and the Anna Freud Centre (AFC) are managing the
+evaluation and will gather additional data from the young people directly, and from the DfE.
+We wish to process the data in order to evaluate the Your Choice program. We wish to do this for two
+reasons:
+● Firstly, because youth violence is a serious issue affecting Londoners. Last year 5,864 were
+victims of the most serious violence and almost one per week was killed1.
+● Secondly because there is a lack of evidence today about what works to reduce this violence,
+and this lack of evidence is preventing us from mobilizing resources and from designing the best
+services to reduce the problem and its impact.
+1MOPAC (2021) ‘Understanding serious violence amongst young people in London’. Accessible at
+https://data.london.gov.uk/dataset/serious-youth-violence.
+4
+
+This is a priority for London’s Directors of Children’s Services and the Mayor – not least because of its
+intersection with other priority issues including poverty, racial inequality, and health inequalities.
+The output of the study will be answers to the questions
+1. Are young people who receive this service more or less likely to experience serious
+violence than those who do not receive it?
+2. Are the young people who receive this more or less likely to experience (positive or
+negative) criminal justice and education outcomes than those who do not?
+3. What known factors (e.g. demographics, service organisation) modify these
+outcomes;
+4. What is the cost per outcome when they are delivered through Your Choice and how
+does this compare to alternatives?
+2.1. Benefits
+The benefits of this DSA are to achieve a more comprehensive, joined up and efficient method for
+councils to deliver the evaluation to which they have jointly committed.
+The benefits of the sharing are to allow a London-wide evaluation of the efficacy of the CBT provided to
+young people taking part in the programme. If the evaluation shows that the program is effective, then
+we can deliver better services to vulnerable young Londoners, with the aim of reducing youth violence
+and improving outcomes for young people.
+There is very little research available about this cohort of young people and little to inform public policy
+on the best way to improve the outcomes for young people. This is why the Youth Endowment Fund,
+Violence Reduction Unit and Home Office (the sponsors of the LYPS) are so interested in this study and
+why the legacy of the research is such an integral part of the programme.
+With so many young people dying as a result of youth violence it is in the public interest that new
+treatments and research be carried out on what may or may not work to reduce or prevent this tragic loss
+of life.
+If it can be shown that the Your Choice programme can improve the outcomes of young people, it may
+be rolled out across England and Wales so that it has benefits for the whole country.
+The DSA will:
+● Cover the sharing of information for the purposes of the LYPS.
+● Remove barriers to effective information sharing.
+● Sets parameters for sharing personal data and clearly identifies the responsibilities of
+organisations.
+● Identify the correct lawful basis to share personal information.
+● Enables authorities to share data for the LYPS.
+● Raises awareness amongst all agencies of the key issues relating to information sharing and
+gives confidence in the process of sharing information with others.
+● Greater efficiencies in processes and resources.
+● Preventing crime.
+● Effectively dealing with public safety
+5
+
+2.2. Principles of information sharing
+Effective information sharing is a vital element of delivering the LYPS. Organisations can hold different
+pieces of information which need to be placed together to enable a thorough evaluation to be made.
+To share information, a lawful basis for doing so must be identified. This may come from legislation or
+from statutory guidance.
+The sharing of personal data must comply with both the GDPR Principles and the Caldicott Principles,
+listed at Appendix B. Together, those principles lead to a series of questions and considerations to be
+answered before sharing takes place. These are listed as an Information Sharing Checklist in Appendix
+D: Information Sharing Checklist.
+2.3. Lawful Basis
+Local authorities have two main legislative drivers that cover the work of the Your Choice Programme.
+The Children’s Act 1989, section 17, imposes a duty on local authorities to “safeguard and promote the
+welfare of children in need in their area”. Additionally, the Police, Crime, Sentencing and Courts Act
+2022, section 8(3)c, imposes a duty on local authorities and others to “prepare and implement a strategy
+for exercising their functions to prevent and reduce serious violence in the area”.
+It is considered a part of the local authority’s public task (Article 6 (1)(e) to engage in this programme.
+Whilst the delivery of the CBT to young people is considered processing for health and social care
+purposes (Article 9 (2)(h), for sharing the data for research purposes the condition is substantial public
+interest (Article 9 (2)(g).
+The evaluation carried out by IFS is considered research in the area of public authority social care
+duties; evaluation of the Your Choice programme as a randomised control trial. In that regard the
+research is primarily scientific in nature and involves controlling for all the individual characteristics of the
+cohort that may affect the efficacy of the Your Choice treatment element of the study.
+As stated earlier, there is very little research available about this cohort of young people and little to
+inform public policy on the best way to improve the outcomes for the young people. This is why the Youth
+Endowment Fund, Violence Reduction Unit and Home Office (the sponsors of the LYPS) are so
+interested in this study and why the legacy of the research is such an integral part of the programme.
+With so many young people dying as a result of youth violence it is in the public interest that new
+‘treatments’ and research be carried out on what may or may not work to reduce or prevent this tragic
+loss of life.
+If it can be shown that the ‘Your Choice’ treatment can improve the outcomes of young people, it may be
+rolled out across England and Wales so that it has benefits for the whole country.
+The IFS processing of data is covered by Article 6(1)(e) public task and Article 9(2)(j).
+Some personal data relating to criminal allegations and convictions is expected to be shared where it is
+relevant to the issues the young person raises during the programme or the evaluation of the
+programme.
+When processing special category data, a condition from Sch 1 Pt 1, or Sch 1 Pt 2 of the DPA 2018 must
+be identified.
+For processing data relating to criminal convictions and offences Article 10 of the UK GDPR applies, and
+a condition from the DPA 2018 Sch 1 Pt 3 must be identified.
+6
+
+The conditions relevant to the parties sharing data under this agreement are:
+Article 6 conditions Article 9 conditions
+c) legal obligation f) necessary for the establishment, exercise or defence of
+legal claims or whenever courts are acting in their judicial
+capacity
+e) performance of a task carried out in g) substantial public interest
+● ●
+the public interest
+f) purposes of the legitimate interests h) purposes of preventive or occupational medicine, for the
+● ●
+assessment of the working capacity of the employee,
+medical diagnosis, the provision of health or social care or
+treatment or the management of health or social care
+systems and services
+i) public interest in the area of public health, such as
+protecting against serious cross-border threats to health or
+ensuring high standards of quality and safety of health care
+and of medicinal products or medical devices
+j) archiving purposes in the public interest, scientific or
+●
+historical research purposes or statistical purposes
+Article 9(2) (b) (h) (i) (j) - Sch 1 Pt 1
+Employment, social security and social Public health
+protection
+Health or social care ● Research
+Article 9(2) (g) - Sch 1 Pt 2
+Statutory & government purposes Administration of justice
+Equality of opportunity or treatment Racial/ethnic diversity at snr mgmt
+Preventing or detecting unlawful acts Protecting the public against dishonesty
+Regulatory for unlawful acts and dishonesty Terrorist financing or money laundering
+Preventing fraud Support for individuals with disability or medical
+condition
+● Safeguarding of children and individuals at risk Safeguarding economic well-being
+Criminal data - Sch 1 Pt 3
+Legal claims Judicial acts
+7
+
+Accounts for child indecency offences ● Extension of Sch 1 Pt 2
+Consideration of the lawful basis conditions will take place as part of the review at the end of the pilot.
+2.4. Consent
+The parties will often work collaboratively with data subjects and aim for agreement with them on the
+actions to be taken. However, it is recognised that this is different to using consent (Article 6 (a)) or
+explicit consent (Article 9 (a)) as the lawful basis conditions used for processing under this agreement.
+Consent is not generally the lawful basis the public sector organisations use for processing information
+shared under this agreement.
+In the LYPS Your Choice Programme the young people eligible to take part in the study are asked for
+informed consent to be included. That consent is an ethical consideration to meet the requirement of the
+researchers’ organisations for conducting this randomised controlled trial and is not considered to be the
+lawful basis for personal data processing. Whether in the CBT group or the control group, a young
+person cannot take part in the programme without having their personal data included in the evaluation.
+If a young person chooses to leave the programme once it has begun, any data already collected with be
+included in the evaluation, unless the young person requests that their data be removed from the
+evaluation. This is part of the informed consent for the trial, and not consent as lawful basis. Once the
+evaluation phase has begun data cannot be deleted.
+2.5. Proportionality and necessity
+Proportionality
+This study will impact upon the privacy of up to 4,000 young people and 1,000 staff. The privacy impact
+has been extensively mitigated through the programme’s design and balanced against the potential
+benefits outlined.
+We believe that the potential benefit of saving young Londoners’ lives is clearly worth the processing,
+and that the question is therefore the extent to which we can reduce processing to the absolute minimum
+required to achieve this end.
+Appendix E below details each field being collected, and the assessment the research team have made
+as to whether it could be:
+● Dropped
+● Degraded
+● Obscured
+The data items required are the end result of a long process from January 2022 through to the beginning
+of July of reduction, refinement and clarification of the data items required for the evaluation.
+Practitioners, Evaluators and the LIIA team have been involved in whittling the items down to those felt
+essential for a robust evaluation of the programme. This has seen items dropped, eg Religion &
+information about parents; Other items reduced in scope or to broad categories eg disability, practitioner
+information and standard definitions being used wherever possible eg ethnicity.
+Necessity
+To establish the quality of evidence of the program’s efficacy, which is required to secure investment in
+youth services, we need to conduct a robust trial – an RCT (Random Controlled Trial) or a
+8
+
+quasi-experimental study. This will establish whether the intervention has the intended impact, and
+whether it represents value for money2.
+To conduct a quasi-experimental study we have to collect personal data on those receiving the service
+and link it to data on outcomes. This cannot be achieved without processing personal sensitive data.
+A study of this nature also requires that special category data (gender, sexuality, ethnicity, health) be
+processed so that evaluators can control for the impact of these on outcomes. Without this, we do not
+know whether the programme works as well for one group of people as for another.
+It is also necessary that criminal offence data be processed, as reducing the likelihood that a young
+person will go on to be convicted of an offence is a key outcome of the program and a driver of
+cost-efficacy. Without this, we cannot answer how effective the programme has been.
+2.6. Other relevant legislation
+The actual disclosure of any personal data to achieve these objectives must also be conducted within
+the framework of the Human Rights Act 1998 (HRA) and the Common Law Duty of Confidence. Caldicott
+Principles also apply to all information sharing and they are listed in Appendix B: Data Protection &
+Caldicott Principles.
+●Human Rights Act 1998 (HRA)
+●Common law duty of confidentiality
+●Confidentiality and Sharing for Direct Care
+2.7. Freedom of Information
+The Freedom of Information Act 2000 gives all individuals the right to access official information held by
+a public authority (the Environmental Information Regulations 2004 also allow access to data. For ease
+of drafting, FOI is used to cover both legislation). Limited exemptions may apply and all public authorities
+must ensure they have recognised procedures in place for administering requests of this nature.
+All requests for FOI will be directed through the relevant organisations’ FOI processes. Each party will
+seek advice/opinion from the other parties where there is concern about that information being released
+and any impact it is likely to have. The final decision to disclose or not will lie with the party who holds
+the information (data controller).
+It is encouraged that all parties proactively publish this document. It may also be disclosed to the public
+under FOI.
+3. Individuals
+Organisations processing personal data are required to begin with the ethos of Data Protection by
+Design and Default (also known as Privacy by Design (PbD). This means that we must consider and
+uphold the privacy of an individual’s data before we begin and throughout the processing taking place.
+IGfL will consider this DSA and the related DPIA on behalf of London. Individual parties may wish to
+undertake their own DPIA/ DSA.
+9
+
+3.1. Right to be informed – Privacy notices
+Where personal data is created or received by one of the parties, they are responsible, as required by
+law, for making the data subject(s) aware within a reasonable time frame that the organisation holds
+the data, what they will do with it, how long they will keep it, and who they will share it with (such as
+under this DSA). This is normally done through a privacy notice, whether written or verbal.
+Organisations agree that they will adhere to the transparency requirements of the UKGDPR and will
+issue appropriate notices which inform the data subject that the information will be shared with the
+parties under this agreement.
+In some cases, it may not be appropriate to let a person know that information about them is being
+processed and shared. Consideration should be given to whether notifying the individual may place
+someone at risk or prejudice a police, other criminal, or safeguarding investigation. In these
+circumstances, the parties need not inform individuals that the information is being
+processed/shared; but should record their reasons for sharing information without making the
+individual aware.
+The Institute for Fiscal Studies (IFS) will provide the young people (and their parents where
+appropriate) with a privacy notice explaining the use of the data they collect directly from the young
+person and practitioner (covered by their own DPIA). This will include the data collected from the
+local authorities and covered by this DSA. It also covers the information collected by the Anna Freud
+Centre through interviews with Young People who have agreed to be interviewed (covered by their
+own DPIA).
+It is expected that existing local authority privacy information for children’s social care will cover the
+local authority engagement with young people who are taking part in the programme.
+3.2. Data subject rights requests and complaints
+Here we describe data subject rights in respect of the administrative information being shared by LAs to
+the IFS for the purpose of evaluation, as this is the scope of the DPIA/DSA. We do not describe
+data subject rights in respect of the surveys conducted and information gathered directly from the
+young people by the IFS and the Anna Freud Centre.
+In all cases, data subject requests will be passed to each of the data controllers to decide and act upon.
+The information below details how an instruction from the controller is translated into action.
+LAs (processing on basis of public task)
+Right Applicability How it Is Delivered
+To Be Informed Yes Privacy notices at LA and IFS.
+To Access Yes
+To Rectification Yes All controllers have a process for
+identifying and complying with
+To Be Forgotten No.
+requests, and for notifying other
+To Portability Yes controllers.
+To Restrict Processing Yes
+10
+
+To Object Yes
+To Object to Automated Inapplicable. No automated N/A
+Processing processing in scope
+IFS
+Right Applicability How it Is Delivered
+To Be Informed Yes Privacy notices at LA and IFS.
+Plain English explanation on
+consent forms.
+To Access Yes
+To Rectification Yes
+To Be Forgotten Yes. Section 2 exemption (research)
+inapplicable as compliance with SAR
+All controllers have a process for
+would not impair achievement of
+identifying and complying with
+purpose.
+requests, and for notifying other
+To Portability No – data not provided to these controllers.
+controllers by the subject
+To Restrict Processing Yes
+To Object Yes
+To Object to Automated Inapplicable. No automated N/A
+Processing processing in scope
+3.3. Data subjects
+We expect to process data on up to 5,000 people over the life of the program across all the London
+Boroughs taking part in LYPS, as detailed in the table below. Each London Borough will therefore have
+approximately 1/30th of the numbers given below depending on the duration of their involvement in LYPS,
+their success in recruiting participants and the numbers of practitioners & teams involved. These figures
+are a best estimate based on the plans of the LYPS.
+Stage Pilot Efficacy Total
+Number of Young People
+(of whom c. 50% are in the
+450 3,550 4,000
+control group and thus not
+receiving the intervention)
+Number of Staff(of whom
+50% are in the control 400 600 1,000
+group)
+Total People 850 4,150 5,000
+4. Data
+The personal data and its processing involved in these workstreams is extensive, highly sensitive and at
+times intrusive. There is by necessity a comprehensive amount of data required about the data subjects.
+11
+
+Information will include personal, special category and criminal data to enable:
+● Evaluation of the service for efficacy and cost efficacy;
+● Exploration of how protected characteristics (among others) influence how the service is used by
+young people and moderates what outcomes they achieve.
+Protected characteristic data is listed along with the other data in Appendix E denoted as ‘Personal
+sensitive data’.
+4.1. The data to be shared
+There are different sectors within the study. Young people will be asked whether they wish to take part.
+For those that do not choose to take part, a small amount of anonymous data will be gathered to enable
+IFS as evaluators to identify whether there are potential trends as to why a young person did not wish to
+take part in the study. This data is age/ gender/ ethnicity/ reason for not taking part.
+If a young person chooses to take part in the study, they will be assigned to the CBT group or the control
+group.
+The precise fields we intend to process, the rationale for each, and consideration of whether they could
+be degraded or obfuscated is detailed in Appendix E. This also outlines which fields are retained by the
+IFS and Youth Endowment Fund (YEF) respectively for future research.
+In summary, the scope of processing in the flow from LAs to the Institute for Fiscal Studies (IFS) includes
+the following information about the young people:
+● Personal information, including: full name, date of birth, and unique identifiers (e.g. Unique Pupil
+Number) where available (Not passed to YEF – their data archive is pseudonymised)
+● Special category information, including: racial or ethnic background; gender; sexuality; disability
+● Data relating to criminal conviction: not explicitly requested but may be recorded in free text
+explanations of why young people have been referred to the program or in a description of their
+needs and their history of interaction with services (e.g. youth offending teams)
+● Other information may be harmful if disclosed, including: special educational needs; social care
+‘child in need’ and ‘child looked after’ status; education, employment and or training status;
+involvement with other council services; the fact that they were involved in the service (a
+condition for which is relevant LA or school staff’s assessment that they are at high risk of
+involvement in serious violence as victim or offender).
+The workbook captures the data typically 'owned' by the LA for statutory service delivery. Other
+information that is specifically related to the study or comes from the young person themselves are
+collected through a series of survey forms and subject interviews in the data collected directly by IFS and
+AFC and covered by their DPIAs.
+4.2. Deceased persons
+The sharing is unlikely to involve data of deceased persons, but where it does it is noted that this data
+will not be covered by data protection legislation but will still require due regard to the common law duty
+of confidentiality and the Human Rights Act.
+12
+
+4.3. Confidential information
+In this agreement, we refer to personal data, as defined by data protection legislation. However, the word
+’confidential’ may be used by individuals and practitioners to describe information and can mean different
+things to different people.
+Confidential can mean:
+●Personal and special category data as defined by data protection legislation
+●Patient Identifiable Information (PII) or ‘personal confidential information’; both terms most commonly
+used in health settings
+●Information which is not already lawfully in the public domain or readily available from another public
+source
+●Information that has been provided in circumstances where the person giving the information could
+reasonably expect that it would not be shared with others.
+4.4. Storing and handling information securely
+The data is protected at each step, whilst at rest and in transmission. The specifics are outlined below.
+o At the Local Authority
+Local Authorities’ own processing of this data is not novel or controversial and we assume it to be
+handled with existing child social care data systems. Data collected for the LYPS is considered part of a
+local authority’s duties and this agreement focuses on the novel elements, which are the sharing to the
+IFS for evaluation.
+o In Transmission from LAs to the IFS
+Data is sent to a named individual within the IFS Sarah Cattan (sarah_c@ifs.org.uk). Standard operating
+procedures for LA staff involved in the program include:
+● Data cannot be sent to a role-based account
+● Data cannot be sent to an account outside the ifs.org.uk domain
+● The individual to whom they can send data is to be authorised by the named program lead at
+London Councils and variations only accepted on instruction from the same.
+Data is sent via encrypted email using the egress switch service, which uses identity-based AES 256-bit
+encryption with FIPS 140-2 approved cryptographic libraries as default on its endpoints. For more
+information on technical, physical and organizational measure in place at the egress service see
+https://www.egress.com/security/measures-and-controls.
+Where the LA does not use Egress, we will require them to use a similar secure email system, such as
+Mimecast which meets the same levels of protection.
+For more information on Technical and organizational Security measures in place at Mimecast see
+https://www.mimecast.com/company/mimecast-trust-center/technical-and-organizational-measures/email
+-and-web-security-services
+Alternatively the IFS operate a secure web portal that can be used by LAs who do not have a secure
+email service meeting the required level of security.
+13
+
+o At the IFS
+Data will be stored on an encrypted network of the Institute for Fiscal Studies (IFS) in a secure folder
+with access restricted to named researchers who need to work on the data for the purpose of the
+evaluation. Access to folders is controlled by ICT with approval from the Head of Data Services.
+All IFS ICT systems are managed by staff directly contracted by ISF. IFS use Azure cloud storage for
+back up. Azure complies with ISO27001 as well as a number of other compliance standards.2
+The IFS information security management system is ISO27001 compliant, and the IFS has an
+Information Classification and Handling Policy which sets out a comprehensive set of guidelines for
+handling all types of data and information (including highly confidential information).
+IFS also is Cyber Essentials Certified. All project team members will follow strict procedures in this policy
+and adhere to the IFS Information Security Policy when using or collecting data. All project team
+members will have received appropriate GDPR and data security training. All researchers on this project
+are ONS accredited researchers.
+The Cloud Security Questionnaire has further details.
+4.5. Access controls and security
+All parties will ensure that they have appropriate technical and organisational security measures in place
+to guard against unauthorised or unlawful processing of personal data and against accidental loss or
+destruction of, or damage to, personal data.
+All personal data held by partner organisations electronically will be stored in a secure network area with
+password protected entry and appropriate back-up functionality. The systems will be auditable so that it
+is possible for any auditor to establish who has accessed the system. All laptops, computers, and any
+other portable devices will be encrypted.
+Any individual no longer required to have access will promptly have such access revoked by the line
+manager and Human Resources related to the relevant employer.
+There is an expectation that partner organisations will either be working toward ISO 27001, the
+International Standard for Information Security Management, or a similar standard of security.
+At the end of the efficacy part of the LYPS (currently scheduled for the second half of 2024), identifiable
+data will be held separately on the IFS Data Enclave. The data relating to this project held on the IFS
+data enclave can only be accessed by Approved Enclave Users who are also required to sign the Data
+Enclave Access Agreement and have BPSS (Baseline PersonnelSecurity Standard) clearance.
+IFS data Enclave:
+The system (except the server and some cabling) is contained entirely within a physically secured room.
+The door is locked with an access card reader and a keypad.
+The Enclave server is contained within a separate secure room which is locked with a key.
+The access card system is used throughout the IFS to control access to different areas. Access is
+assigned by IT Services. Ability to enter the Enclave is only given to staff who have been approved to
+use the Enclave as outlined in Section 2.4 and who have signed the Data Enclave Access Agreement
+(hereafter referred to as “Approved Person(s)”).
+As a secondary security measure, Approved Users will also need to obtain the number code to unlock
+the door from the Head of Data Services, the Head of ICT or the IT Support and Systems Administrator.
+2https://docs.microsoft.com/en-us/azure/compliance/
+14
+
+Audit
+Visits to the Enclave are recorded via the Door Access System. Logs are kept for three months.
+Logs of data access are recorded electronically using the in-built computer auditing tools.
+Details of any outputs removed from the Enclave will be recorded in a Logbook
+Spot check on outputs removed from the Enclave are carried out by the Head of Data Services
+Directory access is strictly controlled and regularly reviewed by the Support and System Administrator
+and the Head of Data Services.
+Access to portable media interfaces (USB ports, disc drives) are disabled for everybody except IT
+Support and the Head of Data Services.
+4.6. Outside UK processing
+Parties are responsible for ensuring that if information is processed or shared outside the UK, that
+suitable written agreements are in place, and that appropriate due diligence has been completed for the
+transfer of data.
+4.7. Data quality
+Each partner is responsible for ensuring the accuracy and relevance of the personal data that it
+processes and shares and must have clear processes in place for managing data quality.
+Any party learning of the inaccuracy of personal data is responsible for informing the parties with whom
+that data has been shared.
+4.8. Data breaches/incidents
+All parties must have a clear policy and procedure regarding the reporting and handling of data
+protection breaches or data loss incidents. This must include assessing the level of risk to the data
+subject(s), as well as to make a decision on notifying the ICO within the statutory time frame of 72 hours.
+This complies with Articles 33 and 34 of UKGDPR, and Section 67 and 68 of the DPA 2018 for personal
+data processed for law enforcement purposes.
+If the incident may impact the processing of another party to this agreement, all relevant parties should
+be informed and appropriate co-ordination of the incident must take place. The decision to report the
+incident will lie with the data controller(s) of the information concerned. The parties agree to provide all
+reasonable and necessary assistance at their own expense to each other to facilitate the handling of any
+personal data breach in an expeditious and compliant manner.
+It is confirmed that security breaches (including misuse or unauthorised disclosure) are covered by the
+partner’s internal disciplinary procedures. If misuse is found there should be a mechanism to facilitate an
+investigation, including initiating criminal proceedings where necessary.
+4.9. Retention & Disposal
+Organisations are required by data protection legislation to document processing activities for personal
+data, such as what personal data is held, where it came from and with whom it has been shared. This
+Record of Processing Activity (ROPA) must include the retention period for the data.
+15
+
+Information must not be retained for longer than necessary for the purpose for which it was obtained.
+Disposal or deletion of personal data once it is no longer required, must be done securely with
+appropriate safeguards, in accordance with that organisation’s disposal policies.
+The original data provided by each LA will be combined with the data that the IFS is collecting directly
+from the young people and practitioners to create a new dataset. At this point the IFS becomes the Data
+Controller for this new dataset. The LA has no Data Controller responsibilities for the new dataset.
+At the end of the efficacy trial (or the end of the pilot phase if the decision is made to not proceed to
+efficacy) the original LA data files will be destroyed.
+Signatures
+5.
+Institute for Fiscal Studies
+The Institute for Fiscal Studies will sign this DSA via a centralised electronic system rather than
+physically signing a document.
+Local Authorities:
+All local authorities signing this DSA will do so via a centralised electronic system rather than physically
+signing a document.
+Version control
+Document production date 30 November 2022
+16
+
+6. Appendix A – Parties to this agre
+The 32 London Boroughs
+The Institute for Fiscal Studies
+7. Appendix B: Data Protection & C
+The Principles as described in Article 5 of the General Data Protection
+Regulation.
+1
+
+ment
+ldicott Principles
+The Caldicott Principles
+
+8. Appendix C – Applicable legislation
+Legislation Main purpose of Legislation
+Police, Crime, Sentencing and Imposing a duty on local authorities and others to “prepare and implement a strategy for
+Courts Act 2022, section 8(3)c exercising their functions to prevent and reduce serious violence in the area”
+Imposing a duty on local authorities to “safeguardand promote the welfare of children in
+Children’s Act 1989, section 17
+need in their area”
+9. Appendix D: Information Sharing Checklist
+The following questions must be considered when deciding whether to share information.
+● Whose information is this?
+● Is there a lawful basis to share the information? Justify the purpose and identify relevant legislation
+that applies.
+● Can information be pseudonymised or anonymised ahead of sharing?
+● How have individuals been informed that the information will be shared eg via a privacy notice?
+Will they have the expectation that their information will be shared? Consider whether notifying the
+individual of the sharing may place someone at risk or prejudice a police or safeguarding
+investigation.
+● Have any requests not to share been received and considered?
+● How much information is it necessary to share in this situation?
+● Is the information accurate and up to date? Has the difference between fact and opinion been
+stated?
+● Is access to the information limited to only those who need it? Is it being given to the right person?
+● Is the information being shared in a secure way?
+● Has the decision to share or not share been recorded?
+18
+
+10. Appendix E: Full Scope of Data
+Tab on Data Item Type of Nature of data Defined Data description
+spreadsheet data input options if
+applicable
+Front Page LA Name No defined option List of Name of the LA to whom
+personal - selection from London LA data relates
+data locked names l
+drop-down list
+t
+t
+CYP CYP ID Personal Data copied n/a unique client ID assigned to
+participating data from LA young person on service f
+in Database database
+programme (
+in control UPN Personal Data copied n/a education unique pupil
+(CG) or data from LA number if available
+treatment Database
+group (YC)
+ULN Personal Data copied n/a further education unique
+data from LA learner number if available
+Database
+1
+
+eason for collection Shared with Can it be Can it be obscured?
+evaluators? degraded?
+o be able to track roll-out of Yes No No
+roject, return of data, provide and
+nk to information about
+onstituent teams of control and
+eatment groups, to inform
+valuation controlling for different
+pes of team and service delivery
+o be able to link data collected Yes No, relies on an No
+om worker on sessions delivered exact match
+ith the child or young person
+YP)
+o be able to link administrative Yes No, relies on an In theory, we could get LAs to
+ata on CYP outcomes to CYP in exact match encrypt these and give the
+rogramme. To evaluate impact of keys to MoJ and DfE but not to
+rogramme and as a control other parties. This would
+easureeg comparing outcomes reduce re-identification risk
+f CYP with similar previous but would be slow and
+ttainment in treatment & control expensive to a degree which I
+roups suggest it is disproportionate.
+o be able to link administrative Yes No, relies on an In theory, we could get LAs to
+ata on CYP outcomes to CYP in exact match encrypt these and give the
+rogramme. To evaluate impact of keys to MoJ and DfE but not to
+rogramme and as a control other parties. This would
+easureeg comparing outcomes reduce re-identification risk
+f CYP with similar previous but would be slow and
+ttainment in treatment & control expensive to a degree which I
+roups suggest it is disproportionate.
+
+CYP Personal Data copied n/a legal first names of young
+Forenames data from LA person
+Database
+i
+f
+t
+CYP last Personal Data copied n/a legal surname of young
+name data from LA person
+Database
+i
+f
+t
+DoB Personal Data copied n/a (dd/ mm/ yy)
+data from LA
+Database
+i
+f
+t
+Age Personal Calculation Calculated Age based on DoB
+data from DoB - field
+measures
+between DoB
+and 'today' f
+2
+
+o link to survey data collected Yes No, relies on an In theory, we could get LAs to
+irectly from young people for exact match encrypt these and give the
+ualitative evaluation of impact of keys to MoJ and DfE but not to
+rogramme. Where unique other parties. This would
+entifier not available, in reduce re-identification risk
+ombination with other CYP name but would be slow and
+elds and DoB, to be able to link expensive to a degree which I
+dministrative data on CYP suggest it is disproportionate.
+utcomes to CYP in programme. To
+valuate success of programme
+nd as a control measureeg
+omparing outcomes of CYP with
+imilar previous attainment in
+eatment & control groups
+o link to survey data collected Yes No, relies on an In theory, we could get LAs to
+irectly from young people for exact match encrypt these and give the
+ualitative evaluation of impact of keys to MoJ and DfE but not to
+rogramme. Where unique other parties. This would
+entifier not available, in reduce re-identification risk
+ombination with other CYP name but would be slow and
+elds and DoB, to be able to link expensive to a degree which I
+dministrative data on CYP suggest it is disproportionate.
+utcomes to CYP in programme. To
+valuate success of programme
+nd as a control measureeg
+omparing outcomes of CYP with
+imilar previous attainment in
+eatment & control groups
+o link to survey data collected Yes No, relies on an In theory, we could get LAs to
+irectly from young people for exact match encrypt these and give the
+ualitative evaluation of impact of keys to MoJ and DfE but not to
+rogramme. Where unique other parties. This would
+entifier not available, in reduce re-identification risk
+ombination with other CYP name but would be slow and
+elds and DoB, to be able to link expensive to a degree which I
+dministrative data on CYP suggest it is disproportionate.
+utcomes to CYP in programme. To
+valuate success of programme
+nd as a control measureeg
+omparing outcomes of CYP with
+imilar previous attainment in
+eatment & control groups
+or teams to be able to quickly see No No n/a
+ge of CYP, to ensure CYP is age
+ligible, to inform LA monitoring of
+ge of CPY participants to monitor
+r bias in age groups and/ or
+isapplication by CYP of specific
+ges
+
+Gender Personal defined option Gender table select most appropriate
+sensitive - selection from option
+data locked
+drop-down list
+Ethnicity Personal defined option Ethnicity select most appropriate
+sensitive - selection from table option
+data locked
+drop-down list
+Disability Personal defined option Disability choose as many options as
+sensitive - selection from table apply or if no disability leave
+data locked blank
+drop-down list
+LGBTQ+ Personal defined option LGBTQ+ table If young person considers
+sensitive - selection from themselves to be in any of
+data locked the groups associated with
+drop-down list LGBTQ+ please choose yes
+2
+
+o inform LA monitoring of age of Yes No No
+YP participants to monitor for bias
+nd/ or disapplication by CYP of
+pecific characteristics. As a control
+easureeg comparing outcomes
+f CYP with same/similar
+haracteristics in treatment &
+ontrol groups
+o inform LA monitoring of age of Yes Not without No
+YP participants to monitor for bias undermining
+nd/ or disapplication by CYP of the benefits of
+pecific characteristics. As a control the study,
+easureeg comparing outcomes specifically the
+f CYP with same/similar ability to
+haracteristics in treatment & understand
+ontrol groups differences in
+how children of
+different
+characteristics
+experience and
+benefit from
+the
+intervention.
+o inform LA monitoring of age of Yes Is already No
+YP participants to monitor for bias degraded to
+nd/ or disapplication by CYP of only physical/
+pecific characteristics. As a control mental/
+easureeg comparing outcomes learning
+f CYP with same/similar difficulties
+haracteristics in treatment & /other. Further
+ontrol groups degradation (to
+yes/no) would
+undermine the
+benefits of the
+study.
+o inform LA monitoring of age of Yes Not without No
+YP participants to monitor for bias undermining
+nd/ or disapplication by CYP of the benefits of
+pecific characteristics. As a control the study,
+easureeg comparing outcomes specifically the
+f CYP with same/similar ability to
+haracteristics in treatment & understand
+ontrol groups differences in
+how children
+with different
+characteristics
+experience and
+benefit from
+the
+intervention.
+
+Looked after Personal defined option Yes/ No If young person is looked
+data - selection from after please choose yes
+locked
+drop-down list
+SEND Personal defined option Yes/ No If young person has special
+data - selection from educational needs please
+locked choose yes
+drop-down list
+In Education/ Personal defined option Yes/ No select most appropriate
+Training/ data - selection from option to indicate if young
+Employment? locked person is in EET at the start t
+When drop-down list of work with them in the I
+starting in Your Choice treatment group
+programme or Your Choice control group
+In Education/ Personal defined option Yes/ No select most appropriate
+Training/ data - selection from option to indicate if young
+Employment? locked person is in EET at the end of t
+When ending drop-down list work with them in the Your I
+with Choice treatment group or
+programme Your Choice control group
+Previously Personal defined option Yes/ No if young person has
+received Your data - selection from previously received a
+Choice locked complete Your Choice t
+treatment? drop-down list treatment or ended their
+involvement prematurely
+during an earlier episode t
+please choose the 'yes' r
+option t
+Worker name Personal Feed from field Populated Forename & surname of
+data on Worker tab field worker
+r
+Worker ID Personal Feed from field Populated unique worker ID assigned to
+data on Worker tab field worker on service database
+2
+
+o inform LA monitoring of age of Yes No No
+YP participants to monitor for bias
+nd/ or disapplication by CYP of
+pecific characteristics. As a control
+easureeg comparing outcomes
+f CYP with same/similar
+haracteristics in treatment &
+ontrol groups
+o inform LA monitoring of age of Yes No No
+YP participants to monitor for bias
+nd/ or disapplication by CYP of
+pecific characteristics. As a control
+easureeg comparing outcomes
+f CYP with same/similar
+haracteristics in treatment &
+ontrol groups
+o be able to monitor change in Yes No No
+ET outcomes during the course of
+e programme delivery with CYP.
+forms evaluation of Impact
+o be able to monitor change in Yes No No
+ET outcomes during the course of
+e programme delivery with CYP.
+forms evaluation of Impact
+o be able to control for CYP who Yes No No
+ffectively receive more treatment
+an the programme typically
+elivers. To allow LAs to monitor
+oung people who are coming
+rough their system with similar
+sk levels or who are changing
+eir minds about taking part in the
+rogramme
+or LA use, to enable easy No No No
+onitoring of who to contact for
+issing data, as a means of
+ducing data input on
+preadsheets.
+sed to link worker details Yes No No
+etween tabs and to link with
+ession information completed by
+orker and submitted directly to
+valuators.
+
+Start date of Personal Data copied n/a Date on which young person
+current data from LA first came to the attention of
+'episode' Database your service in this current
+episode
+(dd/ month/ yyyy)
+Most Personal defined option Most choose the primary 'need'
+relevant data - selection from relevant from the drop-down list that
+primary need locked primary need is closest to the young
+drop-down list table person’s needs - uses
+children in need definitions
+Involved with Personal defined option Yes/ No answer 'yes' if young person
+other council data - selection from is currently receiving a
+service? locked service from another part of
+drop-down list the council
+(Y/N)
+Start date of Personal Data copied n/a date on which young person
+'episode' data from LA first came to the attention of
+with other Database other service in their current
+service episode
+(dd/ month/ yyyy)
+Name of No Data copied n/a name of other council
+other service personal from LA service being received
+data Database simultaneously by young
+person
+Reason for Personal inputter free n/a function/ service being
+involvement sensitive text entry fulfilled/ delivered by other
+with other data council service - this could
+service be due to statutory
+requirements or for other
+reasons
+Your choice Personal defined option YC/ CG if young person will be
+or control data - selection from receiving 'Your Choice'
+group? locked treatment use 'YC', if in
+drop-down list control group use 'CG' t
+2
+
+s a control measureeg comparing Yes No No
+utcomes of CYP with same/similar
+haracteristics in treatment &
+ontrol groups
+s a control measureeg comparing Yes Potentially - the No
+utcomes of CYP with same/similar standard
+haracteristics in treatment & categorisation
+ontrol groups has 23
+non-exclusive
+options - but
+this would
+significantly
+degrade the
+benefits of the
+study and
+would not
+significantly
+reduce
+re-identificatio
+n risk.
+s a control measureeg comparing Yes No No
+utcomes of CYP with same/similar
+haracteristics in treatment &
+ontrol groups
+s a control measureeg comparing Yes No No
+utcomes of CYP with same/similar
+haracteristics in treatment &
+ontrol groups
+s a control measureeg comparing Yes No No
+utcomes of CYP with same/similar
+haracteristics in treatment &
+ontrol groups
+s a control measureeg comparing Yes No No
+utcomes of CYP with same/similar
+haracteristics in treatment &
+ontrol groups
+ritical to identifying if young Yes No No
+erson is receiving treatment or
+usiness as usual service. Without
+is it would not be possible to
+valuate impact of randomised
+ontrolled trial (RCT)
+
+Data referred No inputter date n/a date young person meeting
+to personal entry criteria is assigned to the
+programme data Your Choice treatment or
+control group
+t
+Date No inputter date n/a date that Your Choice
+commenced personal entry treatment begins
+on data
+programme
+Date Ceased No inputter date n/a date Your Choice treatment
+on personal entry or work with control group
+programme data ends, young person opts out
+of programme or treatment/
+work ends for another
+reason
+Summary of Personal inputter free n/a brief description of the
+work with sensitive text entry interventions being received
+young person data by young people from this
+service and any other
+council services during the
+period in the Your Choice t
+treatment programme or i
+control group.
+If the worker changes,
+please mention that here
+(whilst showing the new
+worker against the child on
+this page and entering the
+workers details on the
+worker tab (if the worker is
+not already on that tab) and
+give a brief description of
+why.
+If the young person leaves
+the programme prematurely
+- because they opt out or
+move to another LA, please
+state this and a brief
+description of the reasons
+for this here.
+applies to YC treatment
+group and the control group
+Workers Worker name Personal Data copied n/a Forename & surname of
+involved in data from LA worker
+programme Database
+in control r
+(CGT) or
+Treatment
+(YCT) or
+2
+
+o enable measurement of length Yes No No
+f involvement with young person
+s part of Your choice programme.
+o monitor and control for delays
+start of programme delivery
+o enable measurement of length Yes No No
+f involvement with young person
+s part of Your choice programme
+o enable measurement of length Yes No No
+f involvement with young person
+s part of Your choice programme
+s a control measureeg comparing Yes No No
+utcomes of CYP with same/similar
+haracteristics in treatment &
+ontrol groups, with similar
+xperiences of involvement with
+e system.Also to capture
+formation about why a young
+erson ends involvement
+rematurely - relevant to
+valuation of impact, do certain
+roups not make it to the end etc.
+or LA use, to enable easy No No No
+onitoring of who to contact for
+issing data, as a means of
+ducing data input on
+preadsheets.
+
+Wider (WT) Worker ID Personal Data copied n/a unique worker ID assigned to
+or Other data from LA worker on service database
+(OTH) Teams Database
+Worker role Personal Data copied n/a service or organisation name
+data from LA for the workers role eg Social
+Database Worker, Youth Offending
+Team Worker, Speech & i
+Language Therapist (SALT), i
+substance misuse worker i
+Service or No Data copied n/a Service name or if part of
+organisation personal from LA 'wider team' type of
+type data Database organisation eg VCS, School,
+Speech & Language service i
+i
+Team or No Data copied n/a Team name (& number if
+organisation personal from LA relevant) or if other
+name data Database organisation name/ school t
+name/ unit name
+f
+f
+Your choice, No defined option Your Choice if worker will be delivering
+control group personal - selection from team/ 'Your Choice' treatment use
+or wider data locked Control group 'YCT', if worker is in control
+team drop-down list team/ Wider team use 'CGT', if in wider t
+Team/ Other team 'WT'.
+table If worker is someone outside
+the wider team please use
+'OTH'.
+Date worker No please enter n/a date worker started Your
+commenced personal date Choice training (if in YCT
+5-day training data group)
+Date worker No please enter n/a date worker completes the
+completed personal date fourth day of Your Choice
+first 4 days of data training (if in YCT group)
+training
+2
+
+sed to link worker details Yes No No
+etween tabs and to link with
+ession information completed by
+orker and submitted directly to
+valuators.
+s a control measureeg comparing Yes No No
+YP with workers in the same/
+imilar roles and controlling for
+terventions by other workers that
+pact on outcomes so impact that
+onlyfrom Your Choice can be
+ore clearly evaluated and impact
+f programme accurately assessed
+s a control measureeg comparing Yes No No
+YP involved with services
+elivering the same/ similar
+terventions within the same
+ystemic framework so impact that
+onlyfrom Your Choice can be
+ore clearly evaluated and impact
+f programme accurately assessed
+s a control measureeg comparing Yes No No
+YP involved with teams delivering
+e same/ similar interventions
+ithin the same systemic
+amework so impact that isonly
+om Your Choice can be more
+learly evaluated and impact of
+rogramme accurately assessed
+ritical to identifying if young Yes No No
+erson is receiving treatment or
+usiness as usual service. Without
+is it would not be possible to
+valuate impact of randomised
+ontrolled trial (RCT)
+o measure that time taken for Yes No No
+orker to complete the first four
+ays of Your Choice training, delays
+ay have an impact on training
+fficacy
+o measure that time taken for Yes No No
+orker to complete the first four
+ays of Your Choice training, delays
+ay have an impact on training
+fficacy
+
+Worker Worker name Personal Feed from field Populated Forename & surname of
+Clinical data on Worker tab field worker
+Supervision
+r
+Worker ID Personal Feed from field Populated unique worker ID assigned to
+data on Worker tab field worker on service database
+Service No Feed from field Populated Service name
+personal on Worker tab field
+data
+i
+i
+i
+Team name No Feed from field Populated Team name (& number if
+personal on Worker tab field relevant)
+data
+i
+i
+Date of No inputter date n/a Date when supervision was
+clinical personal entry delivered
+supervision data
+(dd/ month/ yyyy)
+Type of No defined option Individual/ Was this Individual or Peer
+supervision personal - selection from Peer supervision?
+data locked
+drop-down list
+Eligible but CYP ID Personal Data copied n/a unique client ID assigned to
+not from LA young person on service
+participating Database database
+only here to prevent
+duplicates being recorded -
+2
+
+or LA use, to enable easy No No No
+onitoring of who to contact for
+issing data, as a means of
+ducing data input on
+preadsheets.
+sed to link worker details Yes No No
+etween tabs and to link with
+ession information completed by
+orker and submitted directly to
+valuators.
+s a control measureeg comparing Yes No No
+YP with workers in the same/
+imilar roles and controlling for
+terventions by other workers that
+pact on outcomes so impact that
+onlyfrom Your Choice can be
+ore clearly evaluated and impact
+f programme accurately assessed
+s a control measureeg comparing Yes No No
+YP involved with services
+elivering the same/ similar
+terventions within the same
+ystemic framework so impact that
+onlyfrom Your Choice can be
+ore clearly evaluated and impact
+f programme accurately assessed
+elates to potential impact of Yes No No
+linical supervision - a key element
+f Your Choice - on efficacy of
+rogramme. A control measure to
+llow for differences in frequency,
+vailability, types of supervision
+nd potential impact on treatment
+elivery & efficacy
+elates to potential impact of Yes No No
+linical supervision - a key element
+f Your Choice - on efficacy of
+rogramme. A control measure to
+llow for differences in frequency,
+vailability, types of supervision
+nd potential impact on treatment
+elivery & efficacy
+or LA use, to enable easy No No No
+onitoring of duplicates and for
+rror checking
+
+will not be shared with
+evaluators
+Age Personal defined option Age table select age of CYP
+- selection from
+locked
+drop-down list
+t
+f
+Gender Personal defined option Gender table select most appropriate
+sensitive - selection from option
+data locked
+drop-down list
+t
+f
+Ethnicity Personal defined option Ethnicity select most appropriate
+sensitive - selection from table option
+data locked
+drop-down list
+t
+f
+Reason why Personal inputter free n/a brief description of why the
+CYP didn't sensitive text entry eligible young person didn't
+want to be data want to take part in the
+part of study study/ evaluation despite
+being eligible to take part.
+t
+f
+2
+
+o monitor characteristics of CYP Yes No No
+ot engaging in programme, to
+heck there is no system bias or
+iscrimination preventing young
+eople taking part or other reasons
+at may indicate certain cohorts
+o not see Your Choice as relevant
+r them
+o monitor characteristics of CYP Yes No No
+ot engaging in programme, to
+heck there is no system bias or
+iscrimination preventing young
+eople taking part or other reasons
+at may indicate certain cohorts
+o not see Your Choice as relevant
+r them
+o monitor characteristics of CYP Yes No No
+ot engaging in programme, to
+heck there is no system bias or
+iscrimination preventing young
+eople taking part or other reasons
+at may indicate certain cohorts
+o not see Your Choice as relevant
+r them
+o monitor characteristics of CYP Yes No No
+ot engaging in programme, to
+heck there is no system bias or
+iscrimination preventing young
+eople taking part or other reasons
+at may indicate certain cohorts
+o not see Your Choice as relevant
+r them
+
+Drop down input boxes
+Gender Ethnicity Disability LGBTQ+
+Male Asian or Asian British - Indian Physical disability Yes
+Female Asian or Asian British - Pakistani Mental health need No
+Trans Asian or Asian British - Bangladeshi Learning difficulties Prefer not to
+say
+Non-binary Asian or Asian British - Chinese Other not known
+Other Asian or Asian British - any other Asian Background
+Prefer not Black or Black British - African
+to say
+Black or Black British - Caribbean
+Black or Black British any other Black Background
+Mixed Heritage - White & Black African
+Mixed Heritage - White & Black Caribbean
+Mixed Heritage - White & Asian
+Mixed Heritage - any other ethnic Background
+White: British
+White: Irish
+White: Gypsy, Traveller
+White: any other white background
+Other Ethnic Group: Arab
+Other Ethnic Group: any other ethnic background
+Prefer not to say
+Not Recorded/ Not Given
+2
+
+Most relevant primary need Age
+N1 Abuse or neglect 11
+N2 Child’s disability 12
+N3 Parental disability or illness 13
+N4 Family in acute stress 14
+N5 Family dysfunction 15
+N6 Socially unacceptable behaviour 16
+N7 Low income 17
+N8 Absent parenting
+N9 Cases other than children in
+need
+N0 Not stated

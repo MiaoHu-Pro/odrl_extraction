@@ -1,0 +1,761 @@
+DRAFT
+DATA SHARING AGREEMENT
+Between
+Department of Justice (Immigration Service Delivery)]
+and
+Office of the Revenue Commissioners]
+Pursuant to
+The Data Sharing and Governance Act 2019
+For the purpose of
+Enabling Revenue to share personal data in relation to individuals approved under the
+Immigrant Investor Programme with other tax jurisdictions thus ensuring that Ireland meets
+its commitments under the OECD Common Reporting Standards.
+
+DATA SHARING AGREEMENT
+Table of Contents
+1. Interpretation .......................................................................................................................................... 3
+2. Purpose of the Data Sharing .............................................................................................................. 5
+3. Data to be shared .................................................................................................................................. 8
+4. Function of the Parties ......................................................................................................................... 9
+5. Legal Basis ............................................................................................................................................10
+6. Impetus for Data Sharing...................................................................................................................12
+7. Categories of Data Shared ................................................................................................................13
+8. Duration and Frequency ....................................................................................................................14
+9. How data will be processed ..............................................................................................................15
+10. Restrictions .........................................................................................................................................17
+11. Security Measures ............................................................................................................................18
+12. Retention .............................................................................................................................................20
+13. Methods Used to Destroy/Delete Data .........................................................................................21
+14. Withdrawal from Agreement ...........................................................................................................22
+15. Other Matters ......................................................................................................................................23
+16. Schedule A - Data Protection Impact Assessment ...................................................................25
+17. Schedule B ..........................................................................................................................................26
+18. Schedule C ..........................................................................................................................................28
+19. Authorised Signatory (completed at stage 7) ............................................................................29
+Data Protection Officers Statement ....................................................................................................30
+2 | P age DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+1. Interpretation
+DEFINITION MEANING
+Data controller Has the meaning given to it by the General Data Protection
+Regulation (2016/679).
+Party disclosing data Shall mean the Party transferring personal data to the
+receiving Party or Parties.
+Party receiving data Shall mean the Party receiving personal data from the Party
+disclosing data.
+Data Protection Impact Means an assessment carried out for the purposes of Article
+Assessment(DPIA) 35 of the General Data Protection Regulation.
+GDPR Shall be taken as a reference to the General Data Protection
+Regulation (2016/679) including such related legislation as
+may be enacted by the Houses of the Oireachtas.
+Lead Agency Refers to the Party to this agreement who is responsible for
+carrying out the functions set out in 18(2), 18(3), 21(3), 21(5),
+22(1), 55(3), 56(1), 56(2), 57(4), 58, 60(1) and 60(4) of the
+Data Sharing and Governance Act 2019.
+Personal Data Has the meaning given to it by the General Data Protection
+Regulation (2016/679).
+Personal data breach Has the meaning given to it by the General Data Protection
+Regulation (2016/679).
+Processing Has the meaning given to it by the General Data Protection
+Regulation (2016/679).
+Public Service Body (PSB) Means a Public Body as defined by section 10 of the Data
+Sharing and Governance Act 2019.
+Shared personal data Means data shared pursuant to this agreement.
+Table 1.0
+3 | P age DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+Data Sharing Agreement
+REFERENCE:
+DOJREV_002_220203
+NAME:
+DSA for Immigrant Investor Data
+BETWEEN
+Insert name of Lead Agency, having its registered address at:
+LEAD AGENCY NAME ADDRESS
+Department of Justice (Immigration 51 St Stephens Green, Dublin 2
+Service Delivery)
+AND
+Insert name(s) of Other Party/Parties to the agreement, having its registered address at:
+PARTY NAME ADDRESS
+Office of the Revenue Commissioners Dublin Castle, Dublin 2
+The Parties hereby agree that the Department of Justice will take the role of Lead Agency for
+the purpose of this Data Sharing Agreement.
+Each of the Parties to this agreement are data controllers in their own right when processing
+personal data on their own behalf, for their own purposes.
+4 | P age DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+2. Purpose of the Data Sharing
+2.1 Framework
+This Data Sharing Agreement sets out the framework for the sharing of personal data between the
+Parties and defines the principles and procedures that the Parties shall adhere to and the
+responsibilities the Parties owe to one another.
+This agreement is required to ensure that any sharing of personal data is carried out in accordance
+with the GDPR and the Data Sharing and Governance Act 2019, and each Party agrees to be
+bound by this agreement until such time as the agreement is terminated, or the Party withdraws
+from the agreement.
+The Parties shall not process shared personal data in a way that is incompatible with the relevant
+purposes and this agreement.
+The Parties will ensure that the Data Sharing Agreement remains fit for purpose, accurate and up
+to date.
+The Parties will actively monitor and periodically review the data sharing arrangement to ensure
+that it continues to be compliant with data protection law, that it continues to meet its objective,
+that safeguards continue to match any risks posed, that records are accurate and up to date, that
+there is adherence to the data retention period agreed and that an appropriate level of data security
+is maintained.
+The Parties must address all recommendations made regarding this Data Sharing Agreement by
+the Data Governance Board.
+5 | P age DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+2.2 Performance of a Function
+Where a public body discloses personal data to another public body under this agreement, it shall
+be for the purpose of the performance of a function of the public bodies mentioned, and for one or
+more of the following purposes (please select):
+No. DESCRIPTION Select
+I To verify the identity of a person, where one or more of the public bodies are ☐
+providing or proposing to provide a service to that person
+II To identify and correct erroneous information held by one or more of the public ☐
+bodies mentioned
+III To avoid the financial or administrative burden that would otherwise be imposed on ☐
+a person to whom a service is being or is to be delivered by one or more of the
+public bodies mentioned where one of mentioned public bodies to collect the
+personal data directly from that person
+IV To establish the entitlement of a person to the provision of a service being ☐
+delivered by one or more of the public bodies mentioned, on the basis of
+information previously provided by that person to one or more of the public bodies
+mentioned (or another public body that previously disclosed the information to one
+or more of the public bodies mentioned)
+V To facilitate the administration, supervision and control of a service, programme or ☒
+policy delivered or implemented or being delivered or implemented, as the case
+may be, by, for or on behalf of one or more of the public bodies mentioned
+VI To facilitate the improvement or targeting of a service, programme or policy ☐
+delivered or implemented or to be delivered or implemented, as the case may be,
+by, for or on behalf of one or more of the public bodies mentioned
+VII To enable the evaluation, oversight or review of a service, programme or policy ☐
+delivered or implemented or being delivered or implemented, as the case may be,
+by, for or on behalf of one or more of the public bodies mentioned
+VIII To facilitate an analysis of the structure, functions, resources and service delivery ☐
+methods of one or more of the public bodies mentioned
+Table 2.2
+2.3 Details about the Purpose
+Provide details of the particular purpose of this Data Sharing Agreement.
+PURPOSE DESCRIPTION
+Section 13(2)(a)(ii)(V) To facilitate the administration, supervision
+[V] and control of a service, programme or policy delivered or
+implemented or being delivered or implemented, as the case may be,
+by, for or on behalf of one or more of the public bodies mentioned
+The Department of Justice (Immigration Service Delivery) administers
+the Immigrant Investor Programme (IIP) scheme, which enables non-
+EEA nationals to secure immigration permission to Ireland on the
+basis of long-term investment of a sum of money in a project that has
+6 | P age DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+been approved for that purpose by the Department of Justice and
+other Government stakeholders.
+https://www.irishimmigration.ie/coming-to-live-in-ireland/i-want-
+to-invest-in-ireland/
+Limited data relating to successful IIP applicants is shared with
+Revenue’s Exchange of Information (EOI) branch. This data is in turn
+exchanged with relevant tax authorities.
+The onward transfer of data received by Revenue allows Ireland to
+fulfil its commitments under the OECD Common Reporting Standard
+(CRS) by notifying the jurisdiction of tax residence of successful
+applicants of the IIP scheme.
+Table 2.3
+7 | P age DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+3. Data to be shared
+3.1 Quality
+The Parties will take all reasonable steps to ensure that any personal data processed under this
+agreement is accurate, kept up to date, and that data which is inaccurate, having regard to the
+purposes for which it was processed, is erased or rectified as soon as is practicable.
+Shared personal data shall be limited to the personal data described in table 3.4 to this agreement
+and will be shared only in the manner as set out in table 11.2 therein. Where a recipient party is
+notified of inaccurate data by the data subject, this party is obliged to notify the disclosing party.
+3.2 Subject Rights
+In so far as the shared personal data is processed by the Party/Parties receiving data, as a data
+controller, the Party/Parties receiving data will deal with data subjects in their exercising of rights
+set out in the GDPR, including but not limited to, the right of access, the right of rectification,
+erasure, restriction of processing and to data portability.
+Data subjects have the right to obtain certain information about the processing of their personal
+data through a data subject access request.
+Data subject access requests in relation to data processed by the Party/Parties receiving data will
+be dealt with by them directly. Data subject access requests in relation to data processed by the
+Party/Parties disclosing data prior to the transfer will be dealt with by them directly.
+3.3 Sharing with Third Parties
+The Party/Parties receiving data shall not share the shared personal data with any person who has
+not been authorised to process such data.
+3.4 Detail of the information to be disclosed
+Provide details of the personal data set to be disclosed and the detail of any non-personal data.
+Note:
+If the non-personal data and personal data are linked together to the extent that the non-personal
+data becomes capable of identifying a data subject then the data protection rights and obligations
+arising under the GDPR will apply fully to the whole mixed dataset, even if the personal data
+represents a small part of the set.
+DESCRIPTION
+Shared Personal  Name
+Data  Date of Birth
+ Tax Identification Number in country of tax residence
+ Address in country of origin
+ Country of Tax Residence
+Non-personal Data
+ Date granted IIP permission
+ Date of first renewal of IIP permission
+Table 3.4
+8 | P age DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+4. Function of the Parties
+4.1 Function of the Parties
+In table 4.1 below:
+i. Specify the function of the party disclosing data to which the purpose (as defined in table
+2.3) of the data sharing relates
+ii. Specify the function of the party receiving data to which the purpose (as defined in table
+2.3) of the data sharing relates.
+PARTY FUNCTION
+The function of the IIP Unit, Immigration Service Delivery,
+Department of Justice is to administer the Immigrant Investor
+Programme.
+i. Dept. of
+Justice, IIP The Immigrant Investor Programme (IIP) enables non-EEA
+nationals to secure immigration permission to Ireland on the basis
+of long-term investment of a sum of money in a project that has
+been approved for that purpose by the Department of Justice and
+other Government stakeholders.
+The function of the Exchange of Information (EOI) Branch, Office
+of the Revenue Commissioners, is to exchange relevant
+information with tax administrations in other jurisdictions in
+accordance with Revenue’s commitments under international
+agreements such as the CRS.
+Office of the The CRS is the global standard for the Automatic Exchange Of
+Revenue Information (AEOI) regarding financial accounts between tax
+Commissioners authorities.
+The EOI Branch spontaneously exchanges relevant information
+relating to successful IIP applicants with their jurisdiction of tax
+residence under relevant legal instruments. This allows Ireland to
+meet its commitments under the CRS, maintaining its integrity and
+effectiveness.
+[Table 4.1
+9 | P age DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+5. Legal Basis
+5.1 Legal Grounds
+For the purposes identified in this Data Sharing Agreement the Parties confirm that the sharing
+and further processing of the defined personal data is based on the legal grounds set out in 5.1.1
+and 5.1.2.
+5.1.1 Appropriate Legislative Provisions for Sharing
+Define the appropriate legal provision for sharing based on the following:
+i. processing is necessary for the performance of a task carried out in the public interest or
+in the exercise of official authority vested in the controller (GDPR Art 6. 1 (e))
+Specify the legal obligation for sharing in the table below.
+LEGISLATION DESCRIPTION
+S13(2)(a)(ii)(V) to facilitate the administration, supervision and control
+of a service, programme or policy delivered or implemented or being
+delivered or implemented, as the case may be, by, for or on behalf of
+the first or second mentioned public body
+Table 5.1.1
+5.1.2 Appropriate Legislative Provisions for Further Processing
+Specify the appropriate legal provision for further processing based on the following:
+ii. processing is necessary for the performance of a task carried out in the public interest or
+in the exercise of official authority vested in the controller (GDPR Art 6. 1 (e))
+LEGISLATION DESCRIPTION
+[5.1.2 (ii) ii. processing is necessary for the performance of a task carried out
+in the public interest or in the exercise of official authority vested in
+the controller (GDPR Art 6(1)(e)).
+The legislative provisions appropriate to the official authority referred
+to above are as follows:
+ The provisions of the Exchange of Information article of Ireland’s
+Double Taxation Agreements (DTAs), given the force of law by
+virtue of Government order and the force of law as an Act of the
+Oireachtas by virtue of Section 826 and by inclusion of said order
+in Schedule 24A, Part 1 of the Taxes Consolidation Act 1997.
+ Article 7 of the Multilateral Convention for Mutual administrative
+Assistance in Tax Matters (MAAC) provides for the spontaneous
+10 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+exchange of information. The MAAC was given the force of law
+by virtue of the Mutual Assistance in Tax Matters Order 2013 (S.I.
+No. 34 of 2013) and the force of law as an Act of the Oireachtas
+by virtue of Section 826 and Schedule 24A, Part 4 of the Taxes
+Consolidation Act 1997.
+Table 5.1.2
+11 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+6. Impetus for Data Sharing
+Specify the impetus (the motivation or where benefits will be realised) in relation to the data
+shared under this agreement.
+THE IMPETUS FOR THE DISCLOSURE OF DATA WILL TICK AS APPROPRIATE
+COME FROM:
+i. Data subject ☒
+ii. Public Body ☒
+Table 6.0
+12 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+7. Categories of Data Shared
+The personal data shared may be in relation to individual data subjects and/or classes of data
+subjects. Classes of data subject may be defined by the parties involved and some examples
+might be customers, vendors, suppliers, visitors, etc.
+Aggregated data is information gathered and expressed in a summary form for purposes such as
+statistical analysis, and so is not personal data for the purposes of data protection law and GDPR
+and is not the same as classes of data subject.
+Select from the below table and comment as appropriate.
+CATEGORY COMMENT
+Individual Data Subject ☐
+Classes of Data All successful IIP applicants.
+☒
+Subjects
+Table 7.0
+13 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+8. Duration and Frequency
+8.1 Duration
+Define the start and end dates of the information transfer:
+i. The Data Sharing Agreement will commence on 01/04/2022 and continue until the
+parties agree to terminate this agreement.
+[]
+8.2 Frequency
+Indicate the type of transfer that will be required with a description.
+TYPE DESCRIPTION
+Once off ☐
+Frequent/regular Quarterly
+☒
+updates
+Other frequency ☐
+Table 8.2
+14 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+9. How data will be processed
+9.1 Obligations of the Parties in Respect of Fair and Lawful Processing
+Each Party shall ensure that it processes the shared personal data fairly and lawfully. Each will
+comply with the requirements of the Data Protection Act 2018, GDPR and any legislation amending
+or extending same, in relation to the data exchanged.
+Each Party undertakes to comply with the principles relating to the processing of personal data as
+set out in Article 5 GDPR, in the disclosing of information under this Data Sharing Agreement.
+Both Parties shall, in respect of shared personal data, ensure that they provide sufficient
+information to data subjects in order for them to understand what components of their personal
+data the Parties are sharing, the purposes for the data sharing and either the identity of the body
+with whom the data is shared or a description of the type of organisation that will receive the
+personal data.
+9.2 Description of Processing
+Include a description of how the disclosed information will be processed by each receiving party.
+DESCRIPTION OF PROCESSING
+[Revenue Once the data relating to approved IIP applicants is received by Revenue from
+Commissioner the Department of Justice through encrypted email, the records are securely
+s
+and appropriately stored in the computer infrastructure of the Exchange of
+Information (EOI) Branch.
+The data is reviewed by a member of staff of the EOI Branch to ensure that it
+includes the details specified at section 3.4 of the Data Sharing Agreement
+and does not contain any details other than the information to be disclosed
+under said agreement.
+Once verification has been completed, the data is organised by a member of
+staff of the EOI Branch in accordance with the jurisdiction of tax residence of
+the approved IIP applicants. In addition, the jurisdiction-specific files are
+reviewed by a Competent Authority of the EOI Branch.
+Table 9.2
+15 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+9.3 Further Processing
+i. Specify any further processing by the Party or Parties receiving data of the personal data
+disclosed by the disclosing body under this Data Sharing Agreement.
+SPECIFY FURTHER PROCESSING
+[Revenue In order to ensure that Ireland meets its commitments under the OECD
+Commissioner Common Reporting Standard, the personal details of approved IIP applicants
+s]
+are spontaneously exchanged with the applicant’s jurisdiction of tax
+residence. Such spontaneous exchanges take place under the provisions of
+Ireland’s Double Taxation Agreements (DTAs) or by way of the Multilateral
+Convention for Mutual Administrative Assistance in Tax Matters (MAAC).
+Spontaneous exchanges are prepared by a member of staff of the EOI Branch
+and reviewed by the Competent Authority. In accordance with the provisions
+of the relevant DTA or MAAC, each spontaneous exchange is made by the
+Irish Competent Authority to the partner jurisdiction’s Competent Authority. All
+information spontaneously exchanged is clearly stamped to indicate the use
+and disclosure permitted by the relevant DTA or the MAAC before it is sent to
+the partner jurisdiction.
+Spontaneous exchanges may take place via digitally secure encrypted means
+or sent to a partner jurisdiction’s Competent Authority by registered post.
+Table 9.3.1
+16 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+10. Restrictions
+Specify any restrictions on the disclosure of information after the processing by the Party or
+Parties receiving data to the personal data disclosed by the disclosing body under this Data
+Sharing Agreement. Give a description of the restrictions, if any, which apply to the further
+disclosure of the information in table 10.0 below.
+RESTRICTIONS ON DISCLOSURE AFTER PROCESSING
+Department of Any sharing of personal data with any third party other than with relevant
+Justice country tax authorities is excluded without the expressed authorisation of the
+Department of Justice.
+Table 10.0
+17 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+11. Security Measures
+11.1 Security and Training
+Both Parties shall adhere to the procedures set out in table 11.2 below, regarding the transfer and
+receipt of data.
+The Party/Parties receiving data agree, in accordance Article 32 of the GDPR, to implement
+appropriate technical and organisational measures to protect the shared personal data in their
+possession against unauthorised or unlawful processing, in particular from accidental or unlawful
+destruction, loss, alteration, unauthorised disclosure of, or access to the shared personal data
+transmitted, stored or otherwise processed.
+This may include, but is not limited to:
+ Policies, guidelines and procedures governing information security.
+ Password protection for computer access.
+ Automatic locking of idle PCs.
+ Appropriate antivirus software and firewalls used to protect integrity and security
+of electronically processed data.
+ Unique identifiers for every user with access to data.
+ Employees have access only to personal data required for them to do their jobs.
+ Appropriate security where remote access is allowed.
+ Encryption of data held on portable devices.
+ Data breach procedures.
+ Appropriate physical security.
+ Staff training and awareness.
+ Monitoring of staff accessing data.
+ Controlling physical access to IT systems and areas where paper-based data are
+stored.
+ Adopting a clear desk policy.
+ Appropriate techniques for destruction of data.
+ Having back-ups of data off-site.
+Both Parties shall ensure that the security standards appropriate to the transfer of personal data
+under this agreement are adhered to.
+The Party/Parties receiving data shall ensure that all persons who have access to and who process
+the personal data are obliged to keep the personal data confidential.
+The Party/Parties receiving data shall ensure that employees having access to the data are
+properly trained and aware of their data protection responsibilities in respect of that data.
+Access to the data supplied by the Party disclosing data will be restricted to persons on the basis
+of least privilege, sufficient to allow such persons carry out their role.
+Each Party will keep the data secure and ensure that it is transferred securely in accordance with
+the procedures of this agreement.
+18 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+11.2 Security Measures Outlined
+Give an outline of the security measures to be deployed for transmission, storage and accessing
+of personal data, in a manner that does not compromise those security measures.
+STEPS DESCRIPTION
+[Insert step here] [Define the security steps to be deployed for the transfer,
+storage and accessing of the shared personal data]
+The Department of Justice and the Revenue Commissioners’
+systems restrict access to the information only to required
+personnel and the extracted information is further protected in
+transit and at rest by encryption controls. Paper based
+communications are protected by registered post.
+Table 11.2
+11.3 Data Breaches and Reporting
+If a personal data breach occurs after the data is transmitted to the Party/Parties receiving data,
+the Party/Parties receiving data will act in accordance with the Data Protection Commission’s
+Breach Notification Process and in accordance with GDPR requirements.
+19 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+12. Retention
+Define the retention requirements for the disclosed information for the duration of the Data
+Sharing Agreement and in the event the agreement is terminated, for:
+1. the information to be disclosed and
+2. the information resulting from the processing of that disclosed information
+INFORMATION TYPE RETENTION REQUIREMENTS
+1. Information to be The retention period for the data disclosed to Revenue is ten
+years in line with Revenue’s Record Retention and Disposal
+disclosed
+Policy.
+2. Information resulting The retention period is 10 years.
+from the processing
+of the data
+Table 12.0
+20 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+13. Methods Used to Destroy/Delete Data
+Detail how information will be destroyed or deleted at the end of the retention period as defined
+in the Data Sharing Agreement, for:
+1. the information to be disclosed and
+2. the information resulting from the processing of that disclosed information
+INFORMATION TYPE DESCRIPTION
+1. Information to be At end of the retention period the nominated officer in Revenue
+will review the information for disposal or further retention by
+disclosed
+Revenue. The data will be disposed in accordance with section
+7 of the National Archives Act 1986.
+2. Information resulting At end of the retention period the nominated officer in Revenue
+will review the information for disposal or further retention by
+from processing of the
+Revenue. The data will be disposed in accordance with section
+data
+7 of the National Archives Act 1986.
+Table 13.0
+21 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+14. Withdrawal from Agreement
+14.1 Procedure
+Each Party commits to giving a minimum of 90 days’ notice of its intention to withdraw from or
+terminate this Data Sharing Agreement.
+Each Party disclosing personal data pursuant to this Agreement reserves the right to withdraw,
+without notice, access to such data where that Party has reason to believe the conditions of this
+Data Sharing Agreement are not being observed. Each Party disclosing data will accept no
+responsibility for any consequences arising from the exercise of this right.
+Where the disclosing Party is subsequently satisfied that the conditions of the Data Sharing
+Agreement are being observed, access will be restored forthwith.
+Where access to shared personal data is withdrawn, the withdrawing Party shall provide to the
+other Party reasons for that withdrawal as soon as is practicable thereafter. Where there are only
+2 Parties, withdrawal by either one shall be considered a termination of the agreement. Where an
+agreement has multiple Parties and one withdraws, the Lead Agency should update the schedule
+and inform the other Parties to the agreement.
+Where a Data Sharing Agreement expires or is terminated, the Lead Agency shall notify the
+Minister in writing within 10 days of the withdrawal. The Lead Agency shall also notify the Data
+Governance Board as soon as practicable after such expiration or termination, as the case may
+be.
+14.2 Severance
+If any provision of this agreement (or part of any provision) is found by any court or other authority
+of competent jurisdiction to be invalid, illegal or unenforceable, that provision or part-provision
+shall, to the extent required, be deemed not to form part of this agreement, and the validity and
+enforceability of the other provisions of this agreement shall not be affected.
+22 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+15. Other Matters
+15.1 Variation
+No variation of this agreement shall be effective unless it is contained in a valid draft amendment
+agreement executed by the Parties to this Data Sharing Agreement in accordance with the
+procedures and requirements set out in Part 9, chapter 2 of the Data Sharing and Governance Act
+2019.
+15.2 Review of Operation of the Data Sharing Agreement
+The Parties shall review the operation of the Data Sharing Agreement on a regular basis, with each
+such review being carried out on a date that is not more than 5 years from:
+i. in the case of the first such review, the date on which the Data Sharing
+Agreement came into effect, and
+ii. in the case of each subsequent review, the date of the previous review. A review
+under s.20(1) shall consider the impact of the technical, policy and legislative
+changes that have occurred since the date of the previous review under s.20(1).
+Where the Parties to the Data Sharing Agreement consider that it is appropriate following
+completion of a review they shall prepare an amended Data Sharing Agreement to take account
+of the technical, policy and legislative changes that have occurred since the date of the previous
+review or the effective date. The amended agreement will be executed by the Parties in
+accordance with the procedures and requirements set out in Part 9, chapter 2 of the Data Sharing
+and Governance Act 2019.
+15.3 Jurisdiction
+This agreement and any dispute or claim (including non-contractual disputes or claims) arising out
+of or in connection with it or its subject matter or formation shall be governed by and construed in
+accordance with the laws of the Republic of Ireland.
+15.4 Indemnity
+The Party/Parties receiving data shall indemnify and keep indemnified the Party/Parties disclosing
+data, in full, from and against all claims, proceedings, actions, damages, losses, penalties, fines,
+levies, costs and expenses, whether direct or indirect and all consequential or indirect loss
+howsoever arising out of, in respect of or in connection with any breach by the Party/Parties
+receiving data, including their servants, of data protection requirements.
+15.5 Publication
+15.5.1 Public Consultation and publishing a Notice
+Public Consultation is managed on behalf of the parties by the Data Governance Unit in OGCIO.
+Each of the proposed parties will be required to publish, on the same date as the consultation, a
+notice on their website that they are proposing to enter into the DSA. They should state the
+documents that are accessible to the public and link to their relevant DSA and DPO statements
+published on the public consultations website. This notice should invite submissions and include
+the date of publication of the notice.
+23 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+15.5.2 Publishing Executed DSA
+After each of the Data Governance Board recommendations have been addressed by the parties
+and after this Data Sharing Agreement has been signed by appropriate Authorised Signatories,
+the Lead Agency in respect of this Data Sharing Agreement shall publish a copy of the final
+agreement on a website maintained by it as soon as practicable after sending a copy of the
+agreement to the Data Governance Unit who will accept it on behalf of the Minister.
+15.6 Base Registries
+In respect of this Data Sharing Agreement, where the personal data disclosed is contained in a
+Base Registry, the Base Registry owner will take on the role of Lead agency.
+24 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+16. Schedule A - Data Protection Impact
+Assessment
+If a data protection impact assessment (DPIA) has been conducted in respect of the data sharing
+to which this Data Sharing Agreement relates, a summary of the matters referred to in Article 35(7)
+of the GDPR is required to be filled in the table below.
+OR
+If a data protection impact assessment has not been conducted as it is not mandatory where
+processing is not “likely to result in a high risk to the rights and freedoms of natural persons” (Article
+35 of the GDPR), outline the reasons for that decision in the table below.
+DPIA SUMMARY OF DATA PROTECTION IMPACT ASSESSMENT
+[To include a summary of the matters referred to in Article
+35(7) GDPR)]
+The summary shall contain at least:
+1. a systematic description of the envisaged processing
+operations and the purposes of the processing,
+including, where applicable, the legitimate interest
+pursued by the controller;
+Has been
+conducted 2. an assessment of the necessity and proportionality of
+☐
+[select the processing operations in relation to the purposes;
+appropriately]
+3. an assessment of the risks to the rights and freedoms of
+data subjects;
+4. the measures envisaged to address the risks, including
+safeguards, security measures and mechanisms to
+ensure the protection of personal data and to
+demonstrate compliance with this Regulation taking into
+account the rights and legitimate interests of data
+subjects and other persons concerned.
+A DPIA has not been conducted for the following reasons:
+1. The processing of this data is unlikely to result in a high
+Has not been risk to the rights and freedoms of natural persons.
+conducted
+[select ☒ 2. The IIP applicant is made aware that their data will be
+appropriately] shared with Revenue.
+3. Ireland shares this data with other jurisdictions in order
+to meet its commitments under the OECD’s Common
+Reporting Standards
+Table 9.0
+Note: If the Data Sharing Agreement is amended to reflect a change in the scope, form or content
+of the data processing, then there is an obligation on the data controllers to consider whether the
+changes give rise to a high risk to the rights and freedoms of natural persons, such that a DPIA
+should be carried out.
+Under S.20(4) of Data Sharing and Governance Act, an amended draft agreement must be
+submitted for review to the Data Governance Board in accordance with Part 9, Chapter 2 of the
+Data Sharing and Governance Act.
+25 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+17. Schedule B
+17.1 Necessary for the Performance of a Function
+Outline the reasons why the disclosure of information under this agreement is necessary for the
+performance of the relevant function and explain why it is proportionate in that context.
+The Department of Justice (Immigration Service Delivery) administers the Immigrant Investor
+Programme (IIP) scheme, which enables non-EEA nationals to secure immigration permission to
+Ireland on the basis of long-term investment of a sum of money in a project that has been
+approved for that purpose by the Department of Justice and other Government stakeholders.
+In order to ensure that Ireland meets its commitments under the OECD Common Reporting
+Standard, limited relevant personal details of approved IIP applicants are disclosed to the Office
+of the Revenue Commissioners, who in turn exchange the information with appropriate
+international tax authorities.
+It is proportionate that this information is disclosed in order to ensure that the Immigrant Investor
+Programme is fully compliant with all relevant financial and tax obligations and commitments to
+international agreements and is not misused in any way. This ensures that the public can
+continue to have confidence in the scheme.
+26 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+17.2 Safeguards
+Summarise the extent to which the safeguards applicable to the data shared under this agreement
+are proportionate, having regard to the performance of functions by the Parties and the effects of
+the disclosure on the rights of the data subjects concerned.
+Significant safeguards are in place in respect of the data disclosed to Revenue and exchanged
+with other jurisdictions. These apply to all stages of processing, including initial disclosure,
+access, exchange and storage.
+The Parties employ secure organisational and technical measures such as encryption to
+safeguard personal data.
+Both Parties have data protection policies in place which inform data subjects of their
+enforceable rights under the GDPR. The Department of Justice page on the IIP clearly states
+that information will be shared with Revenue in accordance with the OECD Common Reporting
+Standard.
+Revenue exchanges data with third countries only where there is a legal instrument and in
+accordance with appropriate provisions of Part 5 of the GDPR.
+The high level of safeguards in place by both Parties reflect the confidential nature of the data
+and are proportionate to the nature of processing.
+27 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+18. Schedule C
+18.1 List of Parties to this Agreement
+Set out the names of all the Parties to the agreement.
+As required under s.21(3)(a), (b) and (c) of the Data Sharing and Governance Act 2019, this
+Schedule must be updated by the Lead Agency to include any Parties who have joined the
+agreement by way of an Accession Agreement, and to remove any Party that has withdrawn from
+the agreement. The Lead Agency must notify the other Parties of any amendments to this
+Schedule and the Data Governance Board.
+Department of Justice (Immigration Service Delivery)
+Office of the Revenue Commissioners
+28 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+19. Authorised Signatory (completed at stage 7)
+An authorised signatory is required to sign this Data Sharing Agreement after all recommendations
+made by the Data Governance Board have been addressed and before the Data Sharing
+Agreement can be executed.
+This signatory has the role of accountability for the data sharing defined in this Data Sharing
+Agreement and holds the post of Principal Officer (equivalent) or above.
+The Parties hereby agree to their obligations pursuant to this Data Sharing Agreement for the
+transfer of personal data as described in this Data Sharing Agreement.
+19.1 Lead Agency
+LEAD AGENCY
+Signature: Date:
+Print Name:
+Position held:
+Email:
+For and on behalf of: [
+Table 19 .0
+19.2 Other Party/Parties
+OTHER PARTY
+Signature: Date:
+Print Name:
+Position held; [
+Email:
+For and on behalf of:
+Table 19.1
+29 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+Data Protection Officers Statement
+This Statement is separate to the Data Sharing Agreement. It is required by law under section
+55(1)(d) of the Data Sharing and Governance Act 2019. The Data Protection Officers in each
+proposed Party must sign and complete this statement before the Data Sharing Agreement is
+submitted to the Data Governance Unit for Public Consultation and again at execution stage. This
+statement will be published on a public website.
+The Data Protection Officers in each proposed Party to this Data Sharing Agreement must
+ensure that they:
+i. have reviewed the proposed agreement, and
+ii. are satisfied that compliance by the proposed Parties with the terms of the proposed
+agreement would not result in a contravention of data protection law,
+iii. are satisfied that the agreement is consistent with Article 5(1) of the GDPR
+The Parties hereby agree to their obligations pursuant to this Data Sharing Agreement for the
+transfer of personal data as described in this Data Sharing Agreement.
+Lead Agency DPO Statement
+LEAD AGENCY DATA PROTECTION OFFICERS STATEMENT
+I have reviewed the proposed agreement ☒
+I am satisfied that compliance by the proposed Parties with the
+☒
+terms of the proposed agreement would not result in a
+contravention of data protection law
+I am satisfied that the agreement is consistent with Article 5(1) of the ☒
+General Data Protection Regulation
+Signature: Tara Storey Date: 24/01/2022
+Print Name: Tara Storey
+Position: Data Protection Officer
+Email: dataprotectioncompliance@justice.ie
+For and on behalf of: Department of Justice
+Table 19.2
+30 | Page DRAFT DSGA Data Sharing Agreement v 2.2
+
+DATA SHARING AGREEMENT
+Other Party/Parties DPO Statement
+OTHER PARTY DATA PROTECTION OFFICER STATEMENT
+I have reviewed the proposed agreement ☒
+I am satisfied that compliance by the proposed Parties with the
+☒
+terms of the proposed agreement would not result in a
+contravention of data protection law
+I am satisfied that the agreement is consistent with Article 5(1) of the ☒
+General Data Protection Regulation
+Signature: Joan French Date: 24/01/2022
+Print Name: Joan French
+Position: Data Protection Officer
+Email: DPO@revenue.ie
+For and on behalf of: Office of the Revenue Commissioners
+Table 19.3
+31 | Page DRAFT DSGA Data Sharing Agreement v 2.2

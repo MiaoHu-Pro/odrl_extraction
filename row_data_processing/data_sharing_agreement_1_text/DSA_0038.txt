@@ -1,0 +1,542 @@
+Memorandum of Understanding (MoU)/Data Sharing Agreement (DSA) on
+Data Protection (Controller to Processor)
+ELECTION REGISTRATION OFFICER PORTAL (INCLUDING VOTER AUTHORITY
+CERTIFICATE SERVICE, ABSENT VOTE APPLICATION SERVICE AND OVERSEAS
+ELECTORS REGISTRATION)
+THE DEPARTMENT FOR LEVELLING UP, HOUSING AND COMMUNITIES
+[Ref:EROPDLUHC Vn3]- 12/06/23
+RECITALS
+The UK General Data Protection Regulation (UK GPDR) Art. 28 and section 59 of the Data
+Protection Act 2018 require parties to have in place a binding contract where they have a
+controller-processor relationship. This requirement of the GDPR and Act applies to all such
+relationships in place from 25 May 2018. This MoU is intended to create a set of data processing
+terms which the public bodies in this case can adopt to satisfy this requirement.
+INTRODUCTION
+The ERO has entered into this data processing MoU with the Department for Levelling Up,
+Housing and Communities (DLUHC) for the Department to process personal data for the purposes
+of processing personal data using the EROP which will cover three services: application for Voter
+Authority Certificate, Online Absent Vote Applications and applications to register as an Overseas
+Elector.
+This MoU sets out the terms, requirements and conditions on which the Department will process
+personal data when providing services under the MoU.
+The Parties agree to comply with the terms of this MoU in consideration of the payment by each
+Party to the other of the sum of one pound (£1), the receipt and sufficiency of which is
+acknowledged by each Party.
+INCORPORATED DOCUMENTS
+The following terms and documents shall be incorporated into this MoU.
+• Standard terms and conditions for intra-crown personal data processing:
+1. Definitions
+2. Requirements on Parties
+3. Controller to Processor Clauses
+4. No Warranty
+5. Records
+6. Escalation Procedure
+7. Term and Termination
+8. Variations
+9. Governing Law and Jurisdiction
+• Annex 1 – Details of Processing (template)
+
+MEMORANDUM OF UNDERSTANDING/DATA SHARING AGREEMENT FOR CONTROLLER
+TO PROCESSOR DATA PROCESSING
+1. DEFINITIONS
+Controller, Processor, Processing, Data Subject, Personal Data, Personal Data
+Breach, Data Protection Officer take the meaning given in the GDPR.
+DPA 2018: Data Protection Act 2018
+Data Protection Legislation: means all applicable data protection and privacy legislation
+in force from time to time in the UK including, as defined at s.3(9) of the DPA 2018, the UK
+GDPR; the DPA 2018; regulations made under the DPA 2018; and regulations made under
+s.2(2) of the European Communities Act 1972 which relate to the EU GDPR or the Law
+Enforcement Directive.
+Data Protection Impact Assessment: an assessment by the Controller of the impact of
+the envisaged processing on the protection of Personal Data.
+GDPR or UK GDPR: the UK General Data Protection Regulation.
+Law: means any law, subordinate legislation within the meaning of Section 21(1) of the
+Interpretation Act 1978, bye-law, enforceable right within the meaning of Section 2 of the
+European Communities Act 1972, regulation, order, regulatory policy, mandatory guidance
+or code of practice, judgment of a relevant court of law, or directives or requirements with
+which the Processor is bound to comply;
+MoU this agreement on personal data processing between the Parties as public bodies.
+Personal Data Breach: a breach of security leading to the accidental or unlawful
+destruction, loss, alteration, unauthorised disclosure of, or access to, personal
+data transmitted, stored or otherwise processed.
+Subject Request: a request made by, or on behalf of, a Subject in accordance with rights
+granted pursuant to the Data Protection Legislation in respect of their Personal Data.
+Party: a Party to this MoU listed in Annex 1
+Processor Personnel: means all directors, officers, employees, agents, consultants and
+contractors of the Processor and/or of any Sub-Processor engaged in the performance of
+its obligations under this MoU;
+Protective Measures: appropriate technical and organisational measures which may
+include: pseudonymising and encrypting Personal Data, ensuring confidentiality, integrity,
+availability and resilience of systems and services, ensuring that availability of and access
+to Personal Data can be restored in a timely manner after an incident, and regularly
+assessing and evaluating the effectiveness of the such measures adopted by it.
+Sub-processor: any third Party appointed to process Personal Data on behalf of that
+Processor related to this MoU.
+2
+
+2. REQUIREMENTS OF PARTIES TO THIS MoU
+2.1 Where there is a Controller-Processer relationship, each Party shall co-operate with the other
+Party to complete Annex 1 to this MoU prior to entering into the relationship.
+3. DATA PROTECTION – WHEN ONE PARTY IS CONTROLLER AND THE OTHER PARTY
+IS THE PROCESSOR
+3.1 This MoU shall apply where one Party is the Controller and the other Party is the Processor
+as specified in Annex 1. Subject to 3.4(a), the only processing that the Processor is
+authorised to do is listed in Annex 1 by the Controller and may not be determined by the
+Processor.
+3.2 The Processor shall notify the Controller immediately if it considers that any of the Controller's
+instructions infringe the Data Protection Legislation.
+3.3 The Processor shall provide all reasonable assistance to the Controller in the preparation of
+any Data Protection Impact Assessment in respect of any processing. Such assistance may,
+at the discretion of the Controller, include:
+(a) a systematic description of the envisaged processing operations;
+(b) an assessment of the necessity and proportionality of the processing operations in
+relation to the Services;
+(c) an assessment of the risks to the rights and freedoms of Data Subjects; and
+(d) the measures envisaged to address the risks, including safeguards, security
+measures and mechanisms to ensure the protection of Personal Data.
+3.4 The Processor shall, in relation to any Personal Data processed in connection with its
+obligations under this MoU:
+(a) process that Personal Data only in accordance with Annex 1, unless the Processor
+is required to do otherwise by Law. If it is so required, the Processor shall promptly
+notify the Controller before processing the Personal Data unless prohibited by Law;
+(b) ensure that it has in place Protective Measures, which are appropriate to protect
+against a Personal Data Breach, which the Controller may reasonably reject (but
+failure to reject shall not amount to approval by the Controller of the adequacy of the
+Protective Measures), having taken account of the:
+(i) nature of the data to be protected.
+(ii) harm that might result from a Personal Data Breach.
+(iii) state of technological development; and
+(iv) cost of implementing any measures;
+(c) ensure that:
+(i) the Processor Personnel do not process Personal Data except in accordance
+with this MoU (and in particular Annex 1);
+(ii) it takes all reasonable steps to ensure the reliability and integrity of any
+Processor Personnel who have access to the Personal Data and ensure that
+they:
+(A) are aware of and comply with the Processor’s duties under this clause;
+(B) are subject to appropriate confidentiality undertakings with the
+Processor or any Sub-processor;
+3
+
+(C) are informed of the confidential nature of the Personal Data and do not
+publish, disclose or divulge any of the Personal Data to any third Party
+unless directed in writing to do so by the Controller or as otherwise
+permitted by this MoU; and
+(D) have undergone adequate training in the use, care, protection and
+handling of Personal Data
+(d) not transfer Personal Data outside of the UK unless the prior written consent of the
+Controller has been obtained and the following conditions are fulfilled:
+(i) the Controller or the Processor has provided appropriate safeguards in relation
+to the transfer (whether in accordance with GDPR Article 46 or Chapter 5 of
+the DPA 2018) as determined by the Controller;
+(ii) the Data Subject has enforceable rights and effective legal remedies;
+(iii) the Processor complies with its obligations under the Data Protection
+Legislation by providing an adequate level of protection to any Personal Data
+that is transferred (or, if it is not so bound, uses its best endeavours to assist
+the Controller in meeting its obligations); and
+(iv) the Processor complies with any reasonable instructions notified to it in
+advance by the Controller with respect to the processing of the Personal Data;
+(e) at the written direction of the Controller, delete or return Personal Data (and any
+copies of it) to the Controller on termination of the MoU unless the Processor is
+required by Law to retain the Personal Data.
+3.5 Subject to clause 3.6, the Processor shall notify the other Party without delay if it, in
+connection with Personal Data processed under this MoU:
+(a) receives a Subject Request (or purported Subject Request);
+(b) receives a request to rectify, block or erase any Personal Data;
+(c) receives any other request, complaint or communication relating to either Party's
+obligations under the Data Protection Legislation;
+(d) receives any communication from the Information Commissioner or any other
+regulatory authority;
+(e) receives a request from any third party for disclosure of Personal Data where
+compliance with such request is required or purported to be required by Law; or
+(f) and in any event within 24 hours of becoming aware of a Personal Data Breach.
+3.6 The Processor’s obligation to notify under clause 3.5 shall include the provision of further
+information to the Controller in phases, as details become available.
+3.7 Taking into account the nature of the processing, the Processor shall provide the Controller
+with full assistance in relation to either Party's obligations under Data Protection Legislation
+and any complaint, communication or request made under clause 3.5 (and insofar as possible
+within the timescales reasonably required by the Controller) including by promptly providing:
+(a) the Controller with full details and copies of the complaint, communication or request;
+(b) such assistance as is reasonably requested by the Controller to enable the Controller
+to comply with a Subject Request within the relevant timescales set out in the Data
+Protection Legislation;
+4
+
+(c) the Controller, at its request, with any Personal Data it holds in relation to a Data
+Subject;
+(d) assistance as requested by the Controller following any Personal Data Breach;
+(e) assistance as requested by the Controller with respect to any request from the
+Information Commissioner’s Office, or any consultation by the Controller with the
+Information Commissioner's Office.
+3.8 The Processor shall maintain complete and accurate records and information to demonstrate
+its compliance with this MoU.
+3.9 The Processor shall allow for audits of its Data Processing activity by the Controller or the
+Controller’s designated auditor.
+3.10 The Parties shall designate a Data Protection Officer if required by the Data Protection
+Legislation.
+3.11 Before allowing any Sub-processor to process any Personal Data related to this MoU, the
+Processor must:
+(a) notify the Controller in writing of any change to the Sub-processors set in the Annex
+to this MoU.
+(b) enter into a written agreement with the Sub-processor which give effect to the terms
+set out in this clause 3 such that they apply to the Sub-processor; and
+(c) provide the Controller with such information regarding the Sub-processor as the
+Controller may reasonably require.
+3.12 The Processor shall remain fully liable for all acts or omissions of any of its Sub-processors.
+3.13 The Controller may, at any time on not less than 30 Working Days’ notice, revise this clause
+by replacing it with any applicable controller to processor standard clauses or similar terms
+forming part of an applicable certification scheme (which shall apply when incorporated by
+attachment to this MoU).
+3.14 The Parties agree to take account of any guidance issued by the Information Commissioner’s
+Office. The Controller may on not less than 30 Working Days’ notice to the Processor amend
+this MoU to ensure that it complies with any guidance issued by the Information
+Commissioner’s Office.
+4. WARRANTY
+4.1 No Party to this MoU makes any warranty as to the accuracy or completeness of the Personal
+Data provided to another Party under this MoU.
+5. RECORDS
+5.1 Each Party shall maintain complete and accurate records and information to demonstrate its
+compliance with this MoU and the Data Protection Legislation (Record of Processing
+Activities).
+5.2 Each Party shall provide the other full access to the other Party’s data security and privacy
+procedures relating to Personal Data.
+5
+
+6. ESCALATION PROCEDURE
+6.1 If either party has any issues, concerns or complaints about the MoU, or any matter in this
+MoU, that Party shall notify the other Party and the parties shall, acting in good faith, seek to
+resolve the issue by negotiations between themselves. If the issue cannot be resolved within
+7 days, the matter shall be escalated to the ERO and SRO for DLUHC.
+6.2 In the event that the escalation procedure in 6.1 does not resolve the issue it shall be finally
+resolved by the respective Heads of Organisation, who may also consult with their Data
+Protection Officers.
+6.3 If either Party receives any formal inquiry, complaint, claim or threat of action from a third
+party (including, but not limited to, claims made by a supplier or requests for information made
+under the Freedom of Information Act 2002) in relation to this MoU, the matter shall be
+promptly referred to the Data Protection Officer of each Party (or its nominated
+representatives). No action shall be taken in response to any such inquiry, complaint, claim
+or action, to the extent that such response would adversely affect this MoU, without the prior
+approval of the Data Controller (or its nominated representatives).
+7. TERM AND TERMINATION
+7.1 This MoU updates the existing agreement signed in November/December 2022 and shall
+continue unless usage of the EROP is terminated as defined in clause 7.2
+7.2 This MoU can be terminated only via mutual agreement between both parties, with at least
+three months' notice in writing, unless both parties are agreed that a reduced notice period is
+acceptable.
+7.3 Upon termination, the Processor shall comply with any direction given by the Controller in
+relation to deletion or return of Personal Data under 3.4(e) save as otherwise required by law.
+8. VARIATION
+8.1 Other than variations pursuant to Clause 3.13, this MoU may only be varied by written
+agreement of the Parties.
+9. GOVERNING LAW AND JURISDICTION
+9.1 This MoU shall be governed by and construed in accordance with the relevant law.
+6
+
+
+
+3. Softcat (service development and maintenance)
+4. Google analytics (website usage analysis)
+Duration of the Ongoing from November/December 2022
+processing
+Updated to include application for absent vote service and registration of
+overseas electors (06/2023)
+Nature and Personal data is collected via the specific Gov.UK citizens facing journey to
+purposes of the facilitate a number of processes set out within the law. These are
+processing • Application and delivery of a voter authority certificate
+• Application for an absent vote (postal or proxy vote)
+• Application to register as an overseas elector
+Application and production of a voter authority certificate
+From May 2023 electors in the UK will be required to present photographic
+identification to vote in polling stations in order to cast their ballots.
+The purpose of the processing within the service is that electors who don’t not
+possess one of the forms of identification on the approved list can apply via
+new the Gov.uk service for a locally issued voter authority certificate to be able
+to vote in person at a polling station.
+Applications will capture personal data required for identity checks to be carried
+out and for a Voter Authority Certificate. The voter authority certificate service
+will make use of the automated DWP NINO identity check process. For the
+identity of the elector the NINO provided will be checked against DWP
+databases only, DLUHC and DWP will be independent controllers. Once these
+checks are completed and all related personal data deleted, DLUHC will revert
+to being a processor taking instruction from the ERO as per this agreement. In
+some instances, where a NINO has not been provided, processing for the
+purposes of the identity check could include the applicant uploading
+documentary evidence from a list prescribed in law.
+Application for an absent vote
+The purpose of the processing is to enable electors to apply for apply for a
+postal or proxy vote online for specified election or for a specified period. The
+OAVA service will make use of the automated DWP NINO identity check
+process. For the identity of the elector the NINO provided will be checked
+against DWP databases only, DLUHC and DWP will be independent
+controllers. Once these checks are completed and all related personal data
+deleted, DLUHC will revert to being a processor taking instruction from the ERO
+as per this agreement. In some instances, where a NINO has not provided,
+processing will include the applicant uploading documentary evidence from a
+list prescribed in law.
+For the identity of the elector the NINO provided will be checked against DWP
+databases only, DLUHC and DWP will be independent controllers. Once these
+8
+
+checks are completed and all related personal data deleted, DLUHC will revert
+to being a processor taking instruction from the ERO as per this agreement. In
+some instances, where a NINO has not been provided, processing for the
+purposes of the identity check may include the applicant uploading
+documentary evidence from a list prescribed in law.
+Application to register as an overseas elector
+The purpose of the processing is to enable those eligible electors who reside
+abroad to apply to register to vote. The overseas electors register to vote
+service will make use of the automated DWP NINO identity check process. For
+the identity of the elector the NINO provided will be checked against DWP
+databases only, DLUHC and DWP will be independent controllers. Once these
+checks are completed and all related personal data deleted, DLUHC will revert
+to being a processor taking instruction from the ERO as per this agreement. In
+some instances, where a NINO has not provided, processing may include the
+applicant uploading documentary evidence from a list prescribed in law.
+In some instances where an applicant has been unable to evidence previous
+electoral registration at the address specified, processing may include checks
+of DWP records for previous residency at the specified address.
+If overseas applicants were never registered in the UK before they left the
+country, they will be applying in respect of their previous residence. In this
+instance, they will be able to upload documents to demonstrate their connection
+to their previous address.
+If overseas applicants were under 18 when they left the UK, they may provide
+evidence of their connection to a parent or guardian at the point of application,
+such as a birth or adoption certificate.
+Type of Personal data collected from electors
+Personal Data
+(including Across all three services/processing purposes the following personal
+identifying any information is the personal data that will be collected as part of an application
+special category from an individual citizen: -
+data or data 1. Applicant’s name (Forename, middle name, surname, previous name
+relating to where provided),
+criminal 2. Date of Birth,
+convictions and 3. Registered Address,
+offences) 4. (Registered Address) Postcode
+5. Previous address – application for registration as an overseas
+elector only
+6. Delivery Address (optional)
+7. National Insurance number (“NINO”)
+8. Signature - online absent vote application service only
+9. Photograph of face – application for voter authority certificate only
+10. Proxy name
+11. Proxy address
+12. Proxy contact details (optional)
+13. Required technical data such as IP address,
+9
+
+14. Phone Number (optional)
+15. Email address (optional)
+16. Cookie / behavioural tracking data
+For the voter authority certificate service where an elector is unable to provide
+a NINO the digital application will offer the elector the ability upload
+documentary evidence in order to verify their identity. This will be in document
+format PDF, Image file and could consist of one of a number of documents
+prescribed in law:
+For both the online absent vote application service and overseas elector
+registration service
+In some cases where an applicant is unable to provide a NINO the Digital
+application also offers the elector the ability to upload documentary evidence
+in order to verify their identity. This will be in document format (PDF, Image
+file) and could consist of a number of documents prescribed in law:
+1. One of the following Primary documents (*1 a-e list not applicable for voter
+authority certificate)
+a) applicant’s passport
+b) applicant’s identity card issued in the European Economic Area
+c) applicant’s biometric immigration document issued in the United
+Kingdom in accordance with regulations made under section 5 of the
+Borders Act 2007
+d) applicant’s electoral identity card issued in Northern Ireland
+e) applicant’s photocard driving licence granted in the United Kingdom or
+driving licence granted by a Crown Dependency, which bears a
+photograph of the applicant.
+2. One trusted government document (below) and two secondary
+documents (section 3):
+a) With exception to (vii), these must have been issued in the UK or CD
+i) Birth certificate
+ii) Marriage or civil partnership certificate
+iii) Adoption certificate
+iv) Firearms certificate
+v) UK-issued Driving licence (not in photocard form)
+vi) Driving licence granted other than in UK or CD, which has a
+photograph and is valid for at least 12 months from the date the
+applicant entered the UK *for application for registration as an
+overseas elector the 12-month validity restriction does not
+apply
+vii) Police bail sheet
+3. Or four pieces of social or financial history documents
+a) Financial statement;
+i) Mortgage statement
+ii) Bank or building society statement or letter confirming account
+iii) Credit card statement
+10
+
+iv) Pensions statement
+b) Council tax demand letter or statement
+c) Utility bill
+d) P45 or P60 issued by employer/former employer
+e) Statement of benefits or entitlement to benefits
+When applying to register to vote, an overseas applicant can apply in respect
+of the address they were last registered at, or, if they were never registered,
+the address where they were last resident. Applicants will provide their
+qualifying address at the point of application and, if applying under the previous
+residence condition, will also be able to (optionally) provide documentary
+evidence at the point of application. The below list is prescribed as permissible
+evidence, but applicants may upload other evidence (that contains their name
+and address) to verify their address:
+• letter from His Majesty’s Revenue and Customs
+• council tax demand letter or statement
+• rent book issued local authority
+• statement of benefits or entitlement to benefits
+• letter from DWP confirming entitlement to state pension
+• letter from a school, college, university or other educational
+institution confirming attendance or offer of a place
+• letter from Student Loans Company
+• official copy of land register entry or other proof of title
+• solicitor’s letter confirming purchase of, or confirmation of, land
+registry registration
+• P45, P60, reference or payslip issued by employer
+• bank or building society passbook or statement, or letter from bank
+or building society confirming opening of account
+• credit card statement
+• utility or mobile telephone bill
+• letter from insurance provider
+If an overseas applicant was too young to be registered when they left the
+UK, they will provide the name of a parent or guardian at the point of
+application, which may then undergo register checks. The applicant will be
+required to supply evidence of their connection to that individual, which may
+include providing a birth certificate or an adoption certificate.
+Special category personal data collected is dealt with in the relevant section
+below.
+The Digital application will also gather data from Cookies (both session and,
+were accepted, performance cookies) to enable analytic information to be
+gathered and analysed by Google Analytics
+EROP administrators
+For accessing the ERO Portal further data is collected to allow access to the
+portal, this includes: -
+1. Name of ERO staff member accessing the portal – so DLUHC can
+assign them to a role
+11
+
+2. User credentials (ERO staff member)
+(i) Work email address
+(ii) login
+(iii) password
+(iv) Work mobile phone number (for two-factor authentication)
+(v) User ID
+3. Associated user metadata – access monitoring logs.
+4. Users of the Portal can also upload documents sent by the data
+subject(s) (electors)
+5. Name and address of Electoral Registration Office
+6. There will also be system generated data – dates, times, references for
+auditability to support processes undertaken on the portal
+Categories of Prospective voters or electors in UK democratic elections including attainers
+Data Subject (those who are not currently eligible to vote as they are under 18, but will be
+at the point of an election).
+Parents or guardians of those electors who were under 18 and therefore not
+registered prior to leaving the UK (contact details only)
+In some instances, contact details for an individual supporting an applicant to
+complete the application
+Electoral Registration Office (ERO) staff
+Plan for return Application for a voter authority certificate
+and destruction Deleting of personal data within the EROP will be the responsibility of individual
+of the data once EROs.
+the processing
+is complete
+Application for an absent vote (postal or proxy vote)
+Deleting of personal data within the EROP will be the responsibility of individual
+UNLESS
+EROs. Responsibility for the management of the Electoral register and deletion
+requirement
+under union or processes lays with the ERO (Controller) and is managed within their EMS.
+member state
+law to preserve Application to register as an overseas elector
+that type of data Deleting of personal data within the EROP will be the responsibility of individual
+EROs. Responsibility for the management of the Electoral register and deletion
+processes lays with the ERO (Controller) and is managed within their EMS
+Transfers to No data is transferred outside of the UK,
+third countries
+or international
+organisations
+Legal Basis for
+The lawful basis for processing personal data is the below:
+Processing
+The lawful basis for the processing of data via the EROP - Article 6 (1) (e) -
+processing is necessary for the performance of a task carried out in the public
+interest or in the exercise of official authority vested in the controller (“Public
+Task”)
+12
+
+The public task is the new digital service which will support electors to vote by
+helping them apply for an absent vote whilst proving their identity, and by
+providing local authorities with the relevant information to process their vote.
+Article 6(1)(c) provides a lawful basis for processing where: “processing is
+necessary for compliance with a legal obligation to which the controller is
+subject.” (“Legal obligation”)
+It will in fact be necessary to process this data to ensure that identity checking
+takes place and that eligible electors can receive an absent vote, and thus cast
+their vote in elections.
+Voter authority certificate
+The Voter Identification Regulations 2022 detail the requirements on electors
+and the obligations on EROs with respect to the provision and the processing
+of documentary evidence demonstrating a person’s identity for voting at a
+polling station.
+Online absent vote application services
+EROs fulfil their legal duty to receive and issue postal and proxy votes under
+The Representation of the People (England and Wales) Regulations 2001.
+On receipt of an application under section 10ZC or 10ZD of the Representation
+of the People Act 1983, a registration officer must disclose the name or names,
+date of birth and national insurance number given under regulation 26 or 26A
+to the Secretary of State.
+Section 2 and Schedule 2 of the Elections Act 2022 enables the introduction of
+regulations allowing application to be submitted via an online route and
+provides for a new identity checking process to be applied to absent vote
+applicants, which will apply to paper applications as well as to applications
+made online.
+The requirements of that processing of personal data are in The
+Representation of the People (Postal and Proxy Voting Etc) (Amendment)
+Regulations 2023 laid before Parliament on 3rd July 2023, due to be made by
+31st October 2023, ahead of the service going live in October 2023.
+Overseas electors
+EROs fulfil their legal duty to maintain the electoral register which operates to
+the franchise set in the law.
+Section 14 1A of the Elections Act 2022 removes the 15 year limit for British
+citizens living overseas. EROs are required to process personal data in this
+way in to comply with The Representation of the People (Overseas Electors)
+(Amendment) Regulations 2023.
+13
+
+For google analytical cookies only the legal basis will be art 6(1)(a)
+consent
+Processing of Special Category Data
+Limited special category data may be processed, though this would be
+indirectly in the process of identity checking (through e.g. financial/marital
+status information provided by the elector), or in the process for a signature
+waiver (available to electors with disabilities.)
+The special category processing condition is:
+Article 9(2) (g) ‘necessary for reasons of substantial public interest’ UK GDPR,
+based on domestic law which shall be proportionate to the aim pursued, respect
+the essence of the right to data protection and provide for suitable and specific
+measures to safeguard the fundamental rights and the interests of the data
+subject;
+The processing of this data is necessary for statutory or government purposes
+under Sch 1, Part 2, paragraph 6 of the Data Protection Act 2018 to
+ensure that the data subject can successfully vote in elections by successfully
+applying to register or applying for an absent vote for the occasional and
+incidental processing of criminal offence data the article 10 requirements will
+be met by the article 6 legal basis of 6(1)(c) and (e) as above, and the DPA18
+conditions as for special category data processing
+None
+Special Terms
+14
+
+Annex 2 – Signature Page
+I hereby agree to the terms set out in the MoU
+For and on behalf of the [ERO]
+Name: Andrew Maughan
+Position: Borough Solicitor
+Date: 14 August 2023
+For and on behalf of the Secretary of State for Levelling Up, Housing and Communities
+Name:
+Position: SRO
+Date: xx/xx/xxxx
+15

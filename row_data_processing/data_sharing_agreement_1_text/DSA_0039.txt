@@ -1,0 +1,416 @@
+Data/Information Sharing Agreement -
+ICPC/Alternative Pathways Evaluation
+Contents
+1. Introduction to the Data Sharing Agreement .................................................................... 2
+1.1. Ownership of this agreement ............................................................................................... 2
+1.2. Responsibilities of parties involved ..................................................................................... 2
+1.3. Confidentiality and vetting .................................................................................................... 3
+1.4. Assessment and review ........................................................................................................ 3
+1.5. Termination of agreement ..................................................................................................... 3
+2. Purpose and Benefits .......................................................................................................... 4
+2.1. Purpose and benefits ............................................................................................................ 4
+2.2. Principles of information sharing ......................................................................................... 4
+2.3. Lawful Basis .......................................................................................................................... 5
+2.4. Proportionality and necessity ............................................................................................... 5
+2.5. Freedom of Information ........................................................................................................ 5
+3. Individuals ............................................................................................................................ 6
+3.1. Right to be informed – Privacy notices ................................................................................ 6
+3.2. Data subject rights requests and complaints ...................................................................... 6
+3.3. Data subjects ......................................................................................................................... 7
+4. Data ....................................................................................................................................... 7
+4.1. The data to be shared............................................................................................................ 7
+4.2. Storing and handling information securely ......................................................................... 8
+4.3. Access controls and security ............................................................................................... 9
+4.4. Outside UK processing ......................................................................................................... 9
+4.5. Data quality ............................................................................................................................ 9
+4.6. Data breaches/incidents ....................................................................................................... 9
+4.7. Retention & Disposal ...........................................................................................................10
+5. Signatures .......................................................................................................................... 10
+6. Appendix A – Parties to this agreement .......................................................................... 12
+7. Appendix B: Data Protection & Caldicott Principles ...................................................... 13
+8. Appendix C: Information Sharing Checklist .................................................................... 14
+1
+
+1. Introduction to the Data Sharing Agreement
+This Data Sharing Agreement [DSA] documents how the parties to this agreement, will share what data
+about whom with whom and why . The key agencies are listed in Appendix A, and the agreement is to
+be signed by all relevant parties, including local partners, voluntary sector, and any specialist
+organisations.
+By signing this Agreement, the named agencies agree to accept the conditions set out in this document,
+according to their statutory and professional responsibilities, and agree to adhere to the procedures
+described.
+This Agreement has been developed to:
+• Define the specific purposes for which the signatory agencies have agreed to share information.
+• Outline the Personal, Special Category and Criminal Data to be shared.
+• Set out the lawful basis condition under UK GDPR and Data Protection Act 2018 through which
+the information is shared, including reference to the Human Rights Act 1998 and the Common
+Law Duty of Confidentiality.
+• Stipulate the roles and procedure that will support the processing/sharing of information between
+agencies.
+• Describe how the rights of the data subject(s) will be protected as stipulated under the data
+protection legislation.
+• Describe the security procedures necessary to ensure that compliance with responsibilities under
+data protection legislation and agency-specific security requirements.
+• Describe how this arrangement will be monitored and reviewed.
+• To illustrate the flow of information from referral through processing and outcome.
+Parties to this agreement cannot amend or add appendices unless agreed as part of a formal review. It
+is expected that each party will have procedures, processes and policies sitting underneath this
+agreement, for their respective organisations. These will, for example, describe the specific processes
+for secure transfer of data.
+1.1. Ownership of this agreement
+This agreement was drafted by The University of Exeter, Hammersmith & Fulham Council and Camden
+Council.
+1.2. Responsibilities of parties involved
+The parties are registered Data Controllers under the Data Protection Act. Signatories are identified as
+those who have signed this agreement on the platform on which this agreement is hosted (expected to
+be the Information Sharing Gateway). A list of expected types of signatories is at Appendix A.
+All parties confirm that they comply with data protection legislation by:
+• having a lawful basis for processing and sharing personal data.
+• ensuring data quality.
+• storing and sharing information securely, with access management controls.
+2
+
+• having policies and procedures for compliance with data protection legislation including for managing
+data subject rights & complaints, identifying and managing data breaches/incidents and retention &
+disposal.
+• ensuring that mandatory training is undertaken regularly by their employees to ensure they are clear
+and up to date on their responsibilities. Every individual must uphold the principles of this agreement
+and overarching confidentiality, and seek advice from the relevant Data Protection Officer when
+necessary.
+• undertaking appropriate data protection due diligence checks with any contractors/data processors
+they employ, and ensuring that a written agreement is in place with each data processor, and that all
+data processors will be bound by this agreement.
+• having written processes for the processing of data to ensure employees use and share personal data
+in line with data protection law, the data protection principles, and this agreement.
+Organisations and their staff must consult the organisation’s Data Protection Officer/Information
+Governance Manager and/or Caldicott Guardian if they are unsure at any point in the processing and
+sharing of personal data.
+1.3. Confidentiality and vetting
+Each Partner must ensure that there are appropriate written contracts or agreements with employees,
+agency staff, volunteers etc. These must include requirements to ensure compliance with policies which
+include confidentiality.
+Each Partner must ensure that suitable vetting has taken place. This may be through standard employee
+checks (BPSS or equivalent), DBS, Security Vetting or Counter Terrorist Check [CTC].
+1.4. Assessment and review
+A review of this information sharing agreement will take place every two years, unless otherwise agreed
+by the organisations’ Data Protection Officers. The aim of the review will be to ensure the purposes are
+still relevant, the scope has not slipped, the benefits to the data subjects and organisations are being
+realised, and the procedures followed for information security are effective.
+Changes in legislation and developments in the areas of public sector data sharing will be considered as
+and when they arise, as will any changes to the signatory parties.
+The working group who drafted this agreement strongly recommend that a working group approach is
+used for any reviews, as this was a successful way to achieve pan-London and cross-specialism
+consensus to one sharing agreement.
+1.5. Termination of agreement
+In the event of termination of this agreement each party may continue to hold information originating
+from other parties for which they are data controller.
+3
+
+2. Purpose and Benefits
+2.1. Purpose and benefits
+This agreement covers the sharing of information by Hammersmith & Fulham Council and Camden
+Council with the University of Exeter for the purpose of:
+• Contacting family members and professionals involved in the Family Group Conference to seek
+their consent to participate in a study
+• To be able to understand the perspective and experiences of families and professionals engaged
+in the process
+• To receive input from families and professions on how the meetings could be improved
+• To measure the effectiveness the Family Group Conference process
+• To determine how the Family Group Conference improves families’ experiences with child
+protection work
+The benefits of this DSA are to:
+• Cover the sharing of information for the purposes above.
+• Remove barriers to effective information sharing.
+• Sets parameters for sharing personal data and clearly identifies the responsibilities of
+organisations.
+• Identify the correct lawful basis to share personal information.
+• Ensure information is shared whenever there is a requirement to do so.
+• Enables authorities to share data on performance, quality assurance, learning and impact
+analysis.
+• Raises awareness amongst all agencies of the key issues relating to information sharing and
+gives confidence in the process of sharing information with others.
+• Greater efficiencies in processes and resources.
+2.2. Principles of information sharing
+To share information, a lawful basis for doing so must be identified. This may come from legislation or
+from statutory guidance such as Working Together to Safeguard Children 2018 or the Children Act 2014,
+which places responsibilities on organisations outside of the Partnership such as sports clubs, private
+organisations, and the voluntary, community and faith sectors.
+The sharing of personal data must comply with both the GDPR Principles and the Caldicott Principles,
+listed at Appendix B. Together, those principles lead to a series of questions and considerations to be
+answered before sharing takes place. These are listed as an Information Sharing Checklist in Appendix
+C: Information Sharing Checklist.
+4
+
+2.3. Lawful Basis
+The sharing of information must comply with the law relating to confidentiality, data protection and
+human rights. Having a legitimate purpose for sharing information is an important part of meeting those
+legal requirements. This is a complex area and each Partner must take their own decisions and seek
+advice from their organisation’s Data Protection Officer/Information Governance Manager and/or
+Caldicott Guardian.
+Articles 6, 9 and 10 of the UK GDPR, and section 8 of the DPA 2018 set out the acceptable conditions
+for the processing and sharing of personal, special category, and criminal data. The conditions relevant
+in the UK GDPR to data processed under this agreement are below.
+Processing to evaluate families’ experience with Conferences.
+Processing to participate in the research.
+Article 6 (1) – Personal Data Processing (Public Task)
+(e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official
+authority vested in the controller
+Article 9 (2) – Processing Special Category Data (Archiving and Research)
+(j) processing is necessary for archiving purposes in the public interest, scientific or historical research purposes or
+statistical purposes in accordance with Article 89(1) based on Union or Member State law which shall be proportionate
+to the aim pursued, respect the essence of the right to data protection and provide for suitable and specific measures
+to safeguard the fundamental rights and the interests of the data subject.
+The ICPC/Alternative Pathways Evaluation gathers personal data, pseudonymises it and then anonymises the data after
+analysis for research purposes to help in understanding families’ and professionals’ journeys with the Safeguarding
+Family Conference. The anonymised data outputs will be valuable for improving families’ experience with child
+protection work and determining the effectiveness the Family Group Conference process.
+2.4. Proportionality and necessity
+Proportionality and necessity are factors to be taken into consideration when deciding whether to share
+personal information. In making the decision, employees must weigh up what might happen as a result
+of the information being shared against what might happen if it is not, and apply their professional
+judgement. It is for this reason professionals must ensure they comply with Article 6.1 (e) and Article 9.2
+(a), sharing the adequate and relevant information, limiting that information to what is necessary for
+achieving the Data Sharing Agreement aims. The data to be shared meets these requirements.
+2.5. Freedom of Information
+The Freedom of Information Act 2000 gives all individuals the right to access official information held by
+a public authority (the Environmental Information Regulations 2004 also allow access to data. For ease
+of drafting, FOI is used to cover both legislation). Limited exemptions may apply and all public authorities
+must ensure they have recognised procedures in place for administering requests of this nature.
+5
+
+All requests for FOI will be directed through the relevant organisations’ FOI processes. Each party will
+seek advice/opinion from the other parties where there is concern about that information being released
+and any impact it is likely to have. The final decision to disclose or not will lie with the party who holds
+the information (data controller).
+It is encouraged that all parties proactively publish this document. It may also be disclosed to the public
+under FOI.
+3. Individuals
+Organisations processing personal data are required to begin with the ethos of Data Protection by
+Design and Default (also known as Privacy by Design (PbD)). This means that we must consider and
+uphold the privacy of an individual’s data before we begin and throughout the processing taking place.
+Each party agrees that they have undertaken a DPIA (Data Protection Impact Assessment), where they
+feel the processing meets the legislative criteria for a DPIA.
+3.1. Right to be informed – Privacy notices
+Where personal data is created or received by one of the parties, they are responsible, as required by
+law, for making the data subject(s) aware within a reasonable time frame that the organisation holds the
+data, what they will do with it, how long they will keep it, and who they will share it with (such as under
+this DSA). This is normally done through a privacy notice, whether written or verbal. Organisations agree
+that they will adhere to the transparency requirements of the UKGDPR and will issue appropriate notices
+which inform the data subject that the information will be shared with the parties under this agreement.
+In this case, individuals will also be informed through an Information Sheet. This Information Sheet will
+make the data subject(s) aware, before consenting to participating in the study, what data the
+organisations hold, what they will do with it, how long they will keep it, and who they will share it with.
+3.2. Data subject rights requests and complaints
+Each organisation must have in place appropriate policies and processes to handle data subject
+requests made in line with data protection law, to ensure they are responded to within deadline and in an
+appropriate manner. Requests include; right of access, right to rectification, right to erasure, right to
+restrict processing, right to data portability, right to object and rights related to automated decision
+making including profiling.
+If an individual successfully requests the erasure or limitation of use of their data (right to erasure, right
+to rectification, right to restrict processing, right to object), the party that has been informed by the data
+subject will communicate this to the other parties where relevant and appropriate. In each case each
+party is responsible for securely disposing of such information or limiting its processing.
+Each party must have clear, fair and objective complaint procedures. Any complaints from individuals
+how their data is being processed or shared will be handled under the policy and processes of
+organisation concerned.
+6
+
+3.3. Data subjects
+There is a breadth of data subjects whose data is shared under this agreement. The data subjects
+include the following:
+• young person
+• family members, carers, and other persons whose presence and/or relationship with the young
+person, is relevant to them being involved in the Family Group Conferences
+• professional opinions of employees involved in the Family Group Conferences eg social workers
+Many of the data subjects are vulnerable. Parties to this agreement are in positions of power over data
+subjects and data subjects have little or no control over why and how their data is processed.
+4. Data
+4.1. The data to be shared
+Data that will be shared by Hammersmith & Fulham and Camden Council with the University of Exter is:
+• The contact details of the five families (20 C&YP) who consent to participate in the study. (First
+name, Surname, phone, email, address to post letters).
+• For professionals (12 practitioners and 5 members of partner agencies), in addition to their
+contact details, their role within the local authority/partner agency will be documented.
+• Data from cases files collected and held by their social care/FGC services on three outcomes for
+families diverted to a safeguarding FGC. These families will have consented to be part of the
+study, share their contact details and share the below data. The 3 outcomes are:
+Outcome 1: who was present in the 6-weekly safeguarding meetings following the FGC
+meeting [if this meeting takes place];
+Outcome 2: step up or step down of family case at 3 months and 6 months post-FGC;
+Outcome 3: any updates to the safeguarding plan during the safeguarding meetings.
+• Data routinely collected by the Local Authority’s social care/FGC services on three key child
+protection outcomes for two cohorts of families referred to the child protection pathway as
+described in the study protocol under the routine data collection 2 (social care/FGC service
+records) (ICPC/FGC pathway). The data will be anonymised prior to being shared with the
+researcher-in-residence and participant IDs will be used at source:
+Cohort 1: all families referred to the child protection pathway in period 12 – 6 months prior
+to implementation (from 01/04/2022 to 31/03/2023);
+Cohort 2: all families referred to the child protection pathway in the period 0 - 3 months
+post implementation (from 01/04/2023 to 31/12/2023).
+The three key CP outcomes at 6 months post ICPC/FGC for each cohorts are:
+CP outcome 1: referred families stepped up and stepped down;
+CP outcome 2: referred families with children in care, with family, other community care
+arrangements;
+7
+
+CP outcome 3: number and spread of family members and professionals attending
+meetings (FGC/ICPC and all follow-up 6 weekly meetings on CP pathway) [only if this is
+routinely collected by local authorities].
+For reference, University of Exeter will collect the following information about individuals, families and
+practitioners from semi-structured interviews, meeting observations and reflection workshops:
+• In observations (professionals/partners, young people and families), what different people in the
+meeting say and do. This isn’t an assessment of the meeting or participation in it. No personal
+data or special category data will be captured. (this is not recorded)
+• In interviews (professionals/partners, young people and families), what their experiences of the
+Safeguarding FGC are, including what is working well or less well, and how they think the
+meetings could be improved. No one will be asked about their personal circumstances and
+sharing special category information is discouraged. (this will be recorded, with consent)
+• In workshops (professionals/partners, young people and families), what are their experiences of
+piloting the pathway.
+The University of Exeter will not share the above information with the Local Authority unless a participant
+is in danger.
+4.2. Storing and handling information securely
+Information should only be stored and shared in accordance with data protection legislation and follow
+information security policies and procedures of the relevant organisation.
+Information should always be shared securely, either by a secure IT connection, encrypted email, secure
+sharing platform, or secure and tracked transfer of paper documents. Information should never be sent
+via a non-secure method. Special category data may need a higher level of security. The
+employee/organisation sending the information must chose the most appropriate method of transfer and
+be responsible for its safe delivery.
+The Local Authority will share data with Exeter University either using Egress or encrypted email with the
+password sent separately to a RiR’s encrypted laptop. Researchers have completed the 3rd party
+assurance ISQ setting out how they will store information. Information will be stored on an encrypted
+system held by Exeter University as the host - the university’s Research Data Storage (RDS) mapped
+network drive. Each RDS is unique to a given research project and can only be accessed by users given
+permissions from the central IT department.
+RDS security utilises Azure Active Directory (AD) Single Sign-on (SSO). Remote access to RDS is
+achieved through a Virtual Private Network (VPN) upon which Multi-Factor Authentication (MFA) must be
+utilised. MFA will comprise of a staff member’s username and password, followed by use of the Microsoft
+Authenticator application on their smartphone.
+Information collected and processed by The University of Exeter:
+8
+
+Identifiable information (consent forms, participant attendance sheets etc.) will be kept on the university’s
+secured SharePoint, separate from data, to ensure that data, after anonymisation, cannot be linked to
+any individuals. Hard copies of documents such as the consent forms and attendance sheets will be
+scanned, stored on the secure SharePoint, and disposed of in confidential waste bins.
+The University of Exeter will be using an external transcriber who has contractual arrangements with the
+university. This is an approved supplier of the university’s and accustomed to working within the
+boundaries of confidentiality agreements. Audio data will be transferred to the professional transcriber,
+and transcripts returned, by accessing a dedicated folder held on RDS. Transcriber’s personal PC has
+McAfee LiveSafe virus protection, as well as Windows Security firewall and network protection. The
+transcriber will receive a personal University of Exeter IT account and will connect to RDS following the
+same processes as the research team (processes described above, including using MFA process). The
+transcriber will be experienced with working with confidential and sensitive data, and will be subject to a
+confidentiality agreement. The transcriber will destroy the audio records once the transcription is done.
+4.3. Access controls and security
+All parties will ensure that they have appropriate technical and organisational security measures in place
+to guard against unauthorised or unlawful processing of personal data and against accidental loss or
+destruction of, or damage to, personal data.
+All personal data held by partner organisations electronically will be stored in a secure network area with
+password protected entry and appropriate back-up functionality. The systems will be auditable so that it
+is possible for any auditor to establish who has accessed the system. All laptops, computers, and any
+other portable devices will be encrypted.
+Any individual no longer required to have access will promptly have such access revoked by the line
+manager and Human Resources related to the relevant employer.
+There is an expectation that partner organisations will either be working toward ISO 27001, the
+International Standard for Information Security Management, or a similar standard of security.
+4.4. Outside UK processing
+Parties are responsible for ensuring that if information is processed or shared outside the UK, that
+suitable written agreements are in place, and that appropriate due diligence has been completed for the
+transfer of data.
+4.5. Data quality
+Each partner is responsible for ensuring the accuracy and relevance of the personal data that it
+processes and shares and must have clear processes in place for managing data quality.
+Any party learning of the inaccuracy of personal data is responsible for informing the parties with whom
+that data has been shared.
+4.6. Data breaches/incidents
+All parties must have a clear policy and procedure regarding the reporting and handling of data
+protection breaches or data loss incidents. This must include assessing the level of risk to the data
+9
+
+subject(s), as well as to make a decision on notifying the ICO within the statutory time frame of 72 hours.
+This complies with Articles 33 and 34 of UKGDPR, and Section 67 and 68 of the DPA 2018 for personal
+data processed for law enforcement purposes.
+If the incident may impact the processing of another party to this agreement, all relevant parties should
+be informed and appropriate co-ordination of the incident must take place. The decision to report the
+incident will lie with the data controller(s) of the information concerned. The parties agree to provide all
+reasonable and necessary assistance at their own expense to each other to facilitate the handling of any
+personal data breach in an expeditious and compliant manner.
+It is confirmed that security breaches (including misuse or unauthorised disclosure) are covered by the
+partner’s internal disciplinary procedures. If misuse is found there should be a mechanism to facilitate an
+investigation, including initiating criminal proceedings where necessary.
+4.7. Retention & Disposal
+Organisations are required by data protection legislation to document processing activities for personal
+data, such as what personal data is held, where it came from and with whom it has been shared. This
+Record of Processing Activity (ROPA) must include the retention period for the data.
+Information must not be retained for longer than necessary for the purpose for which it was obtained.
+Disposal or deletion of personal data once it is no longer required, must be done securely with
+appropriate safeguards, in accordance with that organisation’s disposal policies.
+All data will be anonymised prior to retention. Anonymised data will be retained until 31 Mar 2034. All
+data will be deleted from the RDS in accordance with the University Policy. The 10 years period is
+determined by the University Retention Policy based on stated requirements of UK Research Councils
+and other significant sponsors.
+5. Signatures
+This agreement is signed on behalf of:
+The University of Exeter
+……………………………
+Name and Rank
+…………………….
+Date
+…………………..
+London Borough of Hammersmith & Fulham
+……………………………
+Name and Position
+10
+
+………………………….
+Date ………………
+London Borough of Camden
+Name and Position
+Rashida Baig- Director of Children's Prevention, Family Help and Safeguarding Supporting People
+Date ……23.10.2023…………
+Version control
+Document production date September 2023
+Document currency Draft V1.0
+11
+
+6. Appendix A – Parties to this agreement
+Organisation Duties
+London Borough • Sharing contact details of participating families and professionals in the
+Councils Family Safeguarding Conference
+(Hammersmith &
+Fulham Council
+and Camden
+Council)
+The University of • Measure the effectiveness of the Family Group Conferences, determine
+Exeter areas for improvement and how it can improve families’ experiences with
+child protection work
+12
+
+7. Appendix B: Data Protection & Caldic
+The Principles as described in Article 5 of the General Data Protection
+Regulation.
+
+t Principles
+The Caldicott Principles
+3
+
+8. Appendix C: Information Sharing Checklist
+The following questions must be considered when deciding whether to share information.
+• Whose information is this?
+• Is there a lawful basis to share the information? Justify the purpose and identify relevant legislation
+that applies.
+• Can information be pseudonymised or anonymised ahead of sharing?
+• How have individuals been informed that the information will be shared eg via a privacy notice?
+Will they have the expectation that their information will be shared? Consider whether notifying the
+individual of the sharing may place someone at risk or prejudice a police or safeguarding
+investigation.
+• Have any requests not to share been received and considered?
+• How much information is it necessary to share in this situation?
+• Is the information accurate and up to date? Has the difference between fact and opinion been
+stated?
+• Is access to the information limited to only those who need it? Is it being given to the right person?
+• Is the information being shared in a secure way?
+• Has the decision to share or not share, and the rationale for the decision, been recorded?
+14

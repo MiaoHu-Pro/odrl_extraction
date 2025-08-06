@@ -1,0 +1,781 @@
+Child Protection - Information Sharing
+Information Governance
+Framework
+Information Asset Owner:
+Version: 1.0
+Published:
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+
+Child Protection - Information Sharing
+Document management
+Revision History
+Version Date Summary of Changes
+0.1 26/08/22 Initial draft
+0.2 02/09/22 Revised
+0.3 08/09/22 Legal team review
+0.4 08/09/22 Revised following review
+0.5 09/09/22 Legal team review
+1.0 12/09/22 Updated following review
+Reviewers
+This document must be reviewed by the following people:
+Reviewer name Title / Responsibility Date Version
+Head of Information 1.0
+12/09/22
+Law
+Senior Associate
+12/09/22 1.0
+Solicitor
+Associate Director,
+Deputy SIRO & Audit 12/09/22 1.0
+Services
+Approved by
+This document must be approved by the following people:
+Name Title Date Version
+Associate Director for COVID-19 Public
+Inquiry response, CP-IS and PPPD 14/09/22 1.0
+Profession Lead
+SRO, Associate Director of Safeguarding,
+Catherine Randall 14/09/22 1.0
+NHS England
+Document Control:
+The controlled copy of this document is maintained in the NHS Digital corporate network.
+Any copies of this document held outside of that area, in whatever format (e.g., paper, email
+attachment), are considered to have passed out of control and should be checked for
+currency and validity.
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+2
+
+Child Protection - Information Sharing
+Contents
+Purpose of Information Governance Framework 4
+Background 4
+Consultation 4
+Scope and Purpose 6
+Description of Processing 8
+Organisational and technical controls 11
+Legal basis for the processing 12
+Appendix A 18
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+3
+
+Child Protection - Information Sharing
+Purpose of Information Governance Framework
+The purpose of this document is to inform parties using the Child Protection – Information
+Sharing (CP-IS) system of the sharing arrangement and the legal basis of the parties
+involved in the commission, operation, and access to the system. It will identify the
+controllers in the sharing arrangement and their responsibilities for data protection. It sets out
+the scope and purpose of the system, the changes that have been made to the CP-IS
+system during the Covid 19 pandemic, and how CP-IS will be developed to meet the national
+strategies relating to the safeguarding and protection of children in England.
+Background
+CP-IS system was commissioned as a result the Lamming Report to allow health and social
+care bodies, responsible for child protection, to share information, as this was seen to be a
+systemic failure in the Victoria Climbie case.
+The Commission
+The Department of Health originally commissioned the system to be delivered on the NHS
+Spine. The delivery for this programme of work transferred to the Health and Social Care
+Information Centre, in 2013. DHSC later novated their responsibility for commissioning the
+CP-IS system to NHS England in 2014 and NHS England now agree an annual Provision of
+Service Agreement (POSA) and work package with NHS Digital for the operation and
+development of CP-IS.
+Consultation
+In response to the Lord Laming Report a working group was formed to agree the shape,
+scope, and methodology for a new system to share child protection information. Between
+2010 and 2014 the group consulted extensively with representatives from a wide range of
+Health Care Providers, Royal Colleges, Local Authorities and Government Departments. It
+had previously been acknowledged that safeguarding extended beyond management of
+identified cases of abuse / neglect (child protection) to early identification for support and
+prevention.
+The consultation asked stakeholders for their views on the types of plans that should be
+covered, the data items that should be shared, the types of healthcare sites that should be
+enabled and conducted options analysis for benefits, technical options, and governance
+frameworks.
+The outcome was the scope as defined in the CP-IS business case (v2 2014). Between
+2014 – 2021 the service has been rolled out to over 1,200 NHS care locations within 7
+settings and to all the 152 Local Authorities with Children’s services.
+The CP-IS Programme is committed to on-going stakeholder engagement to ensure the
+current service meets user needs. A Local Authority User Group is in operation and one of
+its functions is to facilitate stakeholder engagement. Representatives cover Information
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+4
+
+Child Protection - Information Sharing
+Governance, Business Intelligence and Children’s Services practitioners. We have
+undertaken additional stakeholder engagement with Children and Young People’s
+representatives; the Office of the Children’s Commissioner and Children in Care Councils,
+Coram Voice, and Childline. They were supportive of the system and warned against offering
+an opt-out, as many adolescents prefer privacy over their own wellbeing. They did have
+concerns about it being used in all health settings as the information shouldn’t be visible to
+people where it isn’t relevant.
+Post Covid-19 Consultation
+In June and July 2021 extensive engagement was undertaken with key representatives in
+Local Authorities including Information Governance leads, Principal Social Workers,
+Caldicott Guardians and Business Intelligence leads. These sessions sought to secure
+support and agreement for the core service currently being delivered by CP-IS. There was
+unanimous support for the current service and a keen interest in supporting the development
+of CP-IS.
+Discussion about which settings should be included as part of phase 2, whether prototypes
+should be extended, and the continuation of the 0-19 data flow was not included as the
+consensus was that the added complexity would jeopardise agreement on the core service.
+It was instead suggested that a change control process be set-up to speed-up the process
+next time. Following these sessions, engagement was undertaken with the National Strategic
+Information Governance Network (SIGN) Chairs’ Group, Greater Manchester Local Authority
+Information Governance (GMLAIG), Information Governance for London (IGfL) and the
+National Performance and Information Management (NPIMG) Groups.
+The outcome of these discussions has been that change control should be via acceptance of
+updated DPIA/DSA documentation via the Information Sharing Gateway. These documents
+should be produced following consultation with LA’s, Proposed Settings, DfE, NHSEI and
+DHSC.
+Although not part of the formal consultation, views were obtained on the Covid-19 response
+extensions. It was agreed that the 7 unscheduled health care settings listed below were
+“core” CP-IS and that although there are more unscheduled care services as part of the
+Health service, these should be considered for inclusion in the system separately to the
+agreed scope of “unscheduled care”.
+It was accepted that although child protection status should be included in any health
+referral, some referrals will have this information missing, and that CP-IS is a good back-up.
+However, it was agreed that any extension into scheduled care should happen after a non-
+alerting model can be implemented, as Social Workers would be overwhelmed by the
+number of alerts generated.
+Future consultation should consider regarding the use of CP-IS by Great Ormond Street
+hospital (as this is a scheduled care setting) and whether this needs to move to a non-
+alerting model.
+It was agreed that no extension/decommissioning of the prototypes should take place until
+further consultation has been completed on them.
+It was agreed that the 0-19 dataflow, via CHIS, was necessary during the pandemic, but
+questioned whether CP-IS was the best vehicle for LAs to communicate with them, as
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+5
+
+Child Protection - Information Sharing
+parallel data flows exist and there are known issues getting all children onto the CP-IS
+system.
+Scope and Purpose
+The purpose of processing the data in the Child Protection - Information Sharing (CP-IS)
+system via the NHS Spine is to allow health and social care professionals to
+share key information regarding protected children, as they have a statutory responsibility
+and professional duty of care to safeguard the welfare of children.
+This data, shared by local authorities, is needed to allow health organisations to
+assess the risks to the child and determine the right care and support pertaining to their
+health and welfare, and any appropriate actions that may be necessary. The health data
+shared back to local authorities will allow opportunity for the social worker to be informed of
+the attendance in a health setting and to assess whether an intervention may be
+necessary to safeguard and protect the child.
+Sharing this data will provide care professionals with information from the CP-IS
+system about children subject to a Child Protection Plan (CPP), pregnant people with an
+Unborn Child Protection Plan (UCPP) and children who are designated a Child Looked After
+(CLA). Child protection plans are made under (section 47) of the Children’s Act 1989. These
+are the data subjects for CP-IS.
+Healthcare practitioners are in an opportune position to identify welfare needs or
+safeguarding concerns regarding individual children when they present to services and can
+provide support where appropriate. This includes:
+• understanding risk factors,
+• communicating and sharing information effectively with children and families,
+• liaising with other organisations and agencies,
+• assessing needs and capacity,
+• responding to those needs and contributing to multi-agency assessments and
+reviews.
+Those working in care settings and health professionals have safeguarding children defined
+as part of their professional responsibilities. Section 11 Children's Act 2004 sets out the
+services to be provided to and for young people by LAs and others. It sets out under section
+11 that NHS Commissioned services, including NHS Trusts hospitals establishments and
+facilities, have arrangements to ensure that their functions are discharged having a regard to
+the need to safeguard and promote welfare of children. Health practitioners have a critical
+role to play in safeguarding and promoting the welfare of children including:
+• GPs,
+• paediatricians,
+• nurses,
+• health visitors,
+• midwives,
+• school nurses,
+• allied health practitioners,
+• those working in maternity,
+• Great Ormond Street Hospital (unscheduled admissions & emergency transfers),
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+6
+
+Child Protection - Information Sharing
+• unscheduled and emergency care settings.
+The scope of Phase 1 (2014 – 2020) covered:
+Unscheduled care in NHS England:
+• Local Authority Children’s Services
+• Emergency Departments
+• Walk-in Centres
+• Minor Injury Units
+• Ambulance services
+• GP Out of Hours & 111
+• Direct access to Paediatric wards
+Covid-19 Response (2020 – 2022)
+The access to the CP-IS system and information was extended to more health services
+during Covid, this allowed health staff to be able to view child protection information that was
+needed for monitoring vulnerable children that were now more hidden due to the lockdowns
+and school closures. These were areas that had already highlighted a need for CP-IS access
+due to existing information sharing gaps, but the urgency was increased due to the
+pandemic.
+• Great Ormond Street Hospital (unscheduled admissions & emergency transfers),
+• 0-19 Services (Health Visitors and School Nurses) via Child Health Informatics
+Services (CHIS)
+• 11 Prototypes across 8 sites – Mental Health, Paediatrics, Dentistry and Sexual
+Health as per the table below. The closure/expansion of these will be agreed during
+the Phase 2 review. For more information, please refer to Appendix E
+Additional information highlighting the benefits of CP-IS can be found in Appendix A - Case
+Studies.
+The purpose of CP-IS is to ensure that those that are responsible for safeguarding the
+welfare of children have access to child protection information when they need it. However,
+the processing of child protection information must be proportionate, and the privacy rights of
+the individuals must also be protected. Therefore, to extend the scope of access to CP-IS
+further, to cover the sites that were included during Covid and any other services that may
+be included in the CP-IS system, further consultation with the LAs and other stakeholders
+will be carried out to establish necessity, proportionality and legal basis. This consultation will
+seek to establish a consensus across the LAs and health organisations.
+The next steps in terms of baselining the scope and purpose of CP-IS, and moving into a
+change control process will be;
+1. Document the agreed CP-IS Information Governance Framework (this document) and
+issue to Health and Local Authority sites.
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+7
+
+Child Protection - Information Sharing
+2. Update the Letter of Release (LoR) which was provided to Child Health Information
+Services (CHIS) informing them of the new basis for the 0-19 services flow,
+3. Baseline the current scope by issuing Data Sharing Agreements to each LA via the
+Information Sharing Gateway (ISG)
+4. Update the Direction being used by NHS Digital to include these new CP-IS
+arrangements
+4a. Initiate further rollout using the following agreed 3-step change control process.
+1. Consultation of the extended data sharing that will cover
+o lawful basis to share between the parties
+o Identify necessity, explicit purposes, justification of the wider sharing, how this
+will protect children balanced against the risk of sharing further which can
+become a safeguarding risk leading to children being targeted
+o Appropriateness of technical and organisational controls in place
+o Proportionality in respect of the data subjects right to private life under the HRA
+98 –this intrusion must be proportionate to its aims
+2. An updated DPIA will be completed and shared with Local Authorities setting out the
+findings of the consultation
+3. Agreement by the parties to a Data Sharing Agreement held on the Information
+Sharing Gateway (ISG)
+Description of Processing
+The CP-IS system allows Local Authorities to safely upload data onto the NHS Spine. NHS
+Digital then validates this data against a schema to ensure data quality, and against the
+Patient Demographics Service (PDS) to match the child to the health record. NHS Digital
+then integrates with Health suppliers and maintains access controls.
+NHS Digital manages the system delivery of CP-IS by maintenance of a set of business
+rules creating a data quality “front door”. If a data item does not meet NHS
+data standards, then the Local Authority record is rejected, and it is not uploaded. If the
+test passes, then the data is uploaded into the clinical store on the NHS Spine. The data is
+never altered or amended unless the LA sends an update.
+The CP-IS Operations Team will contact the top ten Local Authorities with the highest
+number of errors to investigate and provide support to enable a new file to be uploaded.
+Local Authorities need to have processes in place to check and resolve their data quality
+issues.
+• Plan Data – provided by LAs, created from the social care case management
+systems, and uploaded onto NHS Spine
+• Event Data (Health alert) – created from the RBAC profile of the person accessing
+the record, the organisation details and sent back to LAs
+• Event Data (Audit logging) – created from audit data held on the Spine and
+displayed in the CP-IS alert
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+8
+
+Child Protection - Information Sharing
+Record Data
+This is the child protection data entered by the Local Authority for any child that is in scope
+for CP-IS. This is the data regarding the protection plan/looked after status for the child (as
+detailed in section 8 below). This includes the NHS Number (unique identifier), plan type,
+start date, end date and local authority contact details. This data originates from the social
+worker who inputs the data directly into their Local Authority ICT product. The Local Authority
+ICT product automatically uploads this onto the NHS Spine CP-IS system on behalf of the
+Local Authority. The frequency of uploads varies according to local processes. This
+is available, when a child presents for care, to NHS healthcare professionals.
+Event Data
+This is the summary data of any presentation of a child to unscheduled care. It includes the
+NHS Number (unique identifier), event timestamp, organisation code and contact details for
+the person that accessed the CP-IS record on NHS Spine. This event data is used to create
+a health alert for the originating LA and the NHS ICT product (or SCRa) then
+automatically displays the last 25 audit records each time the screen is generated (Audit
+logging).
+The Local Authorities and healthcare organisations are independent controllers for their
+processing of CP-IS data (both record data and health data) for their processing of such data
+for their statutory functions.
+There are three main options available to Health sites currently to view and share data.
+1. Access to the clinical record via the Summary Care Record application (SCRa)
+2. Access via an integrated system supplier-Integrated with the health care PAS system
+3. Manual data flow
+Audit data and Power BI Dashboard
+NHS Digital operates as a platform to allow LA’s and Health to share data. One of the
+purposes of the CP-IS system is also to provide reporting and monitoring data about the
+Child Protection Information Sharing (CP-IS) system nationally. This is required both to
+provide the CP-IS Board with data to manage delivery/benefits and to provide Healthcare
+and Local Authorities with a single national and regional view of safeguarding data and
+visibility of what data is held on the NHS Spine.
+A Power BI dashboard will present the information in aggregate data in the form alongside
+full access control and small number suppression.
+1.Summary Care Record Application
+SCRa can be achieved in two ways.
+Summary Care Record Application (SCRa):
+The Summary Care Record Application (SCRa) is NHS Digital’s web portal viewer for NHS
+Spine data which enables authorised health care professionals to access if their local IT
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+9
+
+Child Protection - Information Sharing
+systems do not offer CP-IS functionality. This is not to be confused with the NHSx
+Connecting Your Care Shared Care Record, or any other local data sharing system.
+This web portal complies with the same requirements as the integrated systems. Data is
+pulled automatically from the national CP-IS spine service as above, as part of the
+existing SCRa functionality on an individual child basis. If a member of staff has CP-IS
+permissions enabled on their smartcard, then a CP-IS tab will display alongside the PDS
+results. When a search is completed and a plan exists, the SCRa displays a red dot on the
+tab for CP-IS. If no CP-IS record exists, then there is no red dot. On clicking on the tab, if
+there is a positive result, the CP-IS record and event details are provided and an alert (ASN),
+is automatically sent back to the social care worker. The event is recorded on CP-IS as part
+of the unscheduled healthcare encounter history for the child. The last 25 unscheduled
+encounters are visible to NHS and social care staff through SCRa and their direct connect
+systems. If there is a negative result, then the text on the CP-IS tab will state this.
+SCRa provides both Record and Event Data. The current SCRa systems support
+unscheduled care interactions, with scheduled care interactions to be provided in a
+subsequent iteration.
+1-Click Service
+Expanding on the SCRa functionality, it is possible to ‘click through’ to the SCRa from within
+a local NHS system. Further details can be found 1-Click Service support for system
+suppliers - NHS Digital.
+2.Integrated with the health care PAS system:
+Integration can be achieved in one of two ways:
+SMS (Spine Mini Service)
+NHS systems using a 3rd party Spine mini service provider to query the CP-IS service, on
+the NHS systems behalf. Spine Mini Services are a specification to enable suppliers of third-
+party software to provide solutions that provide a greatly simplified interface for accessing a
+subset of Spine services. It uses the NHS Digital self-certified approach to address clinical
+safety, operational readiness and information governance issues.
+Direct
+Direct access to CP-IS: From endpoint systems that already have access to Spine services,
+are smartcard enabled and are capable of generating compliant ITK messages.
+A care providers’ IT system can have CP-IS functionality built-into it. The system supplier will
+engage NHS Digital via the onboarding pipeline team. There is a list of functional and non-
+functional requirements which describe how the CP-IS functionality must operate and allows
+the supplier to develop against the external facing CP-IS API (Application Programming
+Interface). Once a supplier has developed the functionality it is assured via the NHSD
+accreditation processes to ensure clinical and technical compliance.
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+10
+
+Child Protection - Information Sharing
+Once a system is accredited, it will automatically query the national CP-IS spine service
+whenever an authorised care professional conducts a PDS search. Local business
+processes state for this to only happen when a child is presenting in front of them. The NHS
+Spine will then return a near real time view of the Record Data and Event Data. At the same
+time the NHS Spine will also capture audit data about the look-up (query) and use that to
+update the Event Data. An Access to Service Notification (ASN) is created by the NHS Spine
+and automatically sent to the LA that uploaded the plan.
+The healthcare IT system contains a “suppression engine” to ensure that only one alert is
+sent to the LA and one new Event created per episode/24-hour period, per setting. The
+current integrated systems support unscheduled care interactions, with scheduled care
+interactions to be provided in a subsequent iteration.
+3.Manual Covid dataflow
+Data is extracted automatically from the national NHS Spine CP-IS service as a.csv file
+extract on a fortnightly basis. The CP-IS team then split this file for distribution. These
+extracts are provided as separate files, covering each Local Authority that supplies data to
+the NHS Spine CP-IS service. Data is then shared via the NHS Digital SEFT portal. This
+manual data flow was created during Covid to facilitate sharing to those organisations that
+needed child protection data but did not access NHS Spine CP-IS services. This extract was
+shared with to NHS England section 7a commissioned CHIS Hubs, for processing and
+onwards distribution to 0-19 Health Visiting and School Nursing services via local secure
+transfer mechanisms. The csv file extracts are not stored. The collection covers around
+205,000 records of children in England. The collection contains special category data. This
+extract will continue for safeguarding purposes until access to the NHS Spine CP-IS system
+can be put in place.
+Organisational and technical controls
+Access Restrictions
+Only trusted systems can connect to CP-IS on the NHS Spine. There is endpoint security in
+the form of SSL Client Certificates, which are managed by SPINE.
+The User Interface has security based specific Application security implementation. CP-IS is
+only visible to staff that have the appropriate Role Based Access Control (RBAC) codes
+added to their profile by the local organisations RA Manager.
+• B0264 – Access SCRa (Perform patient trace)
+• B0107 – View Child Protection Plan
+As access is role based, the tab will be visible when a member of staff is working in another
+setting e.g., Nurse working A&E shifts over multiple hospitals, but not in other roles e.g., GP
+authorised to view in “out of hours” but not in “normal practice”. Where a role covers an out
+of scope setting e.g., Nurse working the same role but in A&E and CAHMS, they will have
+guidance and standard operating procedures not to activate the CP-IS tab in SCRa as that
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+11
+
+Child Protection - Information Sharing
+automatically creates an alert event to the social care worker as if a child had presented at
+unscheduled healthcare.
+It is the responsibility of local health sites to train staff, apply appropriate access levels and
+ensure compliance with CP-IS protocols. There is an auditing function within SCRa to allow
+sites to monitor how CP-IS is used.
+Legal basis for the processing
+Legal basis for NHS Digital
+In September 2012 the Department of Health and Social Care (DHSC) commissioned the
+Child Protection Information Sharing system (CP-IS) to be delivered via the NHS Spine. This
+Commission was to the Directorate of Informatics to establish and operate a system for
+Local Authorities and healthcare organisations to share child protection information. This
+Commission transferred to NHS Digital in 2013 and responsibility for the commission was
+novated from DHSC to NHS England in 2014.
+NHS Digital is commissioned annually by NHS England on behalf of DHSC to operate the
+CP-IS system. NHS Digital relies on its power under s270 (1)(d) of the Health and Social
+Care Act 2012 (HSCA) to setup and run the CPIS system. Section 270 gives addition
+functions to NHS Digital enabling it to supply a service to any person and provide new
+services. In addition to its additional functions under s270, NHS Digital also has powers
+under para 10 (1) of Schedule 18 of the HSCA to do anything which appears to be
+necessary or expedient for the purposes of or in connection with the exercise of its functions.
+These are the statutory powers that NHS Digital relies upon in order to setup and run the
+CPIS system in response to the commission from NHS England.
+The information, including child protection data and health audit data, which the Local
+Authorities and the healthcare organisations choose to share with each other via the CP-IS
+system is held within Spine. This is because NHS Digital utilises Spine in order to operate
+the service. NHS Digital operates Spine as a Joint Controller with the Secretary of State –
+under a Direction issued to NHS Digital by the Secretary of State. NHS Digital is, therefore,
+a Joint Controller with the Secretary of State for the personal data, contained within the
+clinical records held on Spine, which the Local Authorities and healthcare organisations
+share with each other. Personal Data is shared by LAs and healthcare organisations through their
+utilisation of CP-IS as controllers to meet their respective statutory functions. NHS Digital
+determines how the CP-IS system operates and the arrangements for processing the personal data
+by CP-IS subject to the limited use of the data for the operating, management, and governance of
+CP-IS. NHS Digital’s controllership includes the determination of the technical and organisational
+measures for security of the personal data on Spine. On this basis, NHS Digital are joint controller
+with the Local Authority or healthcare organisation who makes data available through CP-IS for the
+processing of personal data on CP-IS. However, NHS Digital’s processing of the CP-IS data as
+a Joint Controller is limited. It is limited to processing of the data that is necessary for
+operating the CP-IS system only. It is limited to just determining the means of processing for
+the operation, management, and governance (including producing aggregated reports
+shared with NHS England who commission the system) of the CP-IS system and to allow the
+Local Authorities and healthcare organisations to meet their statutory obligations.
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+12
+
+Child Protection - Information Sharing
+NHS Digital is responsible for the operation, development, and audit functions of CP-IS.
+Local Authorities upload the child protection data onto the NHS Spine CP-IS system, which
+is operated by NHS Digital, to make this available to health bodies. This sharing between
+LAs and health bodies via the Spine is for safeguarding purposes. LAs add the child
+protection data to the clinical record on Spine as Joint Controller for the child protection data.
+NHS Digital collects the audit data of the healthcare workers who have accessed the child
+protection data held in the clinical record on the NHS Spine CP-IS system. This health audit
+information is shared with local authorities to alert them that a child has attended an
+unscheduled care setting. The child protection information and the health audit information
+are available on the clinical record and the record holds the last 25 accesses.
+NHS Digital’s legal basis for this processing under UK GDPR is Article 6(1)(e) - Public Task
+- I.e., the processing is necessary for performance of a task in the public interest or for
+official functions, and the task or function has a clear basis in law.
+NHS Digital’s condition for processing special category personal data for these purposes is
+Article 9(2)(g) - Substantial Public Interest plus DPA 2018, Schedule 1, Part 2, para 6
+statutory and governmental purposes, plus DPA 2018, Sched 1, Part 1, para 2, health or
+social care purpose.
+As NHS Digital only processes confidential data about the data subjects to facilitate the
+sharing of data between the Local Authorities and the healthcare organisations and as NHS
+Digital does not share such confidential data itself, NHS Digital’s processing does not
+engage the common law duty of confidentiality.
+Covid-19 Response (2020 – 2022)
+Access to the CP-IS system was extended during the Covid 19 pandemic at the request of
+NHSE due to reports of increased risk to the safeguarding and protection of children.
+This involved extending access to the CP-IS system to additional healthcare organisations,
+however, NHS Digital’s role in this context remained unchanged i.e., NHS Digital simply
+facilitated the data sharing between Local Authorities and the additional healthcare
+organisations. This allowed Great Ormond Street Hospital (unscheduled admissions &
+emergency transfers) and 11 Prototypes across 8 sites allowing Mental Health, Paediatrics,
+Dentistry and Sexual Health to be able to access the CP-IS system. NHS Digital’s legal
+basis for operating CP-IS is, therefore, as described more broadly for the CP-IS system
+described above.
+In addition, a collection of CP-IS information is performed and disseminated by NHS Digital
+to 0-19 Services (Health Visitors and School Nurses). This was in direct response to
+concerns that children were not attending school during the Covid-19 pandemic and were,
+therefore, not in contact with school nurses and health visitors. The relevant CP-IS data
+was, therefore, collected by NHS Digital and disseminated to child health organisations
+providing NHS 0-19 services.
+Data was (and continues to be) extracted automatically from the national CP-IS spine
+service as .csv file extracts on a fortnightly basis. These extracts are provided as separate
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+13
+
+Child Protection - Information Sharing
+files, covering each Local Authority that supplies data to the CP-IS system. Data is then
+shared via the NHS Digital SEFT portal to NHS England section 7a commissioned CHIS
+Hubs as processors of the 0-19 service providers for processing and onwards distribution to
+them for health visiting and school nursing services via local secure transfer mechanisms.
+The csv file extracts are not stored.
+NHS Digital performs this collection for Covid-19 purposes (understanding information about
+patient access to NHS services as a direct or indirect result of COVID-19 and the availability
+and capacity of those services / monitoring and managing the response to COVID-19 by
+NHS bodies) as Joint Controller with NHS England pursuant to the Covid-19 Public Health
+NHS England Directions 2020, which includes a system delivery direction under Regulation
+32 of the National Institute for Health and Care Excellence. A copy of the Covid-19 Public
+Health NHS England Directions 2020 is published here. The Covid-19 Public Health NHS
+England Directions 2020 continue to apply because public health teams are still dealing with
+the impact of Covid such (as missed children’s vaccinations). As such, the above-mentioned
+purpose (as set out within the Directions) continues to apply.
+The dissemination of the data to the 0-19 service providers was performed pursuant to the
+NHS Digital and NHS England COPI Notices – issued by the Secretary of State to both
+organisations pursuant to the Health Service (Control of Patient Information) Regulations
+2002 (COPI).
+This dissemination continues to date, however, following the expiry of the COPI Notice, the
+dissemination is now performed pursuant to s261(5)(d) of the HSCA 2012 – which allows
+NHS Digital to disclose information where disclosure is made to any person in circumstances
+where it is necessary or expedient for the person to have the information for the purpose of
+exercising functions of that person conferred under or by virtue of any provision of this or any
+other Act. Additionally, this is data which the receiving organisations could lawfully have
+received directly from the organisations who had input the data on to the CP-IS system from
+which NHS Digital collected it.
+NHS England will be consulted on these arrangements, then the relevant Letter of Release
+to the 0-19 service providers (which originally set out the terms under which the data was
+being released), will be updated urgently as required to reflect the fact that this data is no
+longer being shared for a Covid-19 purpose but, instead, continues to be shared pursuant to
+s.261(5)(d). On this basis, the recipients of this data can continue to receive it for the
+purposes of meeting their own statutory obligations relating to safeguarding.
+The UK GDPR Article 6 Lawful basis for collection of the personal data for Covid-19 purposes
+is Article 6(1)(c) processing is necessary for compliance with a legal obligation to which the
+controller is subject by virtue of the Covid 19 Direction and Article 6(1)(e) Public task the
+processing is necessary for the performance of a task in the public interest, and the task or
+function has a clear basis in law. The Article 9 conditions for processing special category
+data are Article 9(2)(g) processing is necessary for reasons of substantial public interest, plus
+DPA 2018, Schedule 1, Part 2, para 6 statutory and governmental purposes and Schedule 1
+Part 2 para 18 Safeguarding of children and of individuals at risk and Article 9(2)(h) – provision
+of health or social care or treatment, plus Part 1 Sched 1 DPA18, para 2 health or social care
+purpose.
+The collection of the data continues to be performed pursuant to the Covid-19 Public Health
+Directions 2020 (which remain in force) because public health teams are still dealing with the
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+14
+
+Child Protection - Information Sharing
+impact of Covid-19 such as missed children’s vaccinations. The data is still, therefore,
+required for the purposes of understanding information about patient access to health services
+as a direct or indirect result of COVID-19 and the availability and capacity of those services as
+well as for monitoring and managing the response to COVID-19 by NHS bodies. The UK
+GDPR legal basis for the sharing of the data is Article 6(1)(e) Public Task and the conditions
+for processing special category personal data are Articles 9(2)(g) (Substantial Public Interest)
+and Article 9(2)(h) (the provision of health or social care or treatment). The confidential patient
+information can be shared because it is for a direct care purpose (for NHS commissioned
+services).
+Going Forward
+The Covid-19 Public Health Directions 2020 will not be relied upon going forward. NHS Digital
+will, instead, seek to operate the CP-IS system pursuant to a Regulation 32 NICE Regs
+(2013/259) system delivery direction. NHS Digital will be a Joint Controller of the data with
+the Secretary of State under such a direction, however, the scope of the controllership will be
+limited to running the CP-IS system only. NHS Digital’s role will be limited to making the data
+available to the Local Authorities and healthcare organisations involved, with some aggregate
+data also being provided to NHS England.
+Longer term, it is anticipated that all organisations that currently receive CP-IS data will
+ultimately move onto the CP-IS system and, therefore, the Covid specific collection will cease.
+Arrangements for this will be covered within a Requirements Specification (with appropriate
+consultation taking place) and performed under either the existing Data Interoperability
+Platform Direction or the Spine Services Directions (or both).
+A Requirements Specification is currently being developed by NHS Digital and NHS England
+that will set out the role and responsibility of CP-IS. This will be considered by DHSC for
+acceptance under existing Direction(s). This will be published on the NHS Digital website.
+Once covered by the Direction(s), NHS Digital’s legal basis for the operation of the CP-IS
+system and the processing of data, including the collection of personal data as set out above,
+shall be provided by the Direction rather than s270 HSCA powers.
+Once covered under Direction(s), NHS Digital’s legal basis for processing of personal data will
+be Article 6(c) (legal obligation), and the conditions for processing special category personal
+data will be Article 9(2)(g) - Substantial Public Interest plus DPA 2018, Schedule 1, Part 2,
+para 6 statutory and governmental purposes, plus DPA 2018, Sched 1, Part 1, para 2, health
+or social care purpose. For reference, links to the existing Data Interoperability Platform and
+Spine Services Directions can be found here:
+Establishment of systems: digital interoperability platform 2019 - NHS Digital
+Spine services (no 2) 2014 Direction - NHS Digital
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+15
+
+Child Protection - Information Sharing
+Legal basis for Local Authorities
+The Children Act 1989 places a statutory duty on Local Authorities to promote and safeguard
+the welfare of children in need in their area. Section 17(1) states that it shall be the general
+duty of every local authority: (a) to safeguard and promote the welfare of children within
+their area who are in need; and (b) so far as is consistent with that duty, to promote the
+upbringing of such children by their families. by providing a range and level of services
+appropriate to those children’s needs.
+Section 27 places a duty on health bodies to provide support where called upon. Where it
+appears to a Local Authority that any authority or body mentioned in section 27(3) could, by
+taking any specified action, help in the exercise of any of their functions under Part 3 of the
+Act, they may request the help of that other authority or body, specifying the action in
+question. An authority or body whose help is so requested must comply with the request if it
+is compatible with their own statutory or other duties and obligations and does not unduly
+prejudice the discharge of any of their functions. The authorities are: (a) any Local Authority;
+(b) any local housing authority; (c) NHS England; (d) any clinical commissioning group,
+Special Health Authority National Health Service Trust or NHS Foundation Trust; and (e) any
+person authorised by the Secretary of State for the purpose of section 27.
+Local Authorities within England (152) are individual independent controllers for the personal
+data relating to the children known to social care and each individual Local Authority is
+responsible for their own data and determining whether the information is made available on
+CP-IS to health organisations. Local Authorities choose whether to share this data and have
+access to the Spine to add data and change it as necessary. When a Local Authority adds
+personal data to Spine for CP-IS purposes, they are a Joint Controller of that data, for the
+CP-IS purposes, with NHS Digital.
+The Children Act 2004 gives Local Authorities and NHS commissioned services legal
+responsibility for arrangements to safeguard and promote the welfare of children in the
+discharge of their functions, these services include but are not limited to the Commissioning
+Board (NHS England) and NHS Trusts. This gives Local Authorities a basis to share Child
+Protection information with healthcare settings and for those healthcare settings to process
+such data as independent controllers.
+The sharing of child protection information and health data is, therefore, for the purposes of
+enabling these organisations to meet their statutory duties under the Children Acts. The UK
+GDPR Article 6 Lawful basis for processing personal data is therefore Article 6(1)(c)
+Processing is necessary for compliance with a legal obligation to which the controller is
+subject – Safeguarding of children and individuals at risk and Article 6(1)(e) Public task: the
+processing is necessary for you to perform a task in the public interest or for your official
+functions, and the task or function has a clear basis in law. The UK GDPR Article 9
+conditions for processing special category data for safeguarding children and individuals
+at risk are Article 9(2)(g) processing is necessary for reasons of substantial public interest,
+plus DPA 2018, Schedule 1, Part 2, para 6 statutory and governmental purposes plus
+Schedule 1 Part 2 para18 Safeguarding of children and of individuals at risk and 9(2)(h) –
+provision of health or social care or treatment, plus Part 1 Sched 1 DPA18, para 2 health or
+social care purpose
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+16
+
+Child Protection - Information Sharing
+Legal basis for Healthcare Organisations
+Healthcare organisations have a legal responsibility under the Children Act 1989 and the
+Children Act 2004 for the safeguarding and promotion of children’s welfare in the exercise of
+their functions. The information shared in CP-IS by the Local Authorities is necessary for the
+healthcare organisations to fulfil this duty and support the Local Authorities in fulfilling theirs.
+CP-IS enables certain relevant information, including the name of the healthcare
+organisation that has accessed a child’s record, to be shared with the Local Authorities for
+the purposes of informing the relevant Local Authority of the health services that the child
+has accessed. When such data is made available on CP-IS, the healthcare organisation are
+a Joint Controller of that data for CP-IS purposes with NHS Digital. This enables the Local
+Authority to meet their legal duties and consider whether the child may be at risk as a result
+of their interaction with the healthcare system. It allows a healthcare organisation to inform
+the Local Authority of an at-risk child’s attendance at an unscheduled setting and gives
+social care the information needed to consider whether an intervention is necessary to
+protect the child. This sharing of information is necessary for the healthcare organisations
+and the Local Authorities to meet their legal duties. The legal basis for the healthcare
+organisations to process personal data for these purposes under UK GDPR Article 6 is,
+therefore, Article 6(1)(c) - Processing is necessary for compliance with a legal obligation to
+which the controller is subject – Safeguarding of children and individuals at risk under the
+Children Act 1989 and 2004 and Article 6(1)(e) Public task: the processing is necessary for
+you to perform a task in the public interest or for your official functions, and the task or
+function has a clear basis in law.
+The UK GDPR Article 9 conditions for processing special category data are Article 9 (2)(g) -
+Substantial Public Interest, plus Schedule 1 Part 2 Para 18 of the DPA18 - Safeguarding of
+children and of individuals at risk and Article 9(2)(h) – provision of health or social care or
+treatment, plus Part 1 Sched 1 DPA18, Para 2 health or social care purpose.
+Duty of Confidentiality
+In respect of confidential information, the sharing of such information, by the Local
+Authorities and the healthcare organisations for these purposes, is compliant with the
+common law duty of confidentiality by virtue of the legal obligations (as set out above) to
+which the aforementioned organisations are subject.
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+17
+
+Child Protection - Information Sharing
+Appendix A
+Case Studies
+Case study - North East Ambulance Service
+In April 2020, the Emergency Operations Centre at North East Ambulance Service received
+a 999 call from a parent . The health advisor attempted
+to call back, and on the 3rd attempt made contact with the parent, who stated that Child A
+and that everything was fine.
+The health advisor requested some details to log the call and close the episode of care. After
+doing so the health advisor sought advice from their team leader, due to the changing story
+provided by the parent.
+Upon further investigation, they established that a CP-IS flag was present on Child A’s
+record, stating that they were on a child protection plan. Given this new information, an
+ambulance was dispatched to check the welfare of Child A.
+Child A was subsequently transported to hospital by the ambulance crew and police
+and placed into the care of the local authority.
+Following the event, both the health advisor and team leader expressed that they had felt a
+sense of unease around the explanations provided during what was a very brief 90 second
+phone contact. The presence of the CP-IS flag aided their clinical decision to send an
+ambulance crew to check on the wellbeing of the child.
+Case study: protecting children when out of area
+The inner London borough of Hackney is one of the most densely populated in the capital,
+and the second most deprived local authority area in England. Hackney Council went live
+with CP-IS in December 2016. At the time, 640 children in the area were either looked after
+or subject to a child protection plan (including unborn children). Joanne Ridgley, the Social
+Care Practice Lead at Hackney Council during the implementation of CPIS, describes how
+CP-IS automatic notifications are helping to protect children when they present for care in
+other parts of the country.
+"Child C was a looked after child who went to visit family in the south of England. Whilst
+there, Child C presented at an unscheduled care setting
+"On checking the demographic details, a staff member saw that there was a CP-
+IS childcare alert on Child C's record. The childcare alert showed that the young person was
+a looked after child. Knowing this additional information, more probing questions were asked
+about At this point Child C disclosed
+This disclosure resulted in the
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+18
+
+Child Protection - Information Sharing
+staff member having a conversation with a social worker and making a safeguarding referral
+to the local authority."
+"As Child C had presented at an unscheduled care setting that had implemented CP-IS, an
+automatic notification was sent to the child's originating local authority (Hackney). The child's
+social worker contacted the unscheduled care setting to find out about the incident and the
+action that had been taken.
+Without CP-IS being in place, this young person may have been seen, treated and
+discharged without a safeguarding referral being made. The information sharing between the
+two local authorities may not have happened and appropriate follow up may not have
+occurred. When contacted by their social worker the family failed to mention the incident.
+"The fact that the CP-IS automatic notification came from another part of England, combined
+with the fact that this made the staff member there probe more, meant that the social worker
+had a more holistic view of Child's C's case."
+Case study: protecting unborn children subject to child protection plans
+East and North Hertfordshire NHS Trust provides acute healthcare services to a population
+of approximately half a million people living in and around Stevenage, Hertford and Welwyn
+Garden City. The trust went live with CP-IS in April 2015.
+We met with Christina Kelly, the trust's Named Nurse for Safeguarding, to hear about how
+CP-IS had helped them work with the local social care team to care for a vulnerable girl and
+her unborn child.
+"What we've found really helpful is that CP-IS will alert us if a child we're treating has a child
+protection plan in place, including unborn children that are subject to a plan."
+The system will also tell us if a child is looked after by the local authority, along with when
+and how often that child has attended for emergency treatment regardless of where they are
+in the country. This can help us identify any patterns of abuse or neglect as well as form a
+better understanding of their personal circumstances.
+"We had a recent case where . She was brought in
+by ambulance and taken to our emergency department. At the point of entering her details
+into our IT system, CP-IS alerted us that she was a looked after child. There was also a
+second CP-IS flag that told us she was pregnant, and the unborn child was subject to a child
+protection plan.
+"The girl had not told the ambulance crew she was pregnant and did not have an obvious
+baby bump. Without CP-IS making the information available to us, we wouldn't have known
+about her condition.
+"As soon as we discovered she was pregnant we were able to make a better-
+informed clinical assessment and ensure that both the girl and her unborn child received the
+safest, most appropriate multi-agency care.
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+19
+
+Child Protection - Information Sharing
+"As well as providing important child protection information, CP-IS also provides a contact
+number for the social care team responsible so it is clear who to contact. In this case, the
+triage nurse called the social care team right away. Information was shared and a decision
+was taken to admit the girl so the allocated social worker could visit and review the situation
+before she was discharged.
+"In this case, CP-IS played a significant part in supporting multi-agency efforts to achieve the
+best outcome for the young person and her unborn child."
+For further information
+www.digital.nhs.uk
+0300 303 5678
+enquiries@nhsdigital.nhs.uk
+Under the Open Government Licence you are encouraged to use and re-use the
+publicly accessible information in this notice free of charge. Re-use includes copying,
+issuing copies to the public, publishing, broadcasting and translating into other
+languages and its subsequent use in commercial or non-commercial enterprise.
+Copyright © 2020 Health and Social Care Information Centre.
+The Health and Social Care Information Centre is a non-departmental body created by statute, also known as NHS Digital.
+20

@@ -1,0 +1,596 @@
+23 November 2022
+AGREEMENT FOR THE SHARING OF DATA
+between
+THE MAYOR AND BURGESSES OF
+THE LONDON BOROUGH OF CAMDEN
+and
+THE MAYORS OFFICE FOR POLICING AND CRIME
+CONTROLLER TO CONTROLLER
+DATA SHARING AGREEMENT
+London Borough of Camden
+Legal Services Department
+Town Hall
+Judd Street
+London WC1H 9LP
+1
+
+INDEX
+1. Interpretation
+2. Purpose
+3. Compliance
+4. Shared Personal Data
+5. Fair Lawful and Transparent Processing
+6. Data Quality
+7. Data Subjects’ Rights
+8. Data Retention and Deletion
+9. Transfers
+10. Security and Training
+11. Data Security Breaches and Reporting Procedures
+12. Resolution of Disputes with Data Subjects or the Data Protection Authority
+13. Warranties
+14. Term and Termination
+15. Roles and Responsibilities
+16. Third Party Rights
+17. Variation
+18. Waiver
+19. Severance
+20. Changes to the Applicable Law
+21. Entire Agreement
+22. Force Majeure
+23. Notice
+24. Governing Law and Jurisdiction
+25. Counterparts
+26. Good Faith
+27. Human Rights
+28. Consideration
+2
+
+This agreement (the “Agreement”) is made 2020
+Parties
+(1) THE MAYOR AND BURGESSES OF THE LONDON BOROUGH OF CAMDEN of
+Town Hall, Judd Street, London WC1H 9JE (“the Council”); and
+(2) Mayor’s Office for Policing and Crime (MOPAC) whose registered office is at 169
+Union Street, Southwark, London SE1 0LL. (“Provider”).
+Each referred to as a “Party” and together the “Parties”.
+BACKGROUND
+A. The following agreement between the Parties reflects the arrangements that they have
+agreed to put in place between LB Camden, on behalf of the London Resettlement
+Partnership (LRP) and the Mayor’s Office for Policing and Crime (MOPAC) who are
+evaluating the LRP Pathfinder.
+B. The Parties are data controllers and this Agreement explains the purposes for which
+the Personal Data may be used.
+C. As such, the Parties agree to share the Personal Data with each other on the terms set
+out in this Agreement.
+1. INTERPRETATION
+Definitions
+“Agreed Purposes” shall mean the agreed purposes for sharing the Personal Data, as
+detailed in the Schedule;
+“Controller” shall have the same meaning as set out in the DPA 2018/UK GDPR and
+for the purposes of this Agreement both Parties shall be Controllers as further detailed
+in the Schedule of Processing, Personal Data and Data Subjects;
+“Data Discloser” shall mean the Party that discloses data to the other Party to this
+Agreement;
+“Data Loss Event” shall mean any event that results, or may result, in unauthorised
+access to Personal Data held by the Contractor under this Agreement, and/or actual or
+potential loss and/or destruction of Personal Data in breach of this Agreement,
+including any Personal Data Breach;
+“DPA 2018” shall mean the Data Protection Act 2018;
+“Data Protection Impact Assessment” shall mean an assessment by the Controller
+of the impact of the envisaged processing on the protection of Personal Data;
+“Data Protection Legislation” shall have the meaning ascribed to it by Data
+Protection Act 2018 section 3(9):
+“Data Protection Officer” shall have the same meaning as set out in the DPA 2018/UK
+GDPR and for the purposes of this Agreement shall be identified in the Schedule of
+Processing, Personal Data and Data Subjects;
+“Data Subject” shall have the same meaning as set out in the DPA 2018/UK GDPR
+and for the purposes of this Agreement shall be identified in the Schedule of
+Processing, Personal Data and Data Subjects;
+“Data Subject Access Request” shall mean a request made by, or on behalf of, a
+Data Subject in accordance with rights granted pursuant to the Data Protection
+Legislation to access their Personal Data;
+3
+
+“DPA 2018” Data Protection Act 2018
+“UK GDPR” shall mean the UK implemented General Data Protection Regulation
+(Regulation (EU) 2016/679);
+“ICO” shall mean the Information Commissioner's Office in the United Kingdom;
+“Law” shall mean any law, subordinate legislation within the meaning of Section 21(1)
+of the Interpretation Act 1978, bye-law, regulation, order, regulatory policy, mandatory
+guidance or code of practice, judgment of a relevant court of law, or directives or
+requirements with which the Contractor is bound to comply;
+“Personal Data” shall have the same meaning as set out in Section 3(2) of the Data
+Protection Act 2018 and for the purposes of this Contract shall be identified in the
+Schedule of Processing, Personal Data and Data Subjects;
+“Personal Data Breach” shall have the same meaning as set out in the UK GDPR
+and includes but is not limited to the exposure or potential or possible exposure of data
+including but not limited to Personal Data to any third parties to the Contract or those
+who have neither a contractual nor statutory right of access to the data including any
+circumstances in which such exposure or possible exposure would constitute a breach
+of the provisions of the Data Protection Legislation;
+“Process” has the meaning given to it under the Data Protection Legislation and for the
+purposes of this Agreement, the processing activities taking place are described in the
+Schedule of Processing, Personal Data and Data Subjects;
+“Processor” shall have the same meaning as set out in the DPA 2018/UK GDPR;
+“Protective Measures” shall mean the appropriate technical and organisational
+measures which may include: pseudonymising and encrypting Personal Data, ensuring
+confidentiality, integrity, availability and resilience of systems and services, ensuring
+that availability of and access to Personal Data can be restored in a timely manner after
+an incident, and regularly assessing and evaluating the effectiveness of the such
+measures adopted by it;
+“Schedule” means the Schedule of Processing, Personal Data and Data Subjects;
+“Staff” shall mean all directors, officers, employees, agents, consultants and
+contractors of the Contractor and/or of any Sub-processor engaged in the performance
+of its obligations under this Agreement;
+“Sub-processor” shall mean any third party appointed to process Personal Data on
+behalf of the Contractor related to this Agreement.
+“Term” shall mean the duration of this Agreement as detailed in the Schedule.
+2. PURPOSE
+2.1 This Agreement sets out the framework for the sharing of Personal Data between the
+Parties as Data Controllers and defines the principles and procedures that the
+Parties shall adhere to and the responsibilities the Parties owe to each other.
+2.2 The Personal Data subject to this Agreement is listed within the Schedule.
+2.3 The sharing of Personal Data is necessary to support the Agreed Purposes as listed
+within the Schedule.
+2.4 It is recognised that there are significant benefits to the Parties of having access to
+the Shared Personal Data to achieve the Agreed Purposes.
+2.5 This Agreement is required to ensure that where Personal Data may be accessed,
+such access will at all times comply with the Data Protection Legislation.
+3. COMPLIANCE
+3.1 The Parties agree that this Agreement formalises the lawful transfer of the Personal
+Data between the Parties and presents no new or additional privacy concerns.
+4
+
+3.2 A data protection impact assessment has been conducted in respect of the Personal
+Data to be shared and the necessity of the sharing and this Agreement serves to
+address any residual privacy or information risks and documents the actions taken to
+identify, address and mitigate those risks wherever possible.
+3.3 The Parties shall not process the Personal Data in a way that is incompatible with the
+Agreed Purposes.
+3.4 As Data Controllers, the Parties remain responsible for ensuring that all uses of the
+Personal Data are in compliance with all applicable Data Protection Legislation.
+3.5 This Agreement must be formally approved and signed by the Parties before any
+Personal Data is shared by persons with authority to do so on behalf of their
+organisation. All Parties will ensure that the terms of this Agreement are known and
+understood by all Staff involved in the sharing of the Personal Data.
+3.6 Each Party is registered with the ICO has a valid Data Protection Registration
+Number with its national Data Protection Authority if required by the Enterprise Act
+2017 which by the time that the data sharing is expected to commence, covers the
+intended data sharing pursuant to this Agreement.
+3.7 The Council’s ICO registration number is Z5948361 and the Provider’s ICO
+registration number is Z2972789.
+4. PERSONAL DATA
+4.1 The Parties shall, in relation to any of the Personal Data processed in connection with
+its obligations under this Agreement:
+4.1.1 Process that Personal Data only in accordance with the Schedule, unless the
+Parties are required to do otherwise by Law, which should be notified to the
+other Parties (unless notification is prohibited by Law);
+4.1.2 not Process in an irrelevant or excessive way with regard to the Agreed
+Purposes;
+4.1.3 ensure they do not knowingly or negligently do or omit to do anything which
+places the Parties breach of the obligations under the Data Protection
+Legislation;
+4.1.4 ensure that they have in place Protective Measures to protect against:
+a) unauthorised or unlawful processing of Personal Data;
+b) accidental loss or destruction of, or damage to, Personal Data,
+and such measures to be reviewed as appropriate to protect against a Data
+Loss Event having taken account of the:
+(i) nature of the data to be protected;
+(ii) harm that might result from a Data Loss Event;
+(iii) state of technological development; and
+(iv) cost of implementing any measures;
+4.1.5 ensure the Personal Data is kept and stored securely in accordance with Data
+Protection Legislation;
+4.1.6 ensure that:
+(i) the Staff do not process Personal Data except in accordance the
+Schedule;
+(ii) each Party takes all reasonable steps to ensure the reliability and
+integrity of any Staff who have access to the Personal Data and ensure
+that they:
+(A) are aware of and comply with the duties under this Agreement;
+(B) are subject to appropriate confidentiality undertakings;
+(C) are informed of the confidential nature of the Personal Data and do
+not publish, disclose or divulge any of the Personal Data to any third
+party unless permitted by this Agreement; and
+(D) have undergone adequate training in the use, care, protection and
+5
+
+handling of the Personal Data;
+4.1.7 not transfer the Personal Data outside of the UK unless the prior written
+consent of all Parties has been obtained and the following conditions are
+fulfilled:
+a) the Parties have provided appropriate safeguards in relation to the
+transfer (whether in accordance with UK GDPR Article 46 or LED Article
+37);
+b) the Data Subject has enforceable rights and effective legal remedies;
+c) the Parties outside the UK comply with the obligations under the Data
+Protection Legislation by providing an adequate level of protection to any
+Personal Data that is transferred (or, if it is not so bound, uses its best
+endeavours to assist the Parties in meeting its obligations under the
+Data Protection Legislation);
+4.1.8 securely destroy or return the Personal Data (and any copies of it) to the Data
+Discloser upon termination or expiry of this Agreement unless the Parties are
+required by Law to retain the Personal Data; and
+4.1.9 as far as is reasonably practical, anonymise or pseudonymise all Personal
+Data contained in statistics, reports and summaries to minimise the amount of
+Personal Data shared.
+5. FAIR, LAWFUL AND TRANSPARENT PROCESSING
+5.1 The Personal Data shall be shared in accordance with the Agreed Purposes on the
+basis of the legal grounds as stated in the Schedule.
+5.2 The Parties undertake to inform Data Subjects of the purposes for which it will
+process their Personal Data and provide all of the information that it must provide in
+accordance with applicable laws, to ensure that the Data Subjects understand how
+their Personal Data will be processed by the Data Controller.
+5.3 The Parties shall, in respect of the Personal Data, ensure that their privacy notices
+are clear and provide sufficient information to Data Subjects, in order for them to
+understand:
+5.3.1 what Personal Data the Parties are sharing;
+5.3.2 the circumstances in which it will be shared;
+5.3.3 the purposes for the sharing;
+5.3.4 either the identity with whom the Personal Data is shared or a description of
+the type of organisation that will receive the Personal Data
+unless an exemption to the transparency provisions applies.
+6. DATA QUALITY
+6.1 The Data Discloser shall ensure that the Personal Data is accurate.
+6.2 Where either Party becomes aware of inaccuracies in the Personal Data, they will
+notify the other Party immediately.
+7. DATA SUBJECTS' RIGHTS
+7.1 Data Subjects have the right to obtain certain information about the processing of
+their Personal Data through a Subject Access Request. Data Subjects may also
+request rectification, erasure or blocking of their Personal Data.
+7.2 The Parties shall maintain a record of Subject Access Requests, the decisions made
+and any information that was exchanged. Records must include copies of the request
+for information, details of the data accessed and shared and where relevant, notes of
+any meeting, correspondence or phone calls relating to the request, together with
+relevant dates.
+7.3 The Parties agree that the responsibility for complying with a Subject Access Request
+6
+
+falls to Party receiving the Subject Access Request in respect of the Personal Data
+held by that Party.
+7.4 The Parties agree to provide reasonable and prompt assistance (within 5 business
+days of such a request for assistance) at their own expense as is necessary to each
+other to enable them to comply with Subject Access Requests and to respond to any
+other queries or complaints from Data Subjects.
+8. DATA RETENTION AND DELETION
+8.1 The Data Receiver shall not retain or process Personal Data for longer than is
+necessary to carry out the Agreed Purposes.
+8.2 Notwithstanding Clause 8.1, the Parties shall continue to retain the Personal Data in
+accordance with any internal or statutory retention periods applicable in their
+organisations and/or industry.
+8.3 The Data Receiver shall ensure that any Personal Data is returned to the Data
+Discloser or destroyed in the following circumstances:
+(a) upon termination of the Agreement for whatever reason;
+(b) upon expiry of the Term (unless extended further in accordance the terms of this
+Agreement); and
+(c) once processing of the Personal Data is no longer necessary for the Agreed
+Purposes.
+9. TRANSFERS
+9.1 For the purposes of this Clause, transfers of Personal Data shall mean any sharing of
+the Personal Data by the Data Receiver with a third party, and shall include, but is not
+limited to, the following:
+a) sharing of the Personal Data with any third party;
+b) publication of the Personal Data via any medium, including, but not limited to
+social media, websites, publicly available communications.
+c) storing Personal Data on servers outside the UK;
+d) subcontracting the processing of Personal Data to data processors located
+outside the UK;
+e) granting third parties located outside the UK access rights to the Personal Data.
+9.2 The Data Receiver shall not share the Personal Data with a third party without the
+express written permission of the Data Discloser save as required by law or court
+order.
+9.3 Where Personal Data is to be shared under clause 9.2, the Data Receiver shall not
+disclose or transfer the Personal Data outside the UK without first ensuring that
+adequate and equivalent protections will be afforded to the Personal Data.
+10. SECURITY AND TRAINING
+10.1 The Parties agree to implement appropriate technical and organisational measures to
+protect the Personal Data in their possession against unauthorised or unlawful
+processing and against accidental loss, destruction, damage, alteration or disclosure,
+including but not limited to:
+a) ensuring IT equipment, including portable equipment is kept in lockable areas
+when unattended;
+b) not leaving portable equipment containing the Personal Data unattended;
+c) ensuring Staff use appropriate secure passwords for logging into systems or
+databases containing the Personal Data;
+d) ensuring that all IT equipment is protected by antivirus software, firewalls,
+passwords and suitable encryption devices;
+e) ensuring that any Special Category Personal Data is stored and transferred
+7
+
+(including where stored or transferred on portable devices or removable media)
+using industry standard 256-bit AES encryption or suitable equivalent;
+f) limiting access to relevant databases and systems to those Staff who need to
+have access to the Personal Data, and ensuring that passwords are changed
+and updated regularly to prevent inappropriate access when individuals are no
+longer engaged by the Party;
+g) conducting regular threat assessment or penetration testing on systems;
+h) ensuring all Staff handling Personal Data have been made aware of their
+responsibilities with regards to handling of the Personal Data; and
+i) allowing for inspections and assessments to be undertaken by the other Party in
+respect of the security measures taken, or producing evidence of those
+measures if requested.
+11. PERSONAL DATA BREACHES AND REPORTING PROCEDURES
+11.1 The Parties shall ensure they do not knowingly or negligently do or omit to do anything
+which places either Party in breach of the Data Protection Legislation.
+11.2 Each Party shall inform the other immediately if it:
+a) is in breach of the Protective Measures requirements;
+b) receives a request to rectify, block or erase the Personal Data;
+c) receives any complaint or communication relating to either Party's obligations
+under the Data Protection Legislation;
+d) receives any communication from the Information Commissioner or any other
+regulatory authority in connection with the Personal Data;
+e) receives a request from any third party for disclosure of the Personal Data where
+compliance with such request is required or purported to be required by Law; or
+f) becomes aware of a Data Loss Event, and without undue delay and in any event
+within 24 hours, shall notify the other Parties, by:
+(i) contacting the Data Protection Officer(s) as detailed within the Schedule;
+and
+(ii) informing them of the Data Loss Event, including in its notification:
+(A) a description of the Data Loss Event including where possible, the
+categories and approximate number of Data Subjects concerned and
+the categories and approximate number of data records concerned;
+and
+(B) a description of the measures taken or proposes to take to address
+the Data Loss Event, including, where appropriate, measures to
+mitigate its possible adverse effects.
+11.3 Following the notification of a Data Loss Event, the informing Party shall immediately
+assess the risks and consequences of the Data Loss Event and take measures,
+including:
+(i) to mitigate the possible adverse effects of the Data Loss Event; and
+(ii) to protect the data and the interests/safety of the Data Subject and/or Data
+Controller,
+and inform the other Parties as to the measures that it has taken.
+11.4 The informing Party’s obligation to notify shall include the provision of further
+information in phases, as details become available.
+12. RESOLUTION OF DISPUTES WITH DATA SUBJECTS OR THE DATA
+PROTECTION AUTHORITY
+12.1 Taking into account the nature of the processing, the Parties shall provide each other,
+at their own expense, with full assistance in relation to the Personal Data and the
+obligations under Data Protection Legislation and any complaint, communication or
+request made including by promptly providing (and in any event within 24 hours of being
+received):
+i. full details and copies of the complaint, communication or request;
+8
+
+ii. such assistance as is reasonably requested to enable the Parties to comply
+with a Data Subject Access Request within the relevant timescales set out in
+the Data Protection Legislation;
+iii. assistance as required with respect to any request from the Information
+Commissioner’s Office, or any consultation by the Parties with the Information
+Commissioner's Office;
+iv. any Personal Data it holds in relation to a Data Subject (as appropriate) within
+the timescales required by the Council; and
+v. each other Party with any information requested in relation to the request.
+13. RECORDS
+13.1 The Parties shall maintain complete and accurate records and information to
+demonstrate its compliance with Data Protection Legislation.
+13.2 The Parties may reasonably request information from each to satisfy itself that
+obligations under the Data Protection Legislation are being met in relation to the
+Personal Data.
+Sub-processing
+13.3 Before allowing any Sub-processor to process any Personal Data related to this
+Agreement, the Parties must:
+a) notify the other Parties in writing of the intended Sub-processor and processing;
+b) obtain the written consent of the Parties;
+c) enter into a written agreement with the Sub-processor which gives effect to the
+terms set out in this Condition such that they apply to the Sub-processor; and
+d) provide the Parties with such information regarding the Sub-processor as the
+Parties may reasonably require.
+13.4 The appointing Party shall remain fully liable for all acts or omissions of any Sub-
+processor.
+14. WARRANTIES
+14.1 Each Party warrants and undertakes that it will:
+(a) Process the Personal Data in compliance with all applicable laws, enactments,
+regulations, orders, standards and other similar instruments that apply;
+(b) respond to Subject Access Requests in accordance with the terms of this
+Agreement and in accordance with the DPA 2018/UK GDPR;
+(c) make available upon request to the Data Subjects a copy of this Agreement,
+unless the Agreement contains confidential information;
+(d) respond within a reasonable time and as far as reasonably possible to enquiries
+from the relevant Data Protection Authority in relation to the Personal Data;
+(e) where applicable, maintain registration with all relevant Data Protection
+Authorities to process the Personal Data for the Agreed Purpose; and
+(f) take all appropriate steps to ensure compliance with the security measures set
+out in Clause 10.
+14.2 The Data Discloser shall ensure that the Personal Data is accurate.
+14.3 The Parties agree to take account of any guidance issued by the Information
+Commissioner’s Office. The Council may on not less than 30 Working Days’ notice to
+the Parties to amend this Agreement to ensure that it complies with any guidance.
+14.4 Each Party shall be responsible for their own costs incurred in complying with this
+Agreement.
+15. TERM AND TERMINATION
+15.1 This Agreement shall commence on and shall continue in for the duration detailed in
+9
+
+the Schedule.
+15.2 The Agreement shall automatically terminate on expiry of the Term unless, following a
+review of the terms of the Agreement, the Parties agree to extend the Agreement.
+15.3 Any such renewal shall be in writing signed by an authorised signatory of all Parties
+and the Parties shall seek to agree any such renewal at least 2 months in advance of
+the expiry of the Term.
+15.4 The provisions of this Agreement shall apply during the continuance of the Agreement
+and indefinitely after its expiry or termination.
+16. ROLES AND RESPONSIBILITIES
+16.1 Each Party shall nominate a single point of contact within their organisation who may
+be contacted in respect of queries or complaints regarding DPA 2018/UK GDPR
+and/or compliance under the terms of this Agreement, as detailed within the
+Schedule.
+17. THIRD PARTY RIGHTS
+17.1 No one other than a Party to this Agreement shall have any right to enforce any of its
+terms.
+18. VARIATION
+18.1 No variation of this Agreement shall be effective unless it is in writing and signed by
+the Parties (or their authorised representatives).
+19. WAIVER
+19.1 No failure or delay by a Party to exercise any right or remedy provided under this
+Agreement or by law shall constitute a waiver of that or any other right or remedy, nor
+shall it prevent or restrict the further exercise of that or any other right or remedy. No
+single or partial exercise of such right or remedy shall prevent or restrict the further
+exercise of that or any other right or remedy.
+20. SEVERANCE
+20.1 If any provision of this Agreement (or part of any provision) is found by any court or
+other authority of competent jurisdiction to be invalid, illegal or unenforceable, that
+provision or part-provision shall, to the extent required, be deemed not to form part of
+this Agreement, and the validity and enforceability of the other provisions of this
+Agreement shall not be affected.
+20.2 If a provision of this Agreement (or part of any provision) is found to be illegal, invalid
+or unenforceable, the provision shall apply with the minimum modification necessary
+to make it legal, valid and enforceable.
+21 CHANGES TO THE APPLICABLE LAW
+21.1 In case the applicable data protection and ancillary laws change in a way that the
+Agreement is no longer adequate for the purpose of governing lawful data sharing
+exercises, the Parties agree that they will negotiate in good faith to review the
+Agreement in light of the new legislation.
+22 ENTIRE AGREEMENT
+22.1 This Agreement constitutes the entire agreement between the Parties in relation to its
+subject matter, namely the sharing of data included in Schedule 1 of the Agreement,
+10
+
+
+
+
+
+13
+
+
+
+• Work with NHS England and partners to define ways of securing
+continuity of health pathways from custody to community
+• Address disproportionality and its impact on pathways to
+resettlement.
+• Support local practice networks of resettlement case workers to
+define improvements and raise strategic issues
+• Develop a body of effective practice and materials for dissemination
+nationally to YOTs and other agencies.
+Legal Basis for sharing and Personal data: Article 6(1) (c) legal duty and 6(1)(e) processing is
+Privacy notice requirements necessary for the performance of a task carried out in the public interest .
+The Crime and Disorder Act 1998 gives each LA in England & Wales has
+the responsibility to formulate a strategy to reduce crime and disorder in
+their area and to work with police authorities to do this. Section 115 of the
+Act gives partners the power to share information for the purpose of
+reducing crime and disorder. Schedule 9 (5) of the Police and Justice Act
+strengthens this by introducing a new duty on the same agencies.
+The Children Act 1989 Under S.47 of the Children’s Act 1989, a Local
+Authority has a duty to investigate
+when informed that a child in their area is in police protection or the subject
+of a protection order.
+The Children Act 2004, as amended by the Children and Social Work Act
+2017, places duties on key agencies in a local area. Specifically, the police,
+clinical commissioning groups and the local authority are under a duty to
+make arrangements to work together, and with other partners locally, to
+safeguard and
+promote the welfare of all children in their area.
+The Statutory Guidance - Working Together to Safeguard Children (2018)
+and Information Sharing – Advice to Practitioners providing safeguarding
+services to Children, Young People, Parents, and Carers (July 2018)
+emphasise the need to share appropriately.
+Special Category Data: Art 9(g) Reasons of substantial public interest
+(with a basis in law) and (h) Health or social care (with a basis in law). For
+art 9(g) the Data Protection Act 2018 Schedule 1 Part 2 conditions are para
+6 6 (Statutory and government purposes) and para 18 (Safeguarding of
+children and of individuals at risk) with the underlying law being that
+identified in art 6 above; and for art 9(h) the Data Protection Act 2018
+Schedule 1 Part 1 condition is (2)(2)(e) Health or social care purposes, the
+provision of social care. The underlying law is the same as for art 6.
+Criminal Offence Data the processing complies with Art 10, the art 6
+condition is as noted above and the Data Protection Act 2018 Schedule 1
+conditions are as noted above.
+Responsibilities Allocated to 1. Schedule 2: the case level data listed within this schedule will be
+each Party processed jointly by both parties
+2. Schedule 3: Asset Plus data will be processed solely by the other party
+as data controller
+3. Schedule 4: the outcome stars will be processed jointly by both
+parties.
+4. Data relating to names and email addresses of key stakeholders will
+be processed jointly by both parties.
+Categories of Data Subject Children: the data will include all children who are from the 32 London
+Borough’s who are sentenced or remanded to youth custody. These
+children can age between 10-18 years.
+15
+
+Professionals: contact details of key stakeholders working with the LRP
+will be shared with MOPAC to enable qualitative interviews to take place.
+This will include names and email addresses and will be undertaken with
+the owners permission.
+Plan for return and destruction Any data collated on the children will be retained in accordance with the
+UNLESS requirement under law DPIA for the London Resettlement Partnership and LB Camden’s
+to preserve data retention and disposals policy:
+• R19.2 Youth Offending Service [Retain until 25th Birthday (unless
+also SEN, LAC, CP] in the first instance.
+• R28 Looked after Children and Care Leavers [Retain until DOB+
+75 years) in the first instance.
+For e.g. If the child is also engaged with both above, then the LAC
+retention period (R28) would override R19.2 for their individual record.
+16
+
+
+
+
+
+
+
+
+
+
+
+Schedule 3
+Asset Plus Contents
+Section 1: Core Record
+Summarises information from the rest of the framework and the wider case management
+system, including:
+• personal information
+• parent/carer details
+• current and previous offending or anti-social behaviour
+• risk of harm, serious risk of harm and risk to the young person
+• record of contact with other services
+• details of the young person’s personal circumstances
+• summary of key actions from the intervention plan
+Section 2: Information Gathering
+Collects information to explain the young person’s situation or behaviour, including:
+• Personal, Family and Social Factors
+• living arrangements and environmental factors
+• parenting, family and relationships
+• young person development
+• learning, Education, training and employment
+• Offending/anti-social Behaviour
+• current offending
+• patterns and attitudes
+• other behaviours of concern
+• Foundations for Change
+• resilience, goals and attitudes
+• opportunities
+• engagement and participation
+• factors affecting desistance
+• Self-assessment
+• questionnaires for young person and parents/carers
+Section 3: Explanations and Conclusions
+Practitioners will pull together and analyse elements of the Information Gathering section to
+make judgements about the young person in four main areas:
+1. explaining offending behaviour patterns and trends based on the young person’s
+individual context
+2. considering potential future behaviour, its likelihood and impact
+22
+
+3. use 1 and 2 alongside an indicative rating of reoffending to determine the
+likelihood of reoffending rating and Risk of Serious Harm rating
+4. making a professional judgement about the likelihood and impact of adverse
+outcomes in relation to the young person’s safety and well-being
+Section 4: Pathways and Planning
+Supports practitioners to identify outcomes and plans that link to risks and positive factors
+identified in the Explanations and Conclusions section:
+• outlines judgements made in the assessment alongside an indicative Scaled
+Approach Intervention Level
+• frames the young person’s intervention plan around what can or needs to be done
+to deliver 5 key outcomes:
+• repairing the harm (Restorative Justice)
+• not reoffending
+• not hurting others
+• goals and life opportunities
+• safety and well-being
+• outlines targets and actions that will seek to deliver the intended outcomes
+• highlights areas where there is a need for referral and gives consideration to
+engagement, risk, safety management and changing circumstances
+23
+
+Schedule 4
+Sample Spark inside Outcome Star
+24

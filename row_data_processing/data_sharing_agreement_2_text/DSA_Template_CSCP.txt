@@ -1,0 +1,1448 @@
+Freedom of Information Act Publication Scheme
+Protective Marking Not Protectively Marked
+Publication Scheme Yes
+Title A purpose specific information sharing agreement
+documenting sharing within the London Borough of Camden
+Version MASH ISA v3.0 FINAL
+Summary An agreement to formalise information sharing arrangements
+with London Borough of Camden Children’s Services, The
+Metropolitan Police (Camden Borough Command), and
+Central and North West London NHS Foundation Trust
+(Camden Provider Services) and London Probation Trust
+(Camden and Islington Local Delivery Unit) for the purpose of
+identifying and assessing risks to children’s wellbeing and
+welfare in the borough.
+(B)OCU or Unit / Directorate The Metropolitan Police (Camden Borough)
+Responsible officer Michelle O’Regan
+Commencement Date 1st January 2017
+Expiry Date 31st December 2017
+Generic guidance document:
+Protective marking Not Classified
+Suitable for Publication Scheme Yes
+Purpose Generic guidance document for use by boroughs
+engaged in the MASH project
+Author MASH Team - MPS
+Date created August 2013
+Review date Initial review 6 months from commencement and
+thereafter annually.
+
+MASH
+London Project
+Information sharing agreement
+Purpose Specific Information Sharing Arrangement
+Sharing of Information within the London Borough of Camden Multi Agency Safeguarding
+Hub (MASH) to assist in identifying and assessing risks to children’s wellbeing and welfare in
+the borough
+MASH ISA: Ist January 2017 Page 1 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Contents
+Section 1: Purpose of the agreement, duration and commencement 3
+Section 2: Specific purpose for sharing information 4
+Section 3: Legal basis for sharing information and what will be shared 5
+Section 4: Description of arrangements including security 15
+Business processes 15
+Confidentiality 16
+Rights of data owner and confidential information 18
+Requests for data from MASH records 18
+Business continuity 18
+Compliance 19
+Sanctions 20
+Training/awareness 20
+Partners building and perimeter security 20
+Movement of information 20
+Storage of information on partners systems 21
+Storage of papers 21
+Disposal of electronic information 21
+Disposal of papers 21
+Review 22
+Freedom of information requests 22
+Assignment 23
+Section 5: Agreement to abide by this arrangement 23
+Section 6: Termination 26
+Section 7: Agreement of Partners 27
+Appendix 1: Information to be shared within the MASH 28
+Appendix 2: MASH risk assessment matrix 30
+Appendix 3: Camden’s guidance on consent 32
+MASH ISA: Ist January 2017 Page 2 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Section 1: Purpose of the London MASH Project Information Sharing Agreement (the
+“Agreement”)
+This Agreement has been developed to:
+o Define the specific purposes for which the Partners have agreed to share information.
+o Describe the roles and structures that will support the exchange of information between
+agencies.
+o Set out the legal gateway through which the information is shared, including reference to the
+Human Rights Act 1998 and the common law duty of confidentiality.
+o Describe the security procedures necessary to ensure compliance with responsibilities under
+the Data Protection Act and agency specific security requirements.
+o Describe how this arrangement will be monitored and reviewed. This should be within six (6)
+months of the Commencement Date.
+The Partners to this Agreement will represent the following partner agencies:
+1. London Borough of Camden (including Supporting People Directorate)
+2. Borough Commander London Borough of Camden Metropolitan Police Service
+3. Central and North West London NHS Foundation Trust
+4. London Probation Trust (Camden and Islington Local Delivery unit)
+(collectively referred to in this document as, ‘the Partners’ and individually referred to as ‘the Partner’
+who are signatories to this agreement).
+Partners from any new organisations who join the MASH during the Agreement Period subject to the
+joining provisions set out below at section 6 shall also be included.
+Each Partner to this Agreement will designate a senior officer ( ‘MASH Lead Officer”) with
+responsibility for ensuring the smooth implementation of the Agreement on a daily basis and can
+advise MASH officers on matters relating to information sharing.
+MASH ISA: Ist January 2017 Page 3 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Agreement Period
+This Agreement shall commence on 1st January 2017 (the ‘Commencement Date’) and expire on
+31st December 2017 (the ‘Expiry Date’) or in accordance with the termination provisions contained
+herein.
+During the Agreement Period the Partners shall carry out the provisions of this Agreement on the
+following basis:
+The Partners shall share information relating to children as set out in this Agreement.
+Section 2: Specific purpose for sharing information
+The purpose of this MASH information sharing agreement is to assist in identifying and assessing
+risks to children’s wellbeing and welfare in the London Borough of Camden.
+In order to make the best safeguarding decisions and to ensure timely, necessary and proportionate
+interventions, decision makers need full information concerning an individual and their circumstances
+to be available to them. Information viewed alone or in silos may not give the full picture or identify
+the true risk.
+As such, all the relevant information from various agencies needs to be available and accessible in
+one place. A Multi Agency Safeguarding Hub (MASH) helps ensure this and aids communication
+between all safeguarding Partners. By ensuring all statutory Partners have the ability, confidence and
+trust to share information, those children who are subject to harm, or likely to be subject to harm can
+be identified in a timely manner, which will keep children safe from harm and assist Partners to this
+Agreement in discharging their obligations under the Act.
+MASH helps deliver three key functions for the safeguarding partnership;
+ Information based risk assessment and decision making
+Identify through the best information available to the safeguarding partnership those children
+and young people who require support or a necessary and proportionate intervention.
+ Victim identification and harm reduction
+Identify victims and future victims who are likely to experience harm and ensure Partners
+work together to deliver harm reduction strategies and interventions.
+ Co-ordination of all safeguarding Partners
+Ensure that the needs of all children and young people at risk are identified and signposted to
+the relevant Partner(s) for the delivery and co ordination of harm reduction strategies and
+interventions.
+Children
+For many years, the sharing by police of appropriate information about children who come to their
+attention with local authority social services has been vital in ensuring that as far as is possible the
+welfare of children is safeguarded. Research and experience has demonstrated the importance of
+information sharing across professional boundaries.
+MASH ISA: Ist January 2017 Page 4 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+The Children Act 2004 emphasises the importance of safeguarding children by stating that relevant
+Partner agencies - which include the police, children’s services authorities, NHS bodies and others
+must make sure that functions are discharged having regard to the need to safeguard and promote
+the welfare of children. The Act also states that they must make arrangements to promote co-
+operation between relevant Partner agencies to improve the well-being of children in their area. Well-
+being is defined by the Act (and was rephrased into ‘outcomes’ in the 2004 Government policy ‘Every
+Child Matters’) as relating to a child’s:
+ physical and mental health and emotional well-being (‘be healthy’);
+ protection from harm and neglect (‘stay safe’);
+ education, training and recreation (‘enjoy and achieve’);
+ the contribution made by them to society (‘make a positive contribution’);
+ social and economic well-being (‘achieve economic well-being’).
+In making such arrangements Camden must have regard to the importance of parents and other
+persons caring for children in improving the well-being of children.
+“Children” in terms of the scope of this Act means all children and young people under the age of 19.
+Information upon which safeguarding decisions in relation to children and young people are made are
+held by numerous statutory and non- statutory agencies.
+The MASH model was highlighted in the Munro Report into Child Protection
+(http://www.education.gov.uk/munroreview/downloads/8875_DfE_Munro_Report_TAGGED.pdf) as
+an example of good practice in multi-agency partnership working because of how it improved
+information sharing between participating agencies.
+The aim of this information sharing Agreement is to formally document how, through the MASH set-
+up, the Partners to this agreement will share information about children who have come to the
+attention of their organisation for failing at least one of the five outcomes listed above.
+This Agreement does not cover other information sharing arrangements between the Partners that
+takes place outside of the MASH - these will be covered (where appropriate) by separate information
+sharing agreements.
+Section 3: Legal basis for sharing information and what specifically will be shared
+HM Government has published two guidance documents which should be read in conjunction with
+this Agreement and both are an invaluable resource for all safeguarding professionals;
+1. Information Sharing: Guidance for practitioners and managers (2008)
+2. Information Sharing: Further guidance on legal issues (2009)
+Attention is drawn to the ‘seven golden rules’ set out in the Information Sharing; Guidance for
+practitioners and managers 2008 (p11) as a practical exposition of the law relating to information
+sharing.
+The London Child Protection Procedures and Working Together 2013 should also be viewed as
+useful guidance in this area.
+MASH ISA: Ist January 2017 Page 5 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Data Protection Act 1998
+The Data Protection Act 1998 identifies 8 key principles in relation to the sharing of personalised
+data.
+The Partners to this Agreement acknowledge that they are bound by and shall comply with the
+provisions of the Data Protection Act 1998 (“DPA”).
+DPA indemnity
+Where one of the Partners (the “Infringing Partner”) commits a breach of statutory duty under the
+DPA which arises from the use, disclosure or transfer or personal data by the Infringing Partner or its
+servants or agents in a way which has not been provided for in this Agreement, that Infringing
+Partner shall be liable for and shall indemnify each of the other Partners against all actions, costs,
+expenses, claims, proceedings and demands which are brought against the other Partners as a
+result of the Infringing Partner’s actions.
+First Principle
+The first data protection principle states that data must be processed lawfully and fairly.
+A public authority must have some legal power entitling it to share the information.
+The nature of the information that will be shared under this Agreement will often fall below a statutory
+threshold of S.47 (child protection investigation) or even S.17 Children Act 1989 (Child in Need). If
+they do fall within these sections of the 1989 Act, then these will be the main legal gateway.
+However, Sections 10 and 11 of the Children Act 2004 place obligations upon the police, local
+authorities, NHS bodies and others to co-operate with other relevant partners in promoting the
+welfare of children and also ensuring that their functions are discharged having regard to the need to
+safeguard and promote the welfare of children. This piece of legislation gives the statutory power to
+share information for the purposes of this Agreement.
+Section 10 and 11 of the Children Act 2004 create a ‘permissive gateway’ for information to be
+shared in a lawful manner. Such information sharing must take place in accordance with statutory
+requirements pertaining to the disclosure of information namely the DPA, the Human Rights Act 1998
+and the common law duty of confidentiality.
+Section 82 of the National Health Service Act 2006 requires NHS bodies and local authorities in
+exercising their functions to co-operate with one another to secure and advance the health and
+welfare of people. Under the Crime and Disorder Act 1998 ‘responsible authorities’ (i.e. police, local
+authorities, fire and rescue authorities, police authorities and primary care trusts) have a statutory
+duty to work in partnership towards the reduction and prevention of crime.
+Section 115 of the Crime and Disorder Act 1998 provides that any person who would not otherwise
+have the power to disclose information to a relevant authority (or to a person acting on behalf of such
+an authority) has the power to do so in any case where the disclosure is necessary or expedient for
+the purposes of any provision of the Act, i.e. for the prevention of crime and disorder. ‘Relevant
+authorities’ include a chief officer of police, a police force, local authorities, registered social
+landlords, local probation service, a strategic health authority (and it’s successors in title), a health
+authority and a clinical commissioning group. The Crime and Disorder Act 1998 also enables the
+relevant authorities to share this data between them as responsible authorities. Whilst Section 115 of
+the Crime and Disorder Act 1998 provides a power to disclose information, it does not impose a duty
+MASH ISA: Ist January 2017 Page 6 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+to disclose, thus control over the disclosure of information remains with the agency, which owns the
+data.
+Section 5 of the 2009 statutory guidance to support the Multi-Agency Public Protection Arrangements
+(MAPPA), covering arrangements for managing sexual and violent offenders, allows for information
+sharing that is essential for the purposes of public protection.
+The above Acts do not permit the wholesale disclosure of information, but do allow for information
+exchange in furtherance of their objectives. Any exchange of information under these Acts must
+comply with Data Protection and Human Rights legislation and the common law duty of confidentiality
+and the Partners are required to take this legislation into account when exchanging information.
+Although Section 29 of the DPA does not give a power to disclose information, it does state that if not
+disclosing information would prejudice the prevention/detection of crime and/or the
+apprehension/prosecution of offenders, personal data can be disclosed subject to compliance with
+Schedules 2 and 3 of the DPA.
+Under this Agreement, if not disclosing information to the MASH would prejudice the reasons listed
+above, organisations are then exempt from the usual non-disclosure provisions and may provide the
+information requested / they wish to proactively share without consent.
+All decisions to share or not share information must be decided on a case-by-case basis and
+recorded.
+Children’s social care services and Adult Social Care have a joint responsibility under the Care Act
+2014 to share information in order to safeguard vulnerable children and adults and to facilitate the
+“whole family” approach to assessments.
+Duty of confidence
+A duty of confidence may be owed to both the holder of the data and to the data subject.
+Much of the police information to be shared will not have been obtained under a duty of confidence
+as it is legitimately assumed that data subjects will understand that the police will act appropriately
+with regards to the information for the purposes of preventing harm to or promoting the welfare of
+children. However, as a safeguard before any information is passed on, it will undergo an
+assessment check against criteria (included in Child Abuse Investigation Command Standard
+Operating Procedures) by the MASH Public Protection Desk (MASH PPD).
+Whilst still applying proportionality and necessity to the decision, the protection of children or other
+vulnerable persons would clearly fulfil a public interest test when passing the information to a Partner
+whose work with the police would facilitate this aim. All information shared with a Partner must be
+relevant to the case
+Information held by the London Borough of Camden and other organisations that will be shared in the
+MASH may have been gathered where a duty of confidence is owed. Duty of confidence is not an
+absolute bar to disclosure, as information can be shared where consent has been provided or where
+there is a strong enough public interest to do so, for example where there is an overriding need to
+protect a child’s welfare, or a serious crime has been committed or by order of the Court
+MASH ISA: Ist January 2017 Page 7 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Consent
+Obtaining consent to share personal information with Partners remains a matter of good practice and,
+in circumstances where it is appropriate and possible, explicit consent (ie: express written consent)
+should be sought from and freely given by the data subject or the data subject’s parent or guardian
+whichever applies. If written consent cannot be obtained, verbal consent may be accepted. Where
+verbal consent and not written consent is received, the MASH team shall send written confirmation to
+the data subject (or the data subject’s parent or guardian) providing details of the time and date when
+verbal consent was obtained so that such consent is recorded.
+Consent must be ‘informed’. Practitioners will be open and honest with families and individuals from
+the outset about why, what, how and with whom information will or could be shared.
+It may be necessary and desirable to deviate from the normal approach of seeking consent in cases
+where practitioners have reasonable grounds for believing that asking for consent would be unsafe or
+inappropriate. For example, if doing so would:
+ Place a person (the individual, family member, or a third party) at increased risk of significant
+harm; or
+ Prejudice to the prevention, detection or prosecution of a serious crime; or
+ Lead to an unjustified delay in making enquiries about allegations of significant harm to a
+child
+The disclosure of personal information without consent is legally justifiable if it falls within one of the
+defined category of public interest:
+The Public Interest Criteria include:
+i) The administration of justice i.e court order;
+ii) Maintaining public safety;
+iii) The apprehension of offenders;
+iv) The prevention of crime and disorder;
+v) The detection of crime;
+vi) The protection of vulnerable members of the community.
+When judging the public interest, it is necessary to consider the following:
+i) Is the intended disclosure proportionate to the intended aim?
+ii) What is the vulnerability of those who are at risk?
+iii) What is the impact of disclosure likely to be on the individual?
+iv) Is there another equally effective means of achieving the same aim?
+v) Is the disclosure necessary to prevent or detect crime and uphold the rights and
+freedoms of the public?
+vi) Is it necessary to disclose the information, to protect other vulnerable people?
+Decisions as to whether information shall be shared with or without consent will be taken on a case
+by case basis. The person making this decision must try to weigh up the important legal duty to seek
+consent and the damage that might be caused by the proposed information sharing on the one hand
+and balance that against whether any, and if so what type and amount of harm might be caused (or
+not prevented) by seeking consent. Any decision must be reasonable, necessary and proportionate
+and ensure that a fair balance is achieved between the public interest and the rights of the data
+subject.
+The MASH processes if followed correctly are relevant in relation to the determination of consent.
+MASH ISA: Ist January 2017 Page 8 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Section 4 (Description of arrangements including security matters).
+The RAG ratings are as follows:
+ Red cases are urgent child protection cases requiring immediate action in order to protect the
+child; consent will not be sought as to do so will cause unjustifiable delay and may prejudice
+the child’s welfare or any potential criminal investigation;
+ Amber cases are non-urgent child protection cases or child in need cases. For non-urgent
+child protection cases where the child is not in immediate danger but is at risk of significant
+harm; consent will be sought by the MASH team unless this will cause unjustifiable delay. For
+child in need cases consent must be obtained by the referrer prior to the referral to the MASH
+team.
+ Green cases are early intervention cases where the child requires preventative services.
+These types of cases should be referred to the Early Help services offered within the London
+Borough of Camden however if referred to MASH or Early Help services consent must be
+obtained by the referrer prior to referral to the MASH team.
+The MASH comprises a relatively closed and controlled environment, this being a factor a practitioner
+can weigh in the balance to some extent in an appropriate case as one factor that can add to the
+conclusion that it is proportionate not to seek or to dispose with consent. It is not however a single
+overriding reason in the determination concerning consent.
+Consent need not be obtained where there is a requirement by law to share information through a
+statutory duty or court order. In these situations, except where it is not appropriate to inform a person
+that information is being shared because it is likely to hamper the prevention or investigation of a
+serious crime or put a child at risk of significant harm, the individual concerned should be informed
+that the information is being shared, why it is being done and with whom.
+In order to further assist practitioners Camden’s general guidance on consent is attached as
+Appendix 3
+Information is shared initially within the MASH with or without consent in order to assess risk and
+harm which in turn identifies the proportionate level of response required.
+Once a decision is made based on this shared information picture the local authority decision maker
+together with the relevant Partner may hold back within the MASH any information which is deemed
+by the originating organisation to be too confidential for wider dissemination. Should it be decided to
+retain confidential information within the MASH then it will always be signposted to any professional
+who may receive a referral or request for service
+When overriding the duty of confidentiality the MASH must seek the views of the organisation that
+holds the duty of confidentiality and take into account its views in relation to breaching confidentiality.
+The organisation should seek legal advice if time permits.
+All disclosures must be relevant and proportionate to the intended aim of the disclosure.
+MASH ISA: Ist January 2017 Page 9 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Unified privacy
+It is a requirement of the DPA that all organisations that process personal data should have what is
+now known as a ‘Unified Privacy Notice’ which will inform individuals about how their personal data
+will be used by that organisation. This notice will cover:
+(a) The identity of the data controller
+(b) If the data controller has nominated a representative for the purposes of the Act, the
+identity of that representative
+(c) The purpose or purposes for which the data is intended to be processed.
+(d) Any further information which is necessary, taking into account the specific circumstances
+in which the data are or are to be processed, to enable processing in respect of the data
+subject to be fair.
+The London Borough of Camden will publish a Unified Privacy Notice specifically identifying the
+MASH within it and Partner organisations will all publish a Unified Privacy Notice in their normal
+manner. The Metropolitan Police Service (“MPS”) Unified Privacy Notice published on the external
+MPS website refers to MPS Standard Operational Procedures (SOP) Publication Scheme and is also
+displayed within police station front offices and custody suites. It states that personal information will
+be used for the purposes of ‘Policing’ and also states that the MPS may share this information with a
+variety of other agencies for the purposes of Policing.
+A notice explaining the concept of MASH and how it works in Camden is available on the Council’s
+website at:
+Safeguarding children - Camden Council
+Details of this Information Sharing Agreement and most other non-sensitive information sharing
+agreements will be published in line with the requirements of the Freedom of Information Act 2000,
+on the MPS Publication Scheme and on The London Borough of Camden’s publication scheme. This
+will also allow members of the public to understand how their personal information may be used by
+the MPS. This is in addition to the ready availability of the Fair Processing Notices mentioned above.
+Section 29 of the DPA allows agencies to share information if complying with the fair processing
+conditions (i.e. telling individuals how their data will be processed/shared) would be likely to prejudice
+the purposes of the prevention or detection of crime and/or the apprehension and prosecution of
+offenders (subject to complying with Schedules 2 and 3 of the DPA). If any staff of the Partners
+receive information and they believe that by NOT disclosing this information the police will be unable
+to prevent or detect a crime, or the police will be unable to apprehend or prosecute an offender, then
+they may fairly share that information with the police. This decision will be taken and recorded on a
+case-by-case basis though.
+Legitimate expectation
+The sharing of the information by police fulfils a policing purpose, in that it will be done in order to
+protect life in some circumstances and in others it will fulfil a duty upon the police provided by statute,
+(Children Act 2004) i.e. cooperation to improve the well being of children.
+MASH ISA: Ist January 2017 Page 10 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+It can reasonably be assumed that the persons from whom information is obtained will legitimately
+expect that police will share it appropriately with any person or agency that will assist in fulfilling the
+policing purposes mentioned above.
+If possible, and as far as is consistent with the welfare of the child concerned, explicit consent will be
+obtained by Family Services and Social Work before individual cases are brought to the MASH. In
+these cases, where consent has been granted, individuals will have a legitimate expectation of how
+their data is going to be used and with whom it may be shared and why.
+Human Rights - Article 8: The right to respect for private and family life, home and correspondence
+There shall be no interference by a public authority with the exercise of this right except such
+as is in accordance with the law and is necessary in a democratic society in the interests of
+national security, public safety or the economic well-being of the country, for the prevention
+of disorder or crime, for the protection of health or morals, or for the protection of the rights
+and freedoms of others.
+Consent is relevant to the rights of those to whom confidential information relates, and thus to legal
+obligations such as the Human Rights Act 1998.
+The sharing of the information with Children’s Safeguarding and Social Work may engage Article 8,
+however there will be no contravention provided that an exception within Article 8(2) applies.
+The benefits of effective information sharing for the purposes set out in this Agreement are to the
+direct benefit of the citizen and so in the public interest. This Agreement is:
+In pursuit of a legitimate aim –
+The promotion of the safety and welfare of children and ensuring they achieve all five outcomes is, by
+virtue of S.11 of Children Act 2004, a legitimate aim and major responsibility of the Partners to this
+Agreement. The sharing of information under this Agreement is also in line with Articles 2 and 3 of
+the Human Rights Act 1988, namely the right to life and the right to prohibition of torture or inhuman
+or degrading treatment. The need to intervene under section 47 of the Children Act 1989 where a
+child is at risk of significant harm is also a legitimate aim and major responsibility and the key aim of
+the MASH.
+Proportionate –
+The amount and type of information shared will only be the minimum necessary to achieve the aim of
+this Agreement. Information is always to be considered in terms of its relevance and proportionality in
+each set of circumstances, but it must always be remembered that the right to life is paramount and
+an absolute right. Information will only be shared on a “need to know” basis and only with those
+professionals who will need to act on the information to safeguard and promote the welfare of the
+child.
+An activity appropriate and necessary in a democratic society –
+The police are obliged to do all that is reasonable to ensure the welfare of the most vulnerable of
+citizens and this is something that is necessary and appropriate in a democratic society. Other
+Partners to this Agreement such as the local NHS and Children’s Safeguarding and Social Work also
+have similar obligations, which are necessary and appropriate in a democratic society.
+MASH ISA: Ist January 2017 Page 11 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Schedule 2 Data Protection Act 1998
+In addition to the legal criteria set out above, the information sharing arrangement must satisfy at
+least one condition in Schedule 2 of the Data Protection Act in relation to personal data.
+Schedule 2 is satisfied in the case of this Agreement by Condition 5(b) (the exercise of functions
+conferred under statute) as there is an implied gateway available for the sharing of information in
+these circumstances under S.11 Children Act 2004 and section 47 of the Children Act 1989, which
+obliges the relevant agencies to ensure that its “functions are discharged having regard to the need
+to safeguard and promote the welfare of children”.
+Where the consent of the individual is received, Condition 1 (data subject has given consent to the
+processing of their data) will apply.
+Schedule 3, Data Protection Act 1998
+If the information is “sensitive” (that is, where it relates to race, ethnic origin, political opinions,
+religion or belief system, membership of a trades union, physical/mental health or sexual life, the
+commission or alleged commission of any offence, proceedings relating to the offence) you must
+satisfy at least one condition in Schedule 3.
+Schedule 3 is satisfied in the case of this Agreement by Condition 7, “the processing is necessary for
+the exercise of any functions conferred on any person by or under an enactment” (ie as mentioned
+above, Children Act 2004).
+Where the explicit consent of the individual is received, Condition 1 (data subject has given explicit
+consent) will apply.
+Second Principle
+Personal data shall be obtained only for one or more specified and lawful purposes, and shall not be
+further processed in any manner incompatible with that purpose or those purposes.
+The MPS information exchanged under this Agreement is obtained for policing purposes. Under this
+arrangement it will not be processed in any manner contradictory to that purpose.
+All information from other Partner agencies will only be used within the MASH for the purposes of
+safeguarding children and reducing harm which is compatible with the reason it was originally
+collected.
+Third Principle
+Personal data shall be adequate, relevant and not excessive in relation to the purpose or purposes
+for which it is processed.
+Due to the complexity of the MASH, providing a prescriptive list of data fields to be shared is difficult.
+Appendix 1 sets out in broad terms the types of information to be shared by each Partner.
+Any information that is shared into and within the MASH will be decided on a case-by-case basis
+using the template risk assessment matrix shown at Appendix 2 and must be relevant to the aims of
+this Agreement.
+Examples of data that may be shared include;
+ Name of subject (child) and other family members, their carers and other persons whose
+presence and/or relationship with the subject child or children, is relevant to identifying and
+assessing the risks to that child.
+MASH ISA: Ist January 2017 Page 12 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+ Age/date of birth of subject and other family members, carers, other persons detailed.
+ Ethnic origin of family members.
+ Relevant Police information and intelligence
+ School and educational information (to include family members where appropriate and
+relevant)
+ GP and health records (to include family members where appropriate and relevant)
+ Relevant ASB data
+ Relevant data from London Ambulance Service or London Fire Brigade
+ Housing and other partnership data relevant to the child and family who may affect the
+welfare of that child.
+Not all of the above information will be shared in every case; only relevant information will be shared
+on a case-by-case basis where an organisation has a ‘need-to-know’ about the information.
+Fourth Principle
+Personal data shall be accurate and, where necessary, kept up to date.
+All the information supplied will be obtained from Partners’ computer systems or paper records and
+subject to their own organisations reviews, procedures and validation. Any perceived inaccuracies
+should be reported to the contact at that agency for verification and any necessary action.
+Whilst there will be regular sharing of information, the data itself will be ‘historic’ in nature. Specifically
+this means that the data fields exclusively relate to individual actions or events that will have already
+occurred at the time of sharing. These are not categories of information that will substantially alter or
+require updating in the future. The exception to this will be that of the unborn child.
+Fifth Principle
+Personal data processed for any purpose or purposes shall not be kept for longer than is necessary
+for that purpose or those purposes.
+The data will be kept in accordance with partners’ file destruction policy and retention schedules. It is
+acknowledged that there is a need to retain data for varying lengths of time depending on the
+purpose and also in recognition of the importance of historic information for risk assessment
+purposes. However, once information is no longer needed, it should be confidentially destroyed.
+For the avoidance of doubt, this principle relates to information shared for the purpose of this
+Agreement and relates to information shared within the MASH and not as to each organisation’s
+retention policy. If the information shared for the purpose of this Agreement is no longer required
+then it should be confidentially destroyed. If in some cases it may be information which a Partner
+would normally hold, then it would fall under that organisation’s retention policy.
+Sixth Principle
+Personal data shall be processed in accordance with the rights of data subjects under this Act.
+Partners to this Agreement will respond to any notices from the Information Commissioner that
+imposes requirements to cease or change the way in which data is processed.
+Partners will comply with subject access requests in compliance with the DPA
+Seventh Principle
+Appropriate technical and organisational measures shall be taken against unauthorised or unlawful
+processing of personal data and against accidental loss or destruction of, or damage to, personal
+data.
+MASH ISA: Ist January 2017 Page 13 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Measures to satisfy the Seventh Principle are detailed in the Baseline Security Assessment
+document - prepared as part of the development of this Agreement and included in Section 4 of the
+purpose specific agreement, “Description of arrangements including security matters”
+Eighth Principle
+Personal data shall not be transferred to a country or territory outside the European Economic Area,
+unless that country or territory ensures an adequate level of protection of the rights and freedoms of
+data subjects in relation to the processing of personal data.
+Under the terms of this Agreement no information will be passed outside of the European Economic
+Area unless specific requirement exists and the originating organisation makes that decision for a
+particular reason in relation to the safeguarding of a child or young person with a safeguarding need.
+If there is indeed a requirement to transfer information abroad then all Partners should ensure that
+their Notification with the ICO is updated to reflect this. Legal advice shall be obtained in these
+cases.
+MASH ISA: Ist January 2017 Page 14 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Section 4: Description of arrangements including security matters
+Business Processes
+Information on how the MASH operates can be found in the MASH operational protocol
+available on the CSCB website at:
+http://cscb.org.uk/
+Information referred to the MASH team from the Police:
+Where it has come to the police’s attention that a child is in circumstances that are adversely
+impacting upon their welfare or safety (ie failing at least one of the 5 ‘Every Child Matters’ outcomes),
+a Pre-Assessment Checklist (PAC) report will be placed by the reporting police officer on to the MPS
+system MERLIN.
+Police officers based in the MASH team will review these PACs to see if there is a need to inform
+Children’s Safeguarding and Social Work that the child has come to police attention. They will
+request the person authorised by the London Borough of Camden to work in the MASH team
+(“MASH Screening Officer) to carry out a check on the Children’s Safeguarding and Social Work to
+see if there is an open case about the child on the Children’s Safeguarding and Social Work
+database MOSAIC. Where there is, they will forward the PAC straight on to the MASH Screening
+Officer, who will send it on to the responsible case-worker. Where there is no open case on the child,
+the police officers will conduct further research about what other relevant information the MPS has
+relating to the welfare of the child. They will send the initial PAC and subsequent research as is
+necessary and proportionate via secure email to the MASH Screening Officer.
+Information referred to the MASH team from non-police sources:
+Information about a child where there are concerns about their welfare may come from a variety of
+sources and will be referred to the MASH team via a Common Assessment Framework referral.
+These will be passed to the MASH Screening Officer and dealt with in a similar manner to the police
+process described above.
+Processing information
+Upon receiving information, the MASH Screening Officer will create a new case record on MOSAIC
+and check to see if the family are already known to CSSW and if a social worker is currently allocated
+to the family. The referral is then passed to the MASH team manager for an initial risk assessment
+and allocation of a RAG rating.
+ Red cases are urgent child protection cases requiring immediate action in order to protect the
+child; consent will not be sought as to do so will cause unjustifiable delay and may prejudice
+the child’s welfare or any potential criminal investigation;
+ Amber cases are non-urgent child protection cases or child in need cases. For non-urgent
+child protection cases where the child is not in immediate danger but is at risk of significant
+harm; consent will be sought by the MASH team unless this will cause unjustifiable delay. For
+child in need cases consent must be obtained by the referrer prior to the referral to the MASH
+team.
+MASH ISA: Ist January 2017 Page 15 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+ Green cases are early intervention cases where the child requires preventative services.
+These types of cases should be referred to the Early Help services offered within the London
+Borough of Camden however if referred to MASH or Early Help services consent must be
+obtained by the referrer prior to referral to the MASH team.
+Only cases with a Red or Amber RAG rating will enter the MASH environment and information
+provided by Partners will be directed to the MASH Lead Officer to decide on the most appropriate
+response. Cases with a Green RAG rating will be transferred to the appropriate early intervention
+service by the MASH Lead Officer.
+For Red and Amber RAG rated cases, Partner agencies will be asked to provide relevant information
+as is necessary and proportionate for the MASH about the child and family held on their own agency
+databases. This information is required so that as full a picture as possible is known about the child,
+meaning the best and most appropriate and timely assistance can be given to them.
+Based on an assessment of all the information gathered, the MASH Lead Officer will decide what the
+most suitable course of action will be and allocate a final RAG rating. Red and Amber cases will be
+referred to Children’s Safeguarding and Social Work for a child protection service. Green cases will
+be referred for appropriate early intervention services. On referral, only relevant information will be
+passed on to these agencies by the MASH Lead Officer and this information will only contain a
+summary of the information gathered and on a ‘need-to-know’ basis only. No information from
+Partner agencies will be passed on in a referral if this is requested by that Partner agency.
+Police investigation
+Before considering if the case should continue though the MASH process, the MASH Lead Officer
+will consult with the Police Sergeant based within the MASH to see if a crime has been committed. If
+one has, this will be recorded by the sergeant and an investigation started. A decision will then be
+taken as to whether action can be taken by the MASH then or whether they should wait for the
+conclusion of the police investigation.
+Confidentiality
+Partners should draw up a common agreement relating to confidentiality and setting out the
+principles governing the sharing of information based on the best interests of the child at risk of
+abuse or neglect.
+The most recent discussion of all aspects of an individual’s identifiable information and how this is to
+be protected is to be found in the report of the Caldicott Committee Report on the review of patient-
+identifiable information. That report recognises that confidential information may need to be disclosed
+in the best interests of the individual and public and discusses in what circumstances this may be
+appropriate and what safeguards need to be in place. The principles can be summarised as:
+ Information will only be shared on a ‘need to know’ basis when it is in the best interests of the
+child;
+ Confidentiality must not be confused with secrecy;
+ Informed consent should be obtained but, if this is not possible and other children are at risk
+of abuse or neglect, it may be necessary to override the requirement in circumstances to
+protect vital interest (necessary only in life and death situations) or where it is likely that not to
+share the information would jeopardise an investigation and the safeguarding of others.
+MASH ISA: Ist January 2017 Page 16 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+ It is inappropriate for agencies to give assurances of absolute confidentiality in cases where
+there are concerns about abuse, particularly in those situations when other vulnerable people
+may be at risk.
+Principles of confidentiality designed to safeguard and promote the interests of a child should not be
+confused with those designed to protect the management interests of an organisation. These have a
+legitimate role but must never be allowed to conflict with the interests of a child. If it appears to an
+employee or person in a similar role that such confidentiality rules may be operating against the
+interests of children at risk of abuse or neglect then a duty arises to make full disclosure in the public
+interest.
+In certain circumstances it will be necessary to exchange or disclose personal information which will
+need to be in accordance with the DPA where this applies.
+The Home Office and the Office of the Data Protection Commissioner (formerly Registrar) have
+issued general guidance on the preparation and use of information sharing protocols.
+The Caldicott principles
+The Information Governance Review – To Share or Not to Share?
+1. Justify the purpose(s). Every proposed use or transfer of personal confidential data within or
+from an organisation should be clearly defined, scrutinised and documented, with continuing
+uses regularly reviewed, by an appropriate guardian.
+2. Don’t use personal confidential data unless it is absolutely necessary. Personal confidential
+data items should not be included unless it is essential for the specified purpose(s) of that
+flow.
+3. Use the minimum necessary personal confidential data. Where use of personal confidential
+data is considered to be essential, the inclusion of each individual item of data should be
+considered and justified so that the minimum amount of personal confidential data is
+transferred or accessible as is necessary for a given function to be carried out.
+4. Access to personal confidential data should be on a strict need-to-know basis. Only those
+individuals who need access to personal confidential data should have access to it, and they
+should only have access to the data items that they need to see. This may mean introducing
+access controls or splitting data flows where one data flow is used for several purposes.
+5. Everyone with access to personal confidential data should be aware of their responsibilities.
+Action should be taken to ensure that all those handling personal confidential data are made
+fully aware of their responsibilities and obligations to respect individuals’ confidentiality.
+6. Comply with the law. Every use of personal confidential data must be lawful. Someone in
+each organisation handling personal confidential data should be responsible for ensuring that
+the organisation complies with legal requirements.
+7. The duty to share information can be as important as the duty to protect confidentiality. Health
+and social care professionals and other staff should have the confidence to share information
+in the best interests of children within the framework set out by these principles. They should
+be supported by the policies of their employers, regulators and professional bodies.
+The information to be shared under this Agreement is classified as ‘RESTRICTED’ under the
+Government Protective Marking System (GPMS). Vetting is not mandatory to view this grade of
+information; however staff working within the MASH environment must have a valid enhanced
+Disclosure and Barring Service check in place that has been taken out in the last 3 years. What is
+MASH ISA: Ist January 2017 Page 17 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+required at this ‘RESTRICTED’ level access is a strict ‘need-to-know’ attitude towards practice within
+the MASH and all information and intelligence.
+Only the MASH Lead Officer is authorised to share information gathered by the MASH to agencies
+and services outside of the MASH and only in support of a referral to that agency. It is agreed that
+the MASH Lead Officer will seek the permission of the agency which provided the information if they
+wish to disseminate shared information outside of the MASH environment. Such permission will only
+be granted where proposed sharing is within the agreed principles: i.e. for policing purposes,
+safeguarding and supporting the wellbeing of children or where consent has been obtained?
+Rights of data owner and confidential information
+MASH is a confidential ‘fire walled’ environment and access to it should only be by those authorised
+to work within it for the purpose of information sharing in order to assess referrals and make
+decisions. Details of those workers who are authorised to work within the MASH can be found in the
+MASH operational protocol.
+Information provided via the MASH must be classed by the organisation providing it as either
+confidential or non-confidential. Both types of information will be revealed within the hub to the MASH
+Lead Officer so that they can see the full information upon which to make an informed decision. Only
+the data owner and the MASH Lead Officer should be able to see information provided for the
+purpose of supporting assessment decisions.
+The MASH operates under a core principle that any organisation revealing confidential and non
+confidential information within the MASH for the purposes of RAG ratings and risk assessment will
+always retain the duty of care over the data and remain the data owner.
+In practice this means the organisation owning the information or data owner has the right to decide
+not to allow information to leave the MASH after assessment if they believe it to be of a confidential
+nature and are not prepared to have it shared openly. The MASH Lead Officer is responsible for
+obtaining consent of families to information sharing and for referral on to other services and details of
+any decisions relating to this must be clearly recorded on the MASH record on MOSAIC.
+Should information be held back within the MASH at the request of a data owner the fact of this must
+be clearly signposted on any document leaving the MASH in order that operational staff become
+aware at the earliest opportunity that it exists and who/where they can approach to discuss it further.
+The MASH Lead Officer should make operational staff aware of any information that has been held
+back and provide details of the Partner agency to be contacted when he/she is discussing the referral
+with the service prior to referral. The information can then be discussed in confidence between the
+data owner and operational staff on a clear ‘need to know’ basis.
+Requests for data from MASH records
+Should information be requested from MASH records by way of any judicial process the original data
+owner must be advised and requested to provide consent on whether or not those records should be
+disclosed and to manage any specific process required to protect confidential information and the
+sources of that information. Legal advice should be sought at the earliest opportunity.
+MASH ISA: Ist January 2017 Page 18 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Business Continuity
+All Partners to this Agreement will provide a list of contacts to deal with queries and requests for
+information under this agreement. The organisations will also nominate persons to act as the contact
+to ensure continuity in the absence of the original points of contact.
+Information should be passed on only by secure email. If email is not available, information should be
+shared by telephone call between named officers and to designated telephone numbers only.
+All information will be recorded centrally in the MASH on MOSAIC. However, other agencies can and
+are encouraged to keep local records so that their organisation is aware of how its information is
+being used.
+Compliance
+All Partners to this agreement accept responsibility for ensuring that all appropriate security
+arrangements are complied with.
+Any issues concerning compliance with security measures will form part of the annual review of this
+Agreement.
+Bribery, Corruption and Gratuities
+The Partners shall:
+(a) comply with all applicable laws, statutes, regulations, and codes relating to anti-bribery
+and anti-corruption including but not limited to the Bribery Act 2010 (Relevant
+Requirements);
+(b) not engage in any activity, practice or conduct which would constitute an offence under
+sections 1, 2 or 6 of the Bribery Act 2010 if such activity, practice or conduct had been
+carried out in the UK;
+(c) comply with the their own Ethics, Anti-bribery and Anti-corruption Policies (in each
+case as the Partners may update them from time to time) (Relevant Policies).
+(d) have and shall maintain in place throughout the term of this Agreement their own
+policies and procedures, including but not limited to adequate procedures under the
+Bribery Act 2010, to ensure compliance with the Relevant Requirements, the Relevant
+Policies and will enforce them where appropriate;
+Any Partner shall be immediately entitled to terminate the Agreement or any part of it if in relation to
+this Agreement:
+(e) the other Partners, or any of its personnel (whether with or without that Partner’s
+knowledge) shall have offered, or given, or agreed to give, to any person, any gift, or
+consideration, inducement or reward of any kind, for doing or not doing any action
+(except in accordance with a permitted and lawful subcontract); or
+(f) any Partner or any of its personnel shall have:-
+MASH ISA: Ist January 2017 Page 19 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+(i) committed any offence under the Prevention of Corruption Acts 1889 to 1916
+and/or the Bribery Act 2010; or
+(ii) given any fee or reward, the receipt of which is an offence under Section 117 (2) of
+the Local Government Act 1972.
+Human Rights Act 1998
+The Partners acknowledge that they are public authorities for the purpose of the Human Rights Act
+1998, and shall therefore act compatibly with the Convention rights set out in that Act, in all aspects
+of the performance of this Agreement.
+Anti - discrimination
+The Partners also acknowledge that they, their personnel, agents, servants, staff, employees comply
+with the provisions of the Equality Act 2010 together with any applicable anti-discrimination legislation
+and with their own respective policies as may be amended from time to time.
+Sanctions
+Any unauthorised release of information or breach of conditions contained within this agreement will
+be dealt with through the internal discipline procedures of the relevant Partner.
+Non-compliance and/or breaches of the security arrangements with regards to police information will
+be reported to the MPS Camden Borough Command and reviewed in regard to what the result of the
+breach might be. Serious breaches of the Agreement will be referred to a team comprising the MASH
+Lead Officers of each Partner (‘MASH Steering Group’) as part of a resolution process to decide what
+action to take. Serious breaches will include any breach of the DPA or any action that seriously
+jeopardises the integrity of the MASH system and the reputation of any Partner agency with regard to
+their duty of confidentiality to service users.
+All Partners are aware that in extreme circumstances, non-compliance with the terms of this
+Agreement may result in the Agreement being suspended or terminated and the MASH to cease to
+operate.
+Training / awareness
+All Partners will hold a copy of this Agreement. It is the responsibility of each Partner to ensure that
+all individuals likely to come into contact with the data shared under this agreement are trained in the
+terms of this Agreement and their legal and other responsibilities. The Camden Safeguarding
+Children Board will provide specialist training on information sharing to the MASH team and to all
+Partners who refer into the MASH.
+Partner’s building and perimeter security
+Information will be stored in the secure MASH team area that is accessible only by MASH team
+members.
+Movement of information
+Information will be sent and received electronically to ensure there is an audit trail of its movement.
+MASH ISA: Ist January 2017 Page 20 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Any e-mail communication will be by way of secure, appropriate and approved methods. The sharing
+of any information must be done via secure email, meaning only email addresses with .pnn, .gcsx,
+.cjsm, .gsi and nsh.net will be used.
+Storage of information on partner’s system
+The MASH case records will be stored on the London Borough of Camden’s Children’s Safeguarding
+and Social Work system MOSAIC. However other Partners may be passed information from the
+MASH case record if approved by the original data owner where appropriate in order to support a
+referral on to other services, which may also be stored electronically.
+All Partners to this Agreement confirm that their security measures on their respective electronic
+systems that information from Partners may be transferred to are adequate. Information can only be
+accessed via username and password. Partners confirm that permission to access MASH
+information held electronically by Partners will be granted on a strict ‘need-to-know’ basis once it is
+contained within each Partners’ electronic systems.
+Storage of papers
+It is not the intention of this Agreement that information will be produced in a hard format. If
+information is printed off from an electronic system, it will be the Partners’ responsibility to keep the
+information secure by measures such as storing documents in a locked container when not in use.
+Access to printed documents must be limited only to those who legitimately ‘need to know’ that
+information. There should also be a clear desk policy where Partner’s information, and MPS
+information in particular, is only accessed when needed and stored correctly and securely when not
+in use.
+Disposal of electronic information
+Once information contained within emails is transferred to Partner’s electronic systems, the emails
+will be deleted but a note of the information shared will be kept by the Partner agency (who sent that
+information) of the information provided.
+Information will be held in electronic systems until the information is no longer required. Information
+provided as part of this Agreement will be the subject of review by the Partners. Information will be
+destroyed in accordance with each Partners’ code of practice in handling information and with
+regards to their responsibilities under the DPA.
+If information is stored by Partners electronically on their systems, information must be overwritten
+using an appropriate software utility e.g. Norton Utilities or CD discs physically destroyed.
+Disposal of papers
+As mentioned previously, it is not the intention of this Agreement that information will be produced in
+a hard format. If information is printed, it will be the Partners’ responsibility to dispose of the
+information in an appropriate secure and confidential manner (ie shredding, through a
+‘RESTRICTED’ waste system) once it is no longer needed.
+MASH ISA: Ist January 2017 Page 21 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Resolution of differences
+In the event of a dispute or disagreement arising between professionals in relation to the operation of
+the MASH, for example in decision-making on cases, in the first instance the matter should be
+discussed between the respective line managers. If the differences cannot be resolved at this level
+within a reasonable timescale, then the matter should be referred to the Children’s Safeguarding and
+Social Work Service Manager with responsibility for MASH. Any disputes involving cases where there
+is a possible risk to a child should be referred to the Child Protection Coordinator based in the Quality
+Assurance Unit. Any disagreements or differences should be recorded on the case file, including the
+views of the other Partners.
+Any disputes or disagreements arising from the governance of the MASH should be referred to the
+MASH Steering Group for discussion and to allow a resolution to be negotiated.
+The Partners will use reasonable efforts to negotiate in good faith and settle amicable any dispute
+that may arise or relate to this Agreement.
+If any dispute relating to information sharing cannot be settled amicably through discussions as set
+our above, the dispute will be referred to Camden’s Executive Director of the Supporting People
+Directorate to take up with the Children’s Trust board who will try to resolve the issue
+Review
+Notwithstanding the duration of this Agreement the arrangements held within this document will be
+reviewed initially after six (6) months from the Commencement Date of this Agreement to ensure the
+Agreement remains up-to-date and relevant. The review should consider (without limitation):
+ The purpose of this Agreement and whether the objectives/functions set out in this are still
+being achieved;
+ Any changes in legislation or guidance;
+ A review of complaints and any breaches
+The review shall be led by the MASH Steering group.
+This Agreement may also be reviewed immediately if any of the parameters of the Agreement need
+to be changed or there is a breach by any Partner to this Agreement including but not limited to any
+breach of their obligations under the Data protection Act 1998.
+At any time any changes to this Agreement and/or its Appendices may be made as agreed by all
+Partners.
+Freedom of information requests
+The Partners to this Agreement are subject to and shall comply with the provisions of the Freedom of
+Information Act 2000. This document and the arrangements it details will be disclosable for the
+purposes of the Freedom of Information Act 2000 and so will be published on each Partners’
+websites and in accordance with the publication scheme for each Partner.
+Those Partners to this Agreement that are ‘public authorities’ for the purposes of the Freedom of
+Information Act 2000 may receive requests for information relating to the information sharing
+activities under this Agreement (e.g. statistics on the amount of data sharing being undertaken or the
+MASH ISA: Ist January 2017 Page 22 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+general nature of the data sharing). It is recognised that public authorities are individually responsible
+for meeting their obligations under the Freedom of Information Act 2000. Under the Section 45 of the
+Code of Practice on handling requests for information, good practice is to consult with third parties
+who have given information which may be disclosed under the Act. The Partners are therefore
+expected where they receive such requests to ensure that Partners to this Agreement are consulted
+in a suitable manner of the nature of the request and their intended response. The Code also relates
+to the process by which one authority may also transfer all or part of a request to another authority if
+it relates to information they do not hold. There will be an expectation that personal data requested
+by third parties will be exempted under section 40 Freedom of Information Act 2000.
+Complaints
+The Partners shall put in place procedures to address complaints relating to the disclosure of
+information. Partners must also ensure that service users are provided with information about these
+Complaint procedures.
+In the event of a complaint relating to the disclosure or the use of an individual’s personal information
+that has been supplied/obtained under this Agreement, all Partners will provide co-operation and
+assistance in order to resolve that complaint.
+The Partners will notify the MASH Lead Officer of receipt of any complaints but specifically those
+which relate to an allegation of a breach of the Data Protection Act 1998 or duty of confidentiality.
+Assignment
+None of the Partners shall be able to assign the benefit of this Agreement or any part of it without the
+written consent of all the other Partners to this Agreement.
+Section 5: Agreement to abide by this arrangement
+The Partners by signing this Agreement accept that the procedures laid down in this document
+provide a secure framework for the sharing of information between their organisations in a manner
+compliant with their statutory and professional responsibilities.
+As such they undertake to implement and adhere to the procedures and structures set out in this
+Agreement and in particular (without limitation) to:
+ Ensure that where these procedures are complied with, then no restriction will be placed on
+the sharing of information other than those specified within this Agreement.
+ Engage in a review of this Agreement with Partners initially after 6 months from the
+Commencement Date and then at least annually.
+ Take the necessary steps to ensure they each have the power (as a matter of administrative
+law) to carry out any proposed data sharing and that they are not acting in excess of their
+powers;
+ Each comply with the requirements of the relevant legislation (in relation to their own
+gathering, storing and processing of information held);
+MASH ISA: Ist January 2017 Page 23 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+ Ensure that information is shared in accordance with their legal duties under the Data
+Protection Act 1998, the Human Rights Act 1998, the Freedom of Information Act 2000 and
+any common law duty of confidentiality owed to a service user;
+ Ensure staff recognise the importance of keeping information confidential and seek consent
+before sharing information unless there are legal grounds to share the information without
+consent;
+ Ensure information supplied via the MASH is used solely for the purposes of safeguarding
+Children and assessing risk of harm;
+ Ensure information supplied to the MASH is relevant, sufficient for the purposes of assessing
+risk, up to date and accurate;
+ Ensure information will only leave the MASH when referring a family on to relevant services
+and interventions, and that only a summary of the information shared is made available to
+staff members who need to know and who are aware that the information is highly
+confidential;
+ Ensure information is only shared with third parties with the consent of the Partner providing
+the information;
+ Ensure that information is recorded in line with agreed procedures set out in the MASH
+operational protocol and sent only via secure email as set out above;
+ Ensure records are retained only as long as needed and that records are disposed of in a
+safe and secure manner;
+ Ensure staff operating within the MASH are authorised to do so and have received suitable
+training and induction relating to information sharing so that they understand their role in the
+MASH;
+ Ensure that staff working within the MASH are suitably supervised by their organisation and
+that a senior staff member from their organisation is available to provide guidance on
+information sharing issues, including a “Caldicott Guardian” for health workers;
+ ensure that information passed from one Partner to another Partner is kept secure and any
+breaches of security of information are reported, with each Partner having in place
+procedures for the investigation of any breaches;
+ ensure that they have proper procedures in place for seeking a service user’s explicit and
+informed consent for disclosure to a third party and that these procedures are followed at all
+times;
+MASH ISA: Ist January 2017 Page 24 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Liability
+Where one of the Partners to this Agreement (the “Infringing Partner”) acts in a manner that is
+inconsistent with, or that has not been provided for, in this Agreement, that Infringing Partner shall be
+liable for and shall indemnify each of the other partners against all actions, costs, expenses, claims,
+proceedings and demands which may be brought against the other partners as a result of its actions.
+Jurisdiction
+The Partners accept the exclusive jurisdiction of the English Courts and agree this Agreement and
+matters arising from or connected with it are to be governed and construed according to English Law.
+MASH ISA: Ist January 2017 Page 25 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Section 6: Termination
+Any Partner may withdraw from this Agreement upon giving a minimum of three month’s written
+notice to the other Partners to the Agreement. Data which is no longer relevant should be
+confidentially destroyed or returned to the Partner who supplied it. The withdrawing Partner must
+continue to comply with the terms of this Agreement in respect of any data that the Partner has
+obtained through being a signatory to this Agreement.
+Following withdrawal from the Agreement by any Partner the MASH Steering Group will meet to
+ensure the MASH can still operate effectively following the Termination.
+Upon termination of this Agreement the other Partners who have not withdrawn from the Agreement
+shall still be obliged to comply with the provisions of the terms of Agreement and any relevant
+legislation governing data sharing under it to ensure that the general objectives of the Agreement are
+not compromised.
+MASH ISA: Ist January 2017 Page 26 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+We the undersigned agree that each Partner that we represent will adopt and adhere to this
+Agreement:
+The Partners agree that if a new organisation wishes to become a Partner to this Agreement,
+the new organisation will be required to obtain the written consent of all the Partners to this
+Agreement. Upon such consent the new organisation shall complete the fields below and
+shall provide an original copy or certified copy of the original amended Agreement to all the
+Partners. Upon execution of this Agreement the new organisation shall be bound by the same
+obligations and liabilities as the existing Partners to this Agreement.
+Partner/GP Post held Name Signature Date
+Practice
+Metropolitan
+Police Service,
+London
+Borough of
+Camden
+London
+Borough of
+Camden –
+Children’s
+Safeguarding
+and Social
+Work
+Central and
+North West
+London NHS
+Foundation
+Trust
+London
+Probation Trust
+Camden and
+Islington NHS
+Foundation
+Trust
+Camden
+Clinical
+Commissioning
+Group
+Crime
+Reduction
+Initiative (CRI)
+MASH ISA: Ist January 2017 Page 27 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+APPENDIX 1
+Information to be shared within the MASH
+Partner Information to be System/Source Name of Nature of
+shared officer information
+authorised to (Personal or
+interrogate sensitive
+system on information)
+behalf of the
+MASH
+London Borough of Camden
+Children’s Previous involvement MOSAIC Personal and
+Safeguarding with the family; services sensitive
+and Social and interventions
+Work provided; historical
+concerns, allegations etc
+Integrated Information about the YOIS Personal and
+Youth Service service’s involvement sensitive
+with the young person,
+historic and current;
+details of any current
+programme, ie:bail
+supervision or community
+sentence
+Housing and Details of social care Northgate/MOSAIC Personal and
+Adult Social tenancies, details of sensitive
+Care tenant’s history including
+rent arrears, reports of
+domestic violence and
+anti-social behaviour
+Camden Safety Names of service users Personal and
+Net and relationship to child, sensitive
+details of domestic
+violence risks present
+and historically, details of
+any other known
+vulnerabilities ie: learning
+disability
+Integrated Early Provision of nursery Synergy Personal and
+Years Service place or supported child- sensitive
+minding place;
+attendance; presentation;
+details of any concerns
+MASH ISA: Ist January 2017 Page 28 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+held
+Education Name of school, Impulse Personal
+educational history,
+exclusions; attendance
+and truancy
+Camden Names of household Police National Personal and
+Police members and Computer sensitive
+relationship to child;
+information relating to
+adults who pose a list;
+details of offences and
+criminal history of carers;
+presence of risk factors,
+ie: domestic violence;
+Camden and Details of service users, RIO/ Personal and
+Islington NHS family members and sensitive
+Foundation carers accessing
+Trust treatment, mental
+healthcare information,
+care plans and risk
+management plans’
+Central North Children’s health RIO/EMIS Personal and
+West London information; information sensitive
+NHS held by GPs; information
+from hospitals on
+admissions and
+outpatient care;
+information from the
+London Ambulance
+Service
+Probation Information on person’s Delius Personal and
+posing a risk who are Oasys sensitive
+known to the family and
+have contact with the
+child; family members
+subject to MAPPA
+CRI Camden Details of service users, Personal and
+SMS Services family members and carers CRiiS sensitive
+accessing treatment,
+healthcare information, care
+plans and risk management
+plans’
+MASH ISA: Ist January 2017 Page 29 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+APPENDIX 2
+MASH risk assessment matrix
+Information on this record is highly confidential and restricted to use within the MASH only. If
+agencies are giving information that they do not wish to be shared outside the MASH, this
+should be specified on the form. Housing and education staff should only complete the
+relevant information boxes unless they have direct contact with the family, in which case staff
+should complete all boxes.
+Name of worker:
+Partner:
+Date completed:
+Framework i number:
+NHS number:
+Partner involvement/contact with child and family
+Reason for involvement/contact; services provided or actions carried out; dates; level of engagement
+from parent/carer; any patterns of repeated presentation or service request;
+Child’s circumstances:
+Child’s presentation; relationship with main carer; evidence of neglect, abuse, exploitation or
+trafficking; degree of vulnerability due to age, disability or learning difficulties; living with adults other
+than parents; emotional difficulties or self-harming behaviour;
+Family’s circumstances:
+Family composition and relationship to child; quality of family relationships; evidence of domestic
+violence or family dysfunction; quality of housing; state of home; level of income; immigration status;
+Parent/carer’s circumstances:
+Relationship with child; parenting capacity and ability to meet the child’s needs; own presenting
+issues; attitude towards agencies; history of violence or offending;
+MASH ISA: Ist January 2017 Page 30 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+Presence of risk factors:
+Substance misuse; learning difficulties; mental health issues; domestic violence; criminal activity;
+presence of people who pose a risk to children;
+Information from housing:
+Name of landlord; status and stability of tenancy; rent arrears; housing history; reports of domestic
+violence or anti-social behaviour; information about the child
+Information from education:
+Name of school; educational history; exclusions; level of attendance and any truancy;
+Information not to be shared
+Please give details of any information that must not be shared with the family or other agencies
+MASH ISA: Ist January 2017 Page 31 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+APPENDIX 3
+Guidance on Consent
+1. Consent
+1.1. In the past consent has all too often either been assumed or implied. Unfortunately, when
+something goes wrong it has been very difficult to prove if consent was actually given. It is
+therefore recommended that the consent sought should be explicit and appropriately
+recorded.
+1.2. In order to facilitate the sharing of personal information (without specific statutory grounds)
+careful consideration should be given to obtaining explicit consent whenever possible,
+regardless of the person’s age.
+1.3. For consent to be valid it must be:
+ fully informed – the individual is aware of what information will be shared, with whom
+and for what purpose.
+ specific – a general consent to share information with “partner organisations” would not
+be valid. Specific means that individuals are aware of what particular information we will
+share, who with and for what purpose.
+ a positive indication by the data subject – the provision of opt outs on forms would
+therefore not obtain the consent of an individual.
+ Freely given – the individual is not acting under duress from any partner.
+1.4. The person giving the consent must also have the capacity to understand what they are
+consenting to.
+1.5. Consent may be given non-verbally, verbally or in writing. In order to avoid any confusion or
+misunderstanding at later date, non-verbal or verbal consent should be witnessed where
+possible and the details of the witness recorded.
+1.6. To give valid informed consent, the person needs to understand why their information what
+type of information may be involved and who that information may be shared with.
+1.7. The person should also be advised of their rights with regard to their information, namely:-
+MASH ISA: Ist January 2017 Page 32 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+i) The right to withhold their consent.
+ii) The right to place restrictions on the use of their information.
+iii) The right to withdraw their consent at any time.
+iv) The right to have access to their records.
+1.8. As well as discussing consent with the person, it is seen as good practice that the person
+should also be given such information in another required format e.g. different language,
+Braille.
+1.9. In general once a person has given consent, that consent may remain valid for an indefinite
+duration unless the person subsequently withdraws that consent.
+1.10. If a person makes a voluntary and informed decision to refuse consent for their personal
+information to be shared, this decision must be respected unless there are sound legal
+grounds for disclosing without consent
+1.11. A person, having given their consent, is entitled at any time to subsequently withdraw that
+consent. Like refusal, their wishes must be respected unless there are sound legal grounds
+for not doing so.
+1.12. If a person refuses or withdraws consent, the consequences should be explained to them, but
+care must be exercised not to place the person under any undue pressure.
+1.13. New consent may be required where there are to be significant changes to:
+(a) the personal data that will be shared,
+(b) the purposes for which it will be shared, or
+(c) the partners involved in the sharing (I.e. the proposed data sharing is not covered by the
+original fair processing notice).
+2. Capacity to consent
+2.1. For a person to have capacity to consent, he/she must be able to comprehend and retain the
+information material to the decision and must be able to weigh this information in the decision
+making process.
+MASH ISA: Ist January 2017 Page 33 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+3. Young Persons
+3.1. Consent of the young person should be obtained on the basis of the Gillick Competency test,
+namely is the person of sufficient age and understanding to give a valid consent after the
+issues have been explained to them. It is presumed that a young person over the age of 16 is
+able to provide consent unless there is evidence to the contrary.
+3.2. The courts have held that young people (below the age of 16) who have sufficient
+understanding and intelligence to enable them to understand fully what is involved will also
+have capacity to consent.
+3.3. It should be seen as good practice to involve the parent(s) of the young person in the consent
+process, unless this is against the wishes of the young person.
+4. Parental Responsibility
+4.1. The Children Act 1989 sets out persons who may have parental responsibility, these include:-
+i) The child's parents if married to each other at the time of conception or birth;
+ii) The child's mother;
+iii) The child’s father if after 1 December 2003 his name appears on the birth certificate; the
+father has acquired parental responsibility by a court order; a parental responsibility
+agreement; or the couple subsequently marry;
+iv) The child's legally appointed guardian;
+v) A person in whose favour the court has made a residence order in respect of the child;
+vi) A local authority designated in a care order in respect of the child:
+vii) A local authority or other authorised person who holds an emergency protection order in
+respect of the child. (Note: Foster parents or guardians do not automatically have
+parental responsibility)
+4.2. Whilst, under current law, no-one can provide consent on behalf of an adult in order to satisfy
+the common law requirement, it is generally accepted by the courts that decisions about
+treatment, the provision of care, and the disclosure of information should be made by those
+responsible for providing care and that they should be in the best interests of the individual
+concerned.
+MASH ISA: Ist January 2017 Page 34 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+5. Obtaining Consent
+5.1. In order for consent to be obtained lawfully it is essential that all persons who may be
+expected to obtain consent for the sharing of personal information receive appropriate training
+and that under normal circumstances only those employees who have received training and
+been approved by management should seek consent.
+6. Disclosure of Personal Information
+6.1. The passing of personal information without either statutory power or the consent of the
+person concerned, places both the organisation and the individual member of staff at risk of
+litigation.
+6.2. It is therefore essential that it is clear as to who is authorised to disclose personal information
+including sensitive personal information and that staff are aware of who this is.
+7. Disclosure with consent
+7.1. Only staff who have been authorised to do so should disclose personal information about an
+individual service user.
+7.2. Prior to disclosing personal information about an individual, the authorised member of staff
+should check the individual’s file/record in order to ascertain:-
+a) that consent to disclose has been given, and
+b) the consent is applicable for the current situation, and
+c) any restrictions that have been applied.
+7.3. On the first instance of disclosure with respect to the particular situation, the person making
+the disclosure should notify the recipient if consent has been given for the disclosure and any
+specific limitations the individual has placed on their consent.
+7.4. Disclosure of personal information should be strictly on a need to know basis.
+7.5. All information disclosed should be accurate and factual. Where opinion is given, this should
+be made clear to the recipient.
+MASH ISA: Ist January 2017 Page 35 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+7.6. On disclosing personal information to another partner, a record of that disclosure should be
+made on the individual’s file/record, this should include:
+a) When the disclosure was made
+b) Who made the disclosure
+c) Who the disclosure was made to
+d) How the disclosure was made
+e) What was disclosed
+7.7. The recipient of information should record:
+a) The details of the information received
+b) Who provided it
+c) Any restrictions placed on the information that has been given
+8. Disclosure without consent
+8.1. Disclosure of personal information without consent must be justifiable on statutory grounds, or
+meet the criterion for claiming an exemption under the Data Protection Act. Without such
+justification, both the organisation and the member of staff expose themselves to the risk of
+prosecution and liability to a compensation order under the Data Protection Act or damages
+for a breach of the Human Rights Act.
+8.2. There are exceptional circumstances in which a service user’s right may be overridden, for
+example:
+(a) if an individual is believed to be at serious risk of harm, or
+(b) if there is evidence of serious public harm or risk of harm to others, or
+(c) if there is evidence of a serious health risk to an individual, or
+(d) if the non-disclosure would significantly prejudice the prevention, detection or prosecution
+of a crime.
+(e) if instructed to do so by a court
+8.3. There should be a designated person at management level who has the knowledge and
+authority to take responsibility for making decisions on disclosure without consent. This
+person should hold sufficient seniority within the agency with influence on policies and
+procedures. Within health and social care agencies it is expected that this person will normally
+be the Caldicott Guardian.
+MASH ISA: Ist January 2017 Page 36 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+8.4. If information is disclosed without consent, then full details will be recorded about the
+information disclosed, the reasons why the decision to disclose was taken, the person who
+authorised the disclosure and the person(s) to whom it was disclosed.
+8.5. A record of the disclosure will be made in the service user’s case file and the service user
+must be informed if they have the capacity to understand, or if they do not have the capacity
+then any person acting on their behalf must be informed. If information is disclosed without
+consent, there may be some exceptional circumstances (particularly in the context of police
+investigations or child protection work) where it may not be appropriate to inform the service
+user of the disclosure of information. This situation could arise where the safety of a child (or
+possibly sometimes of an adult) would be jeopardized by informing the service user of such
+disclosure. In many such situations it will not be a case of never informing the service user,
+but rather delaying informing them until further enquiries have been made. Any decision not to
+inform, or to delay informing, should be recorded on the service user’s case file, clearly stating
+the reasons for the decision, and the person making that decision.
+8.6. In deciding whether or not disclosure of information given in confidence is justified it is
+necessary to weigh the harm that would result from breach of confidence against the harm
+that might result if you fail to disclose the information.
+8.7. If disclosure is made without consent, the person making the disclosure must:
+a) Advise the recipient accordingly.
+b) Record the full details of the disclosure that has been made, including the reason why the
+decision to disclose was taken (statute or exemption); who made the disclosure and to who
+it was disclosed to.
+8.8. The recipient of information that has been disclosed without consent should record:
+a) The details of the information received.
+b) Who provided it.
+c) Any restrictions placed on the information that has been given e.g. ‘not to be disclosed to
+the service user’.
+d) That the information was provided without consent,and the reason(s) why (if known).
+MASH ISA: Ist January 2017 Page 37 of 37 Review Date: 31 December 2017
+© MPA
+
+MASH
+London Project
+Information sharing agreement
+9. Recording Consent
+9.1. All departments should have in place a means by which an individual, or their
+guardian/representative, can record their explicit consent to personal information being
+disclosed and any limitations, if any, they wish to place on that disclosure (‘a consent form’).
+9.2. The consent form should indicate the following:-
+a) Details of the organisation and person obtaining consent.
+b) Details to identify the person whose personal details may/will be shared.
+c) The purpose for the sharing of the personal information.
+d) The organisation(s)/agency(ies) with whom the personal information may/will be shared.
+e) The type of personal information that will be shared.
+f) Details of any sensitive information that will be shared.
+g) Any time limit on the use of the consent.
+h) Any limits on disclosure of personal information, as specified by the individual.
+i) Details of the supporting information given to the individual.
+j) Details of the person (guardian/representative) giving consent if appropriate.
+9.3. The consent form should be securely retained on the individual’s file/record and that relevant
+information is recorded on any electronic systems used in order to ensure that other members
+of staff are made aware of the consent and any limitations.
+MASH ISA: Ist January 2017 Page 38 of 37 Review Date: 31 December 2017
+© MPA

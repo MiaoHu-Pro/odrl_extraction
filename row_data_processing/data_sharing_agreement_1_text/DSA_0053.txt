@@ -1,0 +1,299 @@
+Data Sharing Agreement Between London
+Borough of Camden and Imagineer
+Contents
+1. Introduction to the Sharing 2
+1.1. Responsibilities of parties involved 2
+1.2. Confidentiality and vetting 3
+1.3. Assessment and review 3
+1.4. Termination of agreement Error! Bookmark not defined.
+2. Purpose and Benefits 3
+2.1. Purpose 3
+2.2. Benefits 3
+2.3. Lawful Basis 4
+2.4. Consent 4
+2.5. Proportionality and necessity 5
+2.6. Freedom of Information Error! Bookmark not defined.
+3. Individuals 5
+3.1. Right to be informed – Privacy notices 5
+3.2. Data subject rights requests and complaints 5
+3.3. Data subjects 6
+4. Data 6
+4.1. The data to be shared 6
+4.2. Storing and handling information securely 6
+4.3. Access controls and security 7
+4.4. Outside UK processing 7
+4.5. Data quality 7
+4.6. Data breaches/incidents 7
+4.7. Retention and Disposal 8
+1
+
+1. Introduction to the Sharing
+This Data Sharing Agreement [DSA] documents how the parties to this agreement, London Borough of
+Camden and Imagineer will share personal data about children and their families at significant risk of
+needing residential placement and a project to put in place an enhanced package of support to avoid
+family breakdown. For simplicity, the Partner Organisation will be referred to as ‘Partner’. By signing this
+Agreement, the Parties agree to accept the conditions set out in this document, according to their
+statutory and professional responsibilities, and agree to adhere to the procedures described.
+This Agreement has been developed to:
+● Define the specific purposes for which the signatory agencies have agreed to share information.
+● Outline the Personal, Special Category and Criminal Data to be shared.
+● Set out the lawful basis conditions under UK GDPR and Data Protection Act 2018 through which
+the information is shared, including reference to the Human Rights Act 1998
+● Stipulate the roles and procedures that will support the processing/sharing of information
+between agencies.
+● Describe how the rights of the data subject(s) will be protected as stipulated under the data
+protection legislation.
+● Describe the security procedures necessary to ensure that compliance with responsibilities under
+data protection legislation and agency-specific security requirements.
+● Describe how this arrangement will be monitored and reviewed.
+● To illustrate the flow of information from referral through processing and outcome.
+Parties to this agreement cannot amend or add appendices unless agreed as part of a formal review. It
+is expected that each party will have procedures, processes and policies sitting underneath this
+agreement, for their respective organisations. These will, for example, describe the specific processes
+for secure transfer of data.
+1.1. Responsibilities of parties involved
+The Parties are registered Data Controllers under the Data Protection Act. All parties confirm that they
+comply with data protection legislation by:
+● having a lawful basis for processing and sharing personal data.
+● ensuring data quality.
+● storing and sharing information securely, with access management controls.
+● having policies and procedures for compliance with data protection legislation including for managing
+data subject rights and complaints, identifying and managing data breaches/incidents and retention &
+disposal.
+● ensuring that mandatory training is undertaken regularly by their employees to ensure they are clear
+and up to date on their responsibilities. Every individual must uphold the principles of this agreement
+and overarching confidentiality, and seek advice from the relevant Data Protection Officer when
+necessary.
+● undertaking appropriate data protection due diligence checks with any contractors/data processors
+they employ, and ensuring that a written agreement is in place with each data processor, and that all
+data processors will be bound by this agreement.
+2
+
+● having written processes for the processing of data to ensure employees use and share personal data
+in line with data protection law, the data protection principles, and this agreement.
+Organisations and their staff must consult the organisation’s Data Protection Officer/Information
+Governance Manager and/or Caldicott Guardian if they are unsure at any point in the processing and
+sharing of personal data.
+1.2. Confidentiality and vetting
+Each Partner must ensure that there are appropriate written contracts or agreements with employees,
+agency staff, volunteers etc. These must include requirements to ensure compliance with policies which
+include confidentiality. Each Partner must ensure that suitable vetting has taken place. This may be
+through standard employee checks and DBS checks.
+1.3. Assessment and review and Termination of agreement
+A review of this information sharing agreement will take place yearly, unless otherwise agreed by the
+organisations’ Data Protection Officers. The aim of the review will be to ensure the purposes are still
+relevant, the scope has not slipped, the benefits to the data subjects and organisations are being
+realised, and the procedures followed for information security are effective. Changes in legislation and
+developments in the areas of public sector data sharing will be considered as and when they arise, as
+will any changes to the signatory parties. In the event of termination of this agreement each Party may
+continue to hold information originating from other parties for which they are Data Controller.
+2. Purpose and Benefits
+2.1. Purpose
+This agreement covers the sharing of information by and between the listed parties for the purpose of
+the Closer to Camden pilot project. This pilot project aims to evidence that early prevention through
+implementing intensive local packages of care interventions could help prevent children from entering
+residential provision. Families being considered for this pilot project are on the Camden Dynamic
+Support Register - a register of children and young people where there are concerns that they are at risk
+of being admitted to an in-patient mental health unit or residential school placement.
+The families supported by the pilot project will receive a Personal Health Budget (PHB) from North
+Central London Integrated Care Board (NCL ICB) (in addition to their existing support from Social Care)
+if agreed by the ICB personal health budget panel. The PHB will enable families to receive care and
+support that best meets the current needs of their child and to enhance existing support being received.
+Imagineer, who have been appointed by NCL ICB will develop care plans with families and their
+child(ren) on how the integrated budget could help the family and how the family will be use the funds
+allocated.
+2.2. Benefits
+The sharing will allow both partners to better deliver their statutory series and will allow more effective
+use of resources, giving more joined up working which increases efficiency. The public will benefit from
+this approach, as services will be delivered in a more streamlined way that utilises the information
+shared to provide better tailored and appropriate services.
+3
+
+Families supported by the pilot project will receive a Personal Health Budget (in addition to their existing
+support from Social Care) to enable them to receive care and support that best meets the current needs
+of their child. This is to enhance existing support being received, and to reduce escalation of need and
+therefore avoid unnecessary inpatient setting admission. This would also help achieve better outcomes
+for the child and their families.
+The benefits of this DSA are to:
+● Cover the sharing of information for Personal Care Plans to be developed including finding out
+more about the needs of the family and child, as well as access to the social care assessment
+and the social care recommendation for how the budgets can be used to support families based
+on assessed needs.
+● Sets parameters for sharing personal data and clearly identifies the responsibilities of
+organisations.
+● Identify the correct lawful basis to share personal information.
+● Ensure information is shared whenever there is a requirement to do so.
+● Enables authorities to share data on performance, quality assurance, learning and impact
+analysis.
+2.3. Lawful Basis
+For the Council:
+Personal Data Processing: Article 6 (1) – (e) processing is necessary for the performance of a task
+carried out in the public interest or in the exercise of official authority vested in the controller.
+Special Category Personal Data Processing: Article 9 (2) (b) social protection law - processing is
+necessary for the purposes of carrying out the obligations and exercising specific rights of the controller
+or of the data subject in the field of employment and social security and social protection law; 9 (2) (g)
+substantial public interest - processing is necessary for reasons of substantial public interest with the
+Data Protection Act Schedule 1, Part 2 condition is being para 6 Statutory etc., and government
+purposes
+For Imagineer:
+Personal Data Processing: Article 6 (1) – (e) processing is necessary for the performance of a task
+carried out in the public interest or in the exercise of official authority vested in the controller.
+Special Category Personal Data Processing: Article 9 (2) (b) social protection law - processing is
+necessary for the purposes of carrying out the obligations and exercising specific rights of the controller
+or of the data subject in the field of employment and social security and social protection law; 9 (2) (g)
+substantial public interest - processing is necessary for reasons of substantial public interest with the
+Data Protection Act Schedule 1, Part 2 condition is being para 6 Statutory etc., and government
+purposes
+2.4. Consent
+The parties will often work collaboratively with data subjects and aim for agreement with them on the
+actions to be taken. However, it is recognised that for a public authority this is different to using consent
+(Article 6 (a)) or explicit consent (Article 9 (a)) as the lawful basis conditions used for processing under
+4
+
+this agreement. Consent is not generally the lawful basis the public sector organisations use for
+processing information shared under this agreement. It is noted that where consent is not the lawful
+basis for processing, consent does not need to be sought to share, and thus the concept of “overriding
+consent” is a misconception.
+It is possible that the other parties, such as voluntary groups, may use consent as a lawful basis for
+some personal data processing. Each party is responsible for managing consent where they use
+consent as the lawful basis condition.
+2.5. Proportionality and necessity
+Proportionality, data minimization, necessity and not being excessive are factors to be taken into
+consideration when deciding whether to share personal information. In making the decision, employees
+must weigh up what might happen as a result of the information being shared against what might
+happen if it is not, and apply their professional judgement. It is for this reason professionals must ensure
+they comply with Article 5(1)(c) and share the adequate and relevant information, and limit that
+information to what is necessary for the achieving of the DSA aims.
+3. Individuals
+Organisations processing personal data are required to begin with the ethos of Data Protection by
+Design and Default (also known as Privacy by Design (PbD)). This means that we must consider and
+uphold the privacy of an individual’s data before we begin and throughout the processing taking place.
+Each party agrees that they have undertaken a DPIA (Data Protection Impact Assessment), where they
+feel the processing meets the legislative criteria for a DPIA.
+3.1. Right to be informed – Privacy notices
+Where personal data is created or received by one of the parties, they are responsible, as required by
+law, for making the data subject(s) aware within a reasonable time frame that the organisation holds the
+data, what they will do with it, how long they will keep it, and who they will share it with (such as under
+this DSA). This is normally done through a privacy notice, whether written or verbal. Organisations agree
+that they will adhere to the transparency requirements of the UK GDPR and will issue appropriate
+notices which inform the data subject that the information will be shared with the parties under this
+agreement.
+3.2. Data subject rights requests and complaints
+Each organisation must have in place appropriate policies and processes to handle data subject
+requests made in line with data protection law, to ensure they are responded to within deadline and in an
+appropriate manner. Requests include; right of access, right to rectification, right to erasure, right to
+restrict processing, right to data portability, right to object and rights related to automated decision
+making including profiling.
+If an individual successfully requests the erasure or limitation of use of their data (right to erasure, right
+to rectification, right to restrict processing, right to object), the party that has been informed by the data
+subject will communicate this to the other parties where relevant and appropriate. In each case each
+party is responsible for securely disposing of such information or limiting its processing.
+5
+
+Each party must have clear, fair and objective complaint procedures. Any complaints from individuals
+how their data is being processed or shared will be handled under the policy and processes of the
+organisation concerned.
+3.3. Data subjects
+The data subjects will be: children and their families at significant risk of needing residential placement,
+selected by a multi-disciplinary working group from the Dynamic Support Register.
+4. Data
+4.1. The data to be shared
+Data that will be shared includes:
+● name and contact details
+● address
+● age/date of birth
+● ethnicity, physical and mental health needs
+● Information collected in their Social Care Plan, Care/Support Plan/ Short breaks review, and Child and
+Family Assessments
+● Information about siblings
+● Information about housing and benefits.
+4.2. Storing and handling information securely
+Information must be stored and shared lawfully and securely. Special category data may need a higher
+level of security. The employee/organisation sharing the information must choose the most appropriate
+secure method of transfer and be responsible for its safe delivery.
+Electronic records:
+Organisations may have different electronic methods for storing and sharing information securely. Some
+have local restrictions which block access to information shared using specific tools.
+Parties must make sure the chosen method is suitably secure and that access is only provided to those
+who need it, and only to the data needed.
+Unencrypted email (i.e. sent in plain text over the public internet) must not be used to share information
+under this DSA.
+Sharing methods that may be appropriate include:
+● Email encryption tools where the email and attachments are encrypted from named sender to
+named recipient (e.g. Microsoft 365 Message Encryption; Egress Protect)
+● Secure corporately managed data repository and sharing platforms (e.g. MS Teams; )
+● Secure File Transfer Protocols
+● Virtual Private Networks
+The above are examples, get advice from your organisation’s information security or IT teams on secure
+methods of sharing available at your organisation and document these in the organisation’s process
+documents.
+6
+
+Phone/virtual meetings/face-to-face meetings:
+Information may be shared over the phone, in a virtual meeting, or at face to face meetings. Meeting
+attendance and distribution of content, e.g. meeting minutes or recordings, must be limited to those with
+a need to know.
+Sharing by telephone should be avoided unless the requirement is urgent and email is not practicable.
+Individuals should be aware of their surroundings and the presence of other individuals or voice
+recognition or ‘Internet of Things’ devices (e.g. virtual assistant apps like Alexa, Cortana, SIRI) to ensure
+they aren’t overheard by those that should not have access to the information discussed.
+Paper records:
+Printed paper records must always be kept to a minimum and kept secure whether in the office, home or
+during transit. Organisations must adopt an appropriate policy surrounding the use and transfer of paper
+records. Appropriate security methods must be applied when storing or disposing of paper records.
+4.3. Access controls and security
+All parties will ensure that they have appropriate technical and organisational security measures in place
+to guard against unauthorised or unlawful processing of personal data and against accidental loss or
+destruction of, or damage to, personal data.
+All personal data held by partner organisations electronically will be stored in a secure network area with
+password protected entry and appropriate back-up functionality. The systems will be auditable so that it
+is possible for any auditor to establish who has accessed the system. All laptops, computers, and any
+other portable devices will be encrypted.
+Any individual no longer required to have access will promptly have such access revoked by the line
+manager and Human Resources related to the relevant employer.
+4.4. Outside UK processing
+Parties are responsible for ensuring that if information is processed or shared outside the UK, that
+appropriate safeguards are in place and on condition that enforceable data subject rights and effective
+legal remedies for data subjects are available. These are for example, a legally binding and enforceable
+instrument between public authorities or bodies, binding corporate rules, and/or standard data protection
+contractual clauses.
+4.5. Data quality
+Each partner is responsible for ensuring the accuracy and relevance of the personal data that it
+processes and shares and must have clear processes in place for managing data quality.
+Any party learning of the inaccuracy of personal data is responsible for informing the parties with whom
+that data has been shared.
+4.6. Data breaches/incidents
+All parties must have a clear policy and procedure regarding the reporting and handling of data
+protection breaches or data loss incidents. This must include assessing the level of risk to the data
+subject(s), as well as to make a decision on notifying the ICO within the statutory time frame of 72 hours.
+This complies with Articles 33 and 34 of UK GDPR.
+7
+
+If the incident may impact the processing of another party to this agreement, all relevant parties should
+be informed and appropriate coordination of the incident must take place. The decision to report the
+incident will lie with the data controller(s) of the information concerned. The parties agree to provide all
+reasonable and necessary assistance at their own expense to each other to facilitate the handling of any
+personal data breach in an expeditious and compliant manner.
+It is confirmed that security breaches (including misuse or unauthorised disclosure) are covered by the
+partner’s internal disciplinary procedures. If misuse is found there should be a mechanism to facilitate an
+investigation, including initiating criminal proceedings where necessary.
+4.7. Retention and Disposal
+Organisations are required by data protection legislation to document processing activities for personal
+data, such as what personal data is held, where it came from and with whom it has been shared. This
+Record of Processing Activity (ROPA) must include the retention period for the data. Information must
+not be retained for longer than necessary for the purpose for which it was obtained. Disposal or deletion
+of personal data once it is no longer required, must be done securely with appropriate safeguards, in
+accordance with that organisation’s disposal policies.
+Signatures
+5.
+Elizabeth (Liz) Leach – Managing Director, Imagineer
+Version control
+Document production date
+Document currency
+8
+
+
+
+
+
+10

@@ -1,0 +1,473 @@
+DATA SHARING AGREEMENT
+Effective Date:
+This Data Sharing Agreement (“Agreement”) is effective as of the Effective Date between Merck KGaA,
+Frankfurter Strasse 250, 64271 Darmstadt, Germany (“Merck”), and
+Name (“Institution”):
+Street Address:
+City, State, Zip:
+Institution and Merck are individually referred to as “Party” and collectively as the “Parties”.
+1. Background. stock of the other corporation or in the absence of
+the ownership of at least fifty percent (50%) of the
+Whereas:
+voting stock of a corporation, or (b) in the case of a
+non-corporate entity, if it possesses, directly or
+• Merck is a global pharmaceutical company
+indirectly, the power to direct or cause the direction
+engaged in the research, development,
+of the management and policies of such corporation
+marketing and sale of pharmaceutical
+or non-corporate entity, as applicable.
+products and devices.
+• Institution desires access to certain clinical 2.2 “Conflict of Interest Statement” means a
+statement dated and signed by Institution disclosing
+trial data in the possession of Merck in
+Institution’s, its Lead Researcher’s and
+order to conduct certain research and
+Researchers’ potential and real conflicts of interest
+analyses as further described below.
+that may impact the planning, conduct or
+• Merck is willing to provide access to such interpretation of the analysis, including proposals to
+data in accordance with its Responsible manage such conflicts of interest, to be attached to
+Data Sharing Policy (a summary of its this Agreement as Exhibit D.
+Policy is publicly available on the webpage)
+and the terms and conditions of this 2.3 “Data” means the specific clinical study
+Agreement. Merck and Institution intend to reports, clinical study report synopses, clinical
+establish this Agreement with respect to study protocols, clinical study results, patient level
+Institution’s access to such data. data, and study level data and data of all kind and in
+any form relating to the clinical trials listed on
+Now therefore, the Parties agree as follows. Exhibit A,.
+2. Definitions. The following terms shall have
+2.4 “Data Request” means Institution’s
+the following respective definitions:
+written request, attached hereto in Exhibit C, that
+must include the following: a description of the
+2.1 “Affiliate” means any corporation or non-
+Data being requested, including the hypothesis to be
+corporate entity which controls, is controlled by or
+tested; the rationale for the proposed analysis; the
+under common control with the Party. A
+analysis plan, including statistical considerations
+corporation or non-corporate entity, as applicable,
+and individuals who will have access to the Data; a
+shall be regarded as in control of another
+list of individuals who will participate as
+corporation if (a) it owns or directly or indirectly
+Researchers in the analysis, including a designation
+controls at least fifty percent (50%) of the voting
+of an individual as Lead Researcher; the
+Page 1 of 12
+Approved Template March 2018
+
+qualifications and experience of the proposed which may be retained for legal and/or regulatory
+research team; curriculum vitaes for all and/or evidential purposes.
+Researchers; a publication and posting plan;
+information on how Data will be protected from 3.3 No Representations or Warranties or
+unauthorized use, access, and disclosure; the source Liabilities / Indemnities on Data Suitability. Merck
+of any research funding; proof of ethics committee provides the Data to Institution on an “as is” basis
+approval or commitment to provide proof of and disclaims all express and implied warranties of
+approval before any Data is accessed, if necessary; any kind, including any warranties of quality,
+and a statement indicating that the Researcher has a accuracy, timeliness, completeness of the Data, and
+suitable information technology platform of merchantability, non-infringement and fitness for
+compatible with Merck’s to perform the requested a particular purpose. To the fullest extent permitted
+analysis. by applicable law, Merck hereby excludes all
+liability for and Institution agrees to indemnify
+2.5 “New Intellectual Property” means all Merck from and against, any claim, action,
+results of Institution’s analysis, discoveries, proceedings, damages or payments that may arise to
+developments, inventions (whether patentable or any of the Parties as a result of the Institution’s use
+not), improvements, methods of use or delivery , of Data provided to Institution by Merck, except to
+know-how or trade secrets resulting from the the extend caused by the gross negligence or willful
+Institution’s or Researchers’ use of the Data or misconduct of Merck.
+performance of the Research Study.
+3.4 Performance of Research Study. Institution
+2.6 “Research Study” means that specific shall perform, and shall have the Researchers work
+non-commercial research study prepared and to be to perform the Research Study with the highest
+performed by Institution and approved by Merck, a standards of diligence and in accordance with the
+description of which is attached hereto as Exhibit B. generally accepted scientific principles, good
+analysis practices, and all applicable laws, rules and
+2.7 “Researchers” means the specific regulations, including without limitation ethics
+individuals identified by Institution in the Data committee review, patient data privacy and
+Request to Merck as having the requisite informed consent requirements.
+qualifications and experience to perform the
+Research Study. 3.5 Prohibition of Patient Re-identification.
+Institution acknowledges that the Data may contain
+3. Data Sharing sensitive personal information regarding patients.
+Merck shall use reasonable efforts to anonymize the
+3.1 Research Purpose and Scope. Merck shall Data before providing access to the Institution.
+provide access to the Data to Institution, and Institution shall maintain the Data in such de-
+Institution shall access and use the Data, solely in identified form and shall not attempt to re-identify
+order for Institution to perform the Research Study any patient.
+in accordance with the terms and conditions of this
+Agreement (hereinafter, the “Purpose”), and for no 3.6 Representation and Warranties. Institution
+other purpose. Institution shall not download or represents and warrants that it has fully disclosed in
+transfer the data to third parties and shall not access the Conflict of Interest Statement any and all
+or use the Data for any commercial purposes. potential conflicts of interest, including without
+limitation those of all Researchers. Institution also
+3.2 Return or Destruction of Data. Upon represents and warrants that all factual information
+completion of the Research Study and all associated in the Data Request is truthful, accurate and
+obligations, Institution shall return or destroy, as complete.
+directed by Merck, all of Merck’s Confidential
+Information, including the Data, except one copy 3.7 Drug Safety. Institution shall inform Merck
+immediately (and if required by law, will also
+Page 3 of 12
+
+inform any regulatory authority) of any safety (iii) is independently developed by
+concerns identified while conducting the Research Institution without use of or reference to the
+Study. Institution agrees that Merck may take action Confidential Information; or
+regarding such safety concerns, including informing
+(iv) is obtained by Institution from a
+regulatory authorities or healthcare providers, or
+third party that has not breached any obligations of
+otherwise making the safety concern public, even in
+confidentiality.
+advance of publication of the Research Study by
+Institution. 4.2 Use and Disclosure. Institution represents
+and warrants that it shall use the Confidential
+3.8 Reproduction of the Research Study Information only for the Purpose. Institution
+Results by Merck. Upon request by Merck, represents and warrants that it shall not use the
+Institution shall provide reasonable access and Confidential Information for any other purpose.
+support to Merck, Merck’s Affiliates and designees Institution represents and warrants that it shall
+for the purpose of reproducing the Research Study’s disclose Merck’s Confidential Information only to
+results. the Researchers or those individuals identified in its
+Research Study and shall not disclose Merck’s
+3.9 Approvals. Institution shall, as a condition
+Confidential Information to any other third party
+to obtaining access to the Data, obtain any
+except: (a) it is reasonably necessary for the purpose
+regulatory and/or ethics board approvals necessary
+of performing the Research Study, (b) Merck has
+to conduct the Research Study. Institution
+consented to it in writing, and (c) the third party is
+understands that it shall not be provided access to
+bound by agreement to all obligations of this
+the Data unless and until it provides Merck with a
+Agreement as it is the case for the Institution.
+copy of any such necessary regulatory and/or
+Institution shall be responsible for any use or
+ethics board approvals.
+disclosure of the Confidential Information by any
+such third parties. Further, Institution shall impose
+3.10 Additional conditions. Institution shall
+all obligations under this Agreement on its
+comply with any additional restrictions regarding
+employees, affiliates, and all third parties who (only
+use of the Data set forth in Exhibit A or elsewhere
+with the consent of Merck) are assisting with,
+in this Agreement.
+working on or involved in the conduct of the
+Research Study.
+4. Confidentiality.
+4.3 Standard of Care. Institution shall protect
+4.1 Confidential Information. Institution shall
+the Confidential Information using not less than the
+hold in confidence Merck’s information relating to
+same care with which it treats its own confidential
+its business, operations and products, including but
+information, but at all times using at least
+not limited to, Data, any technical information,
+reasonable care. Institution shall (i) implement and
+additional details of the Research Study provided to
+maintain appropriate privacy and security measures
+third party Researchers, know-how, trade secrets,
+to prevent unauthorized access to, use or disclosure
+all sensitive, strategic information and method
+of, the Confidential Information, (ii) promptly
+descriptions that it discloses to the Institution in
+notify only Merck of any unauthorized access or
+connection with this Agreement (“Confidential
+disclosure of the Confidential Information, and (iii)
+Information”), unless such information:
+cooperate with Merck in the investigation and
+remediation of any such unauthorized access or
+(i) is or becomes generally available to
+disclosure.
+the public other than as a result of disclosure by
+Institution;
+4.4 Provision of personal data via Merck’s
+(ii) is already known by or in the website and Data Privacy. Institution hereby gives
+possession of Institution at the time of disclosure by permission to Merck and its Affiliates and their
+Merck; designees and service providers, to collect, use,
+process and hold Institution’s data and information
+Page 4 of 12
+
+on the Research Study, including: (i) Institution’s and documentation so as to permit Merck and its
+name, address and other contact details; (ii) name(s) Affiliates to monitor compliance with this
+and contact details of (a) Researcher(s) and other Agreement (including after termination of this
+personal data included in (a) curriculum vitae(s), Agreement).
+(iii) Research Study title, scope and intent; (iv)
+5. Independent Contractors. The
+requested Data; (v) the date of the Data Request;
+relationship between the Parties is that of
+(vi) funding source; (vii) affiliation with any third
+independent contractors. The Parties shall not enter
+parties that might lead to conflict of interest, (viii)
+into any agreements or incur obligations on behalf
+the author(s), the title and the source of the
+of either Party without prior written consent from
+Publication as defined below, for the following
+the other Party.
+purposes: (a) maintaining this Agreement;
+(b) satisfying legal or regulatory requirements, if
+6. Compliance Obligations.
+any; (c) statistical reporting, (d) creation of data
+sharing platform account for Researcher(s). 6.1 Merck intends to conduct its business in accordance
+Recipients of personal data according to this Section with environmental, labor and social standards and
+4.4 may also be established in countries outside the to abide by the standards set forth in the Merck Code
+EU or the European Economic Area subject to an of Conduct and the Merck Human Rights Charter
+adequate protection, especially by the use of EU (available at http://www.merckgroup.com).
+Standard Contractual Clauses. Institution shall comply, and shall ensure that its
+subcontractors comply, with reasonably comparable
+4.5 Information about processing of personal
+environmental, labor and social standards.
+data. Institution shall inform the Researchers and
+Institution further acknowledges and ensures that
+those individuals identified in its Research Study
+Institution and its subcontractors are familiar with
+about processing of their Personal Data by Merck
+the provisions of the FCPA, the UK Bribery Act and
+for the purposes of this Agreement so that Merck
+applicable local bribery and corruption laws, and
+complies with its information requirements under
+shall not take or permit any action that will either
+applicable data protection laws; where Institution is
+constitute a violation under, or cause Merck to be in
+reasonably missing details to provide complete
+violation of, the provisions of the FCPA, the UK
+information, Merck will provide such inform upon
+Bribery Act or applicable local bribery and
+request. Institution confirms that it has obtained any
+corruption law, environmental, labor and social
+necessary consents of the Researchers and those
+standards and the Merck Code of Conduct and the
+individuals identified in its Research Study, to
+Merck Human Rights Charter (collectively,
+collect, use, process, hold and transfer their personal
+“Improper Conduct”).
+data and information for the purpose of requesting
+Data via Merck’s website using the Data Request, 6.2 In addition to any other rights Merck may
+and for the purpose of maintaining this Agreement. have under this Agreement, if Institution notifies
+Where Researchers and other affected individuals Merck of, or Merck otherwise has a reasonable
+want to exercise their rights under data protection suspicion of, the occurrence of Improper Conduct,
+laws, they can contact Merck's data protection Merck may inspect or have inspected by an
+officer at privacy@merckgroup.com. independent auditor the premises, books and
+records of Institution relevant to Improper Conduct
+4.6 For purposes of Section 4.4 (d) above,
+for the purpose of ensuring compliance by
+Institution shall obtain consent from Researcher(s)
+Institution of its obligations under this section
+who is/are assigned by Institution to access the
+entitled “Compliance Obligations.” Institution shall
+Data. Researcher(s) can provide consent by signing
+promptly notify Merck in writing of such events.
+Attachment E.
+6.3 Should Merck gain sufficient evidence that
+4.7 Monitoring and Inspection. Institution shall
+Institution or its subcontractors are in breach of the
+afford Merck and their representatives and
+foregoing, Merck may terminate this Agreement
+designees reasonable access to Institution's
+immediately by written notice to Institution.
+facilities, to Data as well as to any other documents
+Page 5 of 12
+
+7. Property Rights 8. Publication of Results
+7.1 Non-Exclusive License. Institution shall 8.1 By Institution. Institution shall post a summary of
+notify Merck, promptly and in writing, of any New the Research Study on a publicly-available internet
+Intellectual Property. Institution hereby grants to register or website prior to conducting the Research
+Merck and to Merck’s Affiliates a perpetual, non- Study, and to post summary results of the Research
+exclusive, royalty-free, worldwide license (with the Study on the same publicly-available internet
+right to sublicense) to all rights, title and interest register or website within one year of completing
+which Institution may have or obtain in any New the Research Study. Institution also agrees to
+Intellectual Property, without additional submit the results of the Research Study for
+consideration from Merck. Institution will provide publication in the peer reviewed literature or at a
+reasonable assistance to Merck, upon commercially scientific congress (a "Publication") in a timely and
+reasonable terms that are at least as favorable to complete manner, with such Publication
+Merck as the terms agreed with any other licensee appropriately disclosing the strengths and
+for such assistance, to facilitate Merck in fully weaknesses of the Research Study methodology.
+utilizing any New Intellectual Property. Institution shall submit to Merck an advance copy
+of the Research Study summary and summary
+7.2 Option. Institution hereby grants to Merck
+results prior to posting the summaries, as well as an
+and to Merck’s Affiliates an exclusive option, to be
+advanced copy of any proposed Publication at least
+exercised in writing within one hundred eighty
+sixty (60) days before submission to a scientific
+(180) days following receipt of notice of the New
+congress or journal for the purpose of reviewing the
+Intellectual Property, to obtain an exclusive, fee-
+summaries and Publication for confidential or
+bearing, worldwide license (with right to
+proprietary commercial information. Upon
+sublicense) to all or at Merck’s election, a portion of
+Merck’s request, all such confidential or proprietary
+the rights, title and interest which Institution may
+commercial information shall be removed from the
+have or obtain in any New Intellectual Property.
+summaries and publication. Additionally,
+Following any exercise of such option, Merck and
+Institution shall provide Merck with a reference
+Institution shall exclusively negotiate the financial
+citation upon publication. Institution will assist
+terms if such license in good faith, for up to one
+Merck in obtaining re-prints of the Publication.
+hundred eighty (180) days or such mutually
+agreeable longer period. If Merck or an Affiliate 8.2 By Merck. If Merck or an Affiliate submits
+does not exercise the option to an exclusive license, Research Study results to any regulatory authority
+or if Institution and Merck fail to agree to with the purpose or effect of changing any product
+commercially reasonable financial terms of the labeling or approvals, Institution agrees that Merck
+license following good faith negotiation, then may post a summary of the Research Study results
+Institution may negotiate license terms with third on a public or a Merck-hosted website for posting
+parties. Any such terms shall be consistent with the Research results. Institution agrees, following
+non-exclusive license granted to Merck in section publication, to provide other researchers with
+6.1 above. Should any terms be agreed with a third additional details of the Research Study on request,
+party in accordance with this section, then for five provided that all confidential and proprietary
+(5) years after the Effective Date, Institution shall commercial information of Merck shall be removed
+notify Merck, within thirty (30) days following the from the additional details, and to provide access
+Effective Date of any such agreement, of the and reasonable assistance to those other researchers
+identity of the third party. to utilize and implement any analytical tools for the
+sole purpose of reproducing the Research Study.
+7.3 Records. Institution shall obtain written
+agreements with Institution employees, agents, and
+9. Term and Termination.
+subcontractors which assign, without additional
+consideration, all rights, title and interests in New 9.1 Term. The term of this Agreement shall
+Intellectual Property to Institution for subsequent commence as of the Effective Date and continue
+licensing to Merck. until all obligations under the Agreement have been
+Page 6 of 12
+
+fulfilled, unless terminated earlier upon notice by consent. Merck may assign this Agreement in
+Merck at any time. whole or in part without Institution’s consent.
+9.2 Survival. Termination or expiration of this 11. Miscellaneous. This Agreement and all
+Agreement shall not relieve either Party of any claims related to it shall be governed by the laws of
+obligation or liability accrued prior to the Germany, without regard to its choice or conflict of
+termination date. The obligations of the Parties law provisions. This Agreement is the entire
+under the Sections entitled: Confidentiality, agreement between the Parties relating to the
+Property Rights, Publication of Results, Survival, subject matter hereof and supersedes all prior
+Assignment, and Miscellaneous shall survive agreements between the Parties relating to the
+termination of this Agreement. subject matter hereof. Facsimile signatures shall
+10. Assignment. The rights and obligations of have the same effect as originals. This Agreement
+Institution under this Agreement are personal to may be executed in counterparts.
+Institution and may not be assigned or
+subcontracted to others without Merck’s written
+IN WITNESS WHEREOF, duly authorized representatives of the Parties have executed this Agreement as
+of the Effective Date.
+Institution MERCK KGaA
+Signature: Signature:
+Printed Name: Printed Name:
+Title: Title:
+Signature:
+Printed Name:
+Title:
+Page 7 of 12
+
+EXHIBIT A
+SPECIFIC CLINICAL TRIAL(S) AND DATA TO BE PROVIDED
+Merck has agreed to provide Institution access to data from the following Merck sponsored clinical trials:
+Full protocol name: __________________________________________________________
+Protocol number: ____________________________________________________________
+Ct.Gov identifier: ____________________________________________________________
+Merck has agreed to provide access to the following specific data from the above-listed trial(s)
+[DRAFTING NOTE: delete all types of data which have not been authorized by Merck for a specific
+request]:
+1. Full clinical study report
+2. Clinical study report synopsis
+3. Clinical study protocol
+4. Clinical study results
+5. Patient level data (defined in Responsible Data Sharing Policy as “Information on individual
+patients collected during the course of a clinical study and recorded on Case Report Forms,
+including, but not limited to, demographic data, laboratory results, baseline characteristics, drug
+concentration data, biomarker and pharmacogenetic data, and adverse events. Patient Level Data
+shall not include any medical, clinical, regulatory, or legal interpretations, explanations, or
+conclusions.”)
+6. Study level data (defined in Responsible Data Sharing Policy as “Patient Level Data that has been
+amalgamated, compiled and tabulated, manipulated, stratified or otherwise organized into study-
+level data sets to be used in interpreting the outcome of a study. Study Level Data is usually
+presented in tabular, graphic, or statistical form showing averaged, stratified, or patterned
+presentations of study data. This data shall not include any medical, clinical, regulatory, or legal
+interpretations, explanations, or conclusions.”)
+7. Summary information of data (in case where co-development agreements or other agreements or
+other legal restrictions prevent Merck from sharing particular data).
+Additional restrictions regarding use of Data (if any):
+Page 6of 12
+66765.1
+
+EXHIBIT B
+RESEARCH STUDY PLAN
+Under Data Sharing Agreement dated __________________
+[insert the Research Study Plan as sent by Institution]
+Page 7 of 12
+66765.1
+
+EXHIBIT C
+DATA REQUEST
+Page 8 of 12
+66765.1
+
+EXHIBIT D
+CONFLICT OF INTEREST STATEMENT
+[Please add any potential conflicts of interest with the proposed research
+for each member of the research team. A “conflict of interest” is considered
+to be financial and/or non-financial relationships that could be perceived to
+influence the planning, conduct or interpretation of the research. Wherever
+conflict of interests exist these have to be elaborated in the table below]
+Name of researcher: [Insert name]
+FINANCIAL CONFLICTS:
+Board membership [ I n s e rt conflict or N/A]
+Consultancies [Insert conflict or N/A]
+Employments [Insert conflict or N/A]
+Grants [Insert conflict or N/A]
+Patents [Insert conflict or N/A]
+Royalties [Insert conflict or N/A]
+Stock/shares [Insert conflict or N/A]
+Name of researcher: [Insert name]
+FINANCIAL CONFLICTS:
+Board membership [ I n s e rt conflict or N/A]
+Consultancies [Insert conflict or N/A]
+Employments [Insert conflict or N/A]
+Grants [Insert conflict or N/A]
+Patents [Insert conflict or N/A]
+Royalties [Insert conflict or N/A]
+Stock/shares [Insert conflict or N/A]
+Name of researcher: [Insert name]
+Page 9 of 12
+66765.1
+
+FINANCIAL CONFLICTS:
+Board membership [ I n s e rt conflict or N/A]
+Consultancies [Insert conflict or N/A]
+Employments [Insert conflict or N/A]
+Grants [Insert conflict or N/A]
+Patents [Insert conflict or N/A]
+Royalties [Insert conflict or N/A]
+Stock/shares [Insert conflict or N/A]
+Name of researcher: [Insert name]
+FINANCIAL CONFLICTS:
+Board membership [ I n s e rt conflict or N/A]
+Consultancies [Insert conflict or N/A]
+Employments [Insert conflict or N/A]
+Grants [Insert conflict or N/A]
+Patents [Insert conflict or N/A]
+Royalties [Insert conflict or N/A]
+Stock/shares [Insert conflict or N/A]
+Name of researcher: [Insert name]
+FINANCIAL CONFLICTS:
+Board membership [ I n s e rt conflict or N/A]
+Consultancies [Insert conflict or N/A]
+Employments [Insert conflict or N/A]
+Grants [Insert conflict or N/A]
+Patents [Insert conflict or N/A]
+Royalties [Insert conflict or N/A]
+Stock/shares [Insert conflict or N/A]
+Page 10 of 12
+66765.1
+
+Attachment E
+Consent to submission of personal data to Merck KGaAs service provider hosting the data
+sharing platform
+I consent to the submission of my personal data (title, name, contact details and
+information regarding my professional qualifications) to Merck KGaA service provider
+hosting the data sharing platform for Merck KGaA for creation of my data sharing
+platform account.
+I am entitled to withdraw this consent at any time with future effect.
+place, date: ____________________________ Signature: ___________________________
+Page 11 of 12
+66765.1

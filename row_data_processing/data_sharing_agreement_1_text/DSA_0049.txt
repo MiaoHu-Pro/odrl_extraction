@@ -1,0 +1,522 @@
+OFFICIAL
+Memorandum of Understanding (MoU)
+on
+Personal Data Sharing required for the
+Communities for Afghans Project
+This MoU is made between
+The Secretary of State for Levelling Up, Housing and Communities (“DLUHC”)
+and
+London Borough of Camden
+1
+OFFICIAL
+
+OFFICIAL
+DATA PROTECTION
+DATA PROTECTION LEGISLATION PARAGRAPH DEFINITIONS:
+London Borough of Camden means:
+Assurance Checks: safeguarding checks conducted on a sponsor to ensure their suitability
+to be involved in the CfA project.
+Controller, Processor, Processing, Data Subject, Personal Data, Personal Data Breach,
+Data Protection Officer, Data Protection Impact Assessment: take the meaning given in
+the UK GDPR or, in respect of processing of personal data for a law enforcement purpose to
+which Part 3 of the DPA 2018 applies, the meaning in that part if different.
+DPA 2018: Data Protection Act 2018.
+Data Loss Event: any event that results, or may result, in unauthorised access to Personal
+Data held by the Processor under these Conditions, and/or actual or potential loss and/or
+destruction of Personal Data in breach of these Conditions, including any Personal Data
+Breach.
+Data Protection Legislation means as applicable, the UK GDPR, the DPA 2018, the Privacy
+and Electronic Communications (EC Directive) Regulations 2003 and any other applicable
+laws and regulations relating to the privacy or the processing of personal data, including any
+amendments or successor laws or regulations thereto.
+Data Protection Principles: means the principles set out in Article 5 of the UK GDPR.
+Data Sharing Agreement: means an agreement setting out the purpose, use, standards and
+roles and responsibilities of the data sharing as per the Supervisory Authority’s statutory Code
+of Practice on Data Sharing.
+Data Subject Request: a request made by, or on behalf of, a data subject in accordance with
+rights granted pursuant to the Data Protection Legislation to access their Personal Data.
+Data Subject Rights: means those rights set out in Chapter III of the UK GDPR.
+DPIA and Data Protection Impact Assessment: an assessment by the Controller of the
+impact of the envisaged processing on the protection of Personal Data.
+UK GDPR: means the General Data Protection Regulation (as defined in the DPA 2018) as it
+forms part of the law of England and Wales, Scotland and Northern Ireland by virtue of section
+3 of the European Union (Withdrawal) Act 2018, and as amended by the Data Protection,
+Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019.
+EU GDPR: means EU General Data Protection Regulation.
+Law: means any law, subordinate legislation within the meaning of Section 21(1) of the
+Interpretation Act 1978, bye-law, regulation, order, regulatory policy, mandatory guidance or
+code of practice, judgment of a relevant court of law, or directives or requirements with which
+the Parties are bound to comply.
+2
+OFFICIAL
+
+OFFICIAL
+Home Department and the Home Office: the Secretary of State for the Home Department,
+of 2 Marsham Street, London, SW1P 4DF.
+LED: Law Enforcement Directive (Directive (EU) 2016/680).
+Onward Recipient: an external third party that Local Authorities may share Personal Data
+with after receipt of data from DLUHC;
+Party: a Party to this Data Sharing Agreement listed in Annex 1;
+Personal Data: means the data fields specified for sharing in Annex 1;
+Personnel: means all directors, officers, employees, agents, consultants and contractors
+engaged in the Processing of Personal Data.
+Processor Personnel: means all directors, officers, employees, agents, consultants and
+Recipients of the Processor and/or of any sub-Processor engaged in the performance of its
+obligations under these Conditions.
+Protective Measures: appropriate technical and organisational measures which may include:
+pseudonymising and encrypting Personal Data, ensuring confidentiality, integrity, availability
+and resilience of systems and services, ensuring that availability of and access to Personal
+Data can be restored in a timely manner after an incident, and regularly assessing and
+evaluating the effectiveness of the such measures adopted by it.
+Sub-processor: any Third Party appointed to process Personal Data on behalf of that
+Processor related to these Conditions
+3
+OFFICIAL
+
+OFFICIAL
+1. Introduction
+1.1. This Memorandum of Understanding (MoU) on personal data
+sharing is not legally binding and no legal obligations or legal rights shall
+arise between the Parties from the provisions of this MoU (hereafter
+referred to as “this Agreement”). By signing this MoU (i) the Parties do
+not intend to create contractual or other legal relations; and (ii) the
+Parties agree to adhere to the framework set out in the Agreement.
+1.2. It has been agreed between DLUHC and Local Authorities to
+ensure agreement and appropriate arrangements are in place in respect
+of the sharing of Personal Data as Data Controllers.
+1.3. The use of Personal Data governed by this data sharing
+Agreement (DSA) covers the processing of Personal Data provided by
+DLUHC, to be transferred to and by London Borough of Camden for the
+purpose set out in clause 4 below. The transfer and use of Personal Data
+is necessary to deliver the Communities for Afghans project (CfA).
+1.4. Given urgency for the sharing of Personal Data covered in this
+DSA, a Party accessing or otherwise using the data constitutes formal
+agreement to the terms of this DSA, in parallel to the execution clause
+29 below.
+2. Roles and Responsibilities
+2.1. DLUHC is an Independent Data Controller for the processing of the
+Personal Data up to the point that the Personal Data is provided to
+London Borough of Camden.
+2.2. Citizens UK is the main Data Processor contracted by DLUHC for
+processing of its Personal Data. It will directly receive Personal Data
+from London Borough of Camden and other parties delivering CfA. For
+avoidance of doubt, as DLUHC’s Processor any direct sharing of
+Personal Data with Citizens UK is synonymous with sharing with
+DLUHC; DLUHC will be solely responsible for the purpose, use and
+security of the Personal Data from the point that Citizens UK receives it
+from London Borough of Camden.
+2.3. London Borough of Camden is an Independent Data Controller
+from the point that Personal Data is provided to them by DLUHC to
+facilitate delivery of CfA, and/or it collects its own personal data for the
+purpose of delivering the project. For avoidance of doubt, London
+Borough of Camden of the Personal Data from this point of receipt from
+DLUHC. Similarly, where London Borough of Camden provides
+Personal Data to DLUHC; DLUHC will be solely responsible for the
+purpose, use and security of the Personal Data from this point of receipt
+from London Borough of Camden.
+2.4. No Controller-Processor, or Joint Data Controller relationship will
+apply.
+4
+OFFICIAL
+
+
+
+OFFICIAL
+5. Legal basis for the use of the data
+5.1. The legal basis that DLUHC and the Local Authority are using for
+the sharing and use of this data is
+5.1.1. UK GDPR Article 6(1)(e) – the processing is necessary for the
+performance of a task carried out in the public interest or in the
+exercise of official authority vested in the Controller,
+5.1.2. DPA 2018, Part 2, Chapter 2, section 8 (d) – the exercise of a
+function of the Crown, a Minister of the Crown or a government
+department.
+5.2. For DLUHC the vires for use of the above is section 59(2)(c) of
+the Nationality, Immigration and Asylum Act 2002.
+5.3. DLUHC’s view is that the most suitable vires for Local Authority
+may be section 111 of the Local Government Act 1972, though if you
+have previously worked directly with Home Office on refugee matters
+you may have your vires for processing identified already. The Local
+Authority is an Independent Data Controller and you may wish to take
+your own legal advice on your legal powers to process the shared
+Personal Data after receipt.
+6. Special category data being processed
+6.1. Special category data is to be shared between the Parties and is
+set out in Annex 1 of this DSA.
+6.2. The legal basis that DLUHC is using for the sharing and use of
+this Personal Data is
+6.2.1. UK GDPR Article 9(2)(g) – processing is necessary for
+reasons of substantial public interest, on the basis of domestic
+law which shall be proportionate to the aim pursued, respect the
+essence of the right to data protection and provide for suitable
+and specific measures to safeguard the fundamental rights and
+the interests of the data subject;
+6.2.2. DPA 2018, Schedule 1, Part 2, section 6 – the exercise of
+a function of the Crown, a Minister of the Crown or a government
+department.
+6.3. For DLUHC the vires for use of the above identical to clause 5.2
+above.
+6.4. For the Local Authority, the vires for the use of the above is
+identical to clause 5.3 above.
+7. Criminal data being processed
+6
+OFFICIAL
+
+OFFICIAL
+7.1. Assurance checks and outcomes relating to individual sponsors
+will be made by the Home Office and DLUHC as part of the scheme. The
+outcome of these checks will be shared with London Borough of Camden
+as a necessary part of delivering the purpose set out in clause 3 but no
+other information is to be shared (see clause 4.2 above).
+7.2 Any shared criminal data under this agreement will be set out in
+Annex 1
+8. Additional conditions for the processing of criminal data
+8.1. Section 10(5) and Schedule 1, Part 2, paragraph 6 of the DPA
+2018.
+9. Compliance with the Data Protection Legislation
+9.1. The Parties agree that Personal Data used under this DSA shall
+be processed in accordance with the Data Protection Legislation.
+10. Compliance with the Data Protection Principles
+10.1. Save to the extent that an exemption applies to limit or exclude
+any of them, compliance with the Data Protection Legislation shall
+include (but is not limited to) compliance with the Data Protection
+Principles as described in Article 5 of the UK GDPR.
+10.2. Personal Data shall therefore be –
+10.2.1. processed lawfully, fairly and in a transparent manner
+(‘lawfulness, fairness and transparency’);
+10.2.2. collected for specified, explicit and legitimate purposes and
+not further processed in a manner that is incompatible with those
+purposes (‘purpose limitation’);
+10.2.3. adequate, relevant and limited to what is necessary in
+relation to the purposes for which they are processed (‘data
+minimisation’);
+10.2.4. accurate and, where necessary, kept up to date and that
+every reasonable step is taken to ensure that personal data that
+are inaccurate, having regard to the purposes for which they are
+processed, are erased or rectified without delay (‘accuracy’);
+10.2.5. kept in a form which permits identification of data subjects
+for no longer than is necessary for the purposes for which the
+personal data are processed (‘storage limitation’);
+10.2.6. processed in a manner that ensures appropriate security
+of the personal data, including protection against unauthorised or
+unlawful processing and against accidental loss, destruction or
+damage, using appropriate technical or organisational measures
+(‘integrity and confidentiality’).
+10.2.7. Processed in accordance with the UK GDPR and
+demonstrating our compliance.
+11. Protective Measures and Personal Data Breaches
+11.1. The parties undertake to have in place throughout the Term
+appropriate technical and organisational security measures to:
+7
+OFFICIAL
+
+OFFICIAL
+11.1.1. prevent:
+11.1.1.1. unauthorised or unlawful processing of the
+Personal Data; and
+11.1.1.2. the accidental loss or destruction of, or damage to,
+the Personal Data; and
+11.1.2. ensure a level of security appropriate to:
+11.1.2.1. the harm that might result from such unauthorised
+or unlawful processing or accidental loss, destruction or
+damage; and
+11.1.2.2. the nature of the Personal Data to be protected.
+11.1.2.3. The Parties shall keep security measures under
+review and shall carry out such updates as are appropriate
+throughout the Term.
+11.2. It is the responsibility of each party to ensure that its staff
+members are appropriately trained to handle and process the Project
+Personal Data in accordance with the technical and organisational
+security measures set out in Annex 1 together with any other applicable
+national data protection laws and guidance and have entered into
+confidentiality agreements relating to the processing of personal data.
+11.3. The level, content and regularity of training referred to in clause
+15.2 shall be proportionate to the staff members' role, responsibility and
+frequency with respect to their handling and processing of the Project
+Personal Data.
+11.4. The Parties shall each comply with its obligation to report a
+Personal Data Breach to the appropriate Supervisory Authority and
+(where applicable) data subjects under Article 33 of the UK GDPR and
+shall each inform the other party within 24 hours of becoming aware of
+any Personal Data Breach irrespective of whether there is a requirement
+to notify any Supervisory Authority or data subject(s).
+11.5. The Parties agree to provide reasonable assistance as is
+necessary to each other to facilitate the handling of any Personal Data
+Breach in an expeditious and compliant manner.
+12. Data Subject Rights
+12.1. The Parties will comply in full with the rights of Data Subjects in
+Chapter III of the UK GDPR where applicable.
+12.2. Save where they are limited or excluded by an exemption these
+may include the right to –
+12.2.1. Object – the right of the Data Subject to request that their
+Personal Data is not processed for certain purposes.
+12.2.2. Erasure - the right of the Data Subject to request that their
+Personal Data is erased where one of the statutory grounds
+applies.
+8
+OFFICIAL
+
+OFFICIAL
+12.2.3. Data portability – the right of the Data Subject to obtain
+Personal Data and reuse their Personal Data for their own
+purposes across different services in certain circumstances.
+12.2.4. Restrict processing - the right of the Data Subject to
+request that the processing of their Personal Data is restricted in
+certain circumstances – for example, where accuracy is
+contested.
+12.2.5. Rectification - the right of the Data Subject to request that
+any inaccuracies in their Personal Data are rectified without
+delay. Request that any incomplete personal data is completed,
+including by means of a supplementary statement.
+12.2.6. Access - the right of the Data Subject to request access to
+information about how their Personal Data is processed and to
+request a copy of that personal data.
+13. Data Protection Breach
+13.1. Each Party shall notify the other(s) as soon as possible or within
+24 hours (whichever is sooner) of becoming aware of a Data Protection
+Breach in respect of Personal Data used under this Agreement.
+13.2. The Parties agree that where appropriate, they will work together
+and ensure co-operation regarding the handling of such a breach.
+14. Integrity and training of Personnel
+14.1. The Parties will ensure that they take all reasonable steps to
+ensure the reliability and integrity of its Personnel who have access to
+the Personal Data which is processed under this DSA that they are
+aware of their obligations under the Data Protection Legislation and in
+particular that they have had appropriate training on the handling of
+Personal Data.
+15. International Transfers of Data
+15.1. The Parties are aware of the prohibition in Article 44 of the UK
+GDPR against the transfer of Personal Data used under this DSA to
+‘third countries’ (as described in that Article) unless certain conditions
+are met. In the event that either is in any doubt about the legality of an
+international transfer of the personal data processed under this
+agreement, it shall consult the other as appropriate.
+16. Additional notification requirements
+16.1. The Parties shall notify the other without delay in the event that,
+in relation to the personal data processed under this Agreement, it –
+16.1.1. receives any communication from the Information
+Commissioner or any other regulatory authority;
+16.1.2. receives a letter before action or other communication
+indicating an intention to commence legal proceedings in respect
+of Personal Data processed under this DSA;
+9
+OFFICIAL
+
+OFFICIAL
+16.1.3. receives a complaint, notice, communication or penalty
+which and agree to collaborate on a response to such an enquiry.
+17. Complaints/legal action
+17.1. The Parties shall work together regarding the response to any
+complaint, communication or request from the Information
+Commissioner or other regulatory authority or any threatened litigation
+by a third party in relation to the Personal Data processed under this
+Agreement.
+18. Classification of the data
+18.1. OFFICIAL SENSITIVE.
+19. Transmission of the data
+19.1. The parties shall transfer necessary Personal Data requested
+under this Agreement, regardless of its format, only via secure means of
+transit. English local authorities will share data with DLUHC via the
+DELTA system.
+19.2. Both Parties will ensure that any further Data Processor (or sub-
+processor) engaged by either one of them, shall only receive personal
+data via secure means of transit, regardless of its format.
+20. Privacy Notices
+20.1. The Parties’ Privacy Notices shall reflect the data processing
+activities and any changes made to these as established under this
+Agreement, subject to the restriction stated in clause 4.2 above.
+21. Record keeping
+21.1. The Parties shall maintain complete and accurate processing of
+records to demonstrate their compliance with the Data Protection
+Legislation in relation to the Personal Data processed under this
+Agreement.
+22. Retention and Deletion of Personal Data
+22.1. In accordance with the principle of data minimisation the Parties
+shall delete their relevant personal data as required by the records
+retention schedules and within 2 years of the closure of the scheme
+unless DLUHC identifies that its continued retention is unnecessary
+before that point.
+22.2. The Parties shall not retain or process Personal Data for longer
+than is necessary to carry out the Agreed Purposes. This includes any
+statutory, legal or professional retention periods applicable to the
+personal data.
+23. Term and Termination
+23.1. This Agreement shall commence on 01 July 2024 and will run for
+6 months from this date unless terminated earlier in accordance with
+clause 23.2.
+10
+OFFICIAL
+
+OFFICIAL
+23.2. This Agreement can be terminated before its end date as per
+clause 23.1 only via mutual agreement between both Parties, with at
+least three months' notice in writing, unless both Parties are agreed that
+a reduced notice period is acceptable.
+24. Resolution of disputes with data subjects or the Supervisory Authority
+24.1. If either of the Parties has any issues, concerns or complaints
+about this Agreement it shall notify the other and they shall, acting in
+good faith, seek to resolve the issue by negotiations between
+themselves, and follow the resolution process.
+24.2. In the event of a dispute or claim brought by a data subject or the
+Supervisory Authority concerning the processing of Personal Data
+against either or both Parties, the Parties will inform each other about
+any such disputes or claims and will co-operate with a view to settling
+them amicably in a timely fashion.
+24.3. The Parties agree to respond to any generally available non-
+binding mediation procedure initiated by a data subject or by the
+Supervisory Authority. If they do participate in the proceedings, the
+parties may elect to do so remotely (such as by telephone or other
+electronic means). The Parties also agree to consider participating in
+any other arbitration, mediation or other dispute resolution proceedings
+developed for data protection disputes.
+24.4. Each Party shall abide by a decision of a competent court in
+England and Wales or of that Supervisory Authority.
+25. Resolution of disputes between parties to this agreement
+25.1. The Parties shall each appoint a nominated representative to
+whom any disputes arising from the operation of this Agreement shall be
+referred.
+25.2. If the Parties are unable to agree a matter arising under the terms
+and clauses of this Agreement, such a dispute shall be referred to the
+senior officers of the nominated representatives for resolution. The
+decision of the senior officers shall bind all Parties and be treated as
+resolving the dispute.
+25.3. The Parties shall, where a dispute cannot be resolved by
+agreement between their senior officers, appoint an adjudicator whose
+decision shall be final.
+25.4. In the event of a dispute or claim brought by a data subject or the
+Information Commissioner’s Office concerning the processing of shared
+Personal Data against either of the Parties, the Parties will inform each
+other about any such disputes or claims and will cooperate with a view
+to settling them amicably in a timely fashion.
+11
+OFFICIAL
+
+OFFICIAL
+26. Variation
+26.1. This Agreement may only be varied by written agreement
+between the Parties.
+27. Data Protection Officers (DPO)
+27.1. The contact details of the DPO for DLUHC are:
+27.1.1. dpo@levellingup.gov.uk.
+27.2. The contact details of the DPO for London Borough of Camden
+are: Andrew Maughan, DPO@camden.gov.uk
+28. Governing law and jurisdiction
+28.1. This Agreement shall be governed by and construed in
+accordance with English law.
+29. Execution
+29.1. Each Party agrees that the electronic signatures, whether digital
+or encrypted, of the Parties included in this Agreement are intended to
+authenticate this writing and to have the same force and effect as manual
+signatures. Delivery of a copy of this Agreement, bearing an original
+manual or electronic signature by facsimile transmission (including a
+facsimile delivered via the Internet), by electronic mail in “portable
+document format” (“.pdf”) or similar format intended to preserve the
+original graphic and pictorial appearance of a document, or through the
+use of electronic signature software will have the same effect as physical
+delivery of the paper document bearing an original signature.
+29.2. This Agreement has been entered into on the date stated at
+clause 29 below and takes effect on the date stated at clause 22 above.
+30. SIGNATURES
+30.1. The signatories agree that the procedures laid down in this
+Agreement provide an acceptable framework for the processing of
+personal data, and that it is in a manner compliant with their statutory
+and professional responsibilities.
+30.2. By signing this agreement, the signatories undertake to accept
+responsibility for implementation of the terms of this Agreement within
+their own organisations.
+30.3. Signatories must also ensure that they comply with all relevant
+legislation.
+12
+OFFICIAL
+
+
+
+OFFICIAL
+Nature and purposes of the Citizens UK will hold contact details of LA employees for the purpose of
+processing supporting Afghan beneficiaries. CUK will be responsible for processing
+storing and eventual destruction of LA employee personal data collected
+for the purposes of delivering the Communities for Afghan project.
+Personal data related to CfA beneficiaries will be shared from sponsor
+groups to LAs for the purpose of arranging welfare checks. LAs and CUK
+will be responsible for securely transferring pseudonymised data to
+DLUHC for the purpose of monitoring and evaluation.
+LAs will process and transfer data to DLUHC via Delta forms for the
+purpose of tariff payments to the LA. Both LAs and DLUHC will be
+responsible for managing, storing and eventual destruction of data
+received from LAs via Delta forms.
+Data Processors referred to Citizens UK
+in this Annex
+Type of Personal Data being LA point of contact data
+Processed
+Name
+Workplace email
+Workplace telephone number
+Named sponsor data
+Name
+Address
+Email address
+Telephone number
+Bank details
+Assurance check outcomes
+CfA participants’ data
+Name
+Email address
+Address
+Delta form
+Household size
+Number of children aged 3-4 and 5-18 in household
+Number of adults in household
+Categories of Data Subject LA employees
+Named sponsors
+Beneficiaries of the CfA project
+14
+OFFICIAL
+
+OFFICIAL
+Those involved in matching of visa applicants to accommodation
+offers and/or offers of wider support
+Plan for return and The Parties will dispose of respectively held data as per clause 21
+destruction of the data once of this Agreement.
+the processing is complete
+UNLESS requirement under
+London Borough of Camden to provide DLUHC with relevant
+union or member state law to
+destructions certificates.
+preserve that type of data
+Description of technical and DLUHC staff are trained in data protection; data will be transferred using
+organisational security encrypted emails; Citizens UK have been through DLUHC’s cyber
+measures assurance process.
+Transfers to third countries or For DLUHC this data will not be leaving servers within the United
+international organisations Kingdom.
+The LA is to ensure adequacy of their own processing if this will
+take place outside of the UK.
+Legal Basis for Processing DLUHC
+by DLUHC and London
+Borough of Camden UK GDPR Article 6(1)(e) – the processing is necessary for the
+performance of a task carried out in the public interest or in the
+exercise of official authority vested in the Controller,
+DPA 2018, Part 2, Chapter 2, section 8 (d) – the exercise of a
+function of the Crown, a Minister of the Crown or a government
+department.
+UK GDPR Article 9(2)(g) – processing is necessary for reasons of
+substantial public interest, on the basis of domestic law which shall
+be proportionate to the aim pursued, respect the essence of the
+right to data protection and provide for suitable and specific
+measures to safeguard the fundamental rights and the interests of
+the data subject;
+DPA 2018, Schedule 1, Part 2, section 6 – the exercise of a
+function of the Crown, a Minister of the Crown or a government
+department.
+London Borough of Camden
+Personal data: UK GDPR Article 6(1)(e) – the processing is
+necessary for the performance of a task carried out in the public
+interest or in the exercise of official authority vested in the
+Controller,
+No special category or criminal offence data being processed
+15
+OFFICIAL
+
+OFFICIAL
+Special Terms N/A
+16
+OFFICIAL

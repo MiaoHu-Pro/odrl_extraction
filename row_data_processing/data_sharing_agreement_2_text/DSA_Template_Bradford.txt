@@ -1,0 +1,304 @@
+DATA SHARING AGREEMENT
+1. Parties to this agreement
+Organisation’s Name City of Bradford Metropolitan District Council (CBMDC). Education
+& Learning, Department of Children’s Services.
+Address Margaret McMillan Tower, Princes Way, Bradford, BD1 1NN.
+Responsible Manager Rebecca Caladine, Data and Intelligence Manager
+Contact Details Tel: 01274 439648
+Source / Recipient or both? Recipient
+Authorised Signatory/Date Sue Lowndes, Interim Assistant Director Schools
+(Caldicott Guardian, SIRO,
+Chief Executive, Director etc)
+Date:07.10.22
+Organisation’s Name
+Address
+Responsible Manager
+Contact Details
+Source / Recipient or both? Source
+Authorised Signatory/Date
+(Caldicott Guardian, SIRO,
+Chief Executive, Director etc)
+Date:
+Date of Agreement October 2022
+2. Specific purpose(s) for which the data sharing is required (all intended purposes should
+be described; it may be appropriate to describe each one on a separate pro forma)
+To enable the effective sharing of necessary information between Bradford LA maintained schools,
+academies and free schools (referred as ‘Schools’ below) and City of Bradford Metropolitan District
+Council (CBMDC) in the conduct of the Council’s statutory and core services to children and
+schools. The sharing of agreed information will promote and maintain positive working
+relationships between the school, City of Bradford Metropolitan District Council and other relevant
+parties to ensure positive outcomes and services for all school age children across the district. It
+will help maintain the quality of school data and help to reduce the administrative burden on
+schools as data will only need to be inputted once by the school but used many times as
+necessary by City of Bradford Metropolitan District Council services in support of the outcomes for
+children and young people.
+Page 1 of 7
+
+The information shared will support schools to ensure the accuracy of their statutory data returns
+while assisting Children and Young People’s Services and professionals within City of Bradford
+Metropolitan District Council to fulfil their statutory duties as well as best practice in the promotion
+of outcomes. The information shared will also be used to support and inform strategic planning
+across Bradford District in meeting the needs of children and young people as well as to support
+educational establishments to fulfil their roles and responsibilities.
+The City of Bradford Metropolitan District Council will notify the School if they become aware of any
+identified inaccuracies in the data they receive to ensure that data held by both parties is accurate
+and up to date. The City of Bradford Metropolitan District Council will also make the data available
+via data analysis to Children and Young People’s Services professionals within the City of Bradford
+Metropolitan District Council. The data is held on secure servers, only accessible by authorised
+staff. The data is held on a central pupil database which is only accessible by authorised staff,
+password protected and subject to an acceptable use policy at every log-in.
+The City of Bradford Metropolitan District Council will share data with other parties, in compliance
+with relevant data protection legislation, in order to fulfil it’s statutory duties in regard to the
+education and welfare of all children and young people for whom they are responsible:
+Safeguarding, SEND and vulnerable Children
+1. Unique Pupil Number (UPN) will be shared with Children’s Social Care to enable
+identification of vulnerable cohorts.
+2. Incidences of domestic violence and associated pupil and family data are shared with the
+schools that those children attend.
+3. Data is shared with Schools, Health, the Police, HMRC and other Local Authorities for the
+purpose of locating children defined as Children Missing Education (CME).
+4. Data will be shared where children apply for a performance licence in relation to Child
+employment and entertainment in line with Education Safeguarding responsibilities.
+5. Educational Psychology reports are shared with the school that child attends.
+6. Data will be shared to support schools to better understand the needs of children and
+young people involved with the Social, Communication, Interaction and Learning (SCIL)
+Team.
+7. Data will be shared to populate the CPOMS Engage System, allowing schools and
+Childrens Services to dynamically share data where appropriate. Including but not limited to
+Integrated front door, Child Exploitation, Educational Safeguarding and Domestic and
+Sexual Abuse Service.
+8. Data will be shared with Bradford’s Supporting Families team to support service provision
+and demonstrate successful outcomes of family focused interventions. Data may be shared
+with the National Supporting Families Team at DLUHC to verify the quality of work done
+and progress made for families.
+Sufficiency, commissioning and research
+9. Data is shared with schools for the purposes of school admissions.
+10. Shared with the NHS for the purpose of informing and planning for future services, and to
+commission and monitor health services.
+11. Pseudonymised data is shared with Bradford Teaching Hospitals Foundation Trust to
+support the Born In Bradford and Connected Bradford programmes.
+12. Summary school census data (pupils on roll by National Curriculum Year) will be shared
+with other Local Authorities for the purpose of ensuring there are adequate school places
+available for the future.
+Page 2 of 7
+
+Funding, performance and accountability
+13. Internally for statistical analysis to support service provision across the council.
+14. Data from the school census is also be used by CBMDC for the purposes of determining
+the school’s budget allocation, based on the Council’s school funding formula. The
+composition of this formula and the definitions of the data used in it, are published and
+changes are subject to consultation with the Schools Forum.
+15. Released in response to Freedom of Information requests in accordance with the Freedom
+of Information Act 2000.
+16. Information will be processed by the National Consortium for Examination Results (NCER)
+and their Nexus and Perspective Lite systems, for the statutory key stage collections and
+the reporting and analysis of pupil data to aid school effectiveness and improvement.
+Employment and Skills
+17. Data is shared internally to support the local authority's statutory duty in relation to
+education, employment and training, under the Education Act 1996 (Section 15ZA), i.e. that
+Bradford Local Authority "must secure that enough suitable education and training is
+provided to meet the reasonable needs of (a) persons in their area who are over
+compulsory school age but under 19, and (b) persons in their area who are aged 19 or over
+and for whom an EHC plan is maintained." This includes the commissioning and delivery of
+education and training provision for young people, promoting the participation of young
+people, and tracking and supporting young people’s activity. The LA has a duty to the
+identify young people at risk of, or not participating in education, employment or training
+("NEET") with a particular focus on young people with specific vulnerabilities, i.e. those with
+special educational needs and/or disabilities, care experienced young people, etc
+18. Data is shared with the Careers and Technical Education Partnership (CTEP) for the
+purposes of: (a) monitoring the participation of children and young people in the delivery of
+curriculum support and careers advice and guidance; (b) informing and shaping the
+partnership on the curricular needs of schools, and other education and training providers;
+and (c) tracking the progress of students through their chosen educational pathways.
+Relevant individual data, including some data on qualifications attained, is uploaded on to a
+Customer Relationship Management (CRM) database which allows authorised users to
+access the database and data for student, school and business engagement as appropriate
+to their needs and at an appropriate level of aggregation. The CRM system is provided by
+Alcium.
+Accessibility and Curriculum support
+19. Information will be shared with the West Yorkshire Combined Authority for the purpose of
+providing eligible children with travel passes and appropriate travel assistance.
+20. Information will be shared with Passenger Transport Services (PTS) and their taxi
+operators for the purpose of providing eligible children with safe and appropriate travel
+assistance.
+21. Data is shared with schools and Windstruments, who are contracted by the Music and Arts
+Service for the purpose of delivering music lessons to children.
+The City of Bradford Metropolitan District Council will not use collected information from your
+school for the purposes of marketing without specific written permission from the school
+beforehand. Nor will City of Bradford Metropolitan District Council share data with any other
+external group or company unless legally obliged to do so (or to ensure the safety and wellbeing of
+children and young people). This limitation includes sharing with other Schools and Local
+Authorities.
+Page 3 of 7
+
+3. Type and status of data shared
+Is the data ‘person identifiable’? (yes/no) Yes
+Has a Data Protection Impact Assessment (DPIA) been Yes
+completed? (yes/no)
+If the answer to the above question is YES, please give the DPO21-47
+DPIA reference number.
+Have individuals been provided with a privacy notice? No – Schools are directed to
+(yes/no) the DfE privacy notice
+template on BSO for schools
+to disseminate to pupils. This
+is the schools responsibility.
+Are individuals aware that sharing will take place? (yes/no) Yes – schools provide the
+required notification through
+their individual Privacy
+Notices
+4. Data Items shared
+This list must be comprehensive and include ALL data items that are to be shared. All data items to
+be shared must be justifiable as necessary for the purpose. You should tailor this section to suit
+your organisation’s specific needs.
+Individuals’ Data Please list all that apply or say ‘none’
+Name, address, contact details, date of Basic Pupil Data: Forename, Middle Name,
+birth, gender, GP, bank details Surname, Chosen Surname, Chosen Forename, Date
+of birth; Gender; Home address, Postcode, Unique
+Property Reference Number - (UPRN)
+Identifying numbers Unique Pupil Number – (UPN), Unique Learner
+(NHS no. Carefirst no. etc.) Number – (ULN) – Former Unique Pupil Number
+(UPN)
+Next of Kin, Emergency Contact, Carer Forename, Surname, address, email, telephone
+Details numbers, relationship,
+Special category data: Home Language, First Language, Ethnicity, Care
+Religious beliefs; race or ethnic origin; order, Religion, Medical Flag, SEND status, SEN
+political opinions; trade union details; Need, SEN Rank, SEN start date, FSM Eligibility,
+genetic data; biometric data (where used Exclusions, School attendance, Service Child
+for ID purposes); health information; Indicator, National Curriculum Year, Part Time Flag,
+sexual orientation. Traveller Type, Traveller Source
+Other School, School entry date, School leaving date,
+(Please describe in full) Reason for leaving,Youth Support Service Agreement
+- YSSA details, Gifted and Talented Indicator
+Risk Factors Risk Factors have been assessed in DPIA number
+The Data Controller is to identify any risks DPO21-47
+associated with sharing this information
+and raise them when sharing.
+5a. Legal basis for sharing personal data
+If processing personal data, what is the (1)(c) - Processing is necessary for compliance
+lawful basis for processing under Article 6 of with a legal obligation to which the controller is
+the GDPR? subject;
+(1)(e) - processing is necessary for the
+Page 4 of 7
+
+(For further information go to the ICO page) performance of a task carried out in the public
+interest or in the exercise of official authority
+vested in the controller General Data Protection
+Regulation is also met. City of Bradford
+Metropolitan District Council will use the data to
+provide and plan services for children and
+young people. Data will only be used in the best
+interests of the individual.
+List all the relevant piece(s) of legislation Education Act 1996 (2002 & 2011), s14.
+that allows you to process and share the Education & Skills Act 2008, s10.
+personal data: Children Act 2004, s.10 & 11.
+Children Act 1989, s.17 & 47.
+Working together to safeguard children 2018.
+School Admissions Code, Section 2.
+5b. Legal basis for sharing special categories of personal data
+If processing special category data, what is Article 89(1) City of Bradford Metropolitan
+the lawful basis for processing under Article District Council will use the data to provide and
+9 of the GDPR? plan services for children and young people.
+Data will only be used in the best interests of the
+(For further information go to the ICO page on individual.
+special category data )
+List all the relevant piece(s) of legislation 9(2)(j) - processing is necessary for archiving
+that allows you to process and share the purposes in the public interest, scientific or
+special category data: historical research purposes or statistical
+purposes in accordance with Article 89(1)
+9(2)(g) – which permits processing for reasons
+of substantial public interest. The associated
+substantial public interest processing conditions
+are support for individuals with a particular
+disability or medical condition, equality of
+opportunity or treatment, safeguarding of
+children and individuals at risk, and statutory
+and government purposes.”
+If processing criminal conviction data, have N/A
+the conditions for processing criminal
+conviction data (Article 10) been identified
+and recorded by the Data Controller?
+6. Protective Marking
+Please state the Bradford Council protective marking label In line with City of Bradford
+used for personal information being shared.* Metropolitan District Council
+protective marking labels
+Page 5 of 7
+
+Otherwise, please state the system relevant to your
+organisation
+*Bradford Council uses the following protective marking labels:
+Official – all official Council documents
+Official-Sensitive – for documents containing personal information
+Official-Confidential – for documents which must not leave the Council network
+It is envisaged that for most sharing purposes, documents would be marked Official-Protect.
+7. Data Transfer Method
+All parties to this agreement are responsible for ensuring that appropriate security and
+confidentiality procedures are in place to protect the transfer, storage and use of the shared,
+person identifiable data.
+Regular flow (specify Daily
+frequency)
+Ad hoc N/A
+Give full details of how the transfer will be made and what security measures will be in place e.g.
+encryption, business secure mail or recorded signed for etc.
+Face to face N/A
+Telephone Contact schools to resolve pupil levels data conflicts.
+AnyComms N/A
+Secure E Mail To facilitate additional data validation from the DfE.
+Secure Mail N/A
+Secure Courier N/A
+Encrypted Removable Media N/A
+Other (please state method) Pupil level data is transferred from the schools Management
+Information System using encrypted third party file transfer. The
+transfer of this data is automatic and secure.
+Has a risk assessment been carried out Risk Factors have been assessed in DPIA number
+on the chosen methods of transfer? DPO21-47.
+What are the identified risks? Risks identified in DPIA number DPO21-47.
+• An employee may gain unauthorised access
+to the system, accessing personal data
+inappropriately. Either via password sharing or
+IT system error.
+• A user may download the data and use it for
+an unauthorised purpose.
+• An outside agency tries to access the data
+(hacking)
+• Data not being backed up, data which is lost is
+not capable of being retrieved
+• An employee changes sensitive data for their
+own purposes
+Page 6 of 7
+
+• Personal Sensitive Data is being shared with
+multiple parties in a joint project and there is
+the possibility of it going to the wrong place or
+ensuring the compliance of data protection of
+the other parties
+• Inadequate functionality (risks: not able to
+locate/delete records)
+8. Audit and Review
+Organisation’s Name City of Bradford Metropolitan District Council
+(CBMDC). Education & Learning, Department of
+Children’s Services.
+Address Margaret McMillan Tower, Princes Way, Bradford,
+BD1 1NN.
+Responsible Manager Rebecca Caladine, Data and Intelligence Manager
+Contact number Tel: 01274 439648
+Review Date November 2022
+INCIDENTS
+Any incidents occurring as a result of this agreement should be reported to the signatories
+of all affected organisations. They will then pass on the information in accordance with
+incident reporting procedures within their own organisation if appropriate. Organisations
+will agree to share information in order to help investigate any such incidents.
+9. Access to Information
+Subject Access Requests Will Be Information Governance Team, City of Bradford
+Directed To Metropolitan District Council,
+City Hall
+Bradford BD1 IHY
+Special Arrangements for Subject None
+Access Requests
+10. Retention and Disposal
+Retention Period for Data Pupil’s DOB + 25 years.
+Disposal Method for Data Data will be confidentially destroyed and disposed of
+in a secure manner as part of electronic database
+management
+For further information about the framework, please see the Inter Agency Sharing Protocol,
+available via City of Bradford Metropolitan District Council Bradnet: Information-governance
+Page 7 of 7

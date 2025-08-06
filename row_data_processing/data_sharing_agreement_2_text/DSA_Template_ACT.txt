@@ -1,0 +1,450 @@
+DATA SHARING AGREEMENT
+BETWEEN
+[INSERT ORGANISATION NAME]
+AND
+[INSERT ORGANISATION NAME]
+in relation to
+[insert title of Data Sharing Agreement]
+This Data Sharing Agreement is made on the
+xx day of [month] of 20xx
+The Parties agree to the following terms and conditions for the
+purpose of conducting work as detailed in this Agreement.
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 1 of 15
+
+INTRODUCTION
+This Data Sharing Agreement (DSA) documents a data sharing arrangement made between the parties
+identified in Item 1 of this Agreement.
+This data sharing agreement has been prepared for use across the ACT Government. It was amended from
+Office of the National Data Commissioner Legislation Agnostic DSA Template and Data Sharing Principles.
+CONTENTS
+PRELIMINARIES ................................................................................... 3
+ITEM 1 – PARTIES TO THE AGREEMENT .............................................. 4
+ITEM 2 – PURPOSE .............................................................................. 5
+ITEM 3 – TERM AND VARIATION OF AGREEMENT ............................... 5
+ITEM 4 – DATA SHARING PRINCIPLES .................................................. 6
+ITEM 5 – OTHER CONDITIONS AND ARRANGEMENTS ....................... 11
+ITEM 6 – SUPPLEMENTARY INFORMATION ....................................... 12
+ITEM 7 – ACKNOWLEDGEMENT AND AUTHORISED APPROVALS ...... 13
+ITEM 8 – TERMINATION .................................................................... 13
+ITEM 9 – SIGNATURES ....................................................................... 14
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 2 of 15
+
+PRELIMINARIES
+Definitions (insert and remove agreement specific terms as required)
+In this Data Sharing Agreement unless the contrary intention appears:
+Agreement means this ACT Government Data Sharing Agreement.
+Parties means [insert title] and [insert title].
+Data Custodian means [Party x].
+Data Requestor means [Party y].
+Data Sharing Policy means the ACT Government Data Sharing Policy (2022).
+Data Reform Group means the whole of ACT Government group authorised by the Head of Service to
+drive the ACT Government’s data reform agenda.
+Project means the item of work described at item 2.1 that the Agreement seeks to support or deliver.
+Personal Health Information means that term as defined in the (1997) Health Records (Privacy and Access)
+Act.
+Personal Information means that term as defined in the (2014) Information Privacy Act.
+Sensitive Information means that term as defined in the (2014) Information Privacy Act’s Territory Privacy
+Principles.
+Interpretation (Review and amend as required)
+i. Words importing a gender include any other gender.
+ii. Words in the singular number include the plural and words in the plural number include the
+singular.
+iii. Clause headings in this agreement are for reference only and have no effect in limiting or
+extending the language of the provisions to which they refer.
+iv. In the event of any inconsistency between the clauses of the agreement and any part of the
+schedules and annexures (if any) then the provisions in the agreement shall take precedence
+to the extent of the inconsistency.
+v. Each Party acknowledges that nothing in this agreement supersedes or overrides the
+legislation governing their organisation.
+Status of this Agreement (Review and amend as required)
+i. This Agreement, including any and all addendums, constitutes the entire arrangement
+between the Parties and supersedes all communications, negotiations, memoranda of
+understanding and arrangements, either oral or written, between the Parties with respect to
+the subject matter of this Agreement.
+ii. Notwithstanding any provisions in this Agreement, this Agreement merely constitutes a
+statement of the mutual intentions of the Parties and each Party agrees that:
+a. it does not constitute an obligation binding on any Party; and
+b. it creates no rights in favour of any of the Parties.
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 3 of 15
+
+ITEM 1 – PARTIES TO THE AGREEMENT
+1.1 Specify the parties to this agreement (insert extra sections as required)
+Drafting Notes - The parties to this Agreement should ensure that this sharing arrangement has been
+appropriately authorised. Any intermediaries involved in this sharing arrangement (e.g. an Accredited
+Integrating Authority) must be recognised as a Party to this Agreement.
+First Party to this Agreement
+Name of organisation Click or tap here to enter text.
+Role of organisation ☐ Data Custodian
+☐ Intermediary
+☐ Data Requestor
+Australian Business Number (ABN) Click or tap here to enter text.
+Physical address Click or tap here to enter text.
+Name of person authorised to enter into this Click or tap here to enter text.
+agreement on behalf of the organisation
+Position Click or tap here to enter text.
+Email Click or tap here to enter text.
+1.2 Second Party to this Agreement
+First Party to this Agreement
+Name of organisation Click or tap here to enter text.
+Role of organisation ☐ Data Custodian
+☐ Intermediary
+☐ Data Requestor
+Australian Business Number (ABN) Click or tap here to enter text.
+Physical address Click or tap here to enter text.
+Name of person authorised to enter into this Click or tap here to enter text.
+agreement on behalf of the organisation
+Position Click or tap here to enter text.
+Email Click or tap here to enter text.
+1.3 Third Party to this Agreement (if applicable)
+First Party to this Agreement
+Name of organisation Click or tap here to enter text.
+Role of organisation ☐ Data Custodian
+☐ Intermediary
+☐ Data Requestor
+Australian Business Number (ABN) Click or tap here to enter text.
+Physical address Click or tap here to enter text.
+Name of person authorised to enter into this Click or tap here to enter text.
+agreement on behalf of the organisation
+Position Click or tap here to enter text.
+Email Click or tap here to enter text.
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 4 of 15
+
+ITEM 2 – PURPOSE
+2.1 Description of the project. Specify the outcome and what will be achieved through this project
+and any sub-projects expected to result from this project. Specify any other datasets shared as part
+of this project (either internal to the ACT Government or external). Attach additional information as
+required.
+Click or tap here to enter text.
+2.2 How the data shared will deliver or support the project. Please also briefly describe how the
+project will deliver a public benefit.
+Click or tap here to enter text.
+ITEM 3 – TERM AND VARIATION OF AGREEMENT
+3.1 The duration of this Agreement and (if applicable) the intervals for review.
+Drafting Notes - The duration of the project (if different to the duration of the agreement) may also be
+specified.
+Agreement duration:
+Agreement start date: Date
+Agreement end date: Date
+Intervals for review (if applicable) Click or tap here to enter text.
+Review start date: Date
+Review end date: Date
+3.2 Frequency of Supply - State whether the data will be shared as a one-off, an ongoing
+arrangement, or for a specific duration (include relevant dates if known).
+Select all options that apply:
+☐ One-off request
+☐ Ongoing
+☐ Defined Timeframe
+Expected commencement date: Click or tap here to enter text.
+Expected completion date: Click or tap here to enter text.
+3.3 The circumstances that must be met and the processes that must be followed for the parties to
+vary this Agreement.
+☐ Both Parties must agree in writing
+Click or tap here to enter text.
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 5 of 15
+
+ITEM 4 – DATA SHARING PRINCIPLES
+Data Sharing Principles
+The Five Safes Data Sharing Principles are a risk management tool that balance the benefits of
+government data sharing with a spectrum of controls. Parties to this agreement are strongly advised to
+review:
+• the Five Safes framework provided in the Data Sharing Policy,
+• the Territory Privacy Principles Schedule 1 of the Information Privacy Act 2014 (ACT),
+• the relevant sections of the ACT Data Governance and Management Guide.
+Drafting Notes - If this Agreement covers sharing through an intermediary (such as to conduct data
+integration or provide access to the data), the principles should be applied to each stage of sharing
+between the parties. For example, Data Custodians to intermediary (stage one) and intermediary to
+Data Requestor organisation (stage two).
+Project – Data is shared for an appropriate project
+4.1 The purpose of the sharing project – intended purpose for using the data being shared.
+Select all options that apply:
+☐ Improved delivery of government services
+☐ Design, implementation or evaluation of government policy and programs
+☐ Research and development
+☐ To support the recommendation of a Royal Commission
+☐ To support public safety outcomes
+☐ To support the improved delivery of a Wellbeing Indicator
+4.2 Any approvals required for this Agreement.
+Drafting Notes – The approvals process(es) required will be determined by the nature of the project.
+Not all options listed below may be relevant. Attach additional evidence as required. Specify who is
+responsible for conducting or facilitating the approvals.
+Select all options that apply:
+☐ Ethics approval (e.g. for human, health, religious, commercial or other research)
+☐ Privacy Impact Assessment
+☐ Financial approval
+☐ Information technology approval (e.g. cyber security)
+☐ Other (please specify)
+Click or tap here to enter text.
+4.3 If this Agreement covers data sharing conducted through an intermediary, specify the data
+services the intermediary is to provide.
+Click or tap here to enter text.
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 6 of 15
+
+4.4 If this Agreement covers sharing conducted through an intermediary, specify the conditions
+under which the intermediary is to share the data specified at item 4.14 with the Data Requestor.
+Click or tap here to enter text.
+4.5 How the Shared Data will be handled once it is no longer required for the project
+Drafting Notes - Provide specific details of the proposed handling strategy, including how the proposed
+handling strategy is consistent with applicable information handling regimes such as the Territory
+Records ACT 2002 (or other relevant legislation in another jurisdiction).
+Select all options that apply:
+☐ Destroyed
+Click or tap here to enter text.
+☐ Destroyed with certification
+Click or tap here to enter text.
+☐ Retained
+Click or tap here to enter text.
+☐ Other (please specify)
+Click or tap here to enter text.
+People – Data is made available only to appropriate persons
+4.6 The following specified personnel are agreed to access the Shared Data for approved projects.
+Drafting Note Appropriate persons are those persons who have the relevant skills, qualification and/or
+experience to undertake the approved project. Consider providing details of each person’s
+employment arrangements and any associations with relevant organisation and/or sponsors. Attach
+additional evidence of these attributes and relationships (such as an Australian Government security
+clearance) as required.
+Organisation Full Name Role Email address Certifications
+Click or tap here to Click or tap here Click or tap here Click or tap here to Click or tap here
+enter text. to enter text. to enter text. enter text. to enter text.
+Add more rows if
+required
+4.7 Any additional requirements the Data Requestor must meet (such as security clearances or use of
+specific software) to access and use the data. Please specify persons responsible for ensuring these
+requirements are satisfied.
+Click or tap here to enter text.
+4.8 If applicable, details of any technical, or other support, which will be provided by the Data
+Custodian and/or intermediary. Attach additional evidence as required.
+Click or tap here to enter text.
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 7 of 15
+
+Setting – Data is shared in an appropriately controlled environment
+4.8 How the data will be shared.
+Select all options that apply:
+☐ Data will be transmitted in a ‘flat file’ (e.g., csv, xls, xml)
+Please detail how the data will be transmitted (e.g., email, shared drive, physical media)
+Click or tap here to enter text.
+☐ Direct access will be provided to the data (please provide details):
+Click or tap here to enter text.
+☐ Accessed via an intermediary system (e.g., PowerBI service, SQL server)
+☐ Other (please specify)
+Click or tap here to enter text.
+4.10 Physical location where the data will be stored and accessed once shared.
+Select all options that apply:
+☐ Controlled workspace
+☐ Open plan office or similar
+☐ Accessed from home office or similar
+☐ Other configurations, including where data is stored and accessed in different locations (please
+specify)
+Click or tap here to enter text.
+4.11 Digital location where the data will be stored and accessed once shared.
+Select all options that apply:
+☐ Data Custodian’s controlled environment
+☐ Data Requestor’s controlled environment
+☐ Intermediary’s controlled environment
+☐ Other (please specify)
+Click or tap here to enter text.
+4.12 The agreed security and technical safeguards to ensure data remains secure and protected from
+unauthorised access and use.
+Drafting Notes - Specify the safeguards that will be used during all periods of data transmission, use
+and access.
+Click or tap here to enter text.
+4.13 Does the environment the data will be managed and/or stored in fall under an ISO27001
+compliant Information Security Management System (ISMS)?
+☐ Yes (Data Requestor to provide certification if requested by the Data Custodian)
+☐ No
+☐ Unsure
+Click or tap here to enter text.
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 8 of 15
+
+If no ISMS information is available, describe in detail the physical and technical environment that will
+be used to transmit, store and access the data. Specify who is responsible for managing this
+environment. Attach additional evidence as required.
+Click or tap here to enter text.
+If no ISMS information is available, specify the safeguards that will be used during all periods of data
+transmission, use and access. Including privacy protections to be put in place.
+Click or tap here to enter text.
+Data – Appropriate protections are applied to the data
+4.14 A description of the public sector data which is being shared.
+Drafting Note - The description of the data being shared may include information such as:
+• the source datasets(s) and the relevant time period(s) required (e.g. monthly, annually)
+• the type of variables requested (e.g. demographic, geographic, agency-specific) and specific
+variables of interest (e.g. age, sex, etc.)
+• format and level of detail required (e.g. unit record data file, cross-tabulated data file)
+Please include details of any supporting information requested to accompany the shared data. Attach
+additional evidence as required.
+Click or tap here to enter text.
+☐ (Optional declaration) The parties confirm that documenting the quality issues described in
+the data listed at item 4.14 presents a significant burden and will be shared under a ‘no
+warranty’ arrangement. In agreeing to a ‘no warranty’ arrangement, the Data Custodian agrees
+to use best endeavours to:
+i. make a suitable contact person available to support the Data Requestor’s
+interpretation and use of the Shared Data, and to
+ii. review the Project outputs through additional, self-established criteria, to
+minimise the risk of misinformation.
+4.15 Describe how each Party will treat the data prior to its use (e.g. suppression, rounding) and
+which areas will treat the data within each organisation to satisfy confidentiality, sensitivities or
+secrecy provisions. Attach additional evidence as required.
+Click or tap here to enter text.
+4.16 Describe any other data that will be available to Data Requestor in the same environment as the
+Shared Data. Please specify what data treatments will be applied to control for unauthorised use
+(e.g. matching). Attach additional evidence as required.
+Click or tap here to enter text.
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 9 of 15
+
+Outputs – Outputs of sharing and the project are appropriate
+4.17 The outputs to be created by the project. Please include the formats and/or forums that outputs
+will be released or otherwise removed from the controlled environment through (e.g. online release,
+public release).
+Drafting Notes Outputs are information or data created as a result of a data sharing arrangement. This
+may include, but is not limited to: undertaking analytics, linking with other data, producing a
+publication, dashboards, reports or other public release.
+Click or tap here to enter text.
+4.18 The parties’ intentions for any outputs described at item 4.17. Specify the Parties’ intentions
+both during and at the end of the Agreement.
+Select all options that apply:
+☐ Outputs will be provided to Data Custodian
+☐ Outputs will be released publicly (state under which legislation and/or authority this will be
+done)
+☐ Product(s) created by an intermediary will be provided to the Data Requestor as part of this
+Agreement
+☐ Product(s) created by an intermediary will be made available for sharing under a new Data
+Sharing Agreement
+☐ Other (please specify)
+Click or tap here to enter text.
+4.19 Whether the proposed outputs will be reviewed prior to the anticipated publication date. If so,
+the timeframe for the provision of the outputs to the Data Custodian and/or intermediary. Please
+also indicate the timeframe the Data Custodian and/or intermediary will have to provide clearance
+or other approvals.
+Select all options that apply:
+☐ Yes, outputs will be reviewed by the Data Custodian
+☐ Yes, outputs will be reviewed by the Intermediary
+☐ No, outputs will not be reviewed by the Data Custodian
+If “Yes”
+☐ Timeframe for provision of outputs to Data Custodian and/or Intermediary
+Click or tap here to enter text.
+☐ Timeframe for clearance/approval of outputs by Data Custodian and/or Intermediary
+Click or tap here to enter text.
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 10 of 15
+
+4.20 If applicable, the circumstances in which the Data Requestor may publicly release the output(s)
+described at item 4.17.
+Click or tap here to enter text.
+If the Data Requestor is not permitted to release outputs under this Agreement, please complete the
+acknowledgement below.
+Acknowledgement:
+☐ The parties confirm that the Data Requestor is not permitted to share or release scheme data,
+or any project outputs covered by this Agreement in any circumstances.
+4.21 If applicable, processes to minimise the potential for re-identification or other confidentiality
+breaches for the outputs that are to be released or otherwise removed from the controlled
+environment.
+Click or tap here to enter text.
+4.22 If applicable, the circumstances in which the Data Requestor may provide (‘on-share’): the data,
+a copy or download of the data, or access to the data specified at item 4.14 to a third party.
+Click or tap here to enter text.
+If the Data Requestor is not permitted to ‘on-share’ the identified data in any circumstances under this
+Agreement, please complete the acknowledgement below.
+Acknowledgement:
+☐ The parties confirm that the Data Requestor is not permitted to share scheme data covered by
+this Agreement in any circumstances.
+ITEM 5 – OTHER CONDITIONS AND ARRANGEMENTS
+5.1 The process to address a data breach. Indicate which Party will take lead responsibility for
+managing the breach including any resultant media and stakeholder engagement
+Drafting Notes Data Custodians may have responsibilities under Part IIIC of the Privacy Act 1988
+(notification of eligible data breaches) if the breach relates to personal information. Attach existing
+data breach process documents as required.
+Click or tap here to enter text.
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 11 of 15
+
+5.2 The Intellectual Property (IP) rights of the Agreement.
+Drafting Note – an IP arrangement is provided as part of the ACT Memorandum of Understanding on
+Data Sharing. While this is not directly applicable as this sharing activity is not under the MoU, a copy of
+that IP arrangement can be applied to any data sharing agreement. For convenience, this option is
+provided below.
+Click or tap here to enter text.
+☐ The Parties agree that:
+i. they are entitled to use any Intellectual Property Rights they may require in the
+performance of this Data Sharing Agreement,
+ii. any Intellectual Property Rights created in relation to the Shared Data (including all
+outputs), will, upon its creation, be managed by that Party that created it, and
+iii. the other Party will be provided all the necessary licences to use any Intellectual
+Property Rights which that Party requires to fulfil its obligations under this Data Sharing
+Agreement.
+5.3 Describe the process to be followed in the event a Data Requestor enters insolvency or is
+otherwise unable to continue operations.
+Click or tap here to enter text.
+5.4 By making the declaration below, the Data Requestor acknowledges that the Data Custodian is
+not responsible for any losses incurred in scenarios where the Data Custodian is unable to provide
+the Shared Data for use in built products.
+☐ Both Parties agree to the above arrangement.
+5.5 Any other conditions or arrangements not specified elsewhere in this Agreement.
+Click or tap here to enter text.
+ITEM 6 – SUPPLEMENTARY INFORMATION
+6.1 Provide any supplementary information as required.
+Click or tap here to enter text.
+☐ The parties acknowledge the legislation and/or authority specified above and that the
+signatories to this Agreement have the authority to enter into this Agreement.
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 12 of 15
+
+ITEM 7 – ACKNOWLEDGEMENT AND AUTHORISED
+APPROVALS
+7.1 This Data Sharing Agreement is made under the legislation and/or authority as specified in this
+Agreement. Having regard to the agreed purpose of the project, the data sharing principles and other
+relevant provisions of the legislation and/or authority, it is agreed that the data can be shared within
+the prescribed limitations, conditions and constraints.
+By signing this Agreement, the parties acknowledge that:
+• the sharing is done under the relevant legislation and/or authority and will not be used for:
+1) any purpose precluded by that legislation and/or authority; or
+2) a purpose that relates to national security within the meaning of the National Security
+Information (Criminal and Civil Proceedings) Act 2004;
+• the Agreement prohibits the Data Requestor from using or sharing data and output covered
+by the Agreement other than in accordance with the conditions specified.
+Furthermore:
+• if the Agreement identifies an intermediary, the Agreement prohibits the intermediary from
+using or sharing data and output covered by the Agreement other than in accordance with
+the conditions specified.
+☐ The parties acknowledge the legislation and/or authority specified above and that the
+signatories to this Agreement have the authority to enter into this Agreement.
+ITEM 8 – TERMINATION
+8.1 Describe how the Parties may terminate the Data Sharing Arrangement (if any).
+Drafting Note – For example, either Party may terminate by giving X days written notice to the other
+Party for any reason or for a specified reason, or to terminate without notice if there has been a serious
+breach of Privacy or Security Law.
+Click or tap here to enter text.
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 13 of 15
+
+ITEM 9 – SIGNATURES
+Accepted and agreed
+Signed by
+<Signatory Name> Signature:
+<Signatory Position>
+Date:
+<Organisation Name>
+Signed by
+<Signatory Name> Signature:
+<Signatory Position>
+Date:
+<Organisation Name>
+Signed by
+<Signatory Name> Signature:
+<Signatory Position>
+Date:
+<Organisation Name>
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 14 of 15
+
+Directorate name
+Date
+ACT Government – Data Sharing Agreement – insert title of Data Sharing Agreement
+For Official Use Only – when complete Page 15 of 15

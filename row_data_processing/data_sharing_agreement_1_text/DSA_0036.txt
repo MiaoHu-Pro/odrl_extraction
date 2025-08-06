@@ -1,0 +1,827 @@
+Data Sharing Agreement
+Strategic Insights Tool for Rough Sleeping
+Contents
+1. Introduction to the Sharing 2
+1.1. Partner / Parties 2
+1.2. Ownership of this agreement 3
+1.3. Responsibilities of parties involved 3
+1.4. Confidentiality and vetting 3
+1.5. Assessment and review 4
+1.6. Termination of agreement 4
+2. Purpose and Benefits 5
+2.1. Purpose 5
+2.2. Benefits 5
+2.3. Principles of information sharing 6
+2.4. Lawful Basis 6
+2.5. Consent 9
+2.6. Proportionality and necessity 9
+2.7. Other relevant legislation 10
+2.8. Common Law Duty of Confidence 10
+2.9. Freedom of Information 10
+3. Individuals 11
+3.1. Right to be informed – Privacy notices 11
+3.2. Data subject rights requests and complaints 11
+3.3. Data subjects 11
+4. Data 12
+4.1. The data to be shared 12
+4.2. Deceased persons 14
+4.3. Confidential information 14
+4.4. Storing and handling information securely 14
+4.5. Access controls and security 15
+4.6. Outside UK processing 15
+1
+
+4.7. Data quality 15
+4.8. Data breaches/incidents 16
+4.9. Retention & Disposal 16
+6. Appendices 18
+6.1. Appendix A: Parties to this agreement 18
+6.2. Appendix B: Data Protection & Caldicott Principles 19
+6.3. Appendix C: Applicable legislation 20
+6.4. Appendix D: Information Sharing Checklist 23
+1. Introduction to the Sharing
+This Data Sharing Agreement [DSA] documents how the parties to this agreement, listed in Appendix A,
+will share personal data for development of the Strategic Insights Tool for Rough Sleeping . By signing
+this Agreement, the named organisations agree to accept the conditions set out in this document,
+according to their statutory and professional responsibilities, and agree to adhere to the procedures
+described.
+This Agreement has been developed to:
+● Define the specific purposes for which the signatory agencies have agreed to share information.
+● Outline the Personal, Special Category and Criminal Data to be shared.
+● Set out the lawful basis conditions under UK GDPR and Data Protection Act 2018 through which
+the information is shared, including reference to the Human Rights Act 1998 and the Common
+Law Duty of Confidentiality.
+● Stipulate the roles and procedures that will support the processing/sharing of information
+between agencies.
+● Describe how the rights of the data subject(s) will be protected as stipulated under the data
+protection legislation.
+● Describe the security procedures necessary to ensure that compliance with responsibilities under
+data protection legislation and agency-specific security requirements.
+● Describe how this arrangement will be monitored and reviewed.
+● To illustrate the flow of information from referral through processing and outcome.
+Parties to this agreement cannot amend or add appendices unless agreed as part of a formal review. It is
+expected that each party will have procedures, processes and policies sitting underneath this
+agreement, for their respective organisations. These will, for example, describe the specific processes
+for secure transfer of data.
+1.1. Partner / Parties
+For simplicity, the Partner Organisation will be referred to as ‘Partner’, ‘Partner Organisation’ or ‘Partner
+Agency’ in this agreement.
+‘Parties’ are local authorities, homelessness charities and service providers, along with London Councils
+and the GLA, who both take part in determining the system’s overall purpose and development.
+2
+
+1.2. Ownership of this agreement
+This agreement was drafted by a working group of representatives of the parties, with the support of the
+Pan-London Information Governance Lead from LOTI (London Office of Technology & Innovation).
+These professionals were specialists in housing law and homelessness support, information governance
+and law. The local authority representatives worked under the banner of the Information Governance for
+London Group (IGfL). The aim is to reduce the number of versions of sharing agreements that
+historically differed between boroughs, partly to reduce the burden on pan-London organisations that
+must have agreements with multiple boroughs.
+IGfL, a group of information and security professionals at London boroughs, assisted with coordination of
+this agreement, but the responsibilities within it, and compliance with data protection legislation, remain
+with the listed data controllers.
+1.3. Responsibilities of parties involved
+The parties are registered Data Controllers under the Data Protection Act. Signatories are identified as
+those who have signed this agreement on the Information Sharing Gateway. A list of expected types of
+signatories is at Appendix A. Local partners specific to individual councils will sign up by a local process.
+All parties confirm that they comply with data protection legislation by:
+● having a lawful basis for processing and sharing personal data.
+● ensuring data quality.
+● storing and sharing information securely, with access management controls.
+● having policies and procedures for compliance with data protection legislation including for managing
+data subject rights & complaints, identifying and managing data breaches/incidents and retention &
+disposal.
+● ensuring that mandatory training is undertaken regularly by their employees to ensure they are clear
+and up to date on their responsibilities. Every individual must uphold the principles of this agreement
+and overarching confidentiality, and seek advice from the relevant Data Protection Officer when
+necessary.
+● undertaking appropriate data protection due diligence checks with any contractors/data processors
+they employ, and ensuring that a written agreement is in place with each data processor, and that all
+data processors will be bound by this agreement.
+● having written processes for the processing of data to ensure employees use and share personal data
+in line with data protection law, the data protection principles, and this agreement.
+Organisations and their staff must consult the organisation’s Data Protection Officer/Information
+Governance Manager and/or Caldicott Guardian if they are unsure at any point in the processing and
+sharing of personal data.
+3
+
+1.4. Confidentiality and vetting
+Each Partner must ensure that there are appropriate written contracts or agreements with employees,
+agency staff, volunteers etc. These must include requirements to ensure compliance with policies which
+include confidentiality.
+Each Partner must ensure that suitable vetting has taken place. This may be through standard employee
+checks (BPSS or equivalent), DBS, Security Vetting or Counter Terrorist Check [CTC].
+1.5. Assessment and review
+A review of this information sharing agreement will take place at the end of the pilot and before a
+decision is made to continue or expand the project, unless otherwise agreed by the parties’ Data
+Protection Officers. The aim of the review will be to ensure the purposes are still relevant, the scope has
+not slipped, the benefits to the data subjects and organisations are being realised, and the procedures
+followed for information security are effective.
+Changes in legislation and developments in the areas of public sector data sharing will be considered as
+and when they arise, as will any changes to the signatory parties.
+The working group who drafted this agreement strongly recommends that a working group approach is
+used for any reviews, as this was a successful way to achieve pan-London and cross-specialism
+consensus to one sharing agreement.
+1.6. Termination of agreement
+In the event of termination of this agreement each party may continue to hold information originating
+from other parties for which they are Data Controller.
+2. Purpose and Benefits
+2.1. Purpose
+This agreement covers the sharing of information by and between the listed parties for the purpose of
+the research and statistical analysis of homelessness journeys, to better understand and improve the
+way agencies can respond to homelessness, to make rough sleeping rare, brief, and non-recurrent.
+New homelessness data demonstrates the need for “emergency action” to tackle the worsening crisis1 .
+London seeks to implement a data-informed policy to address homelessness, but this cannot be
+accomplished without improved collective action that cuts across institutions, services, and sectors.
+Greater London (and most of England) lacks consistency in data collection metrics, practices, and
+management.
+1
+https://beta.londoncouncils.gov.uk/index.php/news/2023/boroughs-warn-least-one-child-every-london-cla
+ssroom-homeless
+4
+
+This is research and statistical work. The aim is not to change the delivery of support to a specific
+individual, but service delivery may change to the cohort, or sub-cohorts, of people experiencing rough
+sleeping.
+There is no one system that exists to achieve this rough sleeping data solution, so a new solution will
+need to be developed that can leverage existing quality data sources in the short-term and identify data
+gaps to be addressed in the longer term.
+A key goal of the Strategic Insights Tool for Rough Sleeping is to better understand what happens to
+rough sleepers across their journeys into, during, and after they sleep rough, which will inform policy and
+service decisions. For most people who experience rough sleeping, the crisis is singular, short, and
+requires little intervention. For a few, time spent living on the streets is an intermittent occurrence amid
+other life challenges over a more extended period of time. These few long-term or episodic cases are
+the ones likely to need more services. The operational work needed to achieve these goals is be to:
+(1) map the user journeys and existing data systems that users touch
+(2) align partners on a citywide rough sleeping minimum data set
+(3) create a project governance structure to permit the sharing of data
+(4) develop a data governance structure that addresses ethics, security, and complies with policies for
+sharing data
+(5) develop the specs and a model for budget, build, management of production and maintenance
+(6) release of the commissioning for a technical data sharing solution
+(7) pilot and assess the new data solutions with a few local partners.
+Being able to see the full user journey for those with higher service needs requires a longer timeline. The
+advent of rough sleeping is often a confluence of events over many years, from losing a job, developing
+a health problem, and then finally, perhaps, the loss of a supportive family member or friend. Time on
+the street can be short, but it can also last months or years, followed by time in hostels or other
+temporary arrangements. This cycle can stretch over five years, or more.
+Current data systems allow service providers to track some of this journey for individuals they serve, at
+least the time spent rough sleeping and in hostels, with self-reported data for what happens in between
+when people return to the streets. But there is little systematic data to map out the major fault lines and
+identify patterns of users who tend to come back to rough sleeping more frequently, or opportunities for
+strengthening ties between agencies, or opportunities for interventions that are lost.
+For example, a major reason for rough sleeping is that people are asked to leave their last settled base.
+This tenancy loss could be due to a variety of factors, including some non-specific life events such as
+loss of income, relationship breakdown, or emergence of a mental health or substance abuse problem.
+The current data systems will likely track the final crisis, but they may not indicate the intermediary steps
+or whether there was any attempt at intervention, such as contact with a Local Authority office.
+The Strategic Insights Tool for Rough Sleeping will have immediate impact by allowing decision makers
+to see the extent to which current rough sleepers systematically interact with prevention efforts, or with
+temporary accommodations, and the success of those outcomes. Being able to see journeys over a
+longer period of time will be immensely useful for more complex, and more service needing individuals.
+5
+
+The Greater London Authority (GLA) and London Councils are working with Bloomberg Associates to
+develop an integrated rough sleeping data solution for local government and non-government service
+providers across London to help better understand flow, plan services, report, and manage performance.
+Existing systems to be used include:
+● CHAIN
+● HCLIC
+● In-form
+CHAIN (Combined Homelessness and Information Network) is a multi-agency database recording
+information about people sleeping rough and the wider street population in London. It is commissioned
+and funded by the Mayor of London and managed by Homeless Link. CHAIN allows approved and
+trained users to share information about work done with rough sleepers and about their needs, ensuring
+that they receive the most appropriate support and that efforts are not duplicated.
+Homelessness Case Level Information Classification (H-CLIC) is a database collecting information from
+Housing Options offices operated by local authorities. It collects information regarding reasons people
+become homeless, a person’s housing history and journey, the support needs of homeless households,
+and how these households link with other public services and/or the benefits system. Staff from each
+local authorities’ Housing offices use proprietary software systems to enter H-CLIC data for clients who
+apply for benefits at the housing options office. This data is manually uploaded quarterly to the
+Department for Levelling Up, Housing and Communities (DLUHC). For this project, duplicate validated
+HCLIC information will also be uploaded to the city’s Strategic Insight Tool for Rough Sleeping.
+In-form is a proprietary case management software system that is used by many providers in the
+homelessness/rough sleeping charity sector. Homeless Link, in partnership with Salesforce, offers a
+configurable tool for charity service providers to subscribe to and tailor according to their needs. The
+tool is often used when clients are linked to services, including rough sleeping hubs or temporary
+accommodation settings. Some charities commission similar case management tools directly from
+Salesforce, rather than the out-of-the-box tool offered by Homeless Link.
+2.2. Benefits
+The sharing will allow the local authorities, the GLA and London Councils to better deliver their statutory
+duties, and the housing charities to better deliver their services. Outputs from the project will allow more
+effective use of resources, giving more joined up working which increases efficiency. The public will
+benefit from this approach, as services will be delivered in a more streamlined way that utilises the
+information shared to provide better tailored and appropriate services.
+It is in the public interest to work to reduce homelessness, as well as being a statutory requirement for
+local authorities. Reducing homelessness positively impacts individuals, improves the overall wellbeing
+of an area, and reduces public health risks.
+Key strategic goals of this work are intended to:
+• Enhance the effective operation of services for those who are rough sleeping
+• Improve understanding of the population (including complexity of needs and flow)
+6
+
+• Improve understanding of individual outcomes and views of rough sleepers
+• Learn what strategies work and inform public policy, service delivery and commissioning
+• Ease and enhance reporting and performance management
+• Measure success (in making homelessness rare, brief, non-recurrent) and align with DLUHC/CHI
+efforts
+• Ensure solutions and resources are properly understood, fully utilised, and linked to need
+Benefits to Organisations:
+- Better data received more quickly
+- Ability to use current data to make decisions on service delivery
+- Allows the discharging of local duties in respect to homelessness prevention and intervention
+Benefits to Society:
+- Less rough sleeping overall
+- Less money spent on prevention overall
+- Reduced public health risk of homelessness and rough sleeping
+Benefits to Individuals
+- Better targeted support to reduce rough sleeping for individuals making it rare, brief, and
+nonrecurrent
+2.3. Principles of information sharing
+Effective information sharing is a vital element of tackling the problem of homelessness and rough
+sleeping. Organisations can hold different pieces of information which need to be placed together to
+enable a joined up problem solving approach.
+To share information, a lawful basis for doing so must be identified. This may come from legislation or
+from statutory guidance.
+The sharing of personal data must comply with both the GDPR Principles and the Caldicott Principles ,
+listed at Appendix B. Together, those principles lead to a series of questions and considerations to be
+answered before sharing takes place. These are listed as an Information Sharing Checklist in Appendix
+D: Information Sharing Checklist.
+2.4. Lawful Basis
+The sharing of information must comply with the law relating to confidentiality, data protection and human
+rights. Having a legitimate purpose for sharing information is an important part of meeting those legal
+requirements. This is a complex area and each Partner must take their own decisions and seek advice
+from their organisation’s Data Protection Officer/Information Governance Manager and/or Caldicott
+Guardian.
+For purposes other than law enforcement by competent authorities
+Articles 6, 9 and 10 of the UK GDPR, and section 8 of the DPA 2018 set out the acceptable conditions
+for the processing and sharing of personal, special category, and criminal data. The conditions relevant
+in the UK GDPR to data processed under this agreement are below.
+7
+
+The conditions relevant to the parties sharing data under this agreement are:
+Article 6 conditions Article 9 conditions
+c) legal obligation f) necessary for the establishment, exercise
+or defence of legal claims or whenever courts
+are acting in their judicial capacity
+e) performance of a task g) substantial public interest
+carried out in the public
+interest
+f) purposes of the legitimate h) purposes of preventive or occupational
+interests medicine, for the assessment of the working
+capacity of the employee, medical diagnosis,
+the provision of health or social care or
+treatment or the management of health or
+social care systems and services
+i) public interest in the area of public health,
+such as protecting against serious
+cross-border threats to health or ensuring
+high standards of quality and safety of health
+care and of medicinal products or medical
+devices
+j) archiving purposes in the public interest,
+scientific or historical research purposes or
+statistical purposes
+Article 9(2) (b) (h) (i) (j) - Sch 1 Pt 1
+Employment, social security Public health
+and social protection
+Health or social care Research
+Article 9(2) (g) - Sch 1 Pt 2
+Statutory & government purposes Administration of justice
+Equality of opportunity or treatment Racial/ethnic diversity at snr mgmt
+Preventing or detecting unlawful acts Protecting the public against dishonesty
+Regulatory for unlawful acts and Terrorist financing or money laundering
+dishonesty
+Preventing fraud Support for individuals with disability or
+medical condition
+8
+
+Safeguarding of children and Safeguarding economic well-being
+individuals at risk
+Criminal data - Sch 1 Pt 3
+Legal claims Judicial acts
+Accounts for child indecency Extension of Sch 1 Pt 2
+offences
+Lawfulness for Processing/sharing personal data/special categories of personal data?
+Local authorities are subject to a public duty to reduce or end rough sleeping in their areas, as
+identified, for example, Part 7 of the Housing Act 1996, the Homeless Act 2002, and the
+Homelessness Reduction Act 2017. The Domestic Abuse Act 2021 amends Part 7 of the 1996 Act
+to strengthen the support available to victims of domestic abuse. The Act extends priority need to all
+eligible victims of domestic abuse who are homeless as a result of being a victim of domestic abuse.
+https://www.gov.uk/guidance/homelessness-code-of-guidance-for-local-authorities/overview-of-the-h
+omelessness-legislation#:~:text=The%20primary%20homelessness%20legislation%20%E2%80%9
+3%20that,threatened%20with%20or%20actually%20homeless
+Rough sleeper services commissioned by, or in a smaller number of cases, working in partnership
+with and endorsed by, local authorities and the GLA, exercise a function on behalf of these bodies,
+in order to further this public duty.
+Charities and service providers in the homelessness sector deliver support services and
+accommodation to those experiencing, or at risk of experiencing, homelessness and rough sleeping.
+They use a variety of lawful bases dependent on the services offered.
+It is in the public interest to work to reduce rough sleeping and homelessness, as well as being a
+statutory requirement for local authorities. Reducing homelessness positively impacts individuals,
+improves the overall wellbeing of an area, and reduces public health risks.
+Homeless Link manage the CHAIN system under commission from the GLA, for the task in the
+public interest to achieve outcomes that benefit rough sleepers and the wider street population, and
+thereby to reduce or eliminate rough sleeping in London.
+The GLA is a joint data controller as it has influence over the Strategic Insights Tool for Rough
+Sleeping system’s design and processing. The Digital Economy Act supports data sharing between
+the GLA and boroughs and vice versa under Part 5, Cpt 1 s35.
+The reasons people enter rough sleeping are varied, so the treatments to address rough sleeping
+are equally as varied. This research aims to better understand those reasons by mapping and
+connecting the continuum of rough sleeping. There is no one system that exists to achieve this
+rough sleeping data solution, so a new solution will need to be developed that can leverage existing
+quality data sources in the short-term and identify data gaps to be addressed in the longer term.
+9
+
+This pilot project is subject to a joint data controller arrangement, since more than one organisation
+is involved in making decisions about the purpose and means of processing on the system.
+The parties use different lawful basis conditions to process the personal data. For the local
+authorities, their original processing of the data matches the lawful basis for all parties as joint
+controllers for this project, which is public task fotr personal data, and substantial public interest
+(Schedule 1, Part 1 DPA 2018 - ‘safeguarding of children and of individuals at risk), and research
+(Schedule 1, Part 2 DPA 2018 - ‘research) for special category data.
+The other parties use the following lawful bases for the original processing:
+Organisation Article 6 Article 9
+SHP Article 6 (1)(e) public task Article 9(2)(g) substantial
+public interest
+Homeless Link (CHAIN) Article 6 (1)(e) public task Article 9(2)(g) substantial
+public interest
+St. Mungo’s usually Article 6 (1)(e) public usually Article 9(2)(g)
+task substantial public interest
+Thames Reach usually Article 6 (1) (f) Article 9(2)(g) substantial
+legitimate interest public interest
+Evolve Article 6 (1)(f) legitimate Article 9(2)(g) substantial
+interests public interest
+UK GDPR Article 5 states that, “...further processing for archiving purposes in the public interest,
+scientific or historical research purposes or statistical purposes shall, in accordance with Article
+89(1), not be considered to be incompatible with the initial purposes (‘purpose limitation’);”.
+Additionally, the ICO Guide to the General Data Protection Regulation (GDPR) states that, “If your
+new processing is for research purposes, you do not need to carry out a compatibility assessment,
+and in most circumstances you can be confident that your lawful basis is likely to be either public
+task or legitimate interests.”
+This is a research project and is considered to be ‘not incompatible’ to the original lawful basis for
+processing, for any of the bases used by the parties..
+Processing of data relating to criminal convictions and offences or related security measures for the
+parties’ original purposes, and this project, is in accordance with Schedule 1, Part 2, Section 6 of
+the Data Protection Act 2018. This allows for such processing that is ‘necessary for reasons of
+substantial public interest’ where the purpose relates to ‘the exercise of a function of the Crown, a
+Minister of the Crown or a government department’.
+2.5. Consent
+The parties will often work collaboratively with data subjects and aim for agreement with them on the
+actions to be taken. However, it is recognised that this is different to using consent (Article 6 (a)) or
+10
+
+explicit consent (Article 9 (a)), or consent for law enforcement processing (DPA 2018 Pt 3 Ch2 s35 2(a)),
+as the lawful basis conditions.
+Consent is not generally the lawful basis the public sector organisations use for processing information
+shared under this agreement.
+Vital Interests
+The vital interest condition, available for personal and special category data, allows for sharing where
+there is immediate risk to life. Sharing under the vital interests condition is separate to this DSA, as
+generally, sharing under this DSA occurs to reduce risk to individuals, rather than respond to an
+immediate threat.
+2.6. Proportionality and necessity
+Proportionality, data minimization, necessity and not being excessive are factors to be taken into
+consideration when deciding whether to share personal information. In making the decision, employees
+must weigh up what might happen as a result of the information being shared against what might happen
+if it is not, and apply their professional judgement. It is for this reason professionals must ensure they
+comply with Article 5(1)(c) and share the adequate and relevant information, and limit that information to
+what is necessary for the achieving of the DSA aims.
+There are legal safeguards which mean that it is a defence when sharing that the Data Controller
+believed it was:
+● necessary for the purposes of preventing or detecting crime
+● required or authorised by an enactment, by a rule of law or by the order of a court or tribunal
+● in the particular circumstances, was justified as being in the public interest.
+Or that they acted in the reasonable belief that:
+● the person had a legal right to do the obtaining, disclosing, procuring or retaining
+● the person would have had the consent of the controller if the controller had known about the
+obtaining, disclosing, procuring or retaining and the circumstances of it, or
+● the person acted—
+(i) for the special purposes,
+(ii) with a view to the publication by a person of any journalistic, academic, artistic or literary
+material, and
+(iii) in the reasonable belief that in the particular circumstances the obtaining, disclosing,
+procuring or retaining was justified as being in the public interest
+Professionals must record:
+● the decision to share, or not to share
+● the lawful basis for sharing
+● to whom the information was shared
+11
+
+This will enable the Data Contoller to account for decisions made.
+2.7. Other relevant legislation
+The actual disclosure of any personal data to achieve these objectives must also be conducted within
+the framework of the Human Rights Act 1998 (HRA) and the Common Law Duty of Confidence. Caldicott
+Principles also apply to all information sharing and they are listed in Appendix B: Data Protection & C
+2.8. Common Law Duty of Confidence
+Information held by other agencies that may have been gathered where a duty of confidence is owed.
+Duty of confidence is not an absolute bar to disclosure as information can be shared where consent has
+been provided or where there is a strong enough public interest to do so.
+When overriding the duty of confidentiality, the parties may seek the views of the organisation who hold
+the duty of confidentiality and consider their views in relation to breaching confidentiality. The
+organisation may wish to seek legal advice if time permits.
+2.9. Freedom of Information
+The Freedom of Information Act 2000 gives all individuals the right to access official information held by
+a public authority (the Environmental Information Regulations 2004 also allow access to data. For ease
+of drafting, FOI is used to cover both legislation). Limited exemptions may apply and all public authorities
+must ensure they have recognised procedures in place for administering requests of this nature.
+All requests for FOI will be directed through the relevant organisations’ FOI processes. Each party will
+seek advice/opinion from the other parties where there is concern about that information being released
+and any impact it is likely to have. The final decision to disclose or not will lie with the party who
+received the request as the legal duty lies with them. In order to ensure that the authority in receipt of the
+FOIA request is able to respond within the statutory deadline, any request for assistance or information
+made to partner authorities should be made and processed within two working days, and any data
+exchange completed within seven working days.
+It is encouraged that all parties proactively publish this document. It may also be disclosed to the public
+under FOI.
+3. Individuals
+Organisations processing personal data are required to begin with the ethos of Data Protection by
+Design and Default (also known as Privacy by Design (PbD)). This means that we must consider and
+uphold the privacy of an individual’s data before we begin and throughout the processing taking place.
+Each party agrees that they have undertaken a DPIA (Data Protection Impact Assessment), where they
+feel the processing meets the legislative criteria for a DPIA.
+12
+
+3.1. Right to be informed – Privacy notices
+Where personal data is created or received by one of the parties, they are responsible, as required by
+law, for making the data subject(s) aware within a reasonable time frame that the organisation holds the
+data, what they will do with it, how long they will keep it, and who they will share it with (such as under
+this DSA). This is normally done through a privacy notice, whether written or verbal. Organisations agree
+that they will adhere to the transparency requirements of the UK GDPR and will issue appropriate
+notices which inform the data subject that the information will be shared with the parties under this
+agreement.
+In some cases, it may not be appropriate to let a person know that information about them is being
+processed and shared. Consideration should be given to whether notifying the individual may place
+someone at risk or prejudice a police or safeguarding investigation. In these circumstances, the parties
+need not inform individuals that the information is being processed/shared; but should record their
+reasons for sharing information without making the individual aware.
+3.2. Data subject rights requests and complaints
+Each organisation must have in place appropriate policies and processes to handle data subject
+requests made in line with data protection law, to ensure they are responded to within deadline and in an
+appropriate manner. Requests include; right of access, right to rectification, right to erasure, right to
+restrict processing, right to data portability, right to object and rights related to automated decision
+making including profiling.
+If an individual successfully requests the erasure or limitation of use of their data (right to erasure, right
+to rectification, right to restrict processing, right to object), the party that has been informed by the data
+subject will communicate this to the other parties where relevant and appropriate. In each case each
+party is responsible for securely disposing of such information or limiting its processing.
+Each party must have clear, fair and objective complaint procedures. Any complaints from individuals
+how their data is being processed or shared will be handled under the policy and processes of the
+organisation concerned.
+3.3. Data subjects
+The data subjects are vulnerable by the nature of being homeless, and additionally vulnerabilities are
+likely to apply, such as substance misuse. Parties to this agreement are in positions of power over data
+subjects.
+The types of data subjects are:
+Customers, service users, clients or Professionals with opinions eg doctor,
+residents social worker, police officer
+Service providers/contractors Licence and permit holders
+Patients Witnesses
+13
+
+Complainants Volunteers
+People in audio or video recordings incl Victim/complainant of crime or anti-social
+CCTV, body worn or dashcams, behaviour
+photographs
+people captured on CCTV or similar such actual or suspected perpetrators
+as dashcams
+Traders or people subject to inspection Employees
+Councillors, MPs, elected officials Any
+4. Data
+The personal data and its processing involved in these workstreams is extensive, highly sensitive and at
+times intrusive. There is a high volume of data and data subjects.
+Anonymisation or pseudonymisation will rarely be possible because of the way the work focuses on
+individuals, although any statutory returns, workforce planning and management reports should be
+anonymised if possible.
+Data categories are:
+Part 2 processing Part 3 processing
+Personal data Personal data
+Special category data Sensitive data
+Criminal data Pseudonymised data
+Pseudonymised data Anonymised/Aggregate data
+Anonymised/Aggregate data
+4.1. The data to be shared
+This pilot project has a list of data expected, although this may change during the pilot as the data is
+matched and analysed. Due to the complexity of the police, probation, and council work in these areas,
+providing a prescriptive list of data fields to be shared is difficult. Not all the above information will be
+shared in every case; only relevant information will be shared on a case-by-case basis where an
+organisation has a ‘need-to-know’ the information.
+14
+
+Data types are:
+Name Social care information
+Address Human Resources information
+Contact details (phone/email) Employment
+DOB Education information
+Age Gender
+Religion or philosophical beliefs Housing information
+Financial information incl pension Family / relationship information incl next
+records of kin
+Property information Physical description
+Criminal (allegation or prosecution) Images in photographs, film, body
+information worn/dashcam footage, CCTV, or audio
+recordings
+Health / Medical information incl Referral / Assessment information
+disability status
+Referees
+NHS number
+Support network Social media handles and activity
+Political opinions Trade Union membership
+Any unique reference number Copies of ID like passport or driving
+licence
+Genetic data Biometric data
+Sex life or sexual orientation Racial or ethnic origin
+4.2. Deceased persons
+The sharing may involve data of deceased persons which will not be covered by data protection
+legislation but will still require due regard to the common law duty of confidentiality and the Human
+Rights Act.
+15
+
+4.3. Confidential information
+In this agreement, we refer to personal data, as defined by data protection legislation. However, the word
+’confidential’ may be used by individuals and practitioners to describe information and can mean different
+things to different people.
+Confidential can mean:
+● Personal and special category data as defined by data protection legislation
+● Patient Identifiable Information (PII) or ‘personal confidential information’; both terms most commonly
+used in health settings
+● Information which is not already lawfully in the public domain or readily available from another public
+source
+● Information that has been provided in circumstances where the person giving the information could
+reasonably expect that it would not be shared with others.
+4.4. Storing and handling information securely
+Information must be stored and shared lawfully and securely. Special category data may need a higher
+level of security. The employee/organisation sharing the information must choose the most appropriate
+secure method of transfer and be responsible for its safe delivery.
+Electronic records:
+Organisations may have different electronic methods for storing and sharing information securely. Some
+have local restrictions which block access to information shared using specific tools.
+Parties must make sure the chosen method is suitably secure and that access is only provided to those
+who need it, and only to the data needed.
+Unencrypted email (i.e. sent in plain text over the public internet) must not be used to share information
+under this DSA.
+Sharing methods that may be appropriate include:
+● Email encryption tools where the email and attachments are encrypted from named sender to
+named recipient (e.g. Microsoft 365 Message Encryption; Egress Protect)
+● Encryption via Transport Layer Security (TLS) where the email and attachments are
+encrypted in transit over the internet. Both the sender and recipient email domains must have
+TLS enabled. This can be checked using https://www.checktls.com/
+● Secure corporately managed data repository and sharing platforms (e.g. MS Teams; Google
+Docs)
+● Secure group email services (e.g. CJSM: https://cjsm.justice.gov.uk/index.html )
+● Secure File Transfer Protocols
+● Virtual Private Networks
+The above are examples, get advice from your organisation’s information security or IT teams on secure
+methods of sharing available at your organisation and document these in the organisation’s process
+documents.
+16
+
+4.5. Access controls and security
+All parties will ensure that they have appropriate technical and organisational security measures in place
+to guard against unauthorised or unlawful processing of personal data and against accidental loss or
+destruction of, or damage to, personal data.
+A contractor is employed to design the system for the Strategic Insights Tool for Rough Sleeping. All
+personal data held will be stored in a secure network area with password protected entry and
+appropriate back-up functionality. The system will be auditable so that it is possible for any auditor to
+establish who has accessed the system.
+Each party agrees that all laptops, computers, and any other portable devices will be encrypted.
+Any individual no longer required to have access will promptly have such access revoked by the
+contractor, on notification from the relevant empoyer.
+4.6. Outside UK processing
+Parties are responsible for ensuring that if information is processed or shared outside the UK, that
+appropriate safeguards are in place and on condition that enforceable data subject rights and effective
+legal remedies for data subjects are available. These are for example, a legally binding and enforceable
+instrument between public authorities or bodies, binding corporate rules, and/or standard data protection
+contractual clauses.
+4.7. Data quality
+Each partner is responsible for ensuring the accuracy and relevance of the personal data that it
+processes and shares and must have clear processes in place for managing data quality.
+Any party learning of the inaccuracy of personal data is responsible for informing the parties with whom
+that data has been shared.
+4.8. Data breaches/incidents
+All parties must have a clear policy and procedure regarding the reporting and handling of data
+protection breaches or data loss incidents. This must include assessing the level of risk to the data
+subject(s), as well as to make a decision on notifying the ICO within the statutory time frame of 72 hours.
+This complies with Articles 33 and 34 of UK GDPR, and Section 67 and 68 of the DPA 2018 for personal
+data processed for law enforcement purposes.
+If the incident may impact the processing of another party to this agreement, all relevant parties should
+be informed and appropriate coordination of the incident must take place. The decision to report the
+incident will lie with the data controller(s) of the information concerned. The parties agree to provide all
+reasonable and necessary assistance at their own expense to each other to facilitate the handling of any
+personal data breach in an expeditious and compliant manner.
+17
+
+It is confirmed that security breaches (including misuse or unauthorised disclosure) are covered by the
+partner’s internal disciplinary procedures. If misuse is found there should be a mechanism to facilitate an
+investigation, including initiating criminal proceedings where necessary.
+The contractor will inform GLA Rough Sleeping Team of any data incidents and breaches using the email
+address: RoughSleepingCommissioning@london.gov.uk within 12 hours.
+4.9. Retention and Disposal
+Organisations are required by data protection legislation to document processing activities for personal
+data, such as what personal data is held, where it came from and with whom it has been shared. This
+Record of Processing Activity (ROPA) must include the retention period for the data. Information must
+not be retained for longer than necessary for the purpose for which it was obtained.
+Personal data retention in the project will be 5 years, to allow data matching over time, with aggregate,
+anonymised data retained for a longer period. The pilot will consider the retention period for the
+aggregated outputs, and this is expected to be a longer period.
+A key goal of the Strategic Insights Tool for Rough Sleeping is to better understand what happens to
+rough sleepers across their journeys into, during, and after they sleep rough, which will inform policy and
+service decisions. For most people who experience rough sleeping, the crisis is singular, short, and
+requires little intervention. For a few, time spent living on the streets is an intermittent occurrence amid
+other life challenges over a more extended period of time. These few long-term or episodic cases are
+the ones likely to need more services.
+Being able to see the full user journey for those with higher service needs requires a longer timeline. The
+advent of rough sleeping is often a confluence of events over many years, from losing a job, developing
+a health problem, and then finally, perhaps, the loss of a supportive family member or friend. Periods
+during which individuals have not been engaged with the organisations do not necessarily indicate a
+positive move away from the streets, and may, for example, result from time spent in prison or rough
+sleeping in another geographical location. Time on the street can be short, but it can also last months or
+years, followed by time in hostels or other temporary arrangements. This cycle can stretch over five
+years, or more. Being able to see journeys over a longer period of time will be immensely useful for more
+complex, and more service needing individuals.
+Disposal or deletion of personal data once it is no longer required, must be done securely with
+appropriate safeguards, in accordance with that organisation’s disposal policies.
+18
+
+5. Appendices
+5.1. Appendix A: Parties to this agreement
+Organisation Duties
+London Boroughs Local authorities are subject to a public duty to reduce or end rough sleeping in
+their areas.
+● Westminster
+● Part 7 of the Housing Act 1996 – provides the statutory under-pinning
+● Camden
+for action to prevent homelessness and provide assistance to people
+● Hillingdon threatened with or actually homeless.
+● Lambeth ● The Homelessness Reduction Act 2017 significantly reformed
+England’s homelessness legislation by placing duties on local
+authorities to intervene at earlier stages to prevent homelessness in
+their areas.
+● Homeless Act 2002 - ensures a more strategic approach to tackling and
+preventing homelessness, in particular by requiring a homelessness
+strategy for every housing authority district; and to strengthen the
+assistance available to people who are homeless or threatened with
+homelessness by extending the priority need categories to homeless 16
+and 17 year olds; care leavers aged 18, 19 and 20; people who are
+vulnerable as a result of time spent in care, the armed forces, prison or
+custody, and people who are vulnerable because they have fled their
+home because of violence.
+London Councils London Councils acts as a membership body with its activities directed
+by and delegated from the 32 Boroughs of London and the City of
+London.
+The strategic direction of London Councils is set by the Leaders'
+Committee . Meeting eight times a year, the Leaders’ Committee
+comprises the Leaders of all of London’s local authorities. There is also
+a cross-party Executive Committee which guides the organisation’s
+day-to-day work.
+London Councils makes the case to government, the Mayor and others
+to get the best deal for Londoners and to ensure that their member
+authorities have the resources, freedoms and powers to do the best
+possible job for their residents and local businesses.
+London Councils runs a number of direct services for member
+authorities including the Freedom Pass, Taxicard and Health Emergency
+Badge. It also runs an independent parking appeals service and a
+pan-London grants programme for voluntary organisations.
+19
+
+Organisation Duties
+London Councils acts as a catalyst for effective sharing among boroughs
+– be that ideas, good practice, people, resources, or policies and new
+approaches.
+Greater London The GLA is the devolved regional government of Greater London,
+Authority (GLA) consisting of the Mayor of London and the London Assembly. The Mayor
+of London is responsible for making London a better place for everyone
+who visits, lives or works in the city. The GLA Act gives the GLA the
+power to do anything which it considers will further any one or more of
+its principal purposes. These purposes include social and economic
+development in Greater London, and also addressing health inequalities.
+Reducing rough sleeping and mitigating its harmful effects on individuals
+and society falls within these purposes, and the Mayor has stated that it
+is his mission to end rough sleeping in London. Furthermore, the Mayor
+is required to publish a London Housing Strategy; the current London
+Housing Strategy includes a chapter on homelessness and rough
+sleeping in which the Mayor has made several commitments around
+working more closely with London local authorities and support
+providers, increasing focus on prevention of rough sleeping and
+improving the efficacy of interventions - all of which are achieved by this
+project.
+Homeless Link CHAIN is a multi-agency database which is commissioned and funded by the
+(CHAIN) Greater London Authority (GLA) and managed by Homeless Link. It is used
+by services across the 33 local authority areas of Greater London who work
+with current or former rough sleepers and some groups within the wider street
+population.
+The purpose of processing data on CHAIN is to support the achievement of
+outcomes that benefit rough sleepers and the wider street population, and
+thereby to reduce or eliminate rough sleeping in London.
+Processing of personal identifying, special category and criminal conviction
+data on CHAIN is carried out on the basis of public interest. Local, regional
+and central government are subject to a public duty to reduce or end rough
+sleeping in their areas, as identified, for example, in the Homeless Act 2002,
+and the Homelessness Reduction Act 2017. Rough sleeper services
+commissioned by (or in a smaller number of cases, working in partnership
+with and endorsed by) local authorities and the GLA exercise a function on
+behalf of these bodies, in order to further this public duty. The processing of
+data on CHAIN constitutes an inherent component of this function, and the
+20
+
+Organisation Duties
+ability to create client records on the system, and hence initiate processing, is
+strictly limited to those services which are directly exercising it.
+SHP (Single Single Homeless Project is a London-wide charity. that works in communities
+Homeless Project) across all 32 London boroughs, providing support and accommodation,
+promoting wellbeing and enhancing opportunity for thousands of people across
+the capital. Our diverse and flexible services tackle a wide range of needs and
+include specialist support for particularly vulnerable groups. Many of our
+services are commissioned by Local Authorities and National Probation
+Service.
+We are committed to tackling the underlying causes of homelessness and
+social exclusion, and we will use what we learn to make the case for prevention
+and systemic change. We are also passionate about promoting the voices of
+people who have been forced into homelessness, whose stories often go
+unheard.
+St. Mungo’s We work to prevent people becoming homeless, support people who are
+sleeping on the streets into secure accommodation and then provide
+them with the services they need to rebuild their lives once they are
+there, and after.
+In 2020-21, our dedicated outreach teams supported 10,267 people and
+on any given night we provide 3,213 people with housing and support.
+These services range from outreach, accommodation and floating
+support services, to skills, employment and care, depending on the local
+area and the needs of the people there.
+Thames Reach Thames Reach is a London charity helping people who are homeless,
+orr at risk of homelessness to find decent homes, build supportive
+relationships and lead fulfilling lives
+Our vision is of a society where street homelessness is ended and
+nobody need sleep rough on the streets.
+Evolve The primary objects of Evolve are:
+● To provide, improve and manage houses or hostels providing residential
+accommodation and associated amenities, facilities and services for
+people of all ages who are in need, hardship or distress by reason of
+their social, physical or economic circumstances.
+21
+
+Organisation Duties
+● To relieve or assist in the relief of people of all ages who are in need,
+hardship or distress by reason of their social, physical or economic
+circumstances.
+22
+
+5.2. Appendix B: Data Protection & Caldicott Principle
+The Principles as described in Article 5 of the General Data
+Protection Regulation.
+
+The Caldicott Principles
+3
+
+5.3. Appendix C: Applicable legislation
+Note that all legislation can be found at www.legislation.gov.uk
+Legislation Main purpose of Legislation
+Homeless Act 2002 In 2002, the government amended the homelessness legislation through the
+Homelessness Act 2002 and the Homelessness (Priority Need for
+Accommodation) (England) Order 2002 to:
+(a) ensure a more strategic approach to tackling and preventing homelessness,
+in particular by requiring a homelessness strategy for every housing authority
+district; and
+(b) strengthen the assistance available to people who are homeless or
+threatened with homelessness by extending the priority need categories to
+homeless 16 and 17 year olds; care leavers aged 18, 19 and 20; people who
+are vulnerable as a result of time spent in care, the armed forces, prison or
+custody, and people who are vulnerable because they have fled their home
+because of violence.
+Homelessness Reduction The Homelessness Reduction Act 2017 significantly reformed England’s
+Act 2017 homelessness legislation by placing duties on local authorities to intervene at
+earlier stages to prevent homelessness in their areas. It also requires housing
+authorities to provide homelessness services to all those affected, not just
+those who have ‘priority need’.
+Housing Act 1996 The primary homelessness legislation – that is, Part 7 of the Housing Act 1996
+– provides the statutory under-pinning for action to prevent homelessness and
+provide assistance to people threatened with or actually homeless.
+Digital Economy Act 2017 The Act supports data sharing between the GLA and boroughs and vice
+versa under Part 5, Cpt 1 s35 for the improvement of public service
+delivery.
+Common Law Provides a legal obligation on an individual requiring adherence to a standard of
+reasonable care, thus establishing a duty of care on a responsible authority.
+Human Rights Act 1998 The Human Rights Act 1998 sets out the fundamental rights and freedoms that
+everyone in the UK is entitled to.
+24
+
+5.4. Appendix D: Information Sharing Checklist
+The following questions must be considered when deciding whether to share information.
+● Whose information is this?
+● Is there a lawful basis to share the information? Justify the purpose and identify relevant legislation
+that applies.
+● Can information be pseudonymised or anonymised ahead of sharing?
+● How have individuals been informed that the information will be shared eg via a privacy notice?
+Will they have the expectation that their information will be shared? Consider whether notifying the
+individual of the sharing may place someone at risk or prejudice a police or safeguarding
+investigation.
+● Have any requests not to share been received and considered?
+● How much information is it necessary to share in this situation?
+● Is the information accurate and up to date? Has the difference between fact and opinion been
+stated?
+● Is access to the information limited to only those who need it? Is it being given to the right person?
+● Is the information being shared in a secure way?
+Has the decision to share or not share been recorded?
+25

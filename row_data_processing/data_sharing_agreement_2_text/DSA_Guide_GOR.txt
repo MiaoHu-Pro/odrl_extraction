@@ -1,0 +1,274 @@
+Open Data Institute 2018 Designing data sharing agreements: a checklist 1
+
+Contents
+Contents 2
+Introduction 3
+What is a data sharing agreement? 3
+Data sharing needs 3
+Is the data already available? 3
+Do I need a data sharing agreement? 3
+What a good data sharing agreement should include 4
+Context 4
+The data 4
+Sharing 5
+Use 6
+Derived data 6
+Handling personal data 6
+What to do once you have shared the data 7
+Additional resources 7
+This is work in progress. It is likely to be updated as we
+continue our work. Keep an eye out for updates!
+How can it be improved? We welcome suggestions from
+the community in the comments.
+ODI/CABI/GODAN 2018 Designing data sharing agreements: a checklist 2
+
+Introduction
+This guidance note will take you through steps to consider your data sharing needs,
+whether a data sharing agreement is right for you and what to include.
+This guide was originally developed in partnership with CABI and GODAN. It draws
+on the experiences of those organisations in participating in data sharing agreements
+for agronomy programmes. While the guide has been written to be more generally
+applicable, we welcome feedback on the content from those working in other
+contexts to help us improve it. Please leave a comment on the document or email
+policy@theodi.org with your thoughts.
+​
+What is a data sharing
+agreement?
+A data sharing agreement is an agreement between two or more organisations about
+how to share data. It will define what data is being shared and for how long, and any
+restrictions on its use.
+Data sharing agreements can take many forms, depending on the scale and
+complexity of the data sharing. For example memoranda of understanding, service
+level agreements and formal legal contracts could all be data sharing agreements. A
+data sharing agreement is a set of common rules binding for all the organisations
+involved in a data sharing initiative. The agreement should be drafted in clear,
+concise language that is easily understood.
+Data sharing needs
+1. Is the data already available?
+If the data is already published then a sharing agreement may not be needed. Users
+who want to use the data should be able to access it from where it has been
+published (such as a website or portal), and use it according to the conditions of its
+existing licence.
+If these conditions are too restrictive, or the data needs to include more attributes,
+question 2 will help you to consider whether a data sharing agreement is appropriate.
+2. Do I need a data sharing agreement?
+Data can be shared in lots of ways and it is important to consider which option suits
+you best and whether a data sharing agreement is appropriate..
+ODI/CABI/GODAN 2018 Designing data sharing agreements: a checklist 3
+
+The following scenarios will help you consider what is right for your circumstances.
+● Scenario A: the data is published but the licence is too restrictive for the data
+to be used in this circumstance. For example the current licence may prohibit
+commercial use.
+Consider whether you can alter the way the published data is licensed to
+reduce restrictions and move along The Data Spectrum towards open.
+​ ​
+● Scenario B: the data is not yet published and you want to pass it to another
+organisation for them to use with no charge or restrictions.
+Consider publishing the data as open data for anyone to access, use or
+​ ​
+share.
+● Scenario C: the data is not already published and is not appropriate to
+publish it openly (e.g. to protect privacy, or because it is commercially
+sensitive, or for other legal reasons).
+A data sharing agreement to share directly between organisations may be
+best in this instance.
+● Scenario D: the data is not already published and contains data from a third
+party organisation(s), which could restrict how widely it can be shared.
+A data sharing agreement – including addressing any third party intellectual
+property rights – may be most appropriate in this instance.
+3. Am I able to share this data?
+Before proceeding with drafting a data sharing agreement, or publishing data under
+an open licence, you should consider whether you have the appropriate rights and
+permissions.
+You may have previously collected data for other purposes. Data protection
+legislation, such as the General Data Protection Regulation (GDPR) might place
+​ ​
+restrictions on whether you are able to publish and reuse that data in other contexts.
+Regardless of legislation, there may be ethical considerations that should inform
+whether you can publish and share data. Tools like the data ethics canvas can
+​ ​
+support you in exploring these issues. You may need to take steps to anonymise or
+aggregate data, or gain consent from the people who may be impacted by a data
+release before proceeding.
+What a good data
+sharing agreement
+should include
+The sections below suggest some key areas to include in your data sharing
+agreement. They are not exhaustive but should help you decide on its contents. The
+ODI/CABI/GODAN 2018 Designing data sharing agreements: a checklist 4
+
+aim is to be clear about what, when and how data will be supplied, what it can be
+used for and who is responsible for maintaining it.
+Context
+This section sets out reasons for sharing data and the parties involved. Consider
+including:
+● a description of the entities signing the agreement
+● a statement summarising the purpose of the agreement- eg what are the
+objectives of the programme, and objectives of data sharing
+● the main contacts in each organisation for queries about the data – eg the
+data asset owner
+● any financial agreement, that may cover how both costs and benefits are
+distributed
+The data
+This section focuses on describing the data itself, so it is clear what will be shared
+specifically. Consider:
+● What data will be shared?
+○ Specify the name, description and any unique reference number to
+identify the data.
+■ NB: if the data is described in an inventory or catalogue
+accessible to both parties, it might be described most easily
+and clearly by referencing its catalogue entry.
+○ What is the structure (e.g. attributes, parameters, etc) of the data
+that will be shared?
+○ What time period does the data cover (if appropriate)?
+○ Across what geography and at what spatial resolution (if
+appropriate)?
+○ What format is the data in?
+○ What quality does the data need to be? Can this be specified and
+measured?
+○ What is the source of the data?
+■ Is it from one organisation or from a combination of different
+sources (intellectual property rights could have implications
+for how the data can be shared and used)
+■ Do the contributing sources know that the data will be
+shared and are you committing them to providing regular
+updates through this agreement?
+● Is this a one-off transfer or will updates be made? If updates are required:
+○ would they be as necessary corrections to the data?
+○ would they be as additions to the data?
+○ how regularly can they be made?
+● If this is a one-off transfer of data, then when will the data be provided?
+● Roles and responsibilities. Where possible, include:
+○ name and contact details of organisation representatives
+○ description of role and responsibilities- eg who will prepare and
+update data, who will monitor implementation of the agreement, who
+to contact to resolve disputes etc
+ODI/CABI/GODAN 2018 Designing data sharing agreements: a checklist 5
+
+Sharing
+This section focuses on how the data will get from one party to another.
+Consider:
+● How is the data going to be shared between different parties?
+● Where can the data be accessed or transferred?
+● Are there any potential cross-border issues that could affect access, such as
+geographic location?
+● Where is the data going to be stored?
+● Who is responsible for hosting the data?
+● Is the transfer method secure? (This is particularly important if personal,
+sensitive or national security data is being shared)
+Examples of how data can be shared, supplied and hosted include:
+● open access publication
+● depositing them with a specialist data centre, data archive or data
+bank
+● making them available online via a project or institution website
+● making them available via a secure, online interface that provides
+limited access to data
+● making them available at a secure physical location
+● depositing them in an institutional repository
+● submitting them to a journal to supplement a publication
+● making them available informally between researchers on a
+peer-to-peer basis
+● How long is the data going to be shared for?
+● If sharing is for a fixed time period, must the recipient destroy their copies of
+the data at the end of the agreement?
+○ How will this be verified?
+● Are there local or international laws that could affect the data being shared?
+Use
+This section focuses on specifying what the data can be used for. This can be linked
+to the data’s source. Where data comes from more than one source (ie different
+organisations) you will need to check with the original data providers whether you
+have the right to share the data, and confirm any restrictions on use.
+Consider:
+● What permissions have been granted to each party that describe how they
+can use the data?
+● What requirements do they need to follow in order to retain those
+permissions, e.g. to attribute the source of the data
+● What restrictions might limit the use of the data. For example
+○ Can the recipient share the data with other parties?
+■ If so, under what conditions?
+■ Can the data be sold?
+○ Can the data be used in commercial products and services?
+● Consider whether you need permissions (e.g from third parties or individual
+consent) to share or use the data
+● If you are using a template data licence, then which licence are you using?
+ODI/CABI/GODAN 2018 Designing data sharing agreements: a checklist 6
+
+Derived data
+This section focuses on products that might be produced that incorporate data that
+has been shared. Consider:
+● Who will have rights over, or have access to what has been produced using
+the data that has been shared?
+● Can derived data be published and, if so, what licensing restrictions might
+apply to how that data is published for reuse by others
+● Are there any requirements from the funding donor for products being
+produced using the data? For example, the donor may have an open access
+​
+policy which obliges the recipient of funding to make outputs available within
+a specific timeframe eg 6 months after completion of grant. See for example
+the Gates Foundation open access policy.
+​ ​
+Handling personal data
+If the data to be shared includes personal data, you must include clauses to specify
+- how the data will be secured, in transit to third parties and while in their
+control
+- the retention period for the data
+- limitations to third-party use of the data
+You must ensure that data being shared with the intended recipient is covered in an
+agreement made with the people that the data is about, along with how it is
+collected, processed and used.
+If the personal data includes data about EU citizens then there should be clauses to
+specify compliance with the GDPR. Other local or international laws may also affect
+how personal data can be shared, and these should also be checked.
+You should be transparent about how you are sharing personal data with others, e.g.
+by publishing who you are sharing data with, how that data is being shared, etc. We
+recommend adopting these principles for organisations handling personal data to
+​ ​
+help build trust and transparency around how you share data.
+What to do once you
+have shared the data
+Agreeing to share the data is the first step. Once you’ve agreed what, when and how
+to share data, it is important to put a plan in place to manage the data supply. This
+should be part of the overall data management plan.
+Important things to consider and plan for are:
+● Keep a record of the data you share and who you share it with (ie in an
+inventory)
+● Scheduling and resourcing updates
+ODI/CABI/GODAN 2018 Designing data sharing agreements: a checklist 7
+
+● Quality checking: is a certain quality required? How will you be confident you
+are providing data that is suitably accurate?
+● Seeking feedback from the data user/recipient on its quality, completeness,
+format, timeliness etc
+● Ensuring that the data user/recipient is complying with the terms of your
+agreement
+● Resourcing any changes to how the data is managed based on user
+feedback
+● Informing the data users/recipients about any planned changes to the scope,
+provision or availability of the data in future
+Additional resources
+● Data sharing agreement guide from Chatham House
+​
+● Data sharing agreement template and support pack from CGIAR
+​
+● Outputs management plans from Welcome foundation
+​
+● Data sharing checklist from the UK Information Commissioner
+​
+● Data Sharing Code of Practice from the UK Information
+​
+Commissioner
+● Data licences:
+○ Creative Commons
+○ Open Government Licence from the UK
+​
+○ Other non-open licences from the UK
+​ ​
+● Licensing guidance:
+○ What are the impacts of non open licences from the ODI
+​
+○ Reusers guide to open data licences from the ODI
+​
+○ Publishers guide to open data licences from the ODI
+​
+ODI/CABI/GODAN 2018 Designing data sharing agreements: a checklist 8

@@ -1,0 +1,327 @@
+Information Sharing Agreement
+Rescue and Response project Purpose Specific
+Information Sharing Agreement
+Owner: Rescue and Response project, Brent
+Council
+Review Date: October 2019
+1
+
+This Information Sharing Agreement (ISA) defines the arrangements for processing data
+between disclosing data controllers and recipient data controllers and sits underneath the
+overarching Information Sharing Protocol (ISP) / Partnership Agreement.
+Definitions of terms used in this agreement shall have the same meaning as defined under
+the Data Protection Act 2018 (DPA).
+1. Parties to the agreement:
+Full name and address of the organisations or businesses (distinguish between
+disclosing organisation and recipient organisation)
+Disclosing organisation Recipient organisation
+Brent Council- Rescue and Response Brent Council- Rescue and Response
+project project
+Abianda Abianda
+St Giles Trust St Giles Trust
+Safer London Safer London
+All London Boroughs All London Boroughs
+NPS NPS
+CRC CRC
+The Children Society The Children Society
+2. Why is the information being shared?
+Rescue and Response is a three-year MOPAC (Mayor’s Office for Policing
+and Crime) funded project, running between 2019 and 2021, which will
+support young Londoners affected by cross-border county lines activity.
+The signatories to this ISA has responsibilities to share information under
+legislation, which includes preventing and detecting crime and/or
+safeguarding and supporting individuals.
+The sharing of information is necessary for the Rescue and Response project
+to develop and deliver a support service for young people who are vulnerable
+and caught up in county lines drug distribution networks across London, and
+identify and use enforcement against those exploiting young people. This will
+benefit the public and community by reducing crime and improving the
+potential outcomes of young people.
+Everyone who works with children has a responsibility for keeping them safe.
+No single practitioner or agency can have a full picture of a child’s needs and
+circumstances and, if children and families are to receive the right help at the
+2
+
+right time, everyone who comes into contact with them has a role to play in
+identifying concerns, sharing information and taking prompt action.
+Sharing information is relevant for
+ Addressing the increase in number of Young people identified as
+being exploited/at risk of count lines exploitation
+ Increased engagement with services for the young people referred
+and engaged.
+ Better understanding of County Lines and peer and criminal
+networks associated.
+ Increased feelings of safety and reduced feelings of vulnerability of
+those young people engaged through the project.
+ Identification of a person’s associations to ascertain if they are
+linked to/at risk from a criminal network
+ Identification of a person’s aliases to clarify if they are linked to/at
+risk from a criminal network
+ Identification of a criminal network’s to identify young people that
+may be at risk from their criminal activity
+ The prevention of crime and disorder
+ The detection of Crime
+ The protection of vulnerable members of the community
+3. Potential recipients, types of recipients and the circumstances they will have
+access (if information is shared further)?
+Disclosing organisations will share with other signatory boroughs and
+police any relevant information regarding the young person on a need to
+know basis. This will include intelligence to prevent further crimes and to
+safeguard children and young people.
+The main information sharing will take place between signatory agencies,
+with the Rescue & Response Project Team acting as the hub, and
+delivering support services. The hub will be a central control for sharing
+information about individuals. It will manage the sharing of information as
+referrals from and to other signatories.
+Disclosing organisations may share with other internal and external
+departments so the organisation can provide a more holistic service for
+their benefit. This will be under existing sharing frameworks within each
+organisation as data controllers.
+4. What information being shared?
+Personal and special category personal data will be processed. The data
+items include:
+3
+
+ criminal data
+ health data (mental health)
+ financial data (mainly benefits),
+ contact data
+ family data
+ local authority service data (education, children safeguarding, adult
+safeguarding).
+The data subjects will be victims/potential victims and alleged/convicted
+perpetrators, as well as individuals who are connected to those data subjects,
+such as family, witnesses and providers of support. The relationships or
+identity (i.e. victim or perpetrator) will be defined and flagged during
+processing.
+5. What is the classification of the information to be shared according to the
+Government Security Classification Policy (GSCP)? The handling and access of
+the data shall comply with the requirements of this classification.
+Data will be classified as OFFICIAL
+A subset of data will be classified as OFFICIAL - SENSITIVE. This will be
+relevant for information that could have more damaging consequences for
+individuals if it were lost, stolen or published in the media. This subset of
+information shall still be managed within the ‘OFFICIAL’ classification tier, but
+attract additional measures (generally procedural or personnel) to reinforce
+the ‘need to know’. In such cases where there is a clear and justifiable
+requirement to reinforce the ‘need to know’, information assets will be
+conspicuously marked:
+This will be relevant for the following subset of data items:
+ criminal data
+ health data (mental health), and
+ local authority service data (education, children safeguarding, adult
+safeguarding).
+Please see appendix A- data sharing flow chart and data table.
+Parties may have implemented the GSCP differently and each is responsible
+for applying their classification schemes appropriately.
+6. What is your legal justification for sharing? Has consent been gained if required?
+The lawful basis conditions under GDPR will be Article 6 (c) legal obligation
+and (e) public task, therefore (a) consent is not required. Furthermore, where
+4
+
+
+
+ Care Act 2014 – relevant sections include s.1 and s.6
+The R&R Project will also cover young people aged up to 25 years. The
+Care Act allows the sharing of adult information with care and support
+needs to keep them safe from abuse and neglect. It is aimed at people
+with care and support needs who may be in vulnerable circumstances and
+at risk of abuse or neglect. In these cases, local services must work
+together to spot those at risk and take steps to protect them. The Act aims
+to create a legal framework so key organisations and individuals with
+responsibility for Adult Safeguarding can agree on how they must work
+together and what roles they must play to keep adults at risk safe.
+There are additional duties in the Care and Support Statutory Guidance
+2018, which sits beneath Care Act.
+ Anti-Social Behaviour, Crime and Policing Act 2014 – relevant
+sections include those under Part 4, Part 5 and Part 9
+This Act provides a framework to address criminal activity which falls
+under anti-social behaviour to provide better protection for victims and
+communities.
+ Crime & Disorder Act 1998– relevant sections include s.115
+The Act makes provision for preventing crime and disorder, this gives
+power to disclose information to specified relevant authorities where the
+disclosure is necessary or expedient for the purposes of the Act.
+Statutory guidance:
+ Pan London Child and Adult Protection Procedures
+Provide statutory duties which allow organisations to process and share
+information to better safeguard vulnerable adults and children through a
+multi-agency approach.
+ Working Together to Safeguard Children 2018
+This is statutory guidance that allows the sharing of adult data for the
+benefit of the child as well as the sharing of children’s data. It states that
+local authorities, working with partner organisations and agencies, have
+specific duties to safeguard and promote the welfare of all children in their
+area. Children may be vulnerable to neglect and abuse or exploitation from
+within their family and from individuals they come across in their day-to-
+day lives. These threats can take a variety of different forms, including:
+sexual, physical and emotional abuse; neglect; exploitation by criminal
+gangs and organised crime groups; trafficking; online abuse; sexual
+exploitation and the influences of extremism leading to radicalisation.
+Whatever the form of abuse or neglect, practitioners should put the needs
+of children first when determining what action to take.
+6
+
+The actual disclosure/sharing of any personal data under this ISA must be
+conducted within the framework of other relevant legislation and guidance
+including:
+ General Data Protection Regulation 2016
+ Data Protection Act 2018
+ Human Rights Act 1998
+ Common Law Duty of Confidentiality
+ Caldicott Principles
+ The Freedom of Information Act 2000
+7. How will privacy notices be facilitated? – for organisation that collects data
+Parties are responsible for providing suitable information that describes the
+processing and an individual’s rights, where it is considered appropriate under
+the legislation that they do so.
+A common layered privacy notice/statement which provides a suitable
+language for this purpose shall be available to all parties.
+8. How will data quality be assured? – accuracy (periodic sampling), relevance and
+usability (notifying corrections)
+Data controller(s) that have identified data issues have a duty to inform the
+other data controllers.
+9. Compatible data sets – how particular data items – (e.g. DOB) should be recorded
+and how can information belonging to data controllers be distinguished?
+Each disclosing organisations name will be included in data sharing transfer.
+Each data item will be labelled with the source of the data.
+10. How will the information be shared? (e.g. data transfer - include any security
+measures)
+The Project will share information via a secure email network or egress. The
+secure network is to be compliant with either PSN or NHS DSP standards. E-
+CINs secure case management system is used for case management
+updates.
+11. How will the information be stored? (e.g. secure server - include any security
+measures)
+7
+
+
+
+In accordance with the GDPR guidelines, ARTICLE 5(1)- it will not be retained
+longer than necessary in relation to the purpose for which such data is
+processed. Each party shall apply their own retention schedules.
+14. How will the information be destroyed?
+Redundant data is disposed of securely and using formal procedures and
+compliance with the standard guidelines
+15. What are the procedures for dealing with a breach of the agreement – notifying
+and investigating breaches
+The Brent form will be used and sent to the other effected data controller and
+sent within 24 hours to relevant effected parties
+All signatories will maintain robust data breach detection, investigation and
+internal reporting procedures and follow the guidance of the Information
+Commissioner’s Office (ICO).
+If a signatory has a data breach (or suspects a data breach in another
+signatory organisation) which relates to the information being shared under
+this agreement, it will:
+ inform the parties affected by the breach as soon as there is
+awareness of a breach and Brent Rescue and Response Project Team
+- immediately identifying any urgent remedial actions required that
+might affect other parties
+ liaise with the other parties as appropriate to take steps to establish the
+likelihood and severity of the resulting risk to affected data subjects
+including the risk of physical, material or non-material damage to
+individuals such as loss of control over their personal data or limitation
+of their rights, discrimination, identity theft or fraud, financial loss,
+unauthorised reversal of pseudonymisation, damage to reputation, loss
+of confidentiality of personal data protected by professional secrecy or
+any other significant economic or social disadvantage to the natural
+person concerned.
+ identify whether it is likely that there will be such a risk to data subject’s
+rights and freedoms, and notify all affected Parties
+ where the incident meets the criteria, notify the ICO (within 72 hours
+where feasible) and, where appropriate, inform those individuals
+affected without undue delay.
+In all cases the signatory will keep full written records of any data breach, its
+investigation, the remedial steps taken and the reasons for such steps.
+All parties affected by a data breach will share with other signatories a
+lessons learned analysis of the cause and effects of reportable data breaches
+and will share with all partners at the next R&R Strategic Governance Group.
+9
+
+It is noted that each party, as data controller, is individually liable for any
+penalty imposed on it by the ICO and for any loss or damage recovered
+against it by whatever means by any person in connection with a data
+breach. Each party is also responsible for the actions of any data processors
+that they engage with in relation to a breach.
+16. What date will the information be shared? Initial date must be later that the date of
+the signatures below and should give an indication of subsequent dates for
+regular sharing.
+During the 3-year duration of the project which is between 2018/2019 –
+2020/2021. The project is scheduled to end in March 2021.
+17. What are the names, roles and contact details of any members of staff who will
+make sure that the required information is shared at the appropriate time (day-to-
+day organisational points of contact)?
+The responsibility is with all parties to this document. Each party also have
+provided specific resource allocation/co-location of officers for the project ie
+SPOCs and wider R&R team. Please see section 8 of ISP which provides
+further details of specific roles and responsibilities.
+18. When will this agreement be reviewed and by whom (please state the governance
+arrangement for this sharing of information)?
+October 2019
+This agreement must be formally approved and signed by both parties before any
+information sharing takes place. All parties will ensure that the ISA and any associated
+documents are known and understood by all staff involved in the process.
+Each Data Controller shall accept responsibility for its own acts and omissions. Nothing in
+this agreement shall limit liability for death or personal injury resulting from negligence or for
+fraud.
+All Parties to this Agreement shall, from 25 May 2018, comply with its obligations under the
+General Data Protection Regulation (EU) 2016/679 on the protection of natural persons with
+regard to the processing of personal data and on the free movement of such data (the
+"GDPR"). For the purpose of this, a reference in this Agreement to the DPA shall from 25
+May 2018 be construed as being a reference to the GDPR and any defined terms given the
+meanings that are ascribed to them in the DPA shall have the meaning given to them in the
+GDPR. Any reference in this Contract to "sensitive personal data" shall from 25 May 2018 be
+construed as meaning "special categories of personal data" as referred to in the GDPR.
+10
+
+
+
+Hillingdon
+Council
+Hounslow
+Council
+Islington Council
+Kensington &
+Chelsea Council
+Kingston upon
+Thames Council
+Lambeth Council
+Lewisham
+Council
+Merton Council
+Newham Council
+Redbridge
+Council
+Richmond upon
+Thames Council
+Southwark
+Council
+Sutton Council
+Tower Hamlets
+Council
+Waltham Forest
+Council
+Wandsworth
+Council
+Westminster
+Council
+St Giles Trust
+Council
+12
+
+Abianda
+Safer London
+NPS
+CRC
+13
+
+14
+
+
+
+
+
+
+
+
+

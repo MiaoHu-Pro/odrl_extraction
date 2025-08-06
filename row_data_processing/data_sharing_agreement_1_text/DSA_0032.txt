@@ -1,0 +1,1030 @@
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+Data Sharing Agreement
+In support of
+NHSE & Cancer Alliances project to
+improve breast screening participation
+for people with disabilities
+Template Version: V3.0
+Ratified by: Kevin Winter – Director of Information
+Governance
+Date ratified: 17/08/2021
+Owner (title): Senior Information Governance Manager
+Accountable director (title) Kevin Winter – Director of Information
+Governance
+Date issued: 17/08/2021
+Review date: 17/08/2022
+Target audience: Heads of service, project leads, programme
+managers, or those leading research
+Page 1 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+Version Control
+Template Version Control Sheet
+Do not amend when implementing a local version, use ‘Implementation Version Control Sheet’
+below.
+Version Date Owner Status Comment
+3.0 00/00/00 Kevin Winter – Director of FINAL
+Information Governance
+Implementation Version Control Sheet
+Local implementation version control to be used by services completing the template to track
+their revisions.
+Version Date Owner Status Comment
+1.0 17/02/2023 , Lead CNS Final
+North, Central and East
+London Breast Screening
+Services
+Page 2 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+Contents
+Version Control ..................................................................................................................... 2
+Template Version Control Sheet ........................................................................................ 2
+Implementation Version Control Sheet .............................................................................. 2
+1. Parties ........................................................................................................................... 5
+2. Background .................................................................................................................... 5
+3. Interpretation .................................................................................................................. 5
+4. Purpose ......................................................................................................................... 7
+5. Compliance with national data protection laws ............................................................... 7
+6. Transmitted personal data ............................................................................................. 7
+7. Fair and lawful processing ............................................................................................. 8
+8. Data quality .................................................................................................................... 8
+9. Data Subjects' rights ...................................................................................................... 8
+10. Data retention and deletion......................................................................................... 9
+11. Transfers .................................................................................................................. 10
+12. Security and training ................................................................................................. 10
+13. Data security breaches and reporting procedures .................................................... 11
+14. Review and termination of Agreement ...................................................................... 11
+15. Resolution of disputes with Data Subjects or the Supervisory Authority.................... 12
+16. Language ................................................................................................................. 12
+17. Warranties ................................................................................................................ 12
+18. Indemnity .................................................................................................................. 13
+19. Allocation of cost ...................................................................................................... 13
+20. Limitation of liability .................................................................................................. 13
+21. Third party rights ...................................................................................................... 13
+22. Variation ................................................................................................................... 13
+23. Waiver ...................................................................................................................... 13
+24. Severance ................................................................................................................ 14
+25. Changes to the applicable law .................................................................................. 14
+26. No partnership or agency ......................................................................................... 14
+Page 3 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+27. Entire agreement ...................................................................................................... 14
+28. Rights and remedies................................................................................................. 14
+29. Notice ....................................................................................................................... 14
+30. Governing law .......................................................................................................... 15
+31. Jurisdiction ............................................................................................................... 15
+Annex 1: Purpose Specific Data Sharing Schedules ........................................................... 16
+Schedule 1: NHSE & Cancer Alliances project to improve breast screening participation for
+people with disabilities ..................................................................................................... 16
+Page 4 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+1.
+Parties
+1.1. As detailed in Annex 1: Purpose Specific Data Sharing Schedules.
+2.
+Background
+2.1. The Sending Controller(s) agree to share the Personal Data with the Receiving
+Controller in the European Economic Area (EEA) on Terms set out in the Agreement
+and each Purpose Specific Data Sharing Schedule for which they are a party.
+2.2. The Receiving Controllers each agree to use the Personal Data within the EEA on the
+Terms set out in this Agreement and each Purpose Specific Data Sharing Schedule
+for which they are a party.
+2.3. The Sending Controller and Receiving Controller acknowledge that data sharing
+under this arrangement is a Controller to Controller arrangement, therefore each
+organisation is independently responsible for meeting its Controller responsibilities as
+set out in Data Protection Legislation.
+2.4. The Receiving Controller acknowledges that for any information it receives under this
+Agreement and each Purpose Specific Data Sharing Schedule, it will be the sole
+Controller of the information it has received but shall have no rights or influence over
+the data source from where the transmitted information originated.
+2.5. The body of the text of this agreement must be used with a Purpose Specific Data
+Sharing Schedule.
+AGREED TERMS
+3.
+Interpretation
+The following definitions and rules of interpretation apply in this Agreement.
+3.1. Definitions:
+Agreed Purpose: has the meaning given to it in each Purpose Specific Data Sharing
+Schedule of Annex 1 of this Agreement.
+Agreement: this Agreement, entered into between the Parties.
+Business Day: a day other than a Saturday, Sunday or public holiday in England when banks
+in London are open for business.
+Supervisory Authority: the relevant supervisory authority in the territory where the Parties to
+this Agreement are established.
+Data Security Breach: a breach of security leading to the accidental or unlawful destruction,
+loss, alteration, unauthorised disclosure of, or access to the Transferred Personal Data.
+Data Sharing Code of Practice: The Information Commissioner's Office Data Sharing Code
+of Practice.
+Page 5 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+Information Rights Request: has the meaning of a Data Subject exercising their rights under
+UK GDPR Chapter 3 "Rights of the Data Subject".
+Parties: Signatories within Purpose Specific Data Sharing Schedules.
+Privacy and Data Protection Requirements: Data Protection Act 2018 (DPA 2018) and
+United Kingdom General Data Protection Regulation (UKGDPR) as referenced in the DPA
+2018 – identified in this documentation hereafter as the Data Protection legislation. The
+Privacy and Electronic Communications (EC Directive) Regulations 2003 (SI 2426/2003) (as
+amended) and all applicable laws and regulations relating to the Processing of the personal
+data and privacy, including where applicable the guidance and codes of practice issued by the
+Information Commissioner or any other national Supervisory Authority, and the equivalent of
+any of the foregoing in any relevant jurisdiction.
+Purpose Specific Data Sharing Schedule: Detailed locally determined specifics of data
+sharing arrangements found in Annex 1 of this Agreement.
+Receiving Controller: Controller receiving transferred personal and special categories data.
+Sending Controller: Controller sending transferred personal and special categories data.
+Staff: Includes, substantive employees, agency staff, interim's, secondees, volunteers,
+honorary contract employees’ and employees’ of any data processor.
+Term: Term of the Data Sharing Agreement from the Commencement Date.
+Transferred Personal Data: Any sharing of Personal or Special Categories Data by a
+Sending Controller to a Receiving Controller.
+Third Party: An individual or legal person, public authority, agency or body other than the
+Data Subject, controller, processor and persons who, under the direct authority of the
+controller or processor, are authorised to process personal data.
+3.2. Controller, Joint Controller, Processor, Data Subject and Personal Data, Special
+Category Data, Processing and appropriate technical and organisational measures
+shall have the meanings given to them in the Data Protection legislation.
+3.3. Clause, schedule and paragraph headings shall not affect the interpretation of this
+Agreement.
+3.4. The schedules form part of this Agreement and shall have effect as if set out in full in
+the body of this Agreement. Any reference to this Agreement includes the schedules.
+3.5. Unless the context otherwise, requires, words in the singular shall include the plural
+and in the plural shall include the singular.
+3.6. A reference to a statute or statutory provision shall include all subordinate legislation
+made from time to time under that statute or statutory provision.
+3.7. References to clauses, Annex and Schedules are to the clauses and Schedules of
+this Agreement and references to paragraphs are to paragraphs of the relevant
+Schedule.
+Page 6 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+3.8. Any words following the terms including, include, in particular or for example or any
+similar phrase shall be construed as illustrative and shall not limit the generality of the
+related general words.
+3.9. In the case of any ambiguity between any provision contained in the Purpose Specific
+Data Sharing Schedules and body of this Agreement, the provision in the Purpose
+Specific Data Sharing Schedules of this Agreement shall take precedence.
+3.10. Unless the context otherwise requires the reference to one gender shall include a
+reference to the other genders.
+4.
+Purpose
+4.1. The United Kingdom General Data Protection Regulation (UK GDPR) and United
+Kingdom Data Protection Act 2018 (DPA18) require all organisations to follow a
+framework for effective, secure and lawful data sharing. This Agreement sets out the
+framework for the sharing of Personal Data between the Parties as Controllers. It
+defines the principles and procedures that the Parties shall adhere to and the
+responsibilities the Parties owe to each other and Data Subjects.
+4.2. This Data Sharing Agreement consists of a unified data sharing Agreement and a
+number of Purpose Specific Data Sharing Schedules for specific governance
+arrangements, confirming roles, responsibilities and accountabilities of involved
+health and care partners in each Purpose Specific Data Sharing Schedule.
+4.3. The Parties agree to only process Personal Data, as described in each Purpose
+Specific Data Sharing Schedule. The Parties shall not Process Personal Data which
+is shared under this Agreement in a way that is incompatible with the purposes
+described in each Purpose Specific Data Sharing Schedule (the Agreed Purpose).
+4.4. Each party shall appoint a single point of contact who will work together with the other
+Parties to reach an agreement with regards to any issues arising from the data sharing
+and to actively improve the effectiveness of the data sharing initiative. The points of
+contact for each of the Parties are documented in each Purpose Specific Data Sharing
+Schedule.
+5.
+Compliance with national data protection laws
+5.1. Each Party must ensure compliance with applicable Privacy and Data Protection
+Requirements at all times during the Term of this Agreement.
+6.
+Transmitted personal data
+6.1. Any Personal or Special Category Data to be transmitted between the Parties during
+the Term of this Agreement are documented in each Purpose Specific Data Sharing
+Schedule, together with any access and Processing restrictions as agreed and
+established by the Parties.
+6.2. The Shared Personal Data must not be irrelevant or excessive with regard to the
+Agreed Purposes.
+Page 7 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+6.3. The Receiving Controller acknowledges that it is unlawful for them to request Personal
+Data from a Sending Controller which is not necessary or proportionate to achieve the
+aims of the Agreed Purpose.
+7.
+Fair and lawful processing
+7.1. Each party shall ensure that it Processes the transferred Personal or Special
+Categories Data fairly and lawfully in accordance with clause 7.2 during the Term of
+this Agreement.
+7.2. Each party shall ensure that it identifies the relevant lawful basis for the transfer of
+any Personal or Special Categories Data within each Purpose Specific Data Sharing
+Schedule and any ongoing Processing.
+7.3. Each party must meet the requirements of UK GDPR Article 5, Data Protection
+Principles relating to Processing Personal Data within each Purpose Specific Data
+Sharing Schedule.
+7.4. Data Protection Principles, UK GDPR Article 5:
+(a) Lawfully, fairly and in a transparent manner
+(b) Purpose Limitation
+(c) Data minimisation
+(d) Accurately
+(e) Storage limitation
+(f) Integrity and confidentiality
+(g) Accountability
+7.5. Each Sending Controller shall, in respect of transmitted Personal Data, ensure that
+their Privacy Notices are clear and provide sufficient information to the Data Subjects
+for them to understand what of their Personal Data the Sending Controller is sharing
+with the Receiving Controller, the circumstances in which it will be shared, the
+purposes for the data sharing and either the identity of the Receiving Controller or a
+description of the type of organisations that will receive the Personal Data.
+8.
+Data quality
+8.1. The Parties must develop a reliable means of converting Transferred Personal Data
+to ensure compatibility with each party's respective datasets as set out within each
+Purpose Specific Data Sharing Schedule.
+8.2. Each Sending Controller shall, in so far as is reasonable, ensure that before data is
+transmitted, Personal Data is accurate and that it has appropriate internal procedures
+in place for the Receiving Controller to sample information intended to be transmitted.
+8.3. Transferred Personal Data must be limited to the Personal Data described within the
+relevant Purpose Specific Data Sharing Schedule of this Agreement.
+9.
+Data Subjects' rights
+9.1. Data Protection legislation provides Data Subjects the ability to exercise certain rights
+about the Processing of their Personal Data through an Information Rights Request,
+covering:
+Page 8 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+(a) The right to be informed;
+(b) The right of access;
+(c) The right to rectification;
+(d) The right to erasure;
+(e) The right to restrict Processing;
+(f) The right to data portability;
+(g) The right to object; and,
+(h) Rights in relation to automated decision making and profiling.
+9.2. Each Controller is independently responsible for taking all reasonable steps to inform
+Data Subjects about their rights and ensuring they comply with Data Subject rights in
+accordance with applicable Privacy and Data Protection Requirements.
+9.3. Where a Data Subject raises an objection to sharing their Personal Data with other
+Controllers under Article 21, each Controller shall process the objection in accordance
+with their requirements as a Controller.
+9.4. Each individual Controller is responsible for discharging its requirement under Article
+15, Right of Access by the Data Subject, based on the information it holds as a
+Controller, and is responsible for maintaining their own record of individual requests
+for information, the decisions made and any information that was disclosed.
+9.5. The Parties agree to provide reasonable assistance as is necessary to each other to
+enable them to comply with Information Rights Requests and to respond to any other
+queries or complaints from Data Subjects.
+9.6. Where the Sending Controller is transmitting information to support a secondary use
+it is the sending organisations responsibility to ensure the national data opt-out has
+been applied.
+9.7. Where the Receiving Controller receives data from the Sending Controller under an
+Agreed Purpose and lawful basis where the national data opt-out does not apply, it
+shall be the Receiving Controllers responsibility to apply the national data opt-out on
+any secondary use Processing they undertake and to ensure that Processing is not
+contrary to the agreement set out in the Purpose Specific Data Sharing Schedule nor
+Data Protection legislation.
+10.
+Data retention and deletion
+10.1. The Receiving Controller shall not retain nor process Transmitted Personal Data for
+longer than is necessary to carry out the Agreed Purposes described in each Purpose
+Specific Data Sharing Schedule.
+10.2. Notwithstanding clause 10.1, the Parties shall continue to retain Transferred Personal
+Data in accordance with any statutory or professional retention periods applicable to
+them.
+10.3. The Controllers shall follow the Records Management Code of Practice for Health and
+Social Care 2016 (or any superseding code of practice) in the event information is
+retained.
+10.4. Each Receiving Controller may retain any transmitted personal data where specified
+in each Purpose Specific Data Sharing Schedule.
+Page 9 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+10.5. Where clause 10.4 is not engaged, each Receiving Controller shall ensure that the
+data is securely deleted in the following circumstances:
+(a) on termination of the Agreement or Purpose Specific Data Sharing
+Schedule;
+(b) on expiry of the Term of the Agreement;
+(c) once Processing of the Transferred Personal Data is no longer
+necessary for the purposes it was originally shared for.
+10.6. Following the deletion of Transferred Personal Data in accordance with clause 10.5,
+each Receiving Controller shall notify the relevant Sending Controller that the
+Transferred Personal Data in question has been securely deleted.
+11.
+Transfers
+11.1. For the purposes of this clause, Third Party Processing shall mean any Processing of
+Personal Data transmitted under any Purpose Specific Data Sharing Schedule
+between a Receiving Controller and a Third Party.
+11.2. A Receiving Controller shall not disclose nor transfer any information it receives under
+agreements in the Purpose Specific Data Sharing Schedules to a Controller or
+processor located outside the European Economic Area (EEA) without the written
+consent of the Sending Controller.
+11.3. Clause 11.2 will not apply to any data transfers carried out by the Sending Controller
+in respect of Transferred Personal Data detailed in this Agreements Purpose Specific
+Data Sharing Schedules.
+12.
+Security and training
+12.1. Each Sending Controller shall only provide the transmitted Personal Data to the
+Receiving Controller by using proportionately secured measures.
+12.2. Having regard to the state of technological development and the cost of implementing
+such measures, the Parties have in place appropriate technical and organisational
+security measures in order to prevent:
+(a) unauthorised or unlawful Processing of transmitted Personal Data; and,
+(b) the accidental loss or destruction of, or damage to, the transmitted
+Personal Data,
+(c) ensure a level of security appropriate to:
+(d) the harm that might result from such unauthorised or unlawful
+Processing or accidental loss, alteration, destruction or damage to
+transmitted Personal Data; and
+(e) the nature of the transmitted Personal Data to be protected.
+12.3. It is the responsibility of each party to ensure that its Staff members are appropriately
+trained to handle and process the Transferred Personal Data in accordance with
+appropriate technical and organisational security measures together with any other
+applicable Privacy and Data Protection Requirements.
+Page 10 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+12.4. The level, content and regularity of training referred to in clause 12.3 shall be
+proportionate to the Staff members' role, responsibility and frequency with respect to
+their handling and Processing of the Transferred Personal Data.
+13.
+Data security breaches and reporting procedures
+13.1. Having considered the applicable Privacy and Data Protection Requirements, the
+Parties have in place their own guidance and processes that must be followed in the
+event of a Data Security Breach.
+13.2. Parties are under a strict obligation to notify any potential or actual losses of the
+Transferred Personal Data to Parties to each Purpose Specific Data Sharing Schedule
+as soon as possible and, in any event, within one (1) Working Day of identification of
+any potential or actual loss to enable the Parties to consider what action is required
+in order to resolve the issue in accordance with the applicable national data protection
+laws and guidance.
+13.3. Clause 13.1 also applies to any breaches of data integrity.
+13.4. The Parties agree to provide reasonable assistance as is necessary to each other to
+facilitate the handling of any instances under clause 13.1 or 13.3 breach in an
+expeditious and compliant manner.
+14.
+Review and termination of Agreement
+14.1. New Parties can only be added in line with the relevant Purpose Specific Data Sharing
+Schedules change management process.
+14.2. In the event that a party terminates this Agreement or a new Controller joins the
+Agreement in accordance with clause 14.1, an amended and updated version of this
+Agreement will be circulated in line with the relevant Purpose Specific Data Sharing
+Schedules change management process.
+14.3. The Parties shall review the effectiveness of the Purpose Specific Data Sharing
+Schedules of this Agreement as set out in each Purpose Specific Data Sharing
+Schedule. The Parties shall continue, amend or terminate the Agreement depending
+on the outcome of this review.
+14.4. The review of the effectiveness of this Agreement will involve assessing:
+(a) Whether the purposes for which the Transferred Personal Data is being
+processed are still the ones listed in each Purpose Specific Data
+Sharing Schedule of this Agreement;
+(b) Whether the Transferred Personal Data is still as listed in each Purpose
+Specific Data Sharing Schedule of this Agreement;
+(c) Whether the legal framework governing data quality, retention, and
+Data Subjects' rights are being complied with; and,
+(d) Whether Personal Data breaches involving the Transferred Personal
+Data have been handled in accordance with this Agreement and data
+protection legislation.
+Page 11 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+14.5. Each Sending Controller reserves its rights to inspect the Receiving Controller’s
+arrangements for the Processing of Transferred Personal Data and to terminate the
+Agreement where it considers that the other party is not Processing in accordance
+with this Agreement.
+14.6. Each Receiving Controller shall make available information relating to its
+arrangements for the Processing of Transferred Personal Data and shall make
+available other information reasonably requested by a Sending Controller in relation
+to any Purpose Specific Data Sharing Schedule to which it is a party.
+15.
+Resolution of disputes with Data Subjects or the Supervisory
+Authority
+15.1. In the event of a dispute or claim brought by a Data Subject or the Supervisory
+Authority concerning the Processing of Transferred Personal Data against one, some
+or all of the Parties, the Parties will inform each other about any such disputes or
+claims, and will cooperate with a view to settling them amicably in a timely fashion.
+15.2. The Parties agree to respond to any generally available non-binding mediation
+procedure initiated by a Data Subject or by the Supervisory Authority. If they do
+participate in the proceedings, the Parties may elect to do so remotely (such as by
+telephone or other electronic means). The Parties also agree to participating in any
+other arbitration, mediation or other dispute resolution proceedings developed for data
+protection disputes.
+16.
+Language
+16.1. This Agreement is drafted in the English language. If this Agreement is translated into
+any other language, the English language version shall prevail.
+16.2. Any notice given under or in connection with this Agreement shall be in English. All
+other documents provided under or in connection with this Agreement shall be in
+English, or accompanied by a certified English translation.
+17.
+Warranties
+17.1. Each party warrants and undertakes that it will:
+(a) Process the Transferred Personal Data in compliance with all
+applicable Privacy and Data Protection Requirements;
+(b) Make available upon request to the Data Subject a copy of this
+Agreement, unless the Clause contains confidential information;
+(c) Respond within a reasonable time and as far as reasonably possible to
+enquiries from the relevant Supervisory Authority in relation to the
+Transferred Personal Data;
+(d) Respond to Information Rights Requests in accordance with the Privacy
+and Data Protection Requirements;
+(e) Where applicable, maintain notification (formerly known as registration)
+with all relevant Supervisory Authorities to process Shared Personal
+Data for the Agreed Purpose;
+(f) Take all appropriate steps to ensure compliance with the security
+measures set out in clause 12 above; and,
+(g) Undertake to comply with the Information Commissioner's Office Data
+Sharing Code of Practice.
+Page 12 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+17.2. Each Sending Controller warrants and undertakes that it will, in so far as is
+reasonable, ensure that the Shared Personal Data is accurate.
+17.3. Each Receiving Controller warrants and undertakes that it will not process Transferred
+Personal Data outside the European Economic Area (EEA).
+17.4. Except as expressly stated in this Agreement, all warranties, conditions and terms,
+whether express or implied by statute, common law or otherwise are hereby excluded
+to the extent permitted by law.
+18.
+Indemnity
+18.1. The Parties shall be liable to each other for, and shall indemnify and keep each other
+indemnified against, any loss, damages, costs, expenses (including without limitation
+legal costs and expenses), claims or proceedings that arise or result from a parties
+negligent acts or omissions or breach of this agreement in connection with the
+performance of this agreement, except to the extent that such loss, damages, costs,
+expenses (including without limitation legal costs and expenses), claims or
+proceedings have been caused by any act or omission by, or on behalf of, or in
+accordance with the instructions of, the Party wishing to raise a claim.
+19.
+Allocation of cost
+19.1. Each party shall perform its obligations under this Agreement at its own cost.
+20.
+Limitation of liability
+20.1. Nothing in this Agreement is intended to limit any Party’s liability in respect of the
+exercise of any of its statutory functions or its obligations to comply with Data
+Protection Law.
+21.
+Third party rights
+21.1. No one other than a party to this Agreement, their successors and permitted
+assignees, shall have any right to enforce any of its Terms.
+22.
+Variation
+22.1. No variation of this Agreement shall be effective unless the requirements of the
+Purpose Specific Data Sharing Schedule change management process have been
+complied with.
+23.
+Waiver
+23.1. Failure or delay by any Party to exercise an option or right conferred by this Agreement
+shall not of itself constitute a waiver of such option or right.
+23.2. The delay or failure by either Party to insist upon the strict performance of any
+provision, term or condition of this Agreement or to exercise any right or remedy
+consequent upon such breach shall not constitute a waiver of any such breach or any
+subsequent breach of such provision, term or condition.
+Page 13 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+24.
+Severance
+24.1. If any provision or part-provision of this Agreement is or becomes invalid, illegal or
+unenforceable, it shall be deemed modified to the minimum extent necessary to make
+it valid, legal and enforceable. If such modification is not possible, the relevant
+provision or part-provision shall be deemed deleted. Any modification to or deletion of
+a provision or part-provision under this clause shall not affect the validity and
+enforceability of the rest of this Agreement.
+25.
+Changes to the applicable law
+25.1. In case the Privacy and Data Protection Requirements change in a way that the
+Agreement is no longer adequate for the purpose of governing lawful data sharing
+exercises, the Parties agree that each single point of contact will negotiate in good
+faith to review the Agreement in light of the new legislation.
+26.
+No partnership or agency
+26.1. Nothing in this Agreement is intended to, or shall be deemed to, establish any
+partnership or joint venture between any of the Parties, constitute any party the agent
+of another party, or authorise any party to make or enter into any commitments for or
+on behalf of any other party.
+26.2. Each party confirms it is acting on its own behalf and not for the benefit of any other
+person.
+27.
+Entire agreement
+27.1. This Agreement constitutes the entire Agreement between the Parties and
+supersedes and extinguishes all previous Agreements, promises, assurances,
+warranties, representations and understandings between them, whether written or
+oral, relating to its subject matter.
+27.2. Each party acknowledges that in entering into this Agreement it does not rely on, and
+shall have no remedies in respect of any statement, representation, assurance or
+warranty (whether made innocently or negligently) that is not set out in this
+Agreement.
+27.3. Each party agrees that it shall have no claim for innocent misrepresentation based on
+any statement in this Agreement.
+28.
+Rights and remedies
+28.1. Except as expressly provided in this Agreement, the rights and remedies provided
+under this Agreement are in addition to, and not exclusive of, any rights or remedies
+provided by law.
+29.
+Notice
+29.1. Any notice or other communication given to a party under or in connection with this
+Agreement shall be in writing, and addressed to each single point of contact.
+Page 14 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+30.
+Governing law
+30.1. This Agreement and any dispute or claim (including non-contractual disputes or
+claims) arising out of or in connection with it or its subject matter or formation shall be
+governed by and construed in accordance with the law of England and Wales.
+31.
+Jurisdiction
+31.1. Each party irrevocably agrees that the courts of England and Wales shall have
+exclusive jurisdiction to settle any dispute or claim (including non-contractual disputes
+or claims) arising out of or in connection with this Agreement or its subject matter or
+formation.
+Page 15 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+Annex 1: Purpose Specific Data Sharing Schedules
+Schedule 1: Improving breast screening participation for people with disabilities
+across the NLBSS and CELBSS screening services
+1. Parties to Agreement, Single Points of Contact and Sign-off
+This Data Sharing Agreement is between the Royal Free London NHS Foundation Trust, an
+acute trust, providing breast screening services and local Primary Care, Community Learning
+Disabilities and Local Authority teams. These organisations are:
+1.1 Sending Organisation
+Hertfordshire
+name :
+Address
+Single Point of Contact
+Contact Name
+Role Health Equalities Nurse Cancer Screening
+Team / Directorate
+Email
+Telephone
+Sign-off
+Primary Designated Officer /
+Representative name
+Job title and role
+Signature: (To be removed if
+uploaded to DCC or ISG)
+Date
+Secondary Designated Officer /
+Representative name
+Job title
+Signature
+Date
+AND
+1.2 Sending Organisation
+Enfield Integrated Learning Disability Service
+name :
+Address
+Single Point of Contact
+Contact Name
+Role Specialist Community Nurse Practitioner
+Team / Directorate
+Email
+Telephone
+Sign-off
+Primary Designated Officer /
+Representative name
+Job title and role
+Page 16 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+Signature: (To be removed if
+uploaded to DCC or ISG)
+Date
+Secondary Designated Officer /
+Representative name
+Job title
+Signature
+Date
+AND
+1.3 Sending Organisation
+Barnet
+name :
+Address
+Single Point of Contact
+Contact Name
+CLCH Health Team Manager, Barnet Learning Disabilities
+Role
+Service
+Team / Directorate
+Email
+Telephone
+Sign-off
+Primary Designated Officer /
+Representative name
+Job title and role
+Signature: (To be removed if
+uploaded to DCC or ISG)
+Date
+Secondary Designated Officer /
+Representative name
+Job title
+Signature
+Date
+AND
+1.4 Sending Organisation
+Haringey
+name :
+Address
+Single Point of Contact
+Contact Name
+Role Haringey Community Learning Disabilities Team
+Team / Directorate
+Email
+Telephone
+Sign-off
+Primary Designated Officer /
+Representative name
+Job title and role
+Signature: (To be removed if
+uploaded to DCC or ISG)
+Page 17 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+Date
+Secondary Designated Officer /
+Representative name
+Job title
+Signature
+Date
+AND
+1.5 Sending Organisation
+Brent, Harrow
+name :
+Address
+Single Point of Contact
+Contact Name
+Role
+Team / Directorate
+Email
+Telephone
+Sign-off
+Primary Designated Officer /
+Representative name
+Job title and role
+Signature: (To be removed if
+uploaded to DCC or ISG)
+Date
+Secondary Designated Officer /
+Representative name
+Job title
+Signature
+Date
+AND
+1.6 Sending Organisation
+Newham, Tower Hamlets
+name :
+Address
+Single Point of Contact
+Contact Name
+Role
+Team / Directorate
+Email
+Telephone
+Sign-off
+Primary Designated Officer /
+Representative name
+Job title and role
+Signature: (To be removed if
+uploaded to DCC or ISG)
+Date
+Secondary Designated Officer /
+Representative name
+Job title
+Signature
+Page 18 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+Date
+AND
+1.7 Sending Organisation
+Camden & islington
+name :
+Address
+Single Point of Contact
+Contact Name
+Role nurse
+Team / Directorate
+Email
+Telephone
+Sign-off
+Primary Designated Officer /
+Representative name
+Job title and role nurse
+Signature: (To be removed if
+uploaded to DCC or ISG)
+Date
+Secondary Designated Officer /
+Representative name
+Job title nurse
+Signature
+Date
+AND
+1.8 Sending Organisation
+Hackney & The City of London
+name :
+Address
+Single Point of Contact
+Contact Name
+Role
+Team / Directorate
+Email
+Telephone
+Sign-off
+Primary Designated Officer /
+Representative name
+Job title and role
+Signature: (To be removed if
+uploaded to DCC or ISG)
+Date
+Secondary Designated Officer /
+Representative name
+Job title
+Signature
+Date
+AND
+Page 19 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+1.9 Sending Organisation
+Waltham Forest
+name :
+Address
+Single Point of Contact
+Contact Name
+Role
+Team / Directorate
+Email
+Telephone
+Sign-off
+Primary Designated Officer /
+Representative name
+Job title and role
+Signature: (To be removed if
+uploaded to DCC or ISG)
+Date
+Secondary Designated Officer /
+Representative name
+Job title
+Signature
+Date
+AND
+1.9 Sending Organisation
+Newham
+name :
+Address
+Single Point of Contact
+Contact Name
+Role
+Team / Directorate
+Email
+Telephone
+Sign-off
+Primary Designated Officer /
+Representative name
+Job title and role
+Signature: (To be removed if
+uploaded to DCC or ISG)
+Date
+Secondary Designated Officer
+/ Representative name
+Job title
+Signature
+Date
+(Hereinafter known as “the Sending Controller(s)”)
+Page 20 of 27
+
+
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+2. Service Commencement and Agreement of Contract Term
+2.1 Effective Date 27/03/2023
+2.2 Data Sharing 24months
+Agreement Term
+2.3 Data Sharing 12 months
+Agreement
+review date
+2.4 Option to extend 24 months
+Data Sharing
+Agreement
+2.5 Expiry Date 26/02/2025
+2.6 Controller Earliest Earliest termination within 7 Business Days of Commencement Date
+Termination Date
+06/03023
+3. What is being shared?
+3.1 Agreed Purpose. Subject matter of the Processing
+Processing applies to patients who have been invited to the Royal
+Free Breast Screening Service;
+1. To support the provision of direct care: A clinical, social or
+public health activity concerned with the prevention,
+investigation and treatment of illness and the alleviation of
+suffering of individuals. It includes supporting individuals’
+ability to function and improve their participation in life and
+society.
+It includes the assurance of safe and high quality care and
+treatment through local audit, the management of untoward
+or adverse incidents, person satisfaction including
+measurement of outcomes undertaken by one or more
+registered and regulated health or social care professionals
+and their team with whom the individual has a legitimate
+relationship for their care.
+Page 22 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+2. To support Population Health: Programmes to improve
+physical and mental health outcomes, promote wellbeing
+and reduce health inequalities across an entire population.
+3.2 What sort of ☒ Identifiable
+information do you
+intend to share? ☐ Pseudonymised
+Tick all that apply ☐ De-identified
+☐ Aggregate
+3.3 Describe affected ☒ NHS Patients
+Data Subjects
+☐ Service Users
+Tick all that apply
+☐ Social Care Patients
+☐ Patients representatives
+☐ Public
+☐ Staff (including Agency, Temp, Casual and Volunteers)
+☐ Customers, Clients
+3.4 Describe the  NHS Number,
+information you  category of Learning Disability
+intend to share?  level of support,
+ reasonable adjustment required.
+4. Benefits test
+4.1 What outcomes Patient identifiable information is being shared in order to
+are you seeking to encourage women of eligible screening age with learning
+achieve through disabilities who have not attended their breast screening
+sharing appointment to do so.
+information?
+4.2 What benefits are The intended effect on the patient is improvement in health
+there to patients? outcomes. Those eligible for other cancer screening programmes
+are likely to participate in those as well, to improve overall health
+outcomes for these groups that currently don’t access these
+services.
+Page 23 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+4.3 What benefits are Through the use of health promotion initiatives, working in
+there to the collaboration with other health and social care providers, the
+Sending Controller project aims to break down the barriers where inequalities in
+organisation? access exist and increase uptake in breast screening in line with
+national targets thereby improving earlier diagnosis of breast
+cancer.
+4.4 What benefits are Through the use of health promotion initiatives, working in
+there to the collaboration with other health and social care providers, the
+Receiving project aims to break down the barriers where inequalities in
+Controller? access exist and increase uptake in breast screening in line with
+national targets thereby improving earlier diagnosis of breast
+cancer.
+4.5 Are there any The project will address the inequalities of access to Breast
+wider population screening from the geographical areas the Royal Free London
+health benefits? NHS Foundation Trust are responsible for breast screening.
+5. Basis for sharing?
+Under UK GDPR, for processing personal data for providers’
+5.1 Identify relevant administrative purposes, the most appropriate Article 6 condition
+legal basis for that is available to all public funded health and social care
+sharing organisations is:
+Article 6 Article 6(1)(e) “the processing is necessary for the performance of a
+task carried out in the public interest or in the exercise of official
+authority vested in the controller”
+DPA Section 8 Condition. The lawfulness of processing personal
+data set out in Article 6(1) (e) of the UK GDPR (as above) is
+permitted under Section 8 (d) of DPA 2018: Processing is
+necessary for the exercise of statutory functions.
+In addition to the above, an Article 9 condition of processing must
+5.2 Legal basis for also be used;-
+sharing the
+information special For the purposes of Article 9(2) (h) of the UK GDPR, the
+categories of circumstances in which the sharing/processing of special
+personal information categories of personal data is carried out is subject to the
+conditions and safeguards referred to in Article 9(3) of the UK
+Article 9 GDPR (obligation of professional secrecy), which include
+circumstances in which it is carried out under DPA Section 11(1)
+supplementary:
+ by or under the responsibility of a health professional, or
+ by another person who in the circumstances owes a duty of
+confidentiality under an enactment or rule of law
+Page 24 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+The terms “health professional” and “social work professional” are
+defined in Section 204 of DPA 2018, and include a broad range of
+different professionals.
+5.3 Legal Basis for It is an expectation of the patients attending the breast screening
+sharing under the services that if information is given in circumstances where it is
+Common Law Duty expected that a duty of confidence applies, that information will not
+for Confidence normally be disclosed without their consent. This project forms part
+of direct patient care, therefore for the purposes of common law,
+consent is implied.
+5.4 Data Protection Not required as this is not high-risk processing.
+Impact Assessment.
+6. Controls
+6.1 How will the Data will be transferred using NHS mail or an alternative secure
+information be Trust approved file sharing mechanisms. Data will then be held on
+transferred? a secure database within the Trust’s IT infrastructure/environment.
+6.2 Arrangements (if It is unlikely updates will be required once information has been
+needed) in place to sent.
+arrange for
+updates of the
+information to be
+shared.
+6.3 If applicable, how The accuracy of information will be verified by the sending
+will accuracy of controller before it is released.
+the information be
+maintained?
+6.4 How the The breast screening team can review their caseload’s records and
+information will be assess whether they have reached their minimum retention period
+disposed of? prior to secure deletion from the Breast Screening NBSS system.
+6.5 What is the Personal data will be retained in line with the Trust’s period of
+retention period of retention.
+the special
+category data Cancer/oncology records: Retention period is 30 years, or 8 years
+being shared? after death.
+Page 25 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+6.6 Are audit trails The Royal Free’s NBSS records an audit trail of who has accessed,
+available of who edited or deleted any personal data
+has
+accessed/edited/d
+estroyed any
+personal data?
+6.7 How will any Incidents will be managed according to the trusts Incident policy
+incident or and logged on Datix.
+personal data
+breach (for the
+purposes of Article
+4 UK GDPR) be
+managed?
+7. Assurances – Sending Controller to complete
+7.1 Describe any When sharing details from Learning Disabilities teams to the Royal
+details about the Free, quality checks will be performed prior to sending. i.e to
+accuracy of the double check the patient NHS number and other details are correct.
+information.
+7.2 What (if any) The data provided will be used only for the purposes of this project.
+restrictions are to
+be placed on the
+specific use of this
+information?
+8. When and how frequently will sharing take place?
+8.1 Frequency of As and when required
+information
+transfer?
+9. Review and Change Management
+Page 26 of 27
+
+DocuSign Envelope ID: 43BC4091-31D2-4644-98F4-B96E43EA85A6
+Template version 3.0
+Process for review. Data Sharing arrangements will be reviewed if the needs of the
+project change.
+9.1
+9.2 Change Any changes to this agreement shall be in writing and agreed by all
+management parties that are part of this agreement.
+10. Data Subject rights and communicating this agreement
+10.1 How will Data Privacy notices are available on the sending and receiving
+Subjects be organisations web sites and printed versions will be available on
+informed of the request.
+data sharing
+undertaken further
+to this Agreement
+(Articles 13 and 14
+UK GDPR)?
+10.2 Who is responsible This will be made clear on each organisations privacy notice.
+for responding to
+any Information
+Rights request
+relating to the
+information
+covered by this
+Agreement?
+10.3 How will the The essence of this Agreement will be made available to the Data
+essence of this Subjects via each participating organisations privacy notice and will
+Agreement be also be available on request.
+made available to
+the Data Subjects?
+Page 27 of 27

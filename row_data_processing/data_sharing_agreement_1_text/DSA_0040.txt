@@ -1,0 +1,677 @@
+2023 LIIA Child Level Data DSAs
+This is the data sharing agreement. It has been signed electronically on a portal rather than a wet
+ink signature. This copy is published as the effective copy. The facts that it is unsigned and appears
+completed is simply because the signature is undertaken generically on an information sharing
+portal.
+
+DATA PROCESSING AGREEMENT
+Background
+The London Innovation and Improvement Alliance (LIIA) is a standing partnership of London Local
+Authorities, working together for the benefit of vulnerable children in the capital. Part of the LIIA project
+is a pan-London Sector-Led Improvement analysis team, hosted at Waltham Forest Borough Council,
+who produce pan-London analyses for the London Directors of Children's Services.
+A successful pilot phase ran in Jan-March 2021 with Enfield, Islington, Merton, Wandsworth, Richmond,
+and Kingston to create a process to safely, legally, and ethically take in individual-level data where
+appropriate, and create analyses based on it.
+Building on the learning from the pilot phase, this Agreement provides the basis to expand the project
+to cover all 32 London Boroughs and the City of London Corporation. This will create an
+infrastructure that has the legal and ethical framework to enable child-level data sharing and a secure
+& efficient data network that makes this practical and accessible for each LA in the LIIA without
+increasing burdens or cost unnecessarily or disproportionally.
+The infrastructure is designed to provide impact at scale, while maximising process efficiency and data
+security. It represents a key outcome of the Pan London Data Accelerator Programme.
+Data specialists Social Finance are advising, with a focus on ensuring that the process embeds the
+principles of privacy by design, that the processing remains proportionate to the benefits, and that the
+process can be set up with the minimum level of additional work for LA teams.
+Expanding the project to the whole of London requires a robust and secure data hosting infrastructure
+to facilitate the uploading, processing, and analysing of child-level data from multiple local authorities.
+The London Datastore, a data-sharing platform created by the London Greater Authority, provides such
+an infrastructure and will be the key partner for hosting and processing LA data.
+The overall framework will have LAs deposit data on the London Datastore, where it will be processed
+to create pan-London datasets, which will also be stored on the London Datastore. This Agreement will
+document and authorise this infrastructure. Access to pan-London datasets will be granted on a case-
+by-case basis to named individuals at 'analytical partners' (sub-processors as described by Clause 10.1)
+to conduct further data transformation and dissemination of analytical outputs. Authorisations for these
+analytical partners will be managed as additional Schedules to this Agreement.
+This technical and legal framework has the endorsement of the LIIA board and Information Governance
+fQo2r L2o0n2d3o anm. endments
+The LIIA Child Level Data Project has now launched, with all 33 London Boroughs signed up to share
+data and data from the SSDA903 shared by all Boroughs for one of the three starting use cases, Pan-
+London Sufficiency Analysis. Reporting from this use case has also gone live and has being shared with
+approx. 100 users across London Boroughs.
+Changes to the agreement are being proposed that will make amendments to the core data flows and to
+existing use cases, and will also add new use cases to the platform, following the approval of the LIIA
+Board.
+In line with the process established with Information Governance for London, these amendments will
+be scrutinised by one or more members of Information Governance for London, before being reviewed
+by the group in two monthly meetings. Only following endorsement by the body will each LA be asked
+to approve these changes through Information Sharing Gateway, making them live changes to the
+agreement.
+One of the changes is to the existing data flow structure, with the data ingress, processing and egress
+role previously played by GLA (the London DataStore) now taken on by Social Finance, who are building
+
+2
+a novel data platform for this purpose. The reason for this change is that the London Data Store, while
+robust at dealing with open access data, lacks some of the primary security features necessary for
+handling data containing personally identifiable information. The full details of this will be described in
+an amended Schedule 2 of this agreement. As this is a significant change to the existing agreement, two
+members of Information Governance for London are taking an active role in the scoping and
+development of this platform to ensure that it meets the data security standards necessary for the data
+being shared.
+1. Amendments to sub-processor list: Schedule 1 (amended schedule)
+Changes to this agreement for the Q2 2023 amendments can be found:
+2. Amendments to data platform: Schedule 2 (replacement of old schedule)
+3. Amendments to data platform and retention period: Schedule 3
+Agreement London Borough of<enter
+Agreement
+LA name> CONTROLLER London Councils PROCESSOR
+This agreement (“ ”) is entered into on SIGNING DATE between
+(“ ”) and (“ ”), under which PROCESSOR
+receives personal data (as defined below) for the purpose of providing services. PROCESSOR will receive
+personal data from or on behalf of CONTROLLER the processing of which is covered by the Data
+Protection Legislation (as defined below). PROCESSOR agrees to protect such personal data as required
+by this Agreement and to enforce the same terms in agreements with all and any sub-processors acting
+on its behalf.
+In consideration of one peppercorn, receipt of which is acknowledged, PROCESSOR shall comply with
+the security, confidentiality and other obligations imposed on it under this Agreement.
+Definitions – Summary.
+1.1. Data Protection Legislation
+1.
+“ ” means any data protection legislation from time to time in force
+in the United Kingdom including, but not limited to, the UK GDPR – which means the retained
+EU law version of the General Data Protection Regulation (EU 2016/679) (EU GDPR), Data
+Protection Act 2018, any legislation which succeeds that Act, and any other directly applicable
+European Union data protection or privacy regulations (for as long as, and to the extent that,
+the law of the European Union has legal effect in the United Kingdom), and, where applicdabaltea,
+gsuuibdjaenccte apnde rcsoodneasl odf aptraac t“icsep eiscsiuael dc abtye gthoer yIn dfoartma,a” t“iopne rCsoomnmali sdsaiotan bOrffeiacec hand parnoyc reeslseivnagnt
+dcaotan tprroollteecrtion supperrovciessosroy rauthority or authorities. For purposes of this Agre ement, “
+,” “ ,” ,” “ ,”
+“ ,” and “ ” have the meanings given to them in the UK GDPR.
+1.2. In this Agreement the following words and phrases shall have the following meanings, unless
+expressly stated to the contrary:
+a) “Act” means the Data Protection Act 2018 (DPA18);
+b) “Authorised Representatives” means the nominated lead officer representing the
+CONTROLLER and the PROCESSOR with delegated authority to handle the day-to-day
+matters arising from this Agreement;
+c) “Data” means the personal and special category data supplied by the CONTROLLER to the
+PROCESSOR;
+d) “FOIA” means the Freedom of Information Act 2000, as amended;
+e) “UK GDPR” means the retained EU law version of the General Data Protection Regulation
+((EU) 2016/679) (EU GDPR) as it forms part of the law of England and Wales, Scotland and
+Northern Ireland by virtue of section 3 of the European Union (Withdrawal) Act 2018 and
+as amended by Schedule 1 to the Data Protection, Privacy and Electronic Communications
+(Amendments etc) (EU Exit) Regulations 2019 (SI 2019/419);
+
+3
+f) “Parties” means the parties to this Agreement, namely the CONTROLLER and the
+PROCESSOR;
+g) “Pseudonymised or Pseudonymised data” bears the meaning in Article 4.5 of the UK GDPR;
+h) “Request for Information” means a request for information or a request under FOIA.
+Term.
+2.
+2.1. This Agreement will remain in full force and effect unless the Agreement is terminated earlier
+by either party in accordance with Clause 2.2 below.
+2.2. Either party may terminate this Agreement by giving thirty (30) days’ prior written notice to
+the other party.
+2.3. For the avoidance of doubt, the obligations of confidentiality imposed on the parties by this
+Agreement shall continue in full force and effect after the expiry of this Agreement.
+2.4. Upon termination or once the purpose outlined in Schedules 3 onwards is achieved,
+PROCESSOR shall destroy and delete the personal, special category and pseudonymized data it
+received in accordance with such services. Both parties shall agree on the destruction process,
+ensuring that it meets standards including but not limited to the following:
+a) The personal data is completely removed from all physical and electronic systems,
+including any back up, storage media and archiving systems;
+b) All personal data on hardware is securely deleted and the hardware sanitized prior to re-
+use by PROCESSOR; and
+c) Items deemed for refurbishment and/or re-use go through a full diagnosis, test and data
+cleansing process.
+PROCESSOR shall confirm in writing that it has performed the necessary actions to destroy all
+copies of the personal data, giving full details of the actions taken and dates carried out.
+
+4
+Roles of the Parties.
+3.
+3.1. Both parties will comply with all applicable requirements of the Data Protection Legislation.
+3.2. This Agreement is in addition to, and does not relieve, remove or replace, a party’s obligations
+under the Data Protection Legislation.
+3.3. The parties agree that, for purposes of the Data Protection Legislation and as between the
+parties, CONTROLLER will be the controller of personal data and PROCESSOR will be the
+processor of personal data.
+4. Scope.
+4.1. The scope, nature and purpose of processing are defined in Schedules 3 onwards to this
+document, with each schedule individually authorized by the Director of Children’s Services of
+the CONTROLLER.
+Restrictions.
+5.
+5.1. The provision of personal and/or special category data will be strictly limited to the purposes
+outlined in Schedules 3 onwards and will not be further processed by the PROCESSOR without
+CONTROLLER’s prior written authorisation.
+5.2. Where possible anonymous data will be provided by CONTROLLER to PROCESSOR, however,
+both parties acknowledge that in certain circumstances personal and special category data will
+be shared.
+5.3. Access to the personal and special category data will be restricted to staff members of
+PROCESSOR who are directly involved in the processing of the personal and special category
+data for the purposes of project
+5.4. PROCESSOR will not take any steps to contact any data subjects, unless with CONTROLLER’S
+prior authorization.
+Data Flows.
+6.
+6.1. Without prejudice to the generality of clause 3, CONTROLLER will ensure that it has all
+necessary appropriate consents and notices in place to enable lawful transfer of personal data
+to PROCESSOR for the duration and purposes of this Agreement.
+6.2. Data flows and security are further detailed in Schedule 2.
+Processor Obligations.
+7. Without prejudice to the generality of clause 3, PROCESSOR shall, in
+relation to any personal and special category data processed in connection with the performance by
+PROCESSOR of its obligations under this Agreement:
+7.1. process personal data only on the written instructions of CONTROLLER unless PROCESSOR is
+required by any Data Protection Legislation. Where PROCESSOR is relying on Data Protection
+Legislation as the basis for processing personal data, PROCESSOR shall promptly notify
+CONTROLLER of this before performing the processing required by the Data Protection
+Legislation unless the Data Protection Legislation prohibit PROCESSOR from so notifying
+CONTROLLER;
+7.2. ensure that it has in place appropriate technical and organisational measures to protect against
+unauthorised or unlawful processing of personal data and against accidental loss or destruction
+of, or damage to, personal data, appropriate to the harm that might result from the
+unauthorised or unlawful processing or accidental loss, destruction or damage and the nature
+of the data to be protected, having regard to the state of technological development and the cost
+of implementing any measures (those measures may include, where appropriate,
+pseudonymising and encrypting personal data, ensuring confidentiality, integrity, availability
+and resilience of its systems and services, ensuring that availability of and access to personal
+
+5
+data can be restored in a timely manner after an incident, and regularly assessing and
+evaluating the effectiveness of the technical and organisational measures adopted by it);
+7.3. ensure that all personnel who have access to and/or process personal data are (i) obliged to
+keep the personal data confidential and (ii) aware of their responsibilities and are suitably
+trained in connection with processing the personal and special category data;
+7.4. not transfer any personal and special category data outside of the United Kingdom or the
+European Union unless the prior written consent of the CONTROLLER has been obtained and
+the following conditions are fulfilled:
+a) PROCESSOR has provided appropriate safeguards and/or permissions in relation to the
+transfer;
+b) the data subject has enforceable rights and effective legal remedies;
+c) PROCESSOR complies with its obligations under the Data Protection Legislation by
+providing an adequate level of protection to any personal and special category data that is
+transferred; and
+d) PROCESSOR complies with reasonable instructions notified to it in advance by
+CONTROLLER with respect to the processing of the personal data;
+7.5. assist CONTROLLER, in compliance with legislation, in responding to any request from a data
+subject and in ensuring compliance with its obligations under the Data Protection Legislation
+with respect to security, breach notifications, impact assessments and consultations with
+supervisory authorities or regulators;
+7.6. notify CONTROLLER immediately on becoming aware of a personal data breach;
+7.7. at the written direction of CONTROLLER, delete personal data in accordance with Clause 2
+above or return personal data and copies thereof to CONTROLLER on termination of this
+Agreement unless required by Data Protection Legislation to store the personal data;
+Audits; Inquiries.
+8.
+8.1. PROCESSOR will provide all relevant information and assistance requested to demonstrate
+compliance with this Agreement and allow for and contribute to audits.
+8.2. When responding to CONTROLLER’s information or audit requests, PROCESSOR will inform
+CONTROLLER if it believes that any CONTROLLER instructions regarding personal data
+processing would violate the Data Protection Legislation.
+Indemnification.
+9.
+9.1. Each party will comply with any of its obligations under this Agreement or the Data Protection
+Legislation as required by the Act or UK GDPR.
+9.2. In connection with the project, CONTROLLER hereby indemnifies PROCESSOR, its, directors,
+officers and employees (each an “Indemnified Person”), to the full extent lawful, against any
+loss, claim, damage or liability (or actions in respect thereof), including, without limitation, legal
+fees, costs and reasonable expenses incurred in connection with investigating or defending any
+claim or pending or threatened action, in each case, as such expenses are incurred or paid, (a
+“Loss”) arising out of or relating to proceedings taken against PROCESSOR by any person (other
+than CONTROLLER) involved in the Project;
+9.3. The Indemnity at clause 9.2 shall not apply where PROCESSOR or an Indemnified Person:
+a) is in material breach of the Terms of this Agreement;
+b) is guilty of a misrepresentation (fraudulent or otherwise) in relation to the Project; and/or
+c) is guilty of bad faith, gross negligence or willful misconduct in the delivery of the project.
+
+6
+Subcontracting
+10. .
+10.1.CONTROLLER authorizes PROCESSOR to transfer personal data to the sub-processors named
+in Schedule 1 (sub-processors) for purposes of providing the services described in this
+Agreement to CONTROLLER.
+10.2.PROCESSOR will seek written authority from CONTROLLER prior to addition of further sub-
+processors.
+10.3.PROCESSOR will enter into an Agreement with such sub-processors that is compliant with the
+Data Protection Legislation and meets the requirements of clause 7.
+Miscellaneous
+11. .
+11.1.Independent Contractor. Each party will be deemed to be an independent contractor and not
+an agent, joint venture, or representative of the other, and neither party may create any
+obligations or responsibilities on behalf of or in the name of the other party.
+11.2.Variation. No variation of this Agreement shall be effective unless it is in writing and signed by
+the parties (or their authorised representatives).
+11.3.Waiver. No failure or delay by a party to exercise any right or remedy provided under this
+Agreement or by law shall constitute a waiver of that or any other right or remedy, nor shall it
+prevent or restrict the further exercise of that or any other right or remedy. No single or partial
+exercise of such right or remedy shall prevent or restrict the further exercise of that or any
+other right or remedy.
+11.4.Severance. The invalidity, illegality or unenforceability of any one or more provisions of this
+Agreement shall in no way affect or impair the validity, legality or enforceability of the
+remaining provisions, which shall remain in full force and effect.
+11.5.Third party rights. This Agreement does not give rise to any rights under the Contracts (Rights
+of Third Parties) Act 1999 to enforce any term of this Agreement. The rights of the parties to
+rescind or vary this Agreement are not subject to the consent of any other person.
+11.6.Governing law; Jurisdiction. This Agreement will be governed by and construed in accordance
+with English law. The courts of England will have exclusive jurisdiction to settle any dispute
+which arises out of or in connection with this Agreement and the parties hereby agree to
+submit to that jurisdiction.
+LONDON BOROUGH OF <insert> LONDON COUNCILS
+This Agreement has been entered into on the date stated at the beginning of it.
+______________________________________ _______________________________________
+Signature Signature
+______________________________________ _______________________________________
+Name Name
+______________________________________ _______________________________________
+Title Title
+______________________________________ _______________________________________
+Date Date
+
+Schedule 1 (Sub-Processors)
+Organisation Registered Address Registration Data Pro
+Number(s) Officer
+Social Finance 87 Vauxhall Walk, London, SE11 06402143
+5HJ
+London Borough Waltham Forest Town Hall N/A Mark Hyn
+of Waltham Forest Complex, Forest Road,
+Walthamstow, E17 4JF
+
+ection Role(s) Relevant schedule Date Approved
+Data processing: Data Schedule 2 DPA Signing date
+platform
+ingress/processing/egress;
+IAM
+s Data Analysis: Schedule 3, Schedule DPA Signing date
+- Sharing Children’s 4, Schedule 6
+Services data insights
+- Sharing Children’s
+Social Worker
+Workforce Census data
+insights
+- Sharing SEND insights
+
+Context
+Schedule 2 (Data hosting, flows and security)
+The London Data Platform is a proposed data-sharing platform created by a partnership between LIIA,
+the Greater London Authority, and Social Finance, a not-for-profit consultancy with substantial
+technical and information governance expertise.
+It is required because local public services, most notably local authority children’s services, are
+increasingly finding it necessary to share personal sensitive data with one another and with suppliers
+in order to deliver on their statutory responsibilities.
+Hosting data within the London Data Platform and running analysis within its secure environment will
+allow for increased data security, as it drastically reduces the risk of data breaches associated with
+email transfers, data downloads or holding data locally. The architecture of the platform has been
+designed specifically with this use-case in mind and it holds data security as its core principle. This
+architecture is detailed in “Data security” below. Social Finance will act as architectural principal for
+this project and will thus be responsible for the role of primary security contact and specifier. Amazon
+Web Services will be the service provider. Details of the appropriate certifications are outlined in the
+sections below.
+Data flows
+1.
+The data shared by the CONTROLLER goes through the following steps:
+Upload data
+2. Prepare data for analysis
+3. Analyse data
+4. Share analysis
+These are expanded upon below and are represented in the data flow diagram (Figure 1).
+The flows in steps 1 and 2 above are the same for all data processing activities covered by this
+agreement. Therefore, they are described in this schedule only.
+The flows in steps 3 and 4 are specific to each processing activity (e.g. Pan-London Sufficiency Analysis
+involves different flows to Social Worker Workforce Analysis as they involve different organisations
+processing data). Therefore:
+* Steps 3 and 4 are described in detail in the schedules created for each of those activities.
+* The only material we provide here regarding steps 3 and 4 is a generic description (e.g. PROCESSOR
+does X rather than named organisation does X).
+1. Upload data
+The CONTROLLER is given access to a private folder in the London Data Platform and uploads the data
+there. This folder is only accessible by authorised personnel from the CONTROLLER and the London
+Data Platform.
+2. Prepare data for analysis
+i. Preparing the data of a single CONTROLLER
+The PROCESSOR runs scripts within the London Data Platform environment to:
+- Degrade certain data fields to protect data subject anonymity, e.g. date of birth transformed
+into month of birth; postcode transformed into postcode sector
+
+9
+- Assess data quality (missing values, logically inconsistent values)
+At the end of this process, the data is pseudonymised. Identification of individuals would only be
+possible with access to the CONTROLLER’s case management system.
+The CONTROLLER’s processed dataset is deposited back in the CONTROLLER’s private folder; the
+ii. Merging all Borough’s data together
+CONTROLLER can download the processed dataset for analysis.
+An additional process within the London Data Platform environment merges the datasets from all
+CONTROLLERS into a single pan-London dataset.
+During this process, additional data minimisation and data degradation steps may occur to ensure that
+only the data required for pan-London analysis is accessible. These additional steps will be detailed in
+Schedules 3 onwards.
+The processed dataset is deposited into the PROCESSOR’s private folder (“LIIA Analysis folder”) in the
+London Data Platform.
+3. Analyse data
+Typically, each specific analysis (e.g. Pan-London Sufficiency Analysis) requires only a subset of the full
+dataset. It may require:
+- Fewer than the full set of data subjects (e.g. only children in care, rather than all children with
+a social worker)
+- Fewer than the full set of fields describing each data subject (e.g. only information about the
+children’s demographics and the placement, rather than information about needs and
+disabilities)
+- Data from a shorter period of time than is available in the full dataset (e.g. just the last 12m)
+Therefore, in line with the principle of privacy by design a specific dataset is created for each analysis
+which contains the minimum data required for that analysis. These are stored in the LIIA Analysis
+folder.
+Access to each of these datasets in the LIIA Analysis folder is restricted to named individuals at the
+PROCESSOR (or named sub-processor) with direct involvement in analyses of that dataset, as
+described in Schedules 3 onwards.
+•
+The PROCESSOR accesses the dataset in the LIIA Analysis folder in one of two ways:
+Local download via a secure username/password combination. The dataset is then stored in a
+restricted area of the PROCESSOR’s data warehouse with access granted only to staff directly
+•
+involved in its analysis.
+Remote access via a secure link, connecting directly from within analytical software (e.g. Power
+BI). The dataset is stored in the cache of the analytical software only, with access granted only to
+staff directly involved in its analysis.
+4. Share the analysis
+Analysis conducted on the processed dataset is described in the relevant Schedule below.
+Aggregated analytical outputs are shared with all Boroughs via securely hosted software (e.g. Power
+BI). In all shared outputs, it is no longer possible to identify individual data points. Boroughs will be
+identifiable in these shared analyses, allowing benchmarking and comparison between boroughs.
+Where appropriate the LIIA d&i team will provide pan-London aggregate anonymous data for work
+commissioned or approved by ALDCS/LIIA or as agreed with partner organisations (where this data
+has already been collected through the LIIA CLD project) and so help reduce burdens on individual LA
+data & performance teams (relates to all use cases).
+
+10
+Data security for Steps 1 & 2
+Folder access rights on London Data Platform
+Access to any part of the platform requires individual access credentials (controlled through the
+platform identity and access management system and governed by appropriate security technologies
+Controller’s private folder
+i.e. single-sign on via major identity providers, password complexity and multi-factor authentication).
+- The CONTROLLER’s private folder on the London Data Platform is
+created manually by the London Data Platform admin. Several staff members from the CONTROLLER
+can be given access to the folder.
+The PROCESSOR will not be able to access the data hosted in the CONTROLLER’s private folder.
+Beyond staff at the CONTROLLER, only London Data Platform admin will be able to access this data to
+LIIA Analysis folder
+grant access rights and initiate data processing.
+- The LIIA Analysis folder on the London Data Platform is only accessible by
+authorised personnel from the PROCESSOR conducting the analysis and the London Data Platform
+admin and data engineer.
+Data retention
+Unless otherwise specified, data will be retained until six years have elapsed since data collection.
+Previous analysis finds that six years is the minimum for good quality journey analysis (an analytical
+approach we expect to employ), but that having more than six years’ data does not materially help to
+answer new questions or answer existing questions with greater certainty or granularity.
+Maintenance of this retention is implemented as part of the automated processing of data on the
+London Data Platform.
+On termination of this agreement, all data will be deleted from the CONTROLLER’s private folder and
+the LIIA Analysis folder.
+The CONTROLLER can request the deletion of data at any time before the termination date.
+London Data Platform infrastructure
+The application is architected to be secure by design. It follows National Cyber Security Centre (NCSC)
+best practice for cloud applications and its use of Amazon Web Services for all core application
+components means that it is based on the most solid and robust of cloud platforms.
+Specifically, it adheres to the NCSC guiding principles as follows:
+•
+Principle 1 - Data in transit protection
+•
+The Data Platform will use the latest SSL certificates.
+Connections will be 128bit encrypted and authenticated using TLS 1.2. (data encrypted in
+transit)
+•
+Principle 2 - Asset protection and resilience
+Data will be hosted on Amazon Web Services (AWS) in a UK availability zone and a UK data
+•
+centre.
+The AWS data centre is secure and highly monitored (full list of procedures in place available
+•
+here).
+Data tables will be stored in AWS S3 buckets protected by a private key/user password
+•
+combination. (data encrypted at rest)
+AWS is certified ISO 27001 (full list of AWS certifications available here).
+
+11
+•
+Principle 3 - Separation between customers
+Robust use of Identity and Access Management (IAM) prevents users accessing or processing
+data or systems outside their own.
+•
+Principle 4 - Operational security
+•
+The platform will be subject to robust and well-defined operational processes
+•
+Releases will be timely and well managed through a deployment management framework
+Incident management will have clear procedures and communication will be timely
+•
+Principle 5 – Governance framework
+A governance framework will be established to clearly define feature extension signoff,
+administration oversight and eventual handoff of the system to a suitable long term owner as
+required.
+•
+Principle 6 - Personnel security
+•
+AWS personnel are subject to robust vetting and security checks.
+Access to systems from inside the London Data Platform will be limited to those identified in
+the data flows section above.
+•
+Principle 7 –Secure development
+Engineering will follow software development best practices, including merge protections and
+•
+code review
+Deployment will be automated and follow a test > release process across multiple
+•
+environments before production
+Code will be subjected to multiple levels of automated and manual testing
+•
+Principle 8 - Supply chain security
+•
+Software dependencies will be tracked and vulnerabilities automatically reported
+Dependencies in code run on the processing environment will be subject to a robust and well
+managed allow-list
+•
+Principles 9 and 10 - Secure user management/ Identity and authentication
+•
+Uploads will be Private as default.
+Single-sign-on via major identity service providers (Microsoft Active Directory, Google Cloud
+Identity) will provide best in class password complexity enforcement and multi-factor-
+•
+authentication requirements.
+A full audit log for user access and data movement will be recorded
+•
+Principle 11 - External interface protection
+Exposed user interfaces will follow best practice for user facing application security – including
+cross-site scripting protection and cross-site request forgery protection
+
+12
+•
+The minimum required API will be exposed to reduce the available attack surface to the
+smallest possible
+• Administration of AWS services and infrastructure is carried out entirely through the AWS
+Principle 12 – Secure Services Administration
+console and administration system which is subject to the resiliency and security principles laid
+down by Amazon themselves.
+•
+Principle13 - Resilience and auditing
+•
+The application will be fully penetration tested before production release is granted.
+•
+Regular security audits by qualified third-party organisations will be carried out.
+Data protection from loss and lack of availability on AWS is covered by their business
+continuity and disaster recovery policy.
+•
+Principle 14 – Security by Design and Default
+The design of the system is such that users are subject to guardrails which prevent accidental
+•
+misuse.
+•
+Code run on the platform will be sandboxed and airgapped from the wider internet
+Controls and role based access will prevent data leaking between users or clients
+
+Figure 1 – LIIA data flows diagram
+
+
+
+Nature and purpose of analysis
+Schedule 3 (Sharing Children’s Services data insights)
+This schedule provides details of the data flow for Children’s Services data through the LIIA platform.
+The d ataC shuildbrmenit tiend n beeyd t hcee nCsOuNs T(CRIONL cLeEnRs uasr)e three standard returns created by all Children’s Services
+depa rtmCehniltdsr: en looked after return (SSDA903)
+- Ofsted Annex A (Annex A)
+-
+-
+The process will enable pan-London analysis to understand how the services provided and the
+outcomes experienced by children and young people compare across London Boroughs.
+The purpose of the analysis is to accelerate service improvement and monitor equalities as required
+Data to be shared
+under section 17 of the 1989 Children Act and section 1 of the 2010 Equality Act.
+The data submitted by the CONTROLLER will include personal data, including special category data,
+children and young people who have, in the six years prior to the analysis, been:
+about:
+the subject of an initial contact with Children’s Services
+o
+- the subject of a referral to Children’s Services
+o
+Considered a ‘Child in Need’ within the meaning of the Children Act
+o
+The subject of a Child Protection Plan or Care Order
+o
+Considered ‘looked-after’ within the meaning of the Children Act
+o
+eligible for services by virtue of being a Care Leaver
+o
+unique identifiers, including unique pupil number and LA-issued identifiers
+Personal data, including special category data to be processed:
+demographic information, including gender, date of birth and ethnicity
+- geographic identifiers, including home postcode, looked after placement postcode and Ofsted-
+- issued placement unique reference number
+- Children’s Services episode information, including dates, codes for needs and abuse, and outcomes,
+for:
+- contacts, referrals and assessments
+o
+safeguarding events (‘S47s’)
+o
+Child in Need episodes
+o
+Child Protection episodes
+o
+Care placement episodes
+o
+Data minimisation
+In consideration of the data required to produce the analysis, we have minimised the scope of
+individuals whose data are shared to only include individuals involved in the services specifically
+being evaluated, in the eleven years prior to analysis.
+Accordingly, in the course of data processing by the London DataStore (Step 2 in Schedule 2), all
+Annex A: children placed for adoption and adults who adopt them (annexes 10 & 11). In practice
+information is removed about:
+this removes any data shared about adult adopters, and children and young people who have been
+- placed for adoption who have had no additional contact with Children’s Services (and who would
+therefore not have been described in annexes 1-9)
+
+15
+For data subjects who are in the scope of the analysis, we have evaluated whether any fields
+containing identifiers and personal, sensitive information are required to conduct the analysis.
+CIN Census, SSDA903, Annex A: date of birth degraded to month of birth
+Accordingly, in the same process above, the following data minimisation occurs:
+SSDA903: home postcode and placement postcode degraded to postcode sector
+-
+-
+Data retention
+Our initial analysis of the SSDA903 data received from London LAs through the CLD – Sharing
+Children’s Services data insights project has shown that we are unable to properly provide analysis for
+• what are the journeys that children are taking through the social care and care systems?
+Directors and senior leaders on a number of key elements;
+• how long are children know to social care and in care for?
+• do children have a number of interactions with social care services and other children’s services
+before they become looked after?
+This is because we have found that of the children who were looked after between 1st April 2016 and
+31st March 2021, over 7,000 started to be looked after at some point before the earliest piece of data
+that was provided to us. This means that for those children we do not know how long they were
+looked after for at the point that they ceased to be looked after or to the 31st March 2021 if they
+continue to be looked after.
+We also cannot see the full extent of their journey through the care system which affects our ability to
+understand if they had a different experience based on some of their characteristics, eg ethnicity,
+gender, disability. This affects our ability to clearly see if disproportionality exists in the London care
+system.
+When we combine the SSDA903 data with the CiN census we will also be unable to see if there was
+social care involvement with these young people before they entered the care system, or if they had
+previously been in the care system.
+In the 6 years of data that we received, there were a total of 40,000 children who were looked after at
+any time, so this cohort of 7,000 children for whom we don’t know the start of their care period
+represents 17.5% of the total cohort.
+We therefore propose to extend the period covered for the ‘Sharing Children’s Services data insights’
+part of the CLD project to eleven years to cover the journey from birth to the beginning of adolescence
+or the beginning of adolescence to the transition to leaving care (and all the variations in between) and
+then review if that is sufficient. Initially we plan to build on the existing data from 2016/17 (from
+2022/2023 in the case of SEN2 which has only just become a child-level data return) and add
+subsequent years data as they become available to accumulate to eleven years’ worth of data. Should
+DCS’ want us to collect data from earlier years, in addition to collecting new years’ as they pass, then
+we would review the case for this and if necessary consult with IGfL. (Adding earlier years would
+introduce additional technical complexities which may not be desirable.) This will enable service
+design, practice and resource planning to benefit from the insights gained and support DCS’ to meet
+their statutory obligations.
+
+16
+In a reporting year approximately 5,000 children become looked after, so over the course of five
+additional years, this would add approximately 25,000 children to the dataset.
+The DPA places a duty on the processor (and any sub-processors) to securely destroy any data outside
+this scope (e.g. if over time we come to have twelve years’ data) and to destroy all data at the end of
+the programme or on request of the data controller, unless at the point of review it is felt that there is a
+robust and proportionate case for extending further. The intention is not to extend indefinitely and
+certainly not beyond 25 years – which would cover the current statutory responsibilities for Children’s
+Services for both Care Leavers and children with Special Educational Needs – and therefore allow the
+complete arc of a child’s interactions with children’s services in these areas to be seen.
+Schedule 3 Appendix 1 gives examples of the type of analysis we are able to do and the kind that are
+not possible due to the limitations in the data period covered.
+Maintenance of this retention is implemented as part of the automated processing of data on the
+London Data Platform.
+On termination of this agreement, all data will be deleted from the CONTROLLER’s private folder and
+the LIIA Analysis folder.
+The CONTROLLER can request the deletion of data at any time before the termination date.
+Details of data processing
+Data deposit by CONTROLLER and data processing on London Data Platform occur as described in
+steps 1 & 2 of Schedule 2. Social Finance analysts created the code that processes the data on the
+London Data Platform. The code is released to London Data Platform as a PyPI package in a publicly
+accessible repository on GitHub. QA testing will be performed before it is deployed on the London Data
+Platform.
+The parties responsible for analysis and sharing of data, as described in steps 3 & 4 of Schedule 2, are
+the PROCESSOR and London Borough of Waltham Forest (LBWF). Data in the LIIA Analysis Folder is
+accessed through a bearer token in Power BI. Data is stored in cache in a Power BI report, hosted by
+LBWF. Only analysts employed by the PROCESSOR or at LBWF who need to develop the Power BI
+report can access the data.
+The PROCESSOR will share the Power BI report with named individuals at 33 London Boroughs.
+Access to the report is individually password protected, with sharing to new individuals only possible
+by project staff at the PROCESSOR. All analyses shared are at an aggregate level at which individual
+Boroughs can be identified.
+The contract between the PROCESSOR and LBWF will stipulate equivalent or greater information
+security to that described for the PROCESSOR, including the audit rights necessary to ensure that
+commitments are followed.
+RReessppoonnsisbibiliiltiyt yfo r security and accuracy of data flows will be as followRse:s ponsible party
+Deposit of data to London DataStore CONTROLLER
+Processing of data on London DataStore – individual level data is London DataStore
+shared following this agreement
+Access to individual level data in Power BI – hosting of data LBWF
+Access to Borough level report in Power BI – sharing of analysis PROCESSOR
+
+17
+:
+Endorsement by London Children’s Innovation and Improvement Board 11/05/2022
+Approved by SENDING LA as amendment to DPA: [date]
+Signature
+Name
+Role
+
+18
+Schedule 3 Appendix 1: Example of the type of analysis that has been possible from the
+SSDA903 data received and where there are limitations due to the period covered being 6
+years
+This is an example of analysis we can be confident in – we know the start dates of children who came into care since April
+2016, hence we know their initial legal status. Looking at non-UASC by ethnicity we see remand is disproportionally high for
+black children (these totals are for all six years):
+(Not available)
+For duration in care, there’s a high proportion – 5,000 out of 24,694 non-UASC, so around 20% - where we just don’t know
+how long they were in care at the time they ceased (shown as ). Could be anywhere from a month to their
+entire life. This restricts our ability to analyse children’s journeys and discern trends over time.

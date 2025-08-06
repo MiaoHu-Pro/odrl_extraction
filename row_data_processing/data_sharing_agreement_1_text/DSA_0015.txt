@@ -1,0 +1,1064 @@
+Information Sharing Procedure relating to
+the London Rogue Landlord and Agent Checker
+Between
+The Greater London Authority
+and
+London Borough of Camden
+
+INFORMATION SHARING PROCEDURE
+INTRODUCTION
+1. This is a purpose-specific Information Sharing Procedure made under the
+Overarching Information Sharing Protocol between the Greater London Authority
+(GLA) and London Borough of Camden.
+2. This Procedure shall be entered into by the specific business units/legal entities
+within the GLA and London Borough of Camden that are responsible for the purpose
+specific activity to which the information sharing relates.
+EFFECTIVE DATE
+3. 1st April 2022
+DESIGNATED POINTS OF CONTACT
+4. GLA Private Rented Sector Programme Manager (Housing and Land),
+GLA Senior Projects Officer (Housing and Land), GLA Projects Officer (Housing
+and Land).
+5. Primary contact: Operations Managers (Enforcement team and Rogue Landlord team)
+Secondary contact: Principal EHO (Enforcement team)
+PURPOSE AND BENEFITS
+Purpose
+6. The Mayor has committed to creating a London Rogue Landlord and Agent Checker
+(RLAC) on the GLA website, containing details of landlords and letting agents who
+have acted unlawfully and thus undergone enforcement action by participating
+partners (London boroughs or the London Fire Brigade).
+7. A limited range of details will be accessible to the public, and a wider range, which
+will include historic convictions and other enforcement activity, to participating
+partners and the GLA. The data sharing will be a one-way transfer of data relating
+to landlord and letting agent enforcement action from the participating partner to the
+GLA.
+8. There are effectively three tiers of user rights to the RLAC. The first is open to the
+general public on the GLA website, the second is “read-only” access for participating
+partners to allow officers to view additional enforcement actions and historic
+convictions, and the third provides upload and editing rights for a small number of
+officers from the participating partner organisation.
+Benefits
+9. The benefits of the RLAC can be outlined according to the following beneficiaries:
+
+9.1. GLA
+It will enable the Mayor to send a clear message to landlords and letting agents
+acting unlawfully across London that successful enforcement actions for relevant
+offences will result in them being named publicly, making it harder for them to
+operate ‘under the radar’.
+9.2. Participating partners
+It will support London boroughs and the London Fire Brigade in their enforcement
+efforts through information sharing and increased awareness amongst renters,
+landlords and letting agents of the work that boroughs are doing locally to crack
+down on criminal behaviour.
+9.3. General public
+It will provide renters with a readily accessible means of checking whether a landlord
+or agent they are considering renting a property from has faced enforcement action
+for a housing related offence. It will seek to ensure the private rented housing
+market operates in a fairer and more transparent way, and that tenants are
+protected from exploitation by unscrupulous landlords and letting agents. The
+Report a Rogue Tool sits alongside the RLAC to make reporting a landlord or agent
+to their borough clearer and easier for tenants.
+Reliance on personal information
+10. The sharing of limited personal data relating to enforcement action is necessary for
+the RLAC to achieve its stated aims. Wholly anonymised or pseudonymised data
+would not support London boroughs in their efforts to crack down on landlords and
+letting agents acting unlawfully, nor would it enable the public to check whether their
+landlord or agent has faced enforcement action.
+DESCRIPTION OF INFORMATION TO BE SHARED
+Categories of information
+11. The following categories of data will be shared with the public for landlord entries:
+• landlord name (and ‘also known as’ or associated names, for instance
+company names)
+• home address of landlord – street name and first four digits of postcode only
+• address of rental property(ies) associated with the offence
+• name of enforcement authority
+• criminal conviction offence
+• date of conviction
+• expiry date of conviction
+• court where conviction took place
+• value of fine
+• conditional discharge offence
+• date of conditional discharge
+• expiry date of conditional discharge
+• court where conditional discharge was awarded
+
+• details of enforcement notices issued by London Fire Brigade
+• details of prohibition notices issued by London Fire Brigade
+• civil penalty notice offence
+• date of civil penalty issue
+12. The following categories of data will be shared with the public for letting agents:
+• trading name
+• ownership details (Ltd co, partnership, sole trader)
+• names of principal officers
+• registered office address
+• other branches
+• website
+• membership of a trade body
+• membership of a redress scheme
+• address of rental property associated with the offence (where appropriate)
+• name of enforcement authority
+• criminal conviction offence
+• date of conviction
+• expiry date of conviction
+• court where conviction took place
+• value of fine
+• conditional discharge offence
+• date of conditional discharge
+• expiry date of conditional discharge
+• court where condition discharge was awarded
+• trading standards civil penalty notice offence
+• date of civil penalty issue
+• details of expulsion from a redress scheme
+13. As well as the information listed above, other enforcement activity taken against
+landlords and letting agents will be shared on the non-public part of the RLAC,
+including simple cautions.
+14. A list of relevant offences can be found at Annex 2. This list may be subject to
+change in consultation with all participating partners, for example when legislation
+changes.
+15. Records on the RLAC from the same landlord or letting agent will be linked to
+demonstrate repeat offending. This link will be displayed on the public and non-
+public part of the RLAC. Links between two or more records originating from a
+single partner can be authorised by the partner themselves. Links from two or more
+different participating partners will be suggested by the RLAC, based on records
+containing the same (or very similar) names and home address of landlord, or
+trading name and office address of letting agent. The participating partners will then
+agree amongst themselves whether they are satisfied that this is the same person
+or organisation and will then approve or deny the link based on the details of the
+record. All partners associated with the entries will need to approve the link in order
+for it go forward to publication.
+
+16. Any data which relates to an identified or identifiable natural person, either on its
+own or in conjunction with any other data held by either party, constitutes personal
+data as defined under Article 4(1) of the UK General Data Protection Regulation
+(UK GDPR),
+17. For the purpose of this project, a company acting as a landlord or letting agent will
+be treated in the same way as an individual.
+18. Any data consisting of information as to the commission or alleged commission of
+any offence by the data subject or any proceedings for any offence committed or
+alleged to have been committed by the data subject, the disposal of such
+proceedings or the sentence of any court in such proceedings, constitutes ‘data
+relating to criminal convictions and offences’. The processing of personal data
+about criminal convictions or offences must have a lawful basis under Article 6 of
+UK GDPR and either legal authority or official authority for the processing under
+Article 10 of UK GDPR
+Source(s) of the information
+19. The data will be sourced from databases or computer systems held by each London
+borough and the London Fire Brigade.
+Frequency
+20. Uploads onto the RLAC will take place no longer than ten working days following
+the enforcement outcome, subject to notification by the borough’s legal department.
+21. Inaccurate personal data will be corrected no later than five working days after the
+inaccuracy has been identified.
+LEGAL BASIS FOR INFORMATION SHARING
+Legal powers to share the information
+22. London boroughs have a range of powers (contained in the Housing Acts and other
+legislation) relating to the attainment of housing standards in the private rented
+sector (including overcrowding, housing conditions, houses in multiple occupation
+and the selective licensing of private landlords). Failures by private landlords to
+attain minimum standards and compliance in these areas can be met by
+enforcement action by the boroughs and lead to criminal sanctions. A list of relevant
+offences can be found at Annex 2.
+23. Local authorities also have a general power of competence, enabling them to do
+anything that an individual may do (Localism Act 2011). They also have a power to
+do anything which is calculated to facilitate, or is conducive or incidental to, the
+discharge of any of their functions (Local Government Act 1972).
+24. Section 17 Crime and Disorder Act 1998 requires the London boroughs to exercise
+their various functions with due regard to the likely effect of the exercise of those
+functions on, and the need to do all that it reasonably can to prevent
+a) crime and disorder in their area (including anti-social and other behaviour
+adversely affecting the local environment); and
+b) the misuse of drugs, alcohol and other substances in their area; and
+c) re-offending in their area.
+
+25. The participation of the London boroughs in the RLAC is consistent with, and
+incidental to, its various housing powers. Participation in a scheme to bring to the
+public’s attention the action taken to tackle poor standards in the private rented
+sector and the sanctions applied to landlords and agents acting unlawfully, will serve
+to raise awareness, act as a deterrent and contribute to the improvement of housing
+conditions in the private rented sector. It thus demonstrates that regard has been
+paid to the need to prevent crime, disorder and behaviour adversely affecting the
+local environment.
+26. The RLAC initiative falls within the Mayor’s power in section 30 of the Greater
+London Authority Act 1999 (the ‘GLA Act’) to act on behalf of the GLA to do anything
+which he considers will further the promotion of economic and social development
+in Greater London.
+Inclusion of Housing and Planning Act Civil Penalties on the RLAC
+27. The Housing and Planning Act (‘HPA’) 2016 introduced civil penalties of up to
+£30,000 for certain specified housing offences under the Housing Act 2004 and
+breaches of banning orders under the HPA. These civil penalties are designed to
+be an alternative to prosecution.
+28. Various boroughs have instructed the GLA to upload HPA civil penalties and trading
+standards civil penalties of £500 or more to the public tier of the RLAC. These
+boroughs are listed in the RLAC policies and procedures document which can be
+found on the Rogue Landlord and Agent Checker website at:
+www.london.gov.uk/rogue-landlord-checker. The boroughs in question will continue
+to use their own discretion to decide which cases should be uploaded to the RLAC,
+in line with their own policies and procedures.
+General Data Protection Regulation
+Statutory data processing conditions
+29. Processing of personal data under this scheme must adhere to the ‘principles
+relating to processing personal data’ under Article 5 of UK GDPR. The first of these
+principles provides that personal data must be processed lawfully, fairly and in a
+transparent manner.
+30. The processing of personal data is only considered to be lawful if a legal basis under
+Article 6(1) applies. The processing of data relating to criminal convictions and
+offences must meet the requirement in Article 10 of UK GDPR.
+Article 6 legal basis
+31. The following legal basis under Article 6(1) applies to the processing of personal
+data:
+(e) processing is necessary for the performance of a task carried out in the public
+interest or in the exercise of official authority vested in the controller
+
+32. Section 8(c) of the 2018 Act prescribes that Article 6(1)(e) of UK GDPR – processing
+of personal data that is necessary for the performance of a task carried out in the
+public interest or in the exercise of the controller’s official authority – includes
+processing of personal data that is necessary for the exercise of a function conferred
+on a person by an enactment or rule of law. Section 8(c) of the 2018 Act has been
+considered to apply by virtue of the legislation detailed in paragraphs 23 to 27 of
+this procedure.
+33. Processing of data is considered to be necessary to help ensure that the private
+rented housing market operates in a fairer and more transparent way, and that
+tenants are protected from exploitation by unscrupulous landlords and letting
+agents.
+34. Reliance on Article 6(1)(e) involves a test of necessity which requires a balance to
+be struck between the objectives of the Checker and the impact on those whose
+information is disclosed. Subject to the protections afforded by representations
+procedure in Annex 1, and by committing not to publicise spent convictions, the
+parties agree that processing will not amount to an unreasonable or unwarranted
+interference.
+Article 10 considerations
+35. The processing of data relating to criminal convictions and offences meets the
+requirement under Article 10 of UK GDPR by virtue of the conditions listed in parts
+1, 2 or 3 of Schedule 1 of the 2018 Act. The processing of data relating to criminal
+convictions and offences for the Checker will comply with paragraph 6(2)(a) of
+Schedule 1 of the 2018 Act:
+• processing.. is necessary for reasons of substantial public interest… and the
+exercise of a function conferred on a person by an enactment or rule of law.
+The legislation detailed in paragraphs 23 to 27 of this procedure describes the
+applicable enactments.
+36. The processing of data relating to criminal convictions and offences in this manner
+is considered to be a matter of substantial public interest for the following reasons
+a) London’s private rented sector is an important part of the London housing
+market, and the number of private renters continues to rise. At the same time,
+there is no easy way for tenants to find out about offences committed by a
+prospective landlord or agent so that they can make an informed choice.
+Addressing this information gap in relation to renting property in London is
+deemed to be matter of public interest.
+b) The processing allows London Boroughs and the London Fire Brigade to share
+information in order to deliver more targeted enforcement activity and to assist
+in cross-borough enforcement against rogue landlords and letting agents.
+c) Given the importance of the private rented sector within London’s housing
+market, the proposed processing contributes to meeting that interest, in a very
+significant way, not in a marginal or trivial way. There is a rational connection
+between the processing and the relevant substantial public interest.
+d) The processing directly meets the information gap explained above in relation
+to the London private rented sector.
+
+Law enforcement processing
+37. To the extent that the processing of personal data under this scheme is by a
+competent authority for law enforcement purposes (as defined in section 31 of the
+2018 Act), the processing meets the requirements of the six data protection
+principles in section 34 of the 2018 Act. In relation to the requirements of section
+35 of the 2018 Act, the processing is lawful since it is necessary for the performance
+of a task carried out for law enforcement purposes by a competent authority.
+Compatibility with original purpose for which personal data was captured
+38. Data regarding enforcement action taken against landlords and agents is collected
+as part of the Fire Brigade and London boroughs’ work to protect tenants and
+improve conditions in the private rented sector. The RLAC is therefore compatible
+with this purpose in that its principle objectives are to empower tenants to check
+their landlord or agent’s history and deter unlawful practice in the sector.
+Fair processing requirements
+39. To support compliance with the first data processing principles under Article 5(1)(a)
+of UK GDPR and meet the aforementioned conditions under schedules 2 and 3 of
+the DPA requirements of Articles 13 and 14 of UK GDPR – the provision of ‘fair
+processing’ information to data subjects - the GLA will write to the landlord or agent
+on behalf of London Borough of Camden. prior to his/her data being displayed on
+the RLAC. The GLA will send this letter within two working days of the entry being
+added to the RLAC holding area.
+40. This will notify the data subject (landlord or letting agent) about the data which will
+be processed on behalf the borough or Fire Brigade and manner in which it will be
+processed. The letter will detail the categories of data (from paragraphs 11 – 13)
+which will be ultimately made accessible to the public, in addition to the data
+processed on the non-public part of the RLAC.
+41. This notification will also set out timescales for the processing of their information
+and inform the data subject or agent of their right to make representations against
+the processing of their personal data in the manner described and update any
+inaccurate or incorrect data.
+42. The representation process (see Annex 1) will cover the assessment of any
+complaints made by the data subject and submissions concerning inaccurate or
+incorrect data. This will ensure that the rights of the data subject are considered at
+all times and balanced against the legitimate interests and legal obligations that
+facilitate the processing of their personal data in this manner.
+43. The GLA is required to keep clear and auditable records of the notification and
+representation processes on behalf of London Borough of Camden. to ensure fair
+processing of any personal data on behalf of the borough and demonstrate
+compliance with the appropriate data processing conditions outlined above.
+44. The above procedure does not override a data subject’s right at any time to exercise
+their right to rectification (Article 16 of UK GDPR), to erasure (Article 17 of UK
+GDPR), to restriction of processing (Article 18 of UK GDPR) or to object (Article 21
+
+of UK GDPR). If the GLA is in receipt of any such notice they shall pass this to the
+borough or Fire Brigade immediately upon receipt.
+Data Controller status of the receiving party
+45. London Borough of Camden is the controller of all the personal data covered by this
+Procedure and is responsible for ensuring it is processed fairly and lawfully and in
+accordance with the principles of UK GDPR and the 2018 Act.
+46. On receipt of any personal data under this Procedure, the GLA shall become a
+processor of that data and will only process that personal data in accordance with
+this Information Sharing Procedure and the Data Processing Agreement at Annex
+3 to this Procedure and for no other purposes. The GLA will at all times ensure that
+any of its staff with access to the RLAC are trained in the applicable data protection
+law in force at that time. The GLA will ensure that appropriate technical and
+organisational measures shall be taken against unauthorised or unlawful processing
+of personal data and against accidental loss or destruction of or damage to personal
+or sensitive personal data on the RLAC when exercising its functions as data
+processor.
+47. Although the GLA is registered as a controller in its own right for projects outside of
+the scope of this agreement, the London Borough of Camden shall remain the
+controller in respect of the data for this project and continue to process the data for
+their own purposes.
+Human Rights Act 1998
+48. Article 8 of the European Convention on Human Rights prescribes that everyone
+has a right to respect for private and family life, home and correspondence. There
+shall be no interference by a public authority with the exercise of this right except
+such as in accordance with the law and is necessary in a democratic society in the
+interests of national security, public safety or the economic wellbeing of the country,
+for the prevention of disorder or crime, for the protection of health or morals or for
+the protection of the rights and freedoms of others.
+49. The sharing of personal data under this Procedure will comply with Article 8 as it is:
+In pursuit of a legitimate aim: The Mayor of London has a general power to do
+anything that will promote economic and social development, and environmental
+improvement in London. The Rogue landlord and agent Checker would be one way
+of achieving this by seeking to ensure the private rented housing market operates
+in a fairer and more transparent way, and that tenants are protected from
+exploitation by unscrupulous landlords and letting agents.
+Proportionate: In each case, the information shared will be proportionate for the
+purpose - the minimum information necessary for the purpose will be transferred
+and no more.
+Appropriate and necessary to a democratic society: Promoting social development,
+making London’s communities a better place to live, and protecting tenants from
+criminal landlords and letting agents are all activities appropriate to a democratic
+society. Each individual will have the opportunity to correct any inaccuracy prior to
+
+publication and to explain whether there is a reason why it would not be in the public
+interest to disclose their convictions (see Annex 1).
+Common law Duty of Confidentiality
+50. In this case, there are no circumstances that would create an expectation of
+confidentiality on the part of any individuals whose data is shared between the
+partners for the agreed purposes.
+Crime and Disorder Act 1998
+51. Section 17 of the Crime and Disorder Act 1998 has been considered and without
+prejudice to any other obligation imposed on it, the RLAC is compatible with its
+various functions with due regard to the likely effect of exercising those functions to
+do all that it reasonably can to prevent, crime and disorder in its area (including anti-
+social and other behaviour adversely affecting the local environment).
+52. The use of the RLAC will provide valuable intelligence to boroughs in regulating and
+investigating landlords operating across borough boundaries. Landlords acting
+unlawfully are directly linked to high levels of anti-social behaviour, poor property
+management and enviro-crimes in the private rented sector; the RLAC will protect
+tenants and prospective tenants from these landlords thus preventing further crime
+and disorder.
+MEANS OF TRANSFER
+53. Information subject to this sharing agreement will be shared via the RLAC whereby
+both London Borough of Camden and the GLA will have mutual access to
+information once entered on to the system, subject to the appropriate access
+controls.
+54. London Borough of Camden will input existing convictions into an excel spreadsheet
+containing mandatory fields and optional fields. This document will then be
+uploaded as a CSV file onto the RLAC. Following upload onto the RLAC, the entries
+will remain in the holding area whilst the GLA notifies the data subject (see Annex
+1 for details on the holding area and notification). Subsequent entries will be added
+using a manual entry online form.
+INFORMATION HANDLING ARRANGMENTS
+Access to the information shared
+55. RLAC users on the non-public tier will have one of three types of access: super-
+users, viewing and editing, or viewing-only.
+a) Super-users will be able to view all published information held on each entry, upload
+new entries, edit existing entries, make decisions regarding representations, and
+manage the viewing-only and viewing and editing users for their borough. There
+will be two super-users per borough.
+
+b) Viewing and editing users will be able to log into the RLAC and view all published
+information held on each entry. They will be able to add new entries to the RLAC
+and edit existing entries.
+c) Viewing-only users will be able to log into the RLAC and view all published
+information held on each entry. This user type will be given to most enforcement
+officers at each borough.
+56. At the GLA, the following roles will have super-user access:
+• Private Rented Sector Manager, Housing and Land Directorate
+• Senior Projects Officer, Housing and Land Directorate
+• Project Officer, Housing and Land Directorate
+57. At London Borough of Camden the following officers (job roles) will require super-
+user access:
+1. Operations Manager
+2. Principal EHO
+58. User accounts for London Borough of Camden employees will be created, deleted
+and managed by the super-user. Each user will have one account, and there will
+be strictly no sharing of log ins. User accounts of all type must be kept up to date,
+for example when officers resign the account should be deleted promptly.
+Regular or routine onward disclosures by the recipient of the Information
+59. The GLA is in ongoing discussions with the Ministry of Housing, Communities and
+Local Government (MHCLG) about the development of a national criminal landlord
+database as provided for by the Housing and Planning Act 2016. The MHCLG
+database will request from boroughs a very similar set of data to that which is to be
+included in the RLAC.
+60. If agreement is secured from MHCLG, London Borough of Camden in principle
+authorises the GLA to act as an intermediary between the two systems, effectively
+passing on the data from the London RLAC to the national database, on behalf of
+the data controller (London Borough of Camden). The GLA will pass on any data
+which is eligible under the conditions for the database set out in the Housing and
+Planning Act 2016. Further engagement with all boroughs concerned would need
+to be undertaken and written agreement obtained prior to any data being
+transferred.
+Unplanned or ad hoc onward disclosures of the Information
+61. There will be no unplanned disclosure without prior consent from the relevant data
+controller. Each participating partner will only be required to notify the original
+source of the Information where a secondary disclosure has been made to a third
+party for a purpose unconnected to those provided for in this Information Sharing
+Procedure.
+Retention period(s)
+62. Personal data will only be retained for the minimum length of time necessary to
+achieve the specific aims of each function of the RLAC.
+
+First tier public view
+a) Civil penalties of £500 or more will remain publicly viewable for up to 12 months
+after the enforcement action date. Prior to 1 July 2021, the enforcement action
+date was taken as the date that the final civil penalty notice was served.
+Information as to how the enforcement action date is currently calculated may be
+found by referring to the RLAC policies and procedures document which can be
+found on the Rogue Landlord and Agent Checker website at:
+www.london.gov.uk/rogue-landlord-checker.
+b) Criminal convictions will remain accessible to the public until the date at which the
+conviction becomes spent. The vast majority of landlord and letting agent
+convictions will result in a fine, meaning that the conviction becomes spent after
+12 months.
+c) In rare cases, a prosecution may result in a custodial sentence, meaning the
+conviction will last longer than 12 months in line with the provisions of the Legal
+Aid, Sentencing and Punishment of Offenders Act 2012. Each new entry on the
+RLAC will be set to a default removal data of 12 months following the date of
+conviction. It will be possible for the data controller to override this in instances of
+a custodial sentence.
+d) Enforcement and prohibition notices from the London Fire Brigade will have a
+retention period of three years, mirroring the retention policy for the London Fire
+Brigade website.
+e) The London Borough of Camden can reduce the retention period for their entries if
+this is considered appropriate.
+Second tier borough view
+f) Entries will remain accessible to the user groups specified in section 53 for a
+maximum of ten years, at which point they will be automatically deleted from the
+RLAC. This retention period is considered to be appropriate because it reflects
+the period over which the information remains relevant and useful to the boroughs
+for enforcement purposes. The RLAC will default the deletion date to ten years,
+but London Borough of Camden is able to override this if they feel a shorter
+retention period is appropriate. In no circumstances can the retention period
+exceed the maximum set out in this procedure for each entry.
+Secure storage and destruction of the information
+63. Further to the arrangements discussed elsewhere in this Information Sharing
+Procedure, and those specified in the Data Processing Agreement at Annex 3, the
+user guide developed to cover use of the shared RLAC will detail specific access
+controls, process or other security measure that will be implemented to protect the
+information held on the RLAC and the integrity of those systems in accordance with
+the guidance issued by the Information Commissioner’s Office.
+
+64. From April 2022 data will not be transferred outside the United Kingdom at any
+point and the RLAC will reside on servers based in the UK.
+65. Access to the non-public RLAC will be restricted by IP address. Only IP address
+from participating partners (the GLA, London Fire Brigade and London boroughs)
+will be given access.
+66. All data will be encrypted in transit. In the instance where a spreadsheet is used
+for transfer, only a CSV file will be used.
+67. The RLAC will be penetration tested annually by the GLA, and results will be
+shared with London Borough of Camden.
+68. All passwords for the RLAC will comply with NCSC latest guidelines.
+69. All user access and actions on the RLAC will be logged for auditing purposes.
+Notification and rectification of errors in the information
+70. Information shared by London Borough of Camden is subject to procedures and
+validations to ensure data quality at the point it is originally input/entered into its own
+systems.
+71. On becoming aware of incorrect data, London Borough of Camden will correct their
+record on the RLAC as soon as possible and no later than five working days after
+becoming aware of that error.
+72. The GLA, as the receiving authority and data processor, will not amend any
+personal data provided by London Borough of Camden without explicit instruction
+from London Borough of Camden, as the data controller.
+73. Annex 1 to this procedure details the representations process whereby a landlord
+or agent can request rectification of any inaccuracies.
+Freedom of Information Act 2000 (FoIA)
+74. The GLA and London Borough of Camden are both public authorities for the
+purposes of the FoIA. This means that any information held by either the GLA or
+London Borough of Camden, is accessible by the public on written request, subject
+to certain limited exemptions.
+75. The GLA and London Borough of Camden shall demonstrate a commitment to
+openness and transparency regarding information sharing arrangements in
+accordance with this Procedure and the Overarching Information Sharing Protocol
+between both parties, subject to any limitations posed by security or confidentiality
+requirements.
+76. In the event that an information access request is received relating to information
+covered by this procedure, both parties agree to notify one another within five
+working days following receipt of the request and to consult with the other in line
+with the Code of Practice as implemented by section 45 of FoIA.
+
+77. For the purposes of information held on the shared RLAC, information is only
+considered to be “held for the purposes of FoIA” by the party which was responsible
+for the original record being entered on to the shared RLAC – read-only access to
+information entered on to the RLAC by another public authority does not constitute
+“information held” for the purposes of FoIA.
+78. Any non-public personal data considered in response to a Freedom of Information
+Act request should be anonymised and withheld as appropriate under section 40(2)
+of that Act.
+Subject Access Requests (SAR)
+79. Article 15 of UK GDPR provides the right to an individual to request access to
+personal data of which they are the subject. This also includes the right to be told
+the purposes for which their data is being processed and with whom their data is
+being shared.
+80. London Borough of Camden is the controller of all the personal data covered by this
+Procedure and is responsible for handling and considering any Subject Access
+Request made in relation to any personal data for which they are the controller.
+81. If the GLA receives a Subject Access Request that relates solely to the personal
+data held on the RLAC, the GLA will notify the London Borough of Camden (as the
+controller of that personal data) within five working days of receiving such a request,
+and promptly notify the data subject making the request that they should re-submit
+their SAR to London Borough of Camden.
+82. On receipt of any SAR, London Borough of Camden will notify the GLA within five
+working days if the request covers any data or information processed by the GLA
+on behalf of London Borough of Camden which cannot otherwise be accessed via
+the RLAC.
+83. The GLA must provide London Borough of Camden with any information or data
+which is subject to a SAR that is processed on behalf of London Borough of Camden
+as soon as possible and no later than ten working days following receipt of an
+instruction from the London Borough of Camden.
+84. The GLA will remain a controller in its own right for other information and personal
+data processed outside of this agreement and the Data Processing Agreement at
+Annex 3. This agreement will not affect the ability of the GLA to process its own
+personal data for its own purposes in line with the GLA’s obligations and legal
+requirements.
+85. The obligation for the GLA (as a processor) to provide London Borough of Camden
+(as a controller) with personal data processed on their behalf under the terms of this
+agreement does not extend to include any other personal data that might be held
+by the GLA for its own purposes outside of this agreement in a situation where the
+GLA also holds different personal data on the same data subject for a different
+purpose.
+OTHER CONDITIONS
+
+86. This Procedure does not require adherence to any other conditions. London
+Borough of Camden and the GLA agree to inform the other party should any new
+applicable conditions arise.
+LOSS OR UNAUTHORISED DISCLOSURES OF INFORMATION
+87. Examples of loss or unauthorised disclosure may include:
+• Accidental loss or damage to Information
+• Damage or loss of information by means of malicious software/hacking
+• Deliberate or knowing disclosure of Information to a person not entitled to
+receive it.
+88. The designated points of contact are responsible for notifying the other party in the
+event of loss or unauthorised disclosures of data within 24 hours of the event.
+89. The designated points of contact will also be responsible for notifying other relevant
+internal departments. In the case of London Borough of Camden, this will be the Data
+Protection Officer at DPO@camden.gov.uk and the GLA it will be the GLA Data
+Protection Officer.
+REVIEW
+90. This Information Sharing Procedure will be reviewed as and when changes to
+information sharing activities arise, or where revised legislation or national guidance
+necessitates a review or every two years as necessary.
+91. Both the GLA and London Borough of Camden reserve the right to review the
+Procedure at any time in order to respond to any serious incidents related to the
+data transfer in this project.
+VARIATION
+92. This procedure shall only be varied or amended with the written agreement of both
+parties.
+TERMINATION OF THIS INFORMATION SHARING PROCEDURE
+93. This Procedure may be terminated in the following situations:
+a) Immediately in the event of a serious breach of the terms of the Overarching
+Information Sharing Protocol or of this Procedure; or
+b) By one month’s notice by either party.
+94. Upon termination of the agreement, all records will be destroyed from the RLAC by
+the GLA and the landlord or agents concerned will be notified. Upon termination,
+London Borough of Camden’s access to the RLAC will be revoked. The GLA
+remains the owner of the RLAC but has no claim over the data belonging to the
+former participating partner.
+
+SIGNATORIES
+This Procedure is signed on behalf of:
+Greater London Authority
+Signature:
+Print name: Natalie Daniels
+Position: Assistant Director – Housing and Land
+Date: 26/01/22
+London Borough of Camden
+Signature: ________________________________
+Print name: ________________________________
+Position: ________________________________
+Date: ________________________________
+
+Annex 1: Landlord and agent representations process
+1. Overview
+1.1. As set out above, London boroughs and the London Fire Brigade will submit
+information to the RLAC on landlords and letting agents. The GLA will offer
+landlords and letting agents whose details have been submitted the opportunity to
+make representations prior to them being displayed. It is envisioned this process
+will work as follows.
+2. Data ‘holding area’
+2.1. London boroughs and the fire brigade will upload records onto the RLAC within
+ten days of the enforcement outcome. This record will then sit in a ‘holding area’
+on the RLAC – the ‘holding area’ is a non-public section of the Checker which
+allows the record to remain unpublished whilst the GLA prints and distributes a
+letter to the landlord/agent notifying them of their inclusion on the RLAC. While in
+the holding area, the record will only be available to view by the GLA and the
+partner which has uploaded it.
+3. Representations
+3.1. Representations from landlords or letting agents will be received in response to
+the notification letter preceding publication or once the entry has already been
+published. Landlords and letting agents could make post-publication
+representations multiple times if their circumstances change and the following
+applies to representations on both unpublished and published entries.
+Representations made after publication will remain on the RLAC while a decision
+is being reached.
+3.2. All representation information, notes and documents will be visible to the GLA and
+the uploading participating partner only. The public and other participating
+partners will not be able to see any of this information.
+3.3. Within two working days of the entry being added, notification letters will be sent to
+landlords and letting agents giving them 14 days to make representations prior to
+publication. Landlords or lettings agents who believe their data should not be
+displayed will need to include full supporting evidence. For instance, if a landlord
+claims a conviction has been overturned, they must provide evidence that this is
+the case. During this 14-day period the entry will remain in the holding area and
+not be displayed.
+3.4. Representations from the landlord or letting agents will generally be received by
+the GLA via email. The GLA will act as an intermediary and pass on such
+representations to the relevant controller (London borough or London Fire
+Brigade) for consideration and decision via the RLAC.
+4. Decisions
+4.1. From receipt of the representation, the controller has ten working days to
+investigate the representation. The controller will remain responsible for the
+decision to remove records from the checker, amend the record or proceed to
+
+publication. Once the controller has reached a decision, they will log this decision
+against the entry on the RLAC. The GLA will receive notification of this decision.
+The GLA will then send out a letter notifying the landlord or agent of the decision
+reached. Following distribution of this letter, the landlord or agent has a further 14
+days within which to take further action.
+4.2. The record will only go on to be displayed on the public RLAC:
+• once 14 days have elapsed following the letter of notification and no
+representation has been received, or
+• once a representation has been received, a decision has been reached by
+the controller to reject the representation and proceed to publication, and
+14 days have elapsed following the GLA notifying the data subject of the
+outcome of their representation.
+4.3. Decisions regarding representations are to be made solely by the controller.
+Decisions must meet one of the following exceptional criteria:
+• Naming on the RLAC carries a risk of personal harm to an individual or
+their family
+• There are national security risks associated with naming an individual
+• There are other factors which suggest that it would not be in the public
+interest to name an individual.
+
+Annex 2 – List of offences
+ID Act Year Chapter
+LANDLORD OFFENCES
+1 Housing Act 2004 34
+2 Housing Act 2004 34
+3 Housing Act 2004 34
+4 Housing Act 2004 34
+5 Housing Act 2004 34
+6 Housing Act 2004 34
+7 Housing Act 2004 34
+8 Housing Act 2004 34
+9 Housing Act 2004 34
+10 Housing Act 2004 34
+11 Housing Act 2004 34
+12 Housing Act 2004 34
+13 Housing Act 2004 34
+Prevention of Damage by Pests
+14 Act 1949 55
+15 Protection from Eviction Act 1977 43
+16 Protection from Eviction Act 1977 43
+17 Protection from Eviction Act 1977 43
+18 Fraud Act 2006 35
+19 Fraud Act 2006 35
+20 Fraud Act 2006 35
+21 Environmental Protection Act 1990 43
+Local Government (Miscellaneous
+22 Provisions) Act 1976 57
+LETTING AGENT OFFENCES
+23 Fraud Act 2006 35
+24 Fraud Act 2006 35
+25 Fraud Act 2006 35
+26 Fraud Act 2006 35
+
+Section Number Section Title From Act
+30 Offence of failing to comply with improvement notice
+32 Offence of failing to comply with prohibition order etc.
+72 Offences in relation to licensing of HMOs
+72 Offences in relation to licensing of HMOs
+72 Offences in relation to licensing of HMOs
+95 Offences in relation to licensing of houses under this Part
+95 Offences in relation to licensing of houses under this Part
+139 Service of overcrowding notices
+234 Management regulations in respect of HMOs
+236 Enforcement of powers to obtain information
+238 Information Provisions
+238 Information Provisions
+249A Financial penalties for certain housing offences in England
+5 Power of local authority to require action
+1 Unlawful eviction and harassment of the occupier
+2 Restriction on without due process of law
+3 Prohibition of eviction without due process of law
+2 Fraud by false representation
+3 Fraud by failing to disclose information
+4 Fraud by abuse of position
+80 Summary proceedings for statutory nuisances
+16 Power of local authorities to obtain particulars of persons intereste
+2 Fraud by false representation
+3 Fraud by failing to disclose information
+4 Fraud by abuse of position
+9 Participating in fraudulent business carried on by sole trader
+
+Consumer Protection from Unfair
+27 Trading Regulations 2008
+Consumer Protection from Unfair
+28 Trading Regulations 2008
+Consumer Protection from Unfair
+29 Trading Regulations 2008
+Consumer Protection from Unfair
+30 Trading Regulations 2008
+Consumer Protection from Unfair
+31 Trading Regulations 2008
+Consumer Protection from Unfair
+32 Trading Regulations 2008
+Consumer Protection from Unfair
+33 Trading Regulations 2008
+Consumer Protection from Unfair
+34 Trading Regulations 2008
+Consumer Protection from Unfair
+35 Trading Regulations 2008
+Consumer Protection from Unfair
+36 Trading Regulations 2008
+Consumer Protection from Unfair
+37 Trading Regulations 2008
+Consumer Protection from Unfair
+38 Trading Regulations 2008
+Consumer Protection from Unfair
+39 Trading Regulations 2008
+Business Protection from
+40 Marketing Regulations 2008
+Business Protection from
+41 Marketing Regulations 2008
+The Redress Schemes for Letting
+Agency Work and Property
+42 Management Work Order 2014 2014
+The Redress Schemes for Letting
+Agency Work and Property
+43 Management Work Order 2015 2014
+44 Consumer Rights Act 2015 15
+
+3 Prohibition of unfair commercial practices
+5 Misleading actions
+6 Misleading omissions
+7 Aggressive practices
+Schedule 1 (1) Claiming to be a signatory to a code of conduct when the trader is
+Schedule 1 (2) Displaying a trust mark, quality mark or equivalent without having
+Making an invitation to purchase products at a specified price with
+Schedule 1 (5) supply, those products or equivalent products at that price for a pe
+Making an invitation to purchase products at a specified price and
+Schedule 1 (6) sample of it, with the intention of promoting a different product (bai
+Falsely stating that a product will only be available for a very limite
+Schedule 1 (7) opportunity or time to make an informed choice.
+Schedule 1 (9) Stating or otherwise creating the impression that a product can leg
+Passing on materially inaccurate information on market conditions
+Schedule 1(18) conditions.
+Schedule 1 (25) Conducting personal visits to the consumer’s home ignoring the c
+Schedule 1 (26) Making persistent and unwanted solicitations by telephone, fax, e-
+3 Prohibition of advertising which misleads traders
+4 Comparative advertising
+3 Requirement to belong to a redress scheme: letting agency work
+5 Requirement to belong to a redress scheme: property manageme
+83 Duty to publicise fees etc
+
+45 Consumer Rights Act 2015 15
+46 Consumer Rights Act 2015 15
+47 Consumer Rights Act 2015 15
+48 Companies Act 2006 46
+49 Companies Act 2006 46
+The Energy Performance of
+50 Buildings Regulations 2012
+The Energy Performance of
+51 Buildings Regulations 2013
+The Energy Performance of
+52 Buildings Regulations 2014
+53 Consumer Protection Act 1987
+Furniture and Furnishings (Fire)
+54 (Safety) Regulations 1988
+
+83 Duty to publicise fees etc
+83 Duty to publicise fees etc
+83 Duty to publicise fees etc
+993 Offence of fraudulent trading
+1205 Criminal consequences of failure to make required disclosure
+6 Energy performance certificates on sale and rent
+7 Energy performance certificates on marketing
+11 Statement of energy performance indicator
+15 Prohibition on supply
+
+Annex 3:
+UK General Data Protection Regulation
+(UK GDPR)
+Data Controller and Data Processing Agreement
+Issued in accordance with Articles 28 and 29
+BETWEEN
+The Customer
+London Borough of Camden
+(the Controller)
+AND
+The Provider
+The ‘GREATER LONDON AUTHORITY’
+(the Processor)
+In Support of the
+‘London Rogue Landlord and Agent Checker’
+INFORMATION SHARING PROCEDURE
+(‘the Procedure”)
+
+This Contract is made on
+1. Background Information
+1.1. London Borough of Camden and GLA have entered into a contract, which
+includes processing personal data for the purposes specified in the Information
+Sharing Procedure (“the Procedure”) of this document and for the purposes
+specified in Schedule 1 of this document.
+1.2. Because the processes involved in the London Rogue Landlord and Agent Checker
+(RLAC) involves identifiable personal data, this data is subject to the provision of
+the UK General Data Protection Regulation (UK GDPR). Under UK GDPR, the GLA
+will be a processor, instructed to process personal data on behalf of London
+Borough of Camden. As the controller for this personal data, London Borough of
+Camden is legally responsible for the processing of this data under UK GDPR.
+1.3. Articles 5(1)(f) and 28(1) (amongst other things) of UK GDPR require a controller,
+when using the services of another organisation to process personal data on their
+behalf (a processor), to: -
+a) choose a processor who can provide sufficient guarantees about their data
+security measures to protect the personal data they will be processing as part
+of the contract;
+b) take reasonable steps to make sure those security measures are in place and
+sustained; and
+c) document what the processor is allowed to do with the personal data in a
+written contract. The contract must include:
+i) what they can and what they cannot do with the personal data; and
+ii) what security measures must be in place to protect the data (they must be
+equivalent to the level of security imposed on the controller by UK GDPR
+and the 2018 Act); and
+iii) what procedures must be followed if there is a security breach (incident);
+and
+iv) any other arrangements i.e. sub-contracting, termination of contract etc.
+that needs to be included to secure and control the data.
+1.4. This agreement neither overrides nor replaces clauses in the Procedure, but instead
+is supplementary to it. This agreement is issued in accordance with Article 28 of
+UK GDPR which requires London Borough of Camden as the controller to set out
+the terms and conditions for the provision of the services provided by the GLA as
+the processor.
+1.5. There is a requirement upon the processor to only process data as instructed by the
+controller. London Borough of Camden as the controller remains legally
+responsible for the personal data even when it is processed by the GLA as the
+processor. London Borough of Camden must take steps to ensure the personal
+
+data remains protected, the liabilities and risks are appropriately managed, data is
+processed lawfully and the contract is legally enforceable.
+2. Data Controller Responsibilities
+2.1. London Borough of Camden is the controller of the personal data covered by this
+agreement and the Procedure and is responsible for ensuring it processed fairly and
+lawfully and in accordance with the principles of UK GDPR [and the 2018 Act].
+2.2. Under UK GDPR, it is the legal duty of the controller to ensure the data protection
+principles are met in relation to all personal data for which she/he is a controller
+(unless an exemption applies).
+2.3. The controller remains legally responsible for the data processing carried out by the
+contracted processor.
+2.4. The controller shall not instruct the processor to process personal data on his behalf
+under this contract where the controller himself does not have a secure legal basis
+under UK GDPR to process that data.
+2.5. The six principles relating to processing of personal data are set out in Article 5(1)
+of UK GDPR. Article 5(1)(f) provides that personal data shall be:
+Processed in a manner that ensures appropriate security of the personal data,
+including protection against unauthorised or unlawful processing and against
+accidental loss, destruction or damage, using appropriate technical or
+organisational measures,
+2.6. Article 28 of UK GPDR sets out the obligations of the controller in respect of
+engaging a processor to process data on their behalf, while Article 32 stipulates
+requirements to maintain the security of processed data. These are summarised in
+section 4 of this agreement.
+2.7. London Borough of Camden, as the controller, is entitled during the term of this
+agreement, to require the GLA, as the processor, to provide reasonable assurance
+that the technical and organisational security measures adequately protect the
+personal data it is contracted to process. This includes the controller’s entitlement
+to audit the processor’s premises, systems, procedures, documents and staff as
+may be desirable or necessary to ensure compliance with this contract, the service
+contract and/or with the law.
+3. Data Processor Responsibilities
+3.1. The GLA is the processor and shall at all times process personal data only as
+instructed to do so by London Borough of Camden as the controller and in
+accordance with the principles as set out in Article 5(1) of UK GDPR and as defined
+in the Procedure.
+3.2. The GLA, as the processor, shall have in place appropriate technical and
+organisational security measures that protect the personal data it is contracted to
+process on behalf of the controller from unauthorised or unlawful processing,
+accidental loss, destruction, damage or unauthorised access or tampering.
+
+3.3. The GLA shall provide reasonable assurances and guarantees to the controller
+(as required) that those technical and organisational security measures in place
+are both appropriate and effective in protecting the processing of personal data.
+3.4. The GLA agrees to maintain good information governance standards and
+practices, by meeting or exceeding the Information Governance Toolkit
+requirements relevant for their service.
+3.5. The processor shall not share the personal data with any third party without the
+prior written permission of the controller or process personal data in any way or for
+any purpose that has not been instructed and authorised by the controller.
+3.6. The GLA shall not sub-contract a third party to process the controller’s personal
+data without the prior knowledge and written agreement of the controller, and only
+then having provided all the necessary assurance and guarantees of their
+adequate organisational and technical security measures.
+3.7. The processor shall not transfer or permit the transfer of the personal data on to
+any territory outside the European Union, and only outside of the UK with the
+agreement of the controller.
+4. Data Security Requirements
+4.1. The processor shall:
+a) Have regard to the state of technological development and to the cost of
+implementing any measures, provide a level of security (including appropriate
+technical and organisational measures) appropriate to the harm that might
+result from unauthorised or unlawful processing of personal data or the
+
+accidental loss, damage or destruction of personal data and the nature of that
+personal data
+b) Ensure that access to the personal data is limited to those employees who
+need access to meet the processors obligations under this contract
+c) Take reasonable steps to ensure the reliability of their personnel who have
+access to the personal data, which shall include ensuring that all staff engaged
+by the Provider understand the confidential nature of the personal data; and
+i) have received appropriate training in data protection prior to their use of
+the data, and
+ii) have signed a written undertaking that they understand and will act in
+accordance with their responsibilities for confidentiality under contract.
+4.2. The processor shall ensure: -
+a) That it has properly configured access rights for its staff, including a well-
+defined starters and leavers process to ensure appropriate access control
+b) That suitable and effective authentication processes are established and used
+to protect personal data
+c) That the personal data is backed up on a regular basis and that any back up
+data is subject to vigorous security measures as necessary to protect the
+availability, integrity and confidentiality of the data
+d) That robust and tested business continuity measures are in place to protect
+the confidentiality, integrity and availability of the Customer’s personal data.
+e) Data transferred electronically is encrypted in accordance with national
+standards
+f) Employees are not able to access the data remotely e.g. from home or via their
+own electronic device or internet portal other than through a secure electronic
+
+network and in accordance with organisational remote working policy. No data
+shall be stored in such devices.
+g) Data that requires disposal is disposed of securely and confidentially in
+accordance with the secure destruction requirements specified in section 8.
+5. Serious information breach incident, incident reporting and duty of
+candour.
+5.1. The processor shall have procedures in place to monitor access and to identify
+unauthorised and/or unlawful access and use of personal data.
+5.2. The processor shall immediately report any information security incident related to
+the personal data subject to this contract to the controller and undertakes to also
+fully cooperate with the controller’s incident investigation requirements.
+5.3. In so far as the controller is responsible for the personal data, it is the controller’s
+responsibility to ensure that the incident is reported in accordance with the London
+Borough of Camden’s policies and procedures and for informing the relevant data
+subjects as appropriate.
+6. Process for agreeing variations
+6.1. Any variation to the terms of this contract shall be agreed in writing by the parties
+and in accordance with the contract management conditions set out in the main
+agreement.
+7. Dispute resolution process
+7.1. Both parties shall aim to resolve all disputes, differences and questions by means
+of co-operation and consultation.
+8. Secure Destruction
+8.1. The processor shall ensure that personal data held in paper form (regardless of
+whether originally provided by the controller or printed from the processor’s IT
+systems) is destroyed using a cross cut shredder or subcontracted to a confidential
+waste company that complies with European Standard EN15713.
+8.2. The processor shall ensure that electronic storage media used to hold or process
+London Borough of Camden’s personal is destroyed or overwritten to current
+NCSC standards as defined at www.ncsc.gov.uk/guidance
+8.3. In the event of any bad or unusable sectors that cannot be overwritten, the
+processor shall ensure complete and irretrievable destruction of the media itself.
+8.4. The processor shall provide the controller with copies of all relevant overwriting
+verification reports and/or certificates of secure destruction of personal data at the
+conclusion of the contract.
+
+9. Exit from contract
+9.1. The Customer may terminate this agreement with immediate effect by written notice
+to the processor on or at any time after the occurrence of an event that gives rise to
+an information security incident or otherwise poses a risk of non-compliance with
+the data protection principles.
+9.2. In order to protect the personal data, The GLA agrees:
+a) To store and process personal data securely and destroy it confidentially when
+it is no longer necessary and instructed by the controller.
+b) To return to the controller any personal data held at the end of the contract,
+ensuring secure transfer, or to makes arrangements for its secure disposal
+upon the instruction of the controller.
+9.3. The GLA will not own, have a right of access to, or be able to in any way use or
+process any of London Borough of Camden’s personal data after the termination
+of this agreement without explicit authorisation from the controller.
+10. Liability and Indemnity
+10.1. Without affecting its liability for breach of any of its obligations under the service
+contract, the processor shall indemnify the controller in full for costs, losses,
+charges or expenses it suffers arising out of the processor’s loss of the personal
+data or unauthorised or unlawful use of it whether arising in negligence or is
+otherwise a breach of this Agreement and including legal costs, any fine imposed
+on the controller by the Information Commissioner resulting from an investigation
+under Article 58 or any other penalty imposed by supervisory authorities and data
+subjects.
+
+Data Processing Contract between the controller and the processor
+On behalf of the Controller:
+The Customer ......................................................................................................................
+Signed
+Name Shaun Flook
+Position Head of Housing Needs Group
+Date 24 March 2022
+(Print name & position of authorised signatory)
+On behalf of the Processor:
+The Provider ......................................................................................................................
+Signed ............................................................................................................
+Name ............................................................................................................
+Position ............................................................................................................
+Date ..........................................
+(Print name & position of authorised signatory)
+
+Schedule 1
+Definitions
+See also Articles 4 and 9 of the UK General Data Protection Regulation.
+Personal data
+‘any information relating to an identified or identifiable natural person (‘data
+subject’); an identifiable natural person is one who can be identified, directly or
+indirectly, in particular by reference to an identifier such as a name, an identification
+number, location data, an online identifier or to one or more factors specific to the
+physical, physiological, genetic, mental, economic, cultural or social identity of that
+natural person;
+Special category personal data
+Personal data revealing:
+- racial or ethnic origin,
+- political opinions,
+- religious or philosophical beliefs,
+- trade union membership,
+- the processing of genetic data,
+- biometric data
+- matters of health
+- a natural person's sex life or sexual orientation
+Data Subject
+An individual who is the subject of personal data. In other words, the data subject is the
+individual whom particular personal data is about.
+Controller
+The natural or legal person, public authority, agency or other body which, alone or jointly
+with others, determines the purposes and means of the processing of personal data; where
+the purposes and means of such processing are determined by Union or Member State
+law, the controller or the specific criteria for its nomination may be provided for by Union
+or Member State law
+See [section 6 of the Data Protection Act 2018].
+Processor
+A natural or legal person, public authority, agency or other body which processes personal
+data on behalf of the controller.
+
+Processing
+Any operation or set of operations which is performed on personal data or on sets of
+personal data, whether or not by automated means, such as collection, recording,
+organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use,
+disclosure by transmission, dissemination or otherwise making available, alignment or
+combination, restriction, erasure or destruction.

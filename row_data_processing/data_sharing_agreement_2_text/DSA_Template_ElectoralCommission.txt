@@ -1,0 +1,833 @@
+DATA SHARING AGREEMENT
+between
+The Electoral Registration Officer for Ayrshire
+and
+The Electoral Registration Officer for the City of Glasgow
+and
+The Electoral Registration Officer for Clackmannanshire, Falkirk and Stirling
+and
+The Electoral Registration Officer for Dunbartonshire and Argyll and Bute
+and
+The Electoral Registration Officer for Dundee
+and
+The Electoral Registration Officer for Dumfries and Galloway
+and
+The Electoral Registration Officer for Fife
+and
+The Electoral Registration Officer for Grampian
+and
+The Electoral Registration Officer for Highland and Western Isles
+and
+The Electoral Registration Officer for Lanarkshire
+and
+The Electoral Registration Officer for Lothian
+and
+The Electoral Registration Officer for Orkney and Shetland
+and
+The Electoral Registration Officer for Renfrewshire
+and
+The Electoral Registration Officer for Scottish Borders
+and
+The Electoral Registration Officer for Tayside
+For sharing of data between the parties in relation to the electoral registration
+of 14 to 17 year olds
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+DATA SHARING AGREEMENT
+between
+The Electoral Registration Officer for Ayrshire established under the Representation of the
+People Act 1983 (hereinafter referred to as “Ayrshire ERO”)
+and
+The Electoral Registration Officer for the City of Glasgow established under the
+Representation of the People Act 1983 (hereinafter referred to as “Glasgow ERO”)
+and
+The Electoral Registration Officer for Clackmannanshire, Falkirk and Stirling established
+under the Representation of the People Act 1983 (hereinafter referred to as
+“Clackmannanshire, Falkirk and Stirling ERO”)
+and
+The Electoral Registration Officer for Dunbartonshire and Argyll and Bute established under
+the Representation of the People Act 1983 (hereinafter referred to as “Dunbartonshire,
+Argyll and Bute ERO”)
+and
+The Electoral Registration Officer for Dundee established under the Representation of the
+People Act 1983 (hereinafter referred to as “Dundee ERO”)
+and
+The Electoral Registration Officer for Dumfries and Galloway established under the
+Representation of the People Act 1983 (hereinafter referred to as “Dumfries and Galloway
+ERO”)
+and
+The Electoral Registration Officer for Fife established under the Representation of the
+People Act 1983 (hereinafter referred to as “Fife ERO”)
+and
+The Electoral Registration Officer for Grampian established under the Representation of the
+People Act 1983 (hereinafter referred to as “Grampian ERO”)
+and
+The Electoral Registration Officer for Highland and Western Isles established under the
+Representation of the People Act 1983 (hereinafter referred to as “Highland and Western
+Isles ERO”)
+and
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+The Electoral Registration Officer for Lanarkshire established under the Representation of
+the People Act 1983 (hereinafter referred to as “Lanarkshire ERO”)
+and
+The Electoral Registration Officer for Lothian established under the Representation of the
+People Act 1983 (hereinafter referred to as “Lothian ERO”)
+and
+The Electoral Registration Officer for Orkney and Shetland established under the
+Representation of the People Act 1983 (hereinafter referred to as “Orkney and Shetland
+ERO”)
+and
+The Electoral Registration Officer for Renfrewshire established under the Representation of
+the People Act 1983 (hereinafter referred to as “Renfrewshire ERO”)
+and
+The Electoral Registration Officer for Scottish Borders established under the Representation
+of the People Act 1983 (hereinafter referred to as “Scottish Borders ERO”)
+and
+The Electoral Registration Officer for Tayside established under the Representation of the
+People Act 1983 (hereinafter referred to as “Tayside ERO”)
+THIS AGREEMENT has been signed up to by the Parties named and defined above
+because:
+(a) The Parties to this Agreement propose to exchange information with each other in
+order to place 14 and 15 year olds on the voting register so that they are able to vote
+in Scottish Parliament and local government elections in Scotland once they attain
+the age of 16;
+(b) The Parties to this Agreement also propose to exchange information with each other
+in order to identify and invite to register 16 and 17 year olds who may be able to
+register to vote in Scottish Parliament and local government elections in Scotland
+and may be eligible to vote in UK Parliamentary and European Parliamentary
+Elections once they attain the age of 18;
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+(c) The information to be exchanged includes Personal Data as defined by the Data
+Protection Act 1998;
+(d) In order to comply with the Information Sharing Code of Practice issued by the
+Information Commissioner under section 52 of the Data Protection Act 1998, it is
+necessary for the Parties to enter into a data sharing agreement addressing the
+areas covered by the Code of Practice; and
+(e) This Agreement is intended to satisfy the requirements of the Code of Practice;
+NOW THEREFORE IT IS AGREED AS FOLLOWS:
+1. DEFINITIONS
+1.1 In construing this Agreement (as defined below) the following expressions shall have
+the meaning set out opposite:
+“Agreement” means this data sharing agreement, including the Schedules;
+“Act” means applicable data protection laws including the Data Protection Act 1998,
+and when it comes into force, the General Data Protection Regulation;
+“Data”, “Personal Data”, “Sensitive Personal Data”, “Data Controller”, “Data
+Processor” and “Processing” shall have the meanings ascribed to them by the Act
+(and “Process” shall be construed accordingly);
+“FOISA” means The Freedom of Information (Scotland) Act 2002;
+“Information Commissioner” means the UK Information Commissioner and any
+successor;
+“Parties” means Ayrshire ERO and Clackmannanshire, Falkirk and Stirling ERO and
+Dunbartonshire and Argyll and Bute ERO and Dundee ERO and Dumfries and
+Galloway ERO and Fife ERO and Glasgow ERO and Grampian ERO and Highland
+and Western Isles ERO and Lanarkshire ERO and Lothian ERO and Orkney and
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+Shetland ERO and Renfrewshire ERO and Scottish Borders ERO and Tayside ERO
+and “Party” shall mean any of them as the context requires;
+“Preamble” means the text after the listing of the Parties and before Section 1;
+“Schedules” means the schedules attached to this Agreement and “Schedule” means
+any one of them or a particular numbered Schedule;
+“Section” means the group of clauses sharing a heading and the initial clause
+number;
+“Third Party” means anyone other than a Party;
+“Young Elector” means a person aged 14 or 15 years old who may be entitled to vote
+in Scottish Parliament and local government elections in Scotland once they reach
+the age of 16 and a person aged 16 to 17 years old who may be entitled to vote in
+Scottish Parliament and local government elections in Scotland and may be entitled
+to vote in UK Parliamentary and European Parliamentary Elections once they reach
+the age of 18;
+“Young Elector Personal Data” means the Personal Data relating to a Young Elector,
+consisting of that type of Personal Data detailed in Schedule 2.
+1.2 Except where the context requires otherwise, words importing the singular shall
+include the plural and words importing male gender shall include the female (and vice
+versa).
+1.3 A reference to a “Clause” is to a clause of this Agreement, and reference to a
+“Paragraph” is to the paragraph of the relevant Schedule.
+1.4 Any reference to an Act of Parliament shall be deemed to include any amendment,
+replacement, re-enactment thereof for the time being in force and shall include any
+bye-laws, statutory instruments, rules, regulations, orders, notices, codes of practice,
+directions, consents or permissions and guidelines (together with any conditions
+attached to the foregoing) made thereunder.
+1.5 Any reference to a “sub-contractor” of a Party will be deemed to include any agent,
+consultant, or contractor of that Party.
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+1.6 Any use of the word “including” will not be limited by the words that follow and the
+eiusdem generis rule of construction does not apply and, accordingly, the meaning of
+general words is not restricted by any particular examples preceding or following
+those general words.
+1.7 The headings of Clauses do not affect their interpretation.
+1.8 In the event of any conflict or inconsistency between the terms of the Agreement
+(excluding the Schedules) and the terms of the Schedules, then the terms of the
+Agreement (excluding the Schedules) shall prevail.
+2. GENERAL PRINCIPLES
+2.1 This Agreement is legally binding between the Parties. It states the rules under
+which the Parties have agreed to share Personal Data with each other, in accordance
+with the provisions of the Data Protection Act 1998, the aforementioned Information
+Sharing Code of Practice, and the provisions of the Human Rights Act 1998 which
+relate to personal privacy.
+2.2 This Agreement explains how and when it is permissible to share Personal Data,
+either with or without the consent of the individual. This document is intended to
+provide a high level statement of principles on data sharing and associated issues,
+and to provide general guidance to staff on sharing information or disclosing it to
+another Party. This document is also intended to be made available to Young
+Electors whose information may be exchanged, in order to be as open and
+transparent with those individuals as possible regarding what may happen with their
+personal information.
+2.3 The procedures (and this Agreement) are designed to ensure that data sharing
+between the Parties complies with all applicable law and professional guidance,
+including the requirements of the Data Protection Act 1998.
+3. PURPOSE OF AND LEGAL BASIS FOR DATA SHARING
+3.1 The Parties are exchanging Personal Data to allow Young Electors to register to vote
+as set out in Schedule 2.
+3.2 Save as provided for in this Agreement, the Parties agree not to use any Personal
+Data exchanged in terms of this Agreement for any purpose other than as set out in
+Clause 3.1.
+3.3 Each Party shall safeguard and Personal Data disclosed to them by the other Parties
+and treat it in a manner consistent with the Parties duties under the Act.
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+3.4 The Data to be shared in terms of this Agreement is being shared further to statutory
+duties and powers contained in the following:
+3.4.1 Regulation 35 of the Representation of the People (Scotland) Regulations
+2001 which authorises an electoral registration officer to inspect records
+held by the council which appoints them.
+3.4.2 Regulation 23 of the Representation of the People (Scotland) Regulations
+2001 which authorises an electoral registration officer to require any person
+to provide information required for the purposes of their duty to maintain the
+register.
+3.4.3 Under Section 9A of the Representation of the People Act 1983, EROs have
+a duty to take necessary steps in order to maintain a complete and accurate
+register.
+3.5 Personal Data will be shared without consent where the processing is necessary to
+carry out functions under an enactment, the relevant enactments being set out in
+Clause 3.4.
+3.6 In line with legislation and the Information Commissioner’s advice, the Parties agree
+that it is not appropriate to ask for someone’s consent in circumstances where the
+relevant professional staff acting in good faith have taken the view that the
+information will be released whether that consent has been given or not.
+4. SCOPE OF DATA SHARING
+4.1 The aim of this Agreement is to facilitate the sharing of information between the
+Parties. However the Parties recognise that it may be necessary to include additional
+parties to the information sharing process or to exclude some of the Parties from
+certain information which may be shared between other Parties.
+4.2 If the Parties identify a recurring need for information exchanged under this
+Agreement to be exchanged with a third party, the Parties shall use their best
+endeavours to seek the agreement of that third party to become an additional party to
+this Agreement. Addition of any new parties shall require the unanimous agreement
+of all the Parties.
+4.3 Contact details for key personnel are as provided in Schedule 1. The Parties shall
+promptly notify each other of any changes to the individuals in Schedule 1 or of their
+contact details.
+4.4 A Party may be removed from this Agreement in the circumstances set out in Clause
+9.3.
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+5. DATA TO BE SHARED
+5.1 The Data (including Personal Data) to be shared in terms of this Agreement is as set
+out in Schedule 2.
+6. ACCESS AND INDIVIDUAL RIGHTS
+6.1 Each Party shall assist the other Party within a reasonable timescale and as
+necessary with all subject access requests and other requests made by a data
+subject (made pursuant to the Act) which may be received by any Party from a
+Young Elector.
+6.2 Notwithstanding any other provision in this Agreement, the Parties acknowledge that
+the existence of this Agreement may be subject to requests made pursuant to FOISA
+and, subject to any applicable exemptions as determined by the receiving Party of
+the FOISA request, the content of this Agreement may be disclosed pursuant to
+FOISA. Before disclosing any information relating to this Agreement in response to a
+request for information made pursuant to FOISA, the Party in receipt of the FOISA
+request shall, as soon as reasonably practicable after receiving such request, notify
+the other Parties of such request. The other Parties may make representations as to
+whether, and on what basis, the information requested is covered by an exemption
+under FOISA and thus should not be disclosed. The Party in receipt of the FOISA
+request shall consider reasonably any representations made to it by the other Parties
+before reaching a decision whether to disclose the information requested. However,
+in all cases, it is for the Party in receipt of the FOISA request alone to determine
+whether or not to disclose the information. Further, the Party in receipt of the FOISA
+request shall not be obliged to notify the other Parties where it has already decided
+that it does not intend to disclose the information because FOISA does not apply to
+the request or an exemption under FOISA can be applied. If the Party in receipt of
+the FOISA request makes a decision to disclose the information it shall notify the
+other Parties of this decision in advance of the disclosure being made.
+7. INFORMATION GOVERNANCE
+7.1 Shared information only has value if it is accurate and up-to-date. The Parties shall
+put in place procedures to check the quality and accuracy of the Data which they
+hold, and particular emphasis is placed on checking the accuracy and quality of
+information to be shared externally.
+7.2 Information exchange can only work properly in practice if it is provided in a format
+which the Party receiving it can utilise. The Parties will therefore use the most secure,
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+efficient and cost-effective means of exchange, using common and agreed formats,
+having regard to the state of technological development and the cost of implementing
+any measures.
+7.3 Each Party undertakes to notify the other Parties as soon as practicable if an error is
+discovered in information which has been provided to the other Parties, to ensure
+that the Parties are then able to correct their respective records. This will happen
+whether the error is discovered through existing Data quality initiatives or is flagged
+up through some other route (such as the existence of errors being directly notified to
+one or other Parties by the Young Elector themselves).
+7.4 The Parties shall take all reasonable and appropriate technical and organisational
+measures, having regard to the state of technological development and the cost of
+implementing any measures, against unauthorised or unlawful processing of
+Personal Data and against accidental loss, destruction of, or damage to Personal
+Data. In particular:
+(1) The Parties will implement, maintain and monitor Data security policies and
+measures as specified in more detail in Schedule 3 of this Data Sharing
+Agreement subsuming the following elements:
+a. An overarching information security policy
+b. Relevant organisational structures having governance of information
+security matters
+c. Physical security
+d. Encryption and password protection of Data and devices
+e. Protection against malicious software, viruses and other forms of cyber
+attack
+f. Access controls
+g. Restrictions on the transfer of Personal Data outwith the European
+Economic Area
+h. Training of staff
+i. Disposal of assets
+j. Document control and protective marking
+k. Incident reporting
+(2) The Parties shall have a retention schedule specifying the length of time that
+Personal Data shall be retained by them and whether the Data is to be archived
+or destroyed at the end of that retention period. Retention periods will be based
+upon statutory duties in respect of those Young Electors and Personal Data for
+which a specific statutory duty exists and for others retention will be based upon
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+defined business need. Retention periods for Personal Data where no clear
+statutory duty exists do not require to be agreed by the Parties and may differ
+between the Parties based upon differing business need. Clear retention
+policies must however be in place and enforced by each Party and must be
+made available to the other Parties on request.
+(3) The Parties shall implement measures for the secure transfer of Personal Data
+in electronic form, as specified in Schedule 4 of this Agreement.
+7.5 The Parties undertake to notify the other as soon as practicable if they identify either
+(a) a systematic problem in the storage, transmission or security of Data held by any
+Party that is likely to impact upon the Data sharing activity or (b) any significant loss
+or unauthorised access to Data shared between the Parties.
+7.6 The Parties must have in place business continuity or service recovery plans in
+respect of business risks that may impede or disrupt either the provision of the
+services, the sharing of Data between Parties to support the provision of the services
+or the access to Data required in support of that function.
+7.7 Where one Party breaches the terms of this Agreement, that Party shall indemnify
+the Party or Parties who have sustained or incurred any financial loss as a result of
+any legal proceedings brought against that Party due to such breach.
+8. DATA PROCESSOR PROVISIONS
+8.1 The Parties acknowledge that they are each Data Controllers in respect of the
+Personal Data that they hold.
+8.2 The parties acknowledge that they may process Personal Data on behalf of one
+another in connection with this Agreement. To the extent that any of the Parties are
+data processors for one another they shall:
+8.2.1 process the Personal Data only on the instructions of the Data Controller
+and to perform its obligations as data processor in connection with the
+Agreement;
+8.2.2 provide appropriate technical and organisational measures against
+unauthorised or unlawful processing, accidental loss or destruction of or
+damage to the Data;
+8.2.3 not to process Data outside of the United Kingdom without the prior written
+consent of the Data Controller putting in place adequate protection for the
+Data;
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+8.2.4 take all reasonable steps to ensure the reliability of any of its staff who have
+access to Data processed in connection with this Agreement;
+8.2.5 provide such information as is reasonably necessary to enable the Data
+Controller to satisfy itself of the Data Processor’s compliance with this
+Clause 8.2 and allow the Data Controller, its employees or authorised
+agents or advisers upon reasonable prior written notice to the Data
+Processor, reasonable access to any relevant premises, during normal
+business hours, to inspect the procedures and measures referred to in this
+Clause 8.2 provided that the inspecting Party agrees to carry out such
+inspection with minimum disruption to the Data Processor’s day to day
+business;
+8.2.6 provide reasonable assistance to the Data Controller in complying with any
+subject access request or other exercise of a data subject’s rights and/or
+responding to any enquiry made, or investigation or assessment of
+processing initiated by the Information Commissioner in respect of the Data
+as soon as is possible but in any event within 5 business days of receipt of
+the request or any other period as agreed in writing with the Data Controller
+from time to time.
+8.2.7 assist the Data Controller in complying with its obligations relating to data
+security, data breach notification, data protection impact assessments and
+related prior consultation procedures taking into account the nature of
+processing and the information available to the Data Processor;
+8.2.8 save only to the extent permitted under the Act, on termination of this
+agreement, howsoever arising, return to the Data Controller or destroy, at
+the request of the Data Controller, all Personal Data in the possession or
+control of the Data Processor and, at the request of the Data Controller,
+provide written confirmation that this has been done; and
+8.2.9 immediately inform the Data if, in the Data Processor’s opinion, a
+documented instruction from the Data Controller infringes the Act.
+8.3 The Data Processor may authorise a third party (subcontractor) to process personal
+data provided that the subcontractor’s contract incorporates terms which are
+substantially the same as those set out in this Clause 8.
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+8.4 For the avoidance of doubt, the Parties acknowledge that unless a particular
+exchange of information is explicitly made as being on the basis of Data Controller to
+Data Processor, the information exchanged under this Agreement is made on a Data
+Controller to Data Controller basis.
+9. DURATION AND REVIEW/AMENDMENT
+9.1 This Agreement shall come into force immediately on being executed by all the
+Parties.
+9.2 This Agreement will be reviewed one year after it comes into force and every two
+years thereafter.
+9.3 In addition to these scheduled reviews, the Parties will also review this Agreement
+and the operational arrangements which give effect to it, if any of the following events
+takes place:
+9.3.1 One (or more) of the Parties is found to have breached the terms of this
+Agreement in any significant way, including any data security breach or data
+loss in respect of Personal Data which is subject to this Agreement;
+9.3.2 Any Party indicates that it intends to withdraw from this Agreement; or
+9.3.3 The Information Commissioner or any of his or her authorised staff
+recommends that this Agreement be reviewed.
+Any such unscheduled review may be either in respect of the entire Agreement, or
+only in respect of the elements of the Agreement directly relating to the event which
+triggered the review, as the majority of Parties agree is appropriate.
+9.4 Any amendments to this Agreement will only be effective when contained within a
+formal amendment document which is formally executed by all Parties.
+9.5 For the avoidance of doubt the Parties shall continue to comply with the provisions of
+the Act in respect of Personal Data shared under this Agreement after the expiry or
+termination of this Agreement.
+10. DISPUTE RESOLUTION
+10.1 The Parties hereby agree to act in good faith at all times to attempt to resolve any
+dispute or difference relating to the subject matter of, and arising under, this
+Agreement.
+10.2 If the officers dealing with a dispute or difference are unable to resolve this
+themselves within 20 working days of the issue arising, the matter shall be escalated
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+to the ERO, or acting ERO, representing the Party and the Parties will endeavour in
+good faith to resolve the issue.
+10.3 In the event that the Parties are unable to resolve the dispute amicably within a
+period of 20 business days from date on which the dispute or difference was
+escalated in terms of Clause 10.2, the matter may be referred to a mutually agreed
+mediator. If the identity of the mediator cannot be agreed, a mediator shall be
+chosen by the Dean of the Royal Faculty of Procurators in Glasgow.
+10.4 If mediation fails to resolve the dispute or if the chosen mediator indicates that the
+dispute is unsuitable for mediation, and the Parties remain unable to resolve any
+dispute or difference in accordance with Clauses 10.1 to 10.3, then any Party may,
+by notice in writing to the other Parties, refer the dispute for determination by the
+courts in accordance with Clause 12.
+10.5 The provisions of Clauses 10.1 to 10.4 do not prevent any Party from applying for an
+interim court order whilst the Parties attempt to resolve a dispute.
+11. NOTICES
+11.1 Except as otherwise expressly provided within this Agreement, no notice or other
+communication from one Party to another shall have any validity under this
+Agreement unless made in writing by or on behalf of the Party concerned and sent to
+each Party to this Agreement.
+11.2 Any notice or other communication which is to be given by any Party to the other
+Parties shall be given by letter (sent by hand, post or by recorded or special delivery
+service), or by electronic mail. Provided the relevant communication is not returned
+as undelivered, the notice or communication shall be deemed to have been delivered
+two (2) Working Days after the date on which the letter was posted, or four (4) hours
+after electronic mail or sooner where the other Parties all acknowledge receipt of
+such letter or item of electronic mail. For the purposes of calculating the date of
+service of a notice under this Clause 11 no account shall be taken of periods of time
+either: i) outwith 0900-1700 in any day; or ii) on any Saturday, Sunday or (iii) any day
+which is a public holiday in Scotland.
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+12. GOVERNING LAW
+12.1 This Agreement shall be governed by Scots law and (subject to Clause 10) the
+Parties submit to the exclusive jurisdiction of the Scottish courts in relation to any
+dispute arising hereunder. IN WITNESS WHEREOF this Agreement consisting of this
+and the previous thirteen pages together with the Schedules is executed as follows:
+SIGNED on behalf of The Electoral Registration Officer for Ayrshire by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+SIGNED on behalf of The Electoral Registration Officer for Clackmannanshire, Falkirk and
+Stirling by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+SIGNED on behalf of The Electoral Registration Officer for the City of Glasgow by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+SIGNED on behalf of The Electoral Registration Officer for Dunbartonshire and Argyll and Bute
+by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+SIGNED on behalf of The Electoral Registration Officer for Dundee by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+SIGNED on behalf of The Electoral Registration Officer for Dumfries and Galloway by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+SIGNED on behalf of The Electoral Registration Officer for Fife by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+SIGNED on behalf of The Electoral Registration Officer for Grampian by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+SIGNED on behalf of The Electoral Registration Officer for Highland and Western Isles by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+SIGNED on behalf of The Electoral Registration Officer for Lanarkshire by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+SIGNED on behalf of The Electoral Registration Officer for Lothian by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+SIGNED on behalf of The Electoral Registration Officer for Orkney and Shetland by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+SIGNED on behalf of The Electoral Registration Officer for Renfrewshire by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+SIGNED on behalf of The Electoral Registration Officer for Scottish Borders by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+SIGNED on behalf of The Electoral Registration Officer for Tayside by
+…………………………………. ………………………………….
+[Signed] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Place]
+In the presence of:
+…………………………………. ………………………………….
+[Witness] [Position]
+…………………………………. ………………………………….
+[Full Name] [Date]
+………………………………….
+[Address]
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+Schedule 1: Key personnel and contact details
+For Ayrshire ERO:
+Helen McPhee, Assessor and Electoral Registration Officer,
+AVJB, 9 Wellington Square, Ayr, KA7 1HL
+Email: helen.mcphee@ayrshire-vjb.gov.uk
+Phone: 01292 612540
+For Clackmannanshire, Falkirk and Stirling ERO:
+Peter Wildman, Assessor & Electoral Registration Officer
+Hillside House, Laurelhill, Stirling, FK7 9JQ
+Email: peter.wildman@centralscotland-vjb.gov.uk
+Phone: 01786 892200
+For Dunbartonshire and Argyll and Bute ERO:
+June Nelson-Hamilton, Principal Admin Officer,
+DABVJB, 235 Dumbarton Road, CLYDEBANK G81 4XJ
+Email: june.nelson@wdc.gcsx.gov.uk
+Phone: 0141 562 1262
+For Dundee ERO:
+Lisa Archibald, Senior Electoral Services & Licensing Officer
+Dundee City Council,
+21 City Square, Dundee DD1 3BY
+Email: lisa.archibald@dundeecity.gov.uk
+Phone: 01382 434403
+For Dumfries and Galloway ERO:
+James W Doig, Assessor and Electoral Registration Officer,
+Dumfries and Galloway Council
+Carmont House, The Crichton, Bankend Road, Dumfries, DG1 4ZJ
+Email: jim.doig@dumgal.gov.uk
+Phone: 01387 260627
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+For Fife ERO:
+Linda Bissett, Electoral Registration Officer
+Democratic Services, 3rd Floor Main, Fife House, North Street, Glenrothes, KY7 5LT
+Email: linda.bissett@fife.gov.uk
+Phone: 03451 555555 (Extension 442301)
+For Glasgow ERO:
+Hugh Munro, The City Assessor and Electoral Registration Officer,
+Glasgow City Council, PO Box, 15311, Glasgow, G1 3WZ.
+Email: hugh.munro@fs.glasgow.gov.uk
+Phone: 0141 287 7515
+For Grampian ERO:
+Ian Milton, Assessor & Electoral Registration Officer
+Woodhill House, Westburn Road, Aberdeen, AB16 5GE
+Email: imilton@grampian-vjb.gov.uk
+Phone: 01224 664360
+For Highland and Western Isles ERO:
+William Gillies, Assessor & Electoral Registration Officer
+Moray House, 16/18 Bank Street, Inverness, IV1 1QY
+Email: bill.gillies@highland.gov.uk
+Phone: 01463 703340
+For Lanarkshire ERO:
+Gary Bennett Assessor and ERO
+Lanarkshire Valuation Joint Board
+North Stand, Cadzow Avenue, Hamilton ML3 0LU
+Email: gary.bennett@lanarkshire-vjb.gov.uk
+Phone: 01698 476078 Fax: 01698 476076
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+For Lothian ERO:
+Graeme Strachan, Acting Assessor and Electoral Registration Officer
+17A South Gyle Crescent, Edinburgh, EH12 9FL
+Email: Graeme.strachan@lothian-vjb.gov.uk
+Phone: 0131 344 2509
+For Orkney and Shetland ERO:
+Dennis M Stevenson, Assessor and Electoral Registration Officer,
+8 Broad Street, Kirkwall, Orkney KW15 1NX
+Email: dennis.stevenson@orkney.gov.uk
+Phone: 01856 876 222
+For Renfrewshire ERO:
+Kate Crawford, Assessor and Electoral Registration Officer,
+RVJB, The Robertson Centre,
+6 Glasgow Road, Paisley PA1 3QF
+Email: Kate.Crawford@renfrewshire-vjb.gov.uk
+Phone: 0141 618 5903
+For Scottish Borders ERO:
+Brian Rout, Assessor & Electoral Registration Officer
+Old School Building, Council Headquarters, Newtown St Boswells, MELROSE, TD6 0SA
+Email: brout@scotborders.gov.uk
+Phone: 01835 825211
+For Tayside ERO:
+Alastair Kirkwood, Assessor and Electoral Registration Officer
+Whitehall House, 35 Yeaman Shore, Dundee, DD1 4BU
+Email: Alastair.kirkwood@tayside-vjb.gov.uk
+Phone: 01382 315601
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+Schedule 2: Data to be shared
+The Scottish Elections (Reduction of Voting Age) Act 2015 (“the 2015 Act”) reduces the
+voting age to 16 for elections for membership of the Scottish Parliament and local
+government elections in Scotland.
+The 2015 Act permits Young Electors, aged 14 and 15 years old, to apply to the electoral
+register before they attain the age of 16. The 2015 Act also provides that registration officers
+may satisfy themselves of the Young Electors identity and entitlement to be registered on the
+basis of the applicant’s educational records.
+In addition, under section 9A of the Representation of the People Act 1983 EROs have a
+duty to take necessary steps in order to maintain a complete and accurate register of voters.
+To verify the applications of Young Electors aged 14 and 15 and to identify any potential
+Young Electors, aged 14 to 17 who have not registered and invite them to register, the
+Parties will request the following data from educational establishments:
+ Full name of Young Elector;
+ Full residential address of Young Elector;
+ Nationality of Young Elector; and
+ Date of birth of Young Elector.
+Where an ERO receives information from educational records that a Young Elector is
+resident out with their own electoral area and is resident in the electoral area of another ERO
+who is a Party to this Agreement, the ERO will pass this Data to that Party.
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+Schedule 3: Information Security Policy
+1. The Parties will implement:
+– an organisational information security policy aligned to ISO 27001;
+– procedures to protect organisational assets, including information, hardware
+and software;
+– procedures to identify whether or not any asset has been lost or
+compromised;
+– controls to ensure the return or destruction of information and assets at the
+end of, or at an agreed point within, the contractual relationship;
+– procedures to ensure integrity and availability of information;
+– restrictions on copying or disclosing information.
+2. Legal responsibilities.
+Data Protection Act 1998 and, once it comes into force, the General Data Protection
+Regulation.
+No Personal Data shall be transferred outside the UK.
+3. Monitoring of Activity
+All Parties may monitor user activity and revoke user rights on its systems.
+4. Physical Security
+Each Party shall ensure that they have adequate mechanisms in place to deal with
+physical security.
+5. Training
+The services will be provided by appropriately trained, qualified and experienced
+staff.
+6. Disposal of Assets
+Where information supplied by a Party no longer requires to be retained, any
+devices containing Personal Data should be physically destroyed or the information
+should be destroyed, deleted or overwritten using techniques to make the original
+information non-retrievable rather than using the standard delete or format function.
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+7. Malicious software and viruses
+The Parties must ensure that:
+– PCs used in supporting the service are supplied with anti-virus software and
+anti-virus and security updates are promptly applied.
+– All files received by one Party from another are scanned to ensure that no
+viruses are passed.
+– The Parties must notify all of the Parties of any virus infections that could
+affect their systems on Data transfer.
+8. Reporting security incidents
+A formal process will be put in place prior to execution by all of the Parties, to ensure that
+all security incidents are promptly reported to the other Parties. The Parties will ensure
+that all staff are made aware of this process.
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds
+
+Schedule 4: Data Transfer Rules
+The following is a list of recommended procedures to ensure the safe transfer of information:
+ The Data files will be transferred by Government Connect Secure Extranet (GCSX)
+containing a password protected excel spreadsheet.
+ When any secure data transfer is completed the password to the file must be
+disclosed via a different channel. For example, if the file is sent to a mailbox the
+password cannot be sent to the same mailbox. The recipient should call the ERO
+office for the password which makes the transfer more secure.
+ If data is sent incorrectly from one ERO to another then the recipient ERO should
+advise the issuing ERO accordingly and delete the Data. They should NOT forward
+it on. The issuing ERO is responsible for reissuing the Data to the correct ERO.
+Data Sharing Agreement: For sharing of data between the parties in relation to the electoral registration of 14-17 year olds

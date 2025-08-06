@@ -1,0 +1,225 @@
+DATED October 2021
+DATA SHARING AGREEMENT
+The Ramblers Association
+and
+Age UK Nottingham & Nottinghamshire (Age UK Notts), a company registered in the United
+Kingdom under number 3455485, whose registered office is at The Sybil Levin Centre, 577a
+Nuthall Road, Nottingham, NG8 6AD.
+10 Queen Street Place, London
+EC4R 1BE
+bateswells.co.uk
+
+CONTENTS
+1. Interpretation ............................................................................................................................ 1
+2. Purpose and Responsibilities ................................................................................................. 2
+3. Lawful Basis ............................................................................................................................. 2
+4. Confidentiality and Security ................................................................................................... 2
+5. Method of Sharing .................................................................................................................... 3
+6. Duration and Termination of Agreement ............................................................................... 3
+7. Individuals’ Rights ................................................................................................................... 3
+8. Information Commissioner’s Office ....................................................................................... 3
+9. Data Security Breach ............................................................................................................... 4
+10. Review ....................................................................................................................................... 4
+11. Amendment .............................................................................................................................. 4
+12. Entire Agreement ..................................................................................................................... 4
+13. Governing Law and Jurisdiction ............................................................................................ 4
+14. Counterparts and Signature ................................................................................................... 4
+Schedule 1 – Data shared between the parties .................................................................................. 6
+i
+
+This Agreement is dated 14th September 2021.
+Parties
+(1) The Ramblers’ Association, a charity registered with the Charity Commission (registration
+number 1093577) and with the Scottish Charity Regulator (registration number SC039799)
+with registered office 1 Clink Street, 3rd Floor, London SE1 9DG (“Ramblers”); and
+(2) Age UK Nottingham & Nottinghamshire (Age UK Notts), a company registered in the United
+Kingdom under number 3455485, whose registered office is at The Sybil Levin Centre, 577a
+Nuthall Road, Nottingham, NG8 6AD. (the “Local Partner”);
+(each a “Party”; collectively the “Parties”).
+Background
+(A) Wellbeing Walks is an England wide network of wellbeing and health walks helping people
+across the country lead a more active lifestyle (“Schemes”). The Ramblers run the Schemes
+centrally through a dedicated short walks team providing advice, support and an infrastructure
+which includes a central data base.
+(B) The Local Partner works with the Ramblers to promote and administer the Wellbeing Walks
+programme. As part of this work, the Local Partner and Ramblers are each required to
+process personal data about participating walkers (“Walkers”).
+(C) The Local Partner and the Ramblers have previously signed another agreement (the “Partner
+Agreement”), setting out the general obligations and rights between the Parties relating to
+the Wellbeing Walks.
+(D) The Parties agree to share Data (as defined below) with each other on the terms set out in
+this Agreement.
+Agreed Terms
+1. Interpretation
+The following definitions and rules of interpretation apply in this Agreement.
+1.1 Definitions:
+“Data“ means the Personal Data about Walkers set out in Schedule 1 of
+this Agreement and shared between the Parties under this
+Agreement;
+“Data Protection Law”: means the UK GDPR, the Data Protection Act 2018 and/or any
+other applicable law or regulation relating to the processing of
+Personal Data and/or governing individuals’ rights to privacy.
+“Data Receiver”: means the party in receipt of a disclosure of Data from the other
+Party.
+1
+
+“EU GDPR”: means the EU General Data Protection Regulation (EU) 2016/679;
+“UK GDPR”: means the implementation of the EU GDPR into UK law.
+1.2 “Controller”, “Processor”, “Data Subject” and “Personal Data”, “Personal Data Breach”,
+“Special Categories of Personal Data” and “Processing” shall have the meanings given to
+them in the Data Protection Law.
+2. Purpose and Responsibilities
+2.1 The purpose of this Agreement is to allow the Parties to share Data with each other in
+connection with the Schemes.
+2.2 Schedule 1 of this Agreement sets out the description of the Data to be shared and the
+purposes for the sharing of Data between the Parties. The parties shall not process Data in a
+way that is incompatible with the purposes described in Schedule 1.
+2.3 Each party is an individual Controller and will be responsible for the lawful Processing of the
+Data, informing Data Subjects about the use of their Personal Data, the security of Personal
+Data, ensuring Data Subjects can exercise their rights (as well as answering any requests
+from a Data Subject exercising such rights) and for complying with their obligations as
+individual Controllers under the Data Protection Law (including complying with rules
+concerning international data transfers).
+2.4 Both Parties shall take reasonable steps to ensure that the Data is accurate and up to date.
+2.5 Neither Party shall knowingly take any action or omit to take any action that could result in
+the other Party contravening its obligations under Data Protection Law.
+3. Lawful Basis
+Both Parties shall only share Data in reliance on a lawful basis under Data Protection Law.
+Schedule 1 contains further details on the lawful basis.
+4. Confidentiality and Security
+4.1 The Parties will treat the Data as confidential and will ensure that it discloses such Data to
+other parties where required for the purposes set out in Schedule 1, where required by law
+and where necessary to protect its own or another party’s interests.
+4.2 The Parties undertake to have in place throughout the term of the Agreement appropriate
+technical and organisational security measures to:
+4.2.1 prevent:
+(a) unauthorised or unlawful Processing of the Data; and
+(b) the accidental loss or destruction of, or damage to, the Data
+4.2.2 ensure a level of security appropriate to:
+(a) the harm that might result from such unauthorised or unlawful Processing or
+accidental loss, destruction or damage; and
+2
+
+(b) the nature of the Data to be protected.
+4.3 It is the responsibility of each Party to ensure that its staff members are appropriately trained
+to handle and process the Data in compliance with Data Protection Law.
+5. Method of Sharing
+5.1 The Data shall be transferred by both Parties through a secure portal. The Local Partner shall
+ensure that the secure portal is accessible by authorised personnel of the Local Partner.
+5.2 For the avoidance of doubt, the parties do not intend to share any Special Categories of Data
+between them. Any Special Categories of Personal Data shall be effectively anonymised and
+aggregated before any sharing of such data takes place. .
+5.3 The Parties shall, where necessary and in good faith, consult and agree on a format for
+sharing the Data to ensure compatibility and interoperability of systems.
+6. Duration and Termination of Agreement
+6.1 This Agreement shall become effective on the date it has been signed by the Parties and
+shall continue in full force and effect until terminated by either party. The Agreement may be
+terminated without cause by either Party on no less than thirty (30) day’s prior written notice
+to the other Party.
+6.2 This Agreement will automatically terminate if the Partner Agreement between the Local
+Partner and the Ramblers expires or terminates.
+6.3 In the event of termination of this Agreement for any reason, the Parties will cease sharing
+Data and promptly in good faith discuss a process for retaining and/ or, where appropriate,
+securely deleting Data or amending the access rights which the Parties have to the Data.
+7. Individuals’ Rights
+7.1 Both Parties are responsible for responding to the requests and complaints of Data Subjects
+relating to their Data (including the right of access, right to object, right of erasure and right to
+rectify). In the event that one party (the ‘first party’) receives a request from a Data Subject
+concerning Data (an “Individual Request”), where the Data includes Personal Data it has
+received as a Receiving Party, then;
+7.2 The first party shall, within two working days, notify the other party and the Parties shall
+consult together in good faith on the response to the Individual Request; and
+7.3 The first party shall be responsible for responding to that Individual Request.
+8. Information Commissioner’s Office
+8.1 In the event that the Information Commissioner’s office (“ICO”) contacts either Party with
+reference to the Data and/ or the Schemes, the Party that has been contacted by the ICO
+shall notify the other Party promptly, and in any case no later than within one working day,
+and the Parties shall work together in good faith to respond to any questions or concerns
+raised by the ICO.
+3
+
+9. Data Security Breach
+9.1 In the event that a Party becomes aware of a Personal Data Breach affecting the Data, that
+Party shall notify the other Party promptly, and in any case no later than within 72 hours of
+becoming aware, and the Parties shall work together in good faith to ensure that the
+obligations under the Data Protection Law are complied with relating to notifying Data
+Subjects and the ICO if applicable.
+In the event of a personal data breach each party will provide to the other party information relating to
+such breach and in particular:
+1. the nature of the Personal Data Breach;
+2. the nature of personal data affected;
+3. the categories and number of data subjects concerned;
+4. the name and contact details of the party's Data Protection Officer or relevant contact from whom
+more information may be obtained;
+5. measures taken or proposed to be taken to address the Personal Data Breach including any
+training, system changes which will need to be implemented to prevent a re-occurrence; and
+6. describe the likely consequences of the Personal Data Breach
+Indemnity
+Each party shall indemnify the other against liabilities, reasonable costs, expenses, damages and
+losses suffered or incurred by the indemnified party arising out of or in connection with the breach of
+UK Data Protection Legislation by the indemnify party, its employees or agents, provided that the
+indemnified party gives the indemnifier prompt notice of such claim, information about the
+circumstances giving rise to it, reasonable assistance in dealing with the claim and sole authority to
+manage, defend and/or settle it.
+10. Review
+10.1 Not more than once every twelve (12) months, a Party may request that the other Party
+consult with it to review this Agreement to ensure ongoing compliance with Data Protection
+Law or any necessary amendments to reflect how Data is shared.
+11. Amendment
+11.1 This Agreement may only be modified or amended in writing and signed by authorised
+signatories of both Parties.
+12. Entire Agreement
+12.1 This Agreement constitutes the entire agreement between the Parties on this subject-matter
+(i.e. the sharing of Data) and supersedes all previous agreements, assurances, warranties,
+representation and understandings between the Parties related to this subject-matter
+(including any such provisions in any previous data sharing agreement concerning the Data
+or the Partner Agreement).
+13. Governing Law and Jurisdiction
+This Agreement shall be governed by and construed in accordance with the laws of England
+and Wales.
+14. Counterparts and Signature
+4
+
+This Agreement may be executed in counterparts, each of which will be deemed an original
+but all of which together will constitute the same instrument. Subject to applicable law, both
+Parties agree that this document and its signature can be established in electronic form by
+facsimile or a scanned copy sent via email, or by digital signature where authentication and
+audit trail can be established and that, in electronic form, they shall be deemed originals.
+Signed for and on behalf of:
+The Ramblers Association
+___________________________
+Name:
+Title:
+Age UK Nottingham & Nottinghamshire
+21/10/2021
+______________________
+Name: Michelle Elliott
+Title: Joint Chief Executive
+5
+
+Schedule 1 – Data shared between the parties
+Category of Data Purposes of t
+Individual names and contact information (email, telephone, Administer W
+home address) management,
+compliance.
+Sharing mark
+Party, who wi
+SMS, post
+individuals (w
+about Ramble
+Partner)
+OPTIONAL DATA PROVIDED BY INDIVIDUAL: [For the purp
+[Aggregated and anonymised health, religion, ethnicity, monitoring in
+sexuality data]
+
+e Sharing Lawful Basis of the Sharing with the
+other Party
+llbeing Walks, including general Legitimate interest (or in the case of a
+uty of care and health and safety public authority – public interest)
+ting permissions with the other Consent
+h to provide personalised email,
+nd phone communications to
+o have consented to hear more
+s work and/ or from the Local
+ses of diversity and inclusion [Equality of opportunity or treatment (Data
+ellbeing Walks] Protection Act Part 2, paragraph 8)]
