@@ -1,0 +1,165 @@
+gpt5:
+
+{
+  "text": "The parties agree to provide reasonable assistance as is necessary to each other to facilitate the handling of any Personal Data Breach in an expeditious and compliant manner.",
+  "label": [
+    "O",
+    "B-PARTY_ASSIGNEE", "I-PARTY_ASSIGNEE",
+    "B-ACTION", "O", "O", "O", "O",
+    "B-CONSTRAINT", "O", "O", "O", "O", "O", "O",
+    "B-ACTION", "O", "O", "O",
+    "B-ASSET", "I-ASSET", "I-ASSET",
+    "O", "O", "O", "O", "O"
+  ]
+}
+
+GPT5 min:
+
+{"text": "The parties agree to provide reasonable assistance as is necessary to each
+other to facilitate the handling of any Personal Data Breach in an expeditious and
+compliant manner.",
+
+"label":
+
+["O",
+"B-PARTY_ASSIGNEE",
+"B-ACTION",
+"O",
+"B-ACTION",
+"O",
+"B-ACTION", "O", "O", "O", "O", "O", "O", "O",
+"B-ACTION", "O",
+"B-ACTION", "O", "O",
+"B-ASSET", "I-ASSET",
+"I-ASSET", "O", "O", "O", "O", "O", "O", "O"]}
+
+o3
+["O",
+"B-PARTY_ASSIGNEE",
+"B-ACTION",
+"O",
+"B-ACTION",
+"O",
+"B-ACTION", "O", "O", "O", "O", "O", "O", "O",
+"B-ACTION", "O",
+"B-ACTION", "O", "O",
+"B-ASSET", "I-ASSET",
+"I-ASSET", "O", "O", "O", "O", "O"    , "O", "O"]}
+
+
+o4-min:
+
+["O",
+"B-PARTY_ASSIGNEE",
+"B-ACTION",
+"O",
+"B-ACTION",
+"O",
+"B-ACTION", "O", "O", "O", "O", "O", "O", "O",
+"B-ACTION", "O",
+"B-ACTION", "O", "O",
+"B-ASSET", "I-ASSET",
+"I-ASSET", "O", "O", "O", "O", "O", "O", "O"]}
+
+deep think:
+{
+  "text": "The parties agree to provide reasonable
+  assistance as is necessary to each other
+   to facilitate the handling of an    y Personal Data Breach in an expeditious and compliant manner.",
+  "label": [
+    "O",
+    "B-PARTY_ASSIGNEE",
+    "B-ACTION",
+    "O",
+    "B-ACTION",
+    "O",
+    "O",
+    "B-CONSTRAINT",
+    "I-CONSTRAINT",
+    "I-CONSTRAINT",
+    "I-CONSTRAINT",
+    "I-CONSTRAINT",
+    "I-CONSTRAINT",
+    "O",
+    "B-ACTION",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "B-ASSET",
+    "I-ASSET",
+    "I-ASSET",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O"
+  ]
+}
+
+
+
+gpt o4-mini:
+ {"text": "The parties agree to provide reasonable assistance as is necessary to each other to
+ facilitate the handling of any Personal Data Breach in an expeditious and compliant manner.",
+  "label":
+  ["O",
+  "B-PARTY_ASSIGNEE",
+  "B-ACTION",
+  "O",
+  "B-ACTION",
+  "O",
+  "B-ACTION", "O", "O", "O", "O", "O", "O", "O",
+  "B-ACTION", "O",
+  "B-ACTION", "O", "O",
+  "B-ASSET", "I-ASSET",
+  "I-ASSET", "O", "O", "O", "O", "O", "O", "O"]}
+
+
+gpt4o:
+
+●physical description ●criminal information on allegations and convictions,
+police information and intelligence, anti-social behaviour ASB data
+●information as to whether a victim is a repeat victim ●school
+and educational information ●housing information
+●social services information, referrals and assessments,
+which may include physical and mental health needs where relevant,
+●financial information ●images video footage in photographs, film or CCTV
+●employment information ●next of kin and carer contact details
+●any known risk The data will cover the categories of
+ASB identified by the police:",
+"label": ["O", "O", "O",
+"B-ASSET", "O", "O", "O",
+"O", "O", "O", "B-ASSET",
+ "O", "O", "O", "O", "O",
+ "O", "O", "O", "B-ASSET",
+ "B-ASSET", "O", "O", "O",
+ "O", "O", "O", "O", "O",
+ "O", "O", "O", "O", "B-ASSET",
+ "O", "B-ASSET", "O", "O",
+ "B-ASSET", "O", "O", "O",
+ "O", "O", "O", "O", "O", "O", "O", "O", "O", "O",
+ "O", "O", "O", "O", "B-ASSET", "O", "O",
+ "O", "O", "O", "O", "O", "O", "O", "O", "B-ASSET",
+ "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O",
+  "B-ASSET", "B-RULE_TYPE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+
+o4-mini:
+ "label": ["O", "O", "O",
+  "B-ASSET", "O", "O", "O",
+  "O", "O", "O", "B-ASSET",
+  "O", "O", "O", "O", "O",
+  "O", "O", "O", "B-ASSET",
+  "B-ASSET", "O", "O", "O", "O",
+   "O", "O", "O", "O", "O", "O", "O",
+   "O", "B-ASSET", "O", "B-ASSET", "O",
+    "O", "B-ASSET", "O", "O", "O", "O",
+    "O", "O", "O", "O", "O", "O", "O", "O",
+     "O", "O", "O", "O", "O", "B-ASSET", "O",
+     "O", "O", "O", "O", "O", "O", "O", "O", "O",
+      "B-ASSET", "O", "O", "O", "O", "O", "O", "O",
+      "O", "O", "O", "O", "B-ASSET", "B-RULE_TYPE",
+       "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
