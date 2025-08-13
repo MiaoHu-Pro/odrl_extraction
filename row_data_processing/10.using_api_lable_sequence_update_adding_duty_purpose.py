@@ -180,7 +180,7 @@ def seed_actions(tokens: List[str], labels: List[str]):
     phrases = ["granted access", "be returned", "be released", "be utilized", "be used"]
     singles = {"release","disclose","share","publish","present","remain","return",
                "comply","utilize","utilized","facilitate","agree","handle","handling",
-               "provide","assist","assistance"}
+               "provide","assist","assistance", "download"}
     for p in phrases:
         for s,l in find_phrase_spans(tokens, p):
             safe_label_span(labels, s, l, "ACTION")
@@ -194,6 +194,7 @@ def seed_assets(tokens: List[str], labels: List[str]):
         "names of individuals", "individual addresses",
         "personal data breach", "personal data",
         "information", "maps", "addresses", "data",
+        "confidential report"
     ]
     for p in phrases:
         for s,l in find_phrase_spans(tokens, p):
@@ -202,7 +203,7 @@ def seed_assets(tokens: List[str], labels: List[str]):
 def seed_parties(tokens: List[str], labels: List[str]):
     lt = [t.lower() for t in tokens]
     assignee_phr = ["data recipient","third party","third parties","both parties","parties","tpp"]
-    assigner_phr = ["data provider","ridoh"]
+    assigner_phr = ["data provider","data owner","ridoh"]
     for p in assignee_phr:
         for s,l in find_phrase_spans(tokens, p):
             safe_label_span(labels, s, l, "PARTY_ASSIGNEE")
@@ -222,7 +223,7 @@ def seed_parties(tokens: List[str], labels: List[str]):
 
 def seed_constraints(tokens: List[str], labels: List[str]):
     lt = [t.lower() for t in tokens]
-    starters = {"without","except","solely","pursuant","under","upon","before","as"}
+    starters = {"without","except","solely","pursuant","under","upon","before","as", "up to"}
     i = 0
     while i < len(tokens):
         if lt[i] in starters:

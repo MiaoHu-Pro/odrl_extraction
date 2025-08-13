@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>ODRL NER Labeling</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    :root{
+      --bg:#0f1220; --panel:#161a2b; --ink:#e6e8f0; --muted:#9aa3b2; --accent:#6ea8fe;
+      --chip:#20253d; --chipBorder:#2a3150; --o:#414a67;
+      --ASSET:#ffd166; --ACTION:#3ddc97; --RULE_TYPE:#6ea8fe; --CONSTRAINT:#ff7b7b;
+      --DUTY:#c77dff; --PURPOSE:#57cc99; --P_ASSIGNEE:#f79d65; --P_ASSIGNER:#ff5d8f;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial}
+    .wrap{max-width:1100px;margin:32px auto;padding:0 16px}
+    h1{font-size:22px;margin:0 0 18px}
+    .card{background:var(--panel);border:1px solid #232848;border-radius:14px;padding:16px 16px 20px}
+    .row{display:flex;gap:12px;flex-wrap:wrap}
+    .field{flex:1 1 600px}
+    textarea{width:100%;min-height:110px;color:var(--ink);background:#0e1230;border:1px solid #253056;border-radius:12px;padding:12px 14px;outline:none}
+    textarea::placeholder{color:var(--muted)}
+    .actions{display:flex;align-items:center;gap:10px;margin-top:10px}
+    button{background:var(--accent);color:#0a0e1a;border:0;border-radius:10px;padding:10px 14px;font-weight:600;cursor:pointer}
+    button:hover{filter:brightness(1.05)}
+    .help{color:var(--muted);font-size:13px}
+
+    .legend{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+    .tag{display:inline-flex;align-items:center;gap:6px;border-radius:24px;border:1px solid var(--chipBorder);background:var(--chip);color:var(--ink);padding:4px 10px;font-size:12px}
+    .sw{display:inline-block;width:12px;height:12px;border-radius:50%}
+    .warn{margin-top:10px;color:#ffb3b3}
+
+    .section-title{margin:18px 0 8px;font-weight:700;color:#cdd5ee}
+    .orig-box{background:#0e1230;border:1px solid #253056;border-radius:12px;padding:12px 14px;white-space:pre-wrap}
+
+    .tokens{margin-top:12px;display:flex;flex-wrap:wrap;gap:10px}
+    .tok{
+      display:flex;flex-direction:column;align-items:center;gap:6px;
+      padding:8px 10px;border-radius:12px;background:var(--chip);border:1px solid var(--chipBorder);
+      min-width:46px;max-width:160px;word-break:break-word
+    }
+    .w{font-weight:600}
+    .lab{font-size:11px;padding:3px 8px;border-radius:999px;border:1px solid transparent}
+
+    .e-O      {background:var(--o); color:#cfd5e6}
+    .e-ASSET  {background:var(--ASSET); color:#3a2f00}
+    .e-ACTION {background:var(--ACTION); color:#002a1e}
+    .e-RULE_TYPE{background:var(--RULE_TYPE); color:#041530}
+    .e-CONSTRAINT{background:var(--CONSTRAINT); color:#3b0000}
+    .e-DUTY   {background:var(--DUTY); color:#1b0030}
+    .e-PURPOSE{background:var(--PURPOSE); color:#002018}
+    .e-PARTY_ASSIGNEE{background:var(--P_ASSIGNEE); color:#301400}
+    .e-PARTY_ASSIGNER{background:var(--P_ASSIGNER); color:#300010}
+
+    .muted{color:var(--muted)}
+    footer{margin:28px 0 8px;color:var(--muted);font-size:12px;text-align:center}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>ODRL NER Labeling Demo</h1>
+
+    <div class="card">
+      <form method="post" action="/">
+        <div class="row">
+          <div class="field">
+            <textarea name="text" placeholder="Paste a sentence to tag…">{{ (question or '')|e }}</textarea>
+            <div class="actions">
+              <button type="submit">Label sentence</button>
+              <span class="help">BIO tags: ASSET, ACTION, RULE_TYPE, CONSTRAINT, DUTY, PURPOSE, PARTY_ASSIGNER/ASSIGNEE</span>
+            </div>
+          </div>
+        </div>
+      </form>
+
+      <div class="legend">
+        <span class="tag"><span class="sw" style="background:var(--ASSET)"></span>ASSET</span>
+        <span class="tag"><span class="sw" style="background:var(--ACTION)"></span>ACTION</span>
+        <span class="tag"><span class="sw" style="background:var(--RULE_TYPE)"></span>RULE_TYPE</span>
+        <span class="tag"><span class="sw" style="background:var(--CONSTRAINT)"></span>CONSTRAINT</span>
+        <span class="tag"><span class="sw" style="background:var(--DUTY)"></span>DUTY</span>
+        <span class="tag"><span class="sw" style="background:var(--PURPOSE)"></span>PURPOSE</span>
+        <span class="tag"><span class="sw" style="background:var(--P_ASSIGNER)"></span>PARTY_ASSIGNER</span>
+        <span class="tag"><span class="sw" style="background:var(--P_ASSIGNEE)"></span>PARTY_ASSIGNEE</span>
+        <span class="tag"><span class="sw" style="background:var(--o)"></span>O</span>
+      </div>
+
+      {% if question %}
+        <div class="section-title">Original sentence</div>
+        <div class="orig-box">{{ question }}</div>
+      {% endif %}
+
+      {% if result %}
+        {% set n_tok = result.text|length %}
+        {% set n_lab = result.labels|length %}
+        {% if n_tok != n_lab %}
+          <div class="warn">Length mismatch: {{n_tok}} tokens vs {{n_lab}} labels. Showing min(len(tokens), len(labels)).</div>
+        {% endif %}
+        {% set N = n_tok if n_tok < n_lab else n_lab %}
+
+        <div class="section-title">Token-by-token labels</div>
+        <div class="tokens">
+          {% for i in range(N) %}
+            {% set token = result.text[i] %}
+            {% set lab = result.labels[i] %}
+            {% set base = (lab.split('-', 1)[1]) if ('-' in lab) else lab %}
+            {% if base not in [
+              'ASSET','ACTION','RULE_TYPE','CONSTRAINT','DUTY','PURPOSE','PARTY_ASSIGNEE','PARTY_ASSIGNER','O'
+            ] %}
+              {% set base = 'O' %}
+            {% endif %}
+            <div class="tok">
+              <div class="w">{{ token }}</div>
+              <div class="lab e-{{ base }}">{{ lab }}</div>
+            </div>
+          {% endfor %}
+        </div>
+      {% else %}
+        <p class="muted" style="margin-top:12px">Enter a sentence above and press “Label sentence”.</p>
+      {% endif %}
+    </div>
+
+    <footer>Rendered by Flask · tokens are aligned 1:1 with labels</footer>
+  </div>
+</body>
+</html>

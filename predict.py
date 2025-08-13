@@ -85,8 +85,8 @@ def run_test(
     print(per_tag_df)
 
     # optionally save
-    per_type_df.to_csv(cfg.save_path + "_metrics_per_type.txt", index=True, sep=',')
-    per_tag_df.to_csv(cfg.save_path + "_metrics_per_tag.txt", index=True, sep=',')
+    per_type_df.to_csv(cfg.save_path + "_metrics_per_type.txt", index=True, sep=',', mode='a')
+    per_tag_df.to_csv(cfg.save_path + "_metrics_per_tag.txt", index=True, sep=',', mode='a')
 
 
     # Metrics (BIO)

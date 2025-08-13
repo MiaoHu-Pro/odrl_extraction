@@ -87,11 +87,11 @@ def main():
 
         # Check if best_f1.pth exists, otherwise load last_model.pth
         if os.path.isfile(best_model_path):
-            # print   (f"Loading best model from {best_model_path}")
+            print   (f"Loading best model from {best_model_path}")
             logger.info(f"Loading best model from {best_model_path}")
             model.load_state_dict(torch.load(best_model_path))
         elif os.path.isfile(last_model_path):
-            # print  (f"Loading last model from {last_model_path}")
+            print  (f"Loading last model from {last_model_path}")
             logger.info(f"Loading last model from {last_model_path}")
             model.load_state_dict(torch.load(last_model_path))
         else:
@@ -102,8 +102,6 @@ def main():
                               test_dataloader, test_features=test_features)  # or metrics_df, details_df = run_test(..., return_details=True)
         print(metrics_df)
         # Save where you like (your snippet used config.trained_model_path; if not set, use cfg.save_dir)
-        out_dir = getattr(cfg, "save_dir", ".")
-        # metrics_df.to_csv(os.path.join(out_dir, "test_result.txt"), index=False)
 
         logger.info('------------------test result------------------')
         logger.info(metrics_df)
@@ -112,19 +110,14 @@ def main():
 
 
 
-
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
 
     #  python main.py --model bert-lstm-crf  --data_path ./data/ --save_dir ./save_model --word_embedding_model_path /home/mh1f25/scratch/llms_model/bert-base-cased  --do_train --do_test  --num_epochs 3
     #  python main.py --model deberta-crf  --data_path ./data/ --save_dir ./save_model --word_embedding_model_path /home/mh1f25/scratch/llms_model/deberta-base  --do_train --do_test  --num_epochs 3
+
+    # nohup python main.py --model bert-lstm-crf  --data_path ./data/ --save_dir ./save_model --word_embedding_model_path /home/mh1f25/scratch/llms_model/bert-base-cased  --do_train --do_test  --num_epochs 10  > main.log  2>&1 &
+
+
 
     main()
 
