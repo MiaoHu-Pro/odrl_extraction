@@ -1,0 +1,6 @@
+
+1.pdf2text.py --> convert pdf to txt
+4.agreemets_break2paragraphs.py  --> a text is braked to paragraphs
+5.obtained_paragraphs_clean.py  --> clean each paragraph
+6.clean_paragraphs_get_data.py --> get cleaned data for training and testing
+

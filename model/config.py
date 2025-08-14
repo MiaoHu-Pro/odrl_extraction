@@ -80,6 +80,8 @@ class Config(object):
         self.rnn_dropout     = getattr(args, "rnn_dropout", 0.1)   # LSTM internal dropout (between layers)
         self.proj_dropout    = getattr(args, "proj_dropout", 0.4)  # Dropout before linear head
 
+        self.use_scheduler    = getattr(args, "use_scheduler", False)
+
         # ---- Labels / tag mapping ----
         # Your policy/contract BIO tag set
         base_labels = [

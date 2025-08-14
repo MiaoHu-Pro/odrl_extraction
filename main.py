@@ -26,9 +26,11 @@ def main():
     # Training settings
     parser.add_argument("--num_epochs", type=int, default=2)
     parser.add_argument("--batch_size", type=int, default=16)
-    # parser.add_argument("--pad_size", type=int, default=32)
+
     parser.add_argument("--learning_rate", type=float, default=5e-5)
     parser.add_argument("--device", default="cuda")
+    parser.add_argument("--use_scheduler", type=bool, default=False)
+
 
     # IDCNN hyperparams
     parser.add_argument("--num_filters", type=int, default=64)
@@ -89,7 +91,7 @@ def main():
         if os.path.isfile(best_model_path):
             print   (f"Loading best model from {best_model_path}")
             logger.info(f"Loading best model from {best_model_path}")
-            model.load_state_dict(torch.load(best_model_path))
+            model.load_state_dict(torch.load(best_model_path, weights_only=True))
         elif os.path.isfile(last_model_path):
             print  (f"Loading last model from {last_model_path}")
             logger.info(f"Loading last model from {last_model_path}")

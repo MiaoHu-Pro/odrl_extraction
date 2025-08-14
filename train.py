@@ -145,7 +145,7 @@ def run_train(model, cfg, train_dataloader, dev_dataloader):
     for epoch in range(num_epochs):
         model.train()
         running_loss = 0.0
-        pbar = tqdm(train_dataloader, desc=f"Epoch {epoch+1}/{num_epochs}", leave=False)
+        pbar = tqdm(train_dataloader, desc=f"Epoch {epoch+1}/{num_epochs}/n", leave=False)
 
         for step, batch in enumerate(pbar, 1):
             sentence, masks, tags = batch
@@ -157,7 +157,8 @@ def run_train(model, cfg, train_dataloader, dev_dataloader):
 
             if use_amp:
 
-                with torch.cuda.amp.autocast():
+                # with torch.cuda.amp.autocast():
+                with torch.amp.autocast('cuda'):
                     loss = model.neg_log_likelihood_loss(sentence, masks, tags)
                 scaler.scale(loss).backward()
                 scaler.unscale_(optimizer)
