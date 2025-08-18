@@ -2,6 +2,8 @@
 import logging
 import os
 import argparse
+from xml.dom.minidom import Entity
+
 from model.config import Config
 import torch
 from utils import print_and_save_params, get_data
@@ -24,12 +26,12 @@ def main():
                         "/home/mh1f25/scratch/llms_model/deberta-base"])  # e.g., "/home/.../bert-base-cased"
 
     # Training settings
-    parser.add_argument("--num_epochs", type=int, default=2)
+    parser.add_argument("--num_epochs", type=int, default=10)
     parser.add_argument("--batch_size", type=int, default=16)
 
     parser.add_argument("--learning_rate", type=float, default=5e-5)
     parser.add_argument("--device", default="cuda")
-    parser.add_argument("--use_scheduler", type=bool, default=False)
+    parser.add_argument("--use_scheduler", type=bool, default=True)
 
 
     # IDCNN hyperparams
@@ -38,14 +40,11 @@ def main():
     parser.add_argument("--kernel_size", type=int, default=3)
     parser.add_argument("--num_block", type=int, default=4)
 
-
-
     # LSTM hyperparams
     parser.add_argument("--hidden_dim", type=int, default=768)
     parser.add_argument("--rnn_layers", type=int, default=2)
     parser.add_argument("--rnn_dropout", type=float, default=0.1)
     parser.add_argument("--proj_dropout", type=float, default=0.4)
-
 
     parser.add_argument("--max_length", type=int, default=400)
 
@@ -128,8 +127,9 @@ if __name__ == "__main__":
 # BERT is used to embeddings each token
 # LSTM + CRF sequence labeling
 
-# second
-# BERT + CRF
+# Could be adding rule-based model, create a ACTREE to identify ODRL Entity
+
+
 #
 # third
 # T5 + CRF

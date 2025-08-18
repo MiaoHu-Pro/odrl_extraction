@@ -42,8 +42,7 @@ class Config(object):
         self.device = torch.device(getattr(args, "device", ("cuda" if torch.cuda.is_available() else "cpu")))
         self.use_cuda = (str(self.device).startswith("cuda"))
 
-        # self.device = torch.device("cpu")
-        # self.use_cuda = (str(self.device).startswith("cuda"))
+
 
 
         # ---- Backbone / tokenizer ----

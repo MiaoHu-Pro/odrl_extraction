@@ -613,7 +613,8 @@ def seed_constraints(tokens: List[str], labels: List[str]):
         "pursuant to", "in accordance with", "in compliance with",
         "under", "upon", "prior to", "before", "after", "during", "within",
         "no later than", "no earlier than", "on or before", "on or after",
-        "up to", "at least", "at most", "no more than", "not more than", "not less than", "more than", "fewer than",
+        "up to", "at least", "at most", "no more than", "not more than",
+        "not less than", "more than", "fewer than",
         # documentation/formatting
         "in writing",
         # role/policy references
@@ -640,7 +641,7 @@ def seed_constraints(tokens: List[str], labels: List[str]):
 
     # b) PER <unit>  (per day/month/year/user/device/account/request/disclosure)
     PER_UNITS = {
-        "day","days","month","months","year","years","week","weeks",
+        "day","days","month","months","year","years","week","weeks", "times",
         "user","users","device","devices","account","accounts",
         "request","requests","disclosure","disclosures"
     }

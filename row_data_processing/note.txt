@@ -4,3 +4,42 @@
 5.obtained_paragraphs_clean.py  --> clean each paragraph
 6.clean_paragraphs_get_data.py --> get cleaned data for training and testing
 
+Deletion Procedure: has the meaning given to it in clause 8.3 and Schedule 3 to this Agreement.
+Data Sharing Code: the Information Commissioner's Data Sharing Code of Practice of May 2011,
+as updated or amended from time to time. Data Protection Legislation: all applicable
+data protection and privacy legislation in force from time to time in the UK including
+the General Data Protection Regulation GDPR EU 2016679; the Data Protection Act 2018;
+the Privacy and Electronic Communications Directive 200258EC as updated by Directive 2009136EC and
+the Privacy and Electronic Communications Regulations 2003 SI 2003 No. 2426 as amended;
+any other European Union legislation relating to personal data and all other legislation and regulatory
+requirements in force from time to time which apply to a party relating to the use of Personal Data including,
+ without limitation, the privacy of electronic communications and the guidance and codes of practice issued by
+ the relevant data protection or supervisory authority and applicable to a party. PowerBI System:
+ a data visualisation tool managed and maintained by Public Health England that allows limited access
+ to data from the NHS test and trace programme. Shared Personal Data: the personal data and special category
+ personal data to be shared between the parties under clause 2 of this Agreement. Special Categories of Personal Data:
+ the categories of Personal Data set out in Article 91 of the GDPR. Subject Access Request:
+ the exercise by a data subject of his or her rights under Article 15 of the GDPR and the DPA 2018.
+ Supervisory Authority: the Information Commissioner. Term: The duration of the COPI Notice or any extension or continuation thereof.",
+
+
+
+old "label": ["O", "O", "O", "B-RULE_TYPE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ASSET", "B-ACTION", "O", "O", "O", "B-ASSET", "B-PARTY_ASSIGNER", "O", "O", "B-ASSET", "B-ACTION", "O", "O", "O", "O", "B-RULE_TYPE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ASSET", "O", "O", "O", "O", "O", "B-ASSET", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ACTION", "O", "O", "B-ASSET", "O", "O", "O", "O", "O", "O", "O", "B-ASSET", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PARTY_ASSIGNER", "I-PARTY_ASSIGNER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ASSET", "I-ASSET", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ACTION", "O", "B-ASSET", "I-ASSET", "B-ACTION", "O", "B-CONSTRAINT", "I-CONSTRAINT", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-CONSTRAINT", "I-CONSTRAINT", "O", "B-ASSET", "O", "O", "O", "B-PARTY_ASSIGNER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ASSET", "O", "O", "O", "O", "O", "O", "B-PARTY_ASSIGNER", "I-PARTY_ASSIGNER", "I-PARTY_ASSIGNER", "O", "O", "O", "O", "O", "B-ASSET", "O", "O", "B-PARTY_ASSIGNER", "O", "O", "O", "O", "O", "B-ACTION", "B-ASSET", "I-ASSET", "O", "O", "B-ASSET", "I-ASSET", "O", "O", "O", "B-ASSET", "I-ASSET", "O", "O", "B-ACTION", "O", "B-PARTY_ASSIGNEE", "I-PARTY_ASSIGNEE", "B-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "O", "O", "O", "O", "B-ASSET", "I-ASSET", "O", "O", "O", "O", "B-ASSET", "I-ASSET", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-CONSTRAINT", "I-CONSTRAINT", "B-ASSET", "O", "O", "O", "O", "O", "O", "B-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "O", "O", "B-PARTY_ASSIGNER", "O", "O", "B-ASSET", "B-PARTY_ASSIGNER", "O", "O", "O", "O", "O", "O", "O", "O", "B-ACTION", "O", "O", "O", "O", "O", "O", "O"]}
+new "label": ["O", "O", "O", "B-RULE_TYPE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ASSET", "B-ACTION", "O", "O", "O", "B-ASSET", "B-PARTY_ASSIGNER", "O", "O", "B-ASSET", "B-ACTION", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ASSET", "O", "O", "O", "O", "O", "B-ASSET", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ACTION", "O", "O", "B-ASSET", "O", "O", "O", "O", "O", "O", "O", "B-ASSET", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PARTY_ASSIGNER", "I-PARTY_ASSIGNER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ASSET", "I-ASSET", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ACTION", "O", "B-ASSET", "I-ASSET", "B-ACTION", "O", "B-CONSTRAINT", "I-CONSTRAINT", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-CONSTRAINT", "I-CONSTRAINT", "O", "B-ASSET", "O", "O", "O", "B-PARTY_ASSIGNER", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ASSET", "O", "O", "O", "O", "O", "O", "B-PARTY_ASSIGNER", "I-PARTY_ASSIGNER", "I-PARTY_ASSIGNER", "O", "B-RULE_TYPE", "O", "O", "O", "B-ASSET", "O", "O", "B-PARTY_ASSIGNER", "O", "O", "O", "O", "O", "B-ACTION", "B-ASSET", "I-ASSET", "O", "O", "B-ASSET", "I-ASSET", "O", "O", "O", "B-ASSET", "I-ASSET", "O", "O", "B-ACTION", "O", "B-PARTY_ASSIGNEE", "I-PARTY_ASSIGNEE", "B-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "O", "O", "O", "O", "B-ASSET", "I-ASSET", "O", "O", "O", "O", "B-ASSET", "I-ASSET", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-CONSTRAINT", "I-CONSTRAINT", "B-ASSET", "O", "O", "O", "O", "O", "O", "B-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "I-CONSTRAINT", "O", "O", "B-PARTY_ASSIGNER", "O", "O", "B-ASSET", "B-PARTY_ASSIGNER", "O", "O", "O", "O", "O", "O", "O", "O", "B-ACTION", "O", "O", "O", "O", "O", "O", "O"]}
+
+
+
+
+
+{"text": "If required by law, the Receiving Party may disclose Confidential Information
+to a court of competent jurisdiction or applicable regulatory
+authority or agency, provided that the Receiving Party shall if legally permissible provide reasonable
+advance notice to the Disclosing Party and co-operate with any attempt by the Disclosing Party to obtain an order providing
+for the confidentiality of such information to be maintained.",
+
+"label": ["O", "B-RULE_TYPE", "I-RULE_TYPE", "O", "O", "O", "O", "O", "B-RULE_TYPE", "B-ACTION", "B-ASSET", "I-ASSET",
+"O", "O", "O", "O", "O", "O", "O", "O", "O",
+"B-PARTY_ASSIGNER", "O", "B-PARTY_ASSIGNER", "O", "B-ACTION", "O", "O", "O", "O", "B-RULE_TYPE", "O", "O", "O", "B-ACTION", "O", "O", "B-ACTION", "O", "O", "B-PARTY_ASSIGNEE", "I-PARTY_ASSIGNEE", "O", "O", "O", "O", "O", "O", "O", "B-CONSTRAINT", "I-CONSTRAINT", "B-PARTY_ASSIGNER", "I-PARTY_ASSIGNER", "O", "O", "O", "O", "B-ACTION", "O", "O", "O", "O", "O", "B-ASSET", "O", "O", "O", "O"]}
+
+
+

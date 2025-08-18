@@ -87,7 +87,8 @@ def model2predict(model, config, sample):
         pred_labels (BIO tags aligned 1:1 to tokens_used)
     """
     model.eval()
-    device = next(model.parameters()).device  # robust way to get current device
+    device = config.device
+    # device = next(model.parameters()).device  # robust way to get current device
 
     # Build inputs
     input_ids, masks, words = get_input(config, sample)
@@ -124,6 +125,8 @@ def query_test(cfg, text):
     print('do testing ...')
     logger.info('do testing ...')
 
+    print('device: {}'.format(cfg.device))
+
     model = cfg.build_model()
 
     best_model_path = cfg.save_path + '_best_f1.pth'
@@ -133,11 +136,11 @@ def query_test(cfg, text):
     if os.path.isfile(best_model_path):
         print(f"Loading best model from {best_model_path}")
         logger.info(f"Loading best model from {best_model_path}")
-        model.load_state_dict(torch.load(best_model_path))
+        model.load_state_dict(torch.load(best_model_path, map_location=cfg.device, weights_only=True))
     elif os.path.isfile(last_model_path):
         print(f"Loading last model from {last_model_path}")
         logger.info(f"Loading last model from {last_model_path}")
-        model.load_state_dict(torch.load(last_model_path))
+        model.load_state_dict(torch.load(last_model_path, map_location=cfg.device, weights_only=True))
     else:
         raise FileNotFoundError(f"Neither {best_model_path} nor {last_model_path} exists.")
 

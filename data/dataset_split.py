@@ -47,7 +47,7 @@ def main():
 
 if __name__ == "__main__":
 
-    # python split_jsonl.py data_sharing_agreement_mt20_labels_o4-mini-more-tags-seeds.jsonl
+    # python split_jsonl.py data_sharing_agreement_mt20_labels_o4-mini-more-tags-seeds_script11.jsonl
     # # optional:
     # # python split_jsonl.py your.jsonl --outdir splits --seed 123
     main()
