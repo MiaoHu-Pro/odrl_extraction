@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Text Category Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f7f7f7;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        label {
+            display: block;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            resize: vertical;
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #0066cc;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #004999;
+        }
+        pre {
+            background-color: #e9e9e9;
+            padding: 10px;
+            border-radius: 4px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Text Category Prediction</h2>
+    <form id="predict-form">
+        <label for="uid">User ID:</label>
+        <input type="text" id="uid" name="uid" required>
+
+        <label for="text">Text:</label>
+        <textarea id="text" name="text" rows="4" required></textarea>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <h3>Prediction Result:</h3>
+    <pre id="result">Waiting for input...</pre>
+
+    <script>
+        document.getElementById('predict-form').addEventListener('submit', async function (e) {
+            e.preventDefault();
+
+            const uid = document.getElementById('uid').value;
+            const text = document.getElementById('text').value;
+
+            const formData = new FormData();
+            formData.append('uid', uid);
+            formData.append('text', text);
+
+            try {
+                const response = await fetch('/prediction/', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                if (!response.ok) {
+                    throw new Error(`Server error: ${response.status}`);
+                }
+
+                // const resultText = await response.text();
+                // document.getElementById('result').textContent = "Category: " + resultText;
+                const result = await response.json();
+                document.getElementById('result').textContent =
+                `UID: ${result.uid}\nText: ${result.text}\nCategory: ${result.category}`;
+
+            } catch (error) {
+                document.getElementById('result').textContent = 'Error: ' + error.message;
+            }
+        });
+    </script>
+</body>
+</html>
