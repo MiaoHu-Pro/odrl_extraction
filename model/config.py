@@ -93,6 +93,7 @@ class Config(object):
             "B-CONSTRAINT", "I-CONSTRAINT",
             "B-DUTY", "I-DUTY",
             "B-PURPOSE", "I-PURPOSE",
+            "B-CONSEQUENCE", "I-CONSEQUENCE"
         ]
 
         # Whether to include <pad>, <start>, <eos> in the label space as in your previous setup
@@ -101,6 +102,7 @@ class Config(object):
 
         labels = list(base_labels)
         if self.include_special_labels:
+            # labels += ["<pad>", "<start>", "<eos>", "[CLS]", "[SEP]"]
             labels += ["<pad>", "<start>", "<eos>"]
 
         self.labels = labels

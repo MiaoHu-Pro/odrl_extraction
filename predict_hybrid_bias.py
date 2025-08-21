@@ -1,7 +1,7 @@
 # predict.py
 import os
 from typing import Optional, List, Tuple
-from hybrid_rules import apply_rules_to_predictions
+from hybrid_bias import decode_with_rule_bias
 import torch
 import pandas as pd
 from tqdm import tqdm
@@ -15,6 +15,14 @@ def _device_from_cfg(cfg):
         return cfg.device
     return torch.device(str(cfg.device))
 
+
+def _sanitize_paths(pred_ids, label2id):
+    C = len(label2id)
+    o = int(label2id.get("O", 0))
+    clean = []
+    for seq in pred_ids:
+        clean.append([(int(t) if int(t) < C else o) for t in seq])
+    return clean
 
 @torch.no_grad()
 def run_test(
@@ -46,25 +54,51 @@ def run_test(
 
     preds, golds = [], []
 
-    for batch in tqdm(test_dataloader, desc="Testing", leave=False):
-        input_ids, masks, tags = batch
-        input_ids = input_ids.to(device)
-        masks     = masks.to(device)
-        tags      = tags.to(device)
+    # for batch in tqdm(test_dataloader, desc="Testing", leave=False):
+    #     input_ids, masks, tags = batch
+    #     input_ids = input_ids.to(device)
+    #     masks     = masks.to(device)
+    #     tags      = tags.to(device)
+    #
+    #     tag_seq = model(input_ids, masks)  # may be Tensor or list[list[int]]
+    #     if isinstance(tag_seq, torch.Tensor):
+    #         tag_seq = tag_seq.tolist()
+    #
+    #     preds.extend(tag_seq)
+    #     golds.extend(tags.tolist())
+    #
+    # # Map back to string labels (cuts to <start>...<eos>)
+    # pred_label, gold_label = recover_label(preds, golds, cfg.l2i, cfg.i2l)
+    #
+    # # using hybrid rules
+    # if test_features is not None:
+    #     pred_label = apply_rules_to_predictions(pred_label, test_features)
 
-        tag_seq = model(input_ids, masks)  # may be Tensor or list[list[int]]
-        if isinstance(tag_seq, torch.Tensor):
-            tag_seq = tag_seq.tolist()
+    all_pred_ids = []
+    offset = 0
+    for step, batch in enumerate(test_dataloader):
+        bsz = batch[0].size(0)  # input_ids
+        tags = batch[2].to(device)
 
-        preds.extend(tag_seq)
+        batch_features = test_features[offset: offset + bsz]
+        offset += bsz
+
+        # >>> Rule-biased decode (adds logits, then Viterbi via CRF) <<<
+        pred_ids = decode_with_rule_bias(
+            model, batch, batch_features,
+            device=device,
+            label2id=cfg.l2i,  # your BIO_HEAD id map
+            alpha_pos=3.0  # bias strength; try 2.0–4.0
+        )
+        pred_ids = _sanitize_paths(pred_ids, cfg.l2i)  # <<< add this line
+
+        all_pred_ids.extend(pred_ids)
         golds.extend(tags.tolist())
 
-    # Map back to string labels (cuts to <start>...<eos>)
-    pred_label, gold_label = recover_label(preds, golds, cfg.l2i, cfg.i2l)
 
-    # using hybrid rules
-    if test_features is not None:
-        pred_label = apply_rules_to_predictions(pred_label, test_features)
+    # then continue exactly as you do today:
+    # recover string labels and compute metrics
+    pred_label, gold_label = recover_label(all_pred_ids, golds, cfg.l2i, cfg.i2l)
 
 
     base_labels = [
@@ -77,6 +111,7 @@ def run_test(
         "B-CONSTRAINT", "I-CONSTRAINT",
         "B-DUTY", "I-DUTY",
         "B-PURPOSE", "I-PURPOSE",
+        "B-CONSEQUENCE", "I-CONSEQUENCE"
     ]
 
     # pred_label, gold_label = recover_label(...)

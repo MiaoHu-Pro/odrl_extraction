@@ -8,8 +8,8 @@ from model.config import Config
 import torch
 from utils import print_and_save_params, get_data
 from train import run_train
-from predict import run_test
-
+# from predict import run_test
+from predict_hybrid_bias import run_test
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.ERROR)  # Only show errors, not warnings
 
@@ -75,7 +75,7 @@ def main():
 
     # Train
     if args.do_train:
-        run_train(model, cfg, train_dataloader, dev_dataloader)  #to call run_train in train.py
+        run_train(model, cfg, train_dataloader, dev_dataloader, dev_features)  #to call run_train in train.py
 
     # # Test
     if args.do_test:

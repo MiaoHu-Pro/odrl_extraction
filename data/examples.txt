@@ -331,7 +331,13 @@ o4-mini:
 
 
 
+The user may download the confidential report up to three times within 30 days for research purposes only, for internal evaluation and testing, provided that attribution is given to the company; otherwise, access to the report will be suspended for seven days.
 
-The user may download the confidential report up to three times within 30 days for research purposes only, provided that attribution is given to the company.
+"babel":\["O","B-PARTY\_ASSIGNEE","B-RULE\_TYPE","B-ACTION","O","B-ASSET","I-ASSET","B-CONSTRAINT","I-CONSTRAINT","I-CONSTRAINT","I-CONSTRAINT","I-CONSTRAINT","I-CONSTRAINT","I-CONSTRAINT","B-PURPOSE","I-PURPOSE","I-PURPOSE","I-PURPOSE","O","B-PURPOSE","I-PURPOSE","I-PURPOSE","I-PURPOSE","I-PURPOSE","O","B-DUTY","I-DUTY","I-DUTY","I-DUTY","I-DUTY","I-DUTY","I-DUTY","I-DUTY","O","B-CONSEQUENCE","O","I-CONSEQUENCE","I-CONSEQUENCE","I-CONSEQUENCE","I-CONSEQUENCE","B-RULE\_TYPE","I-CONSEQUENCE","I-CONSEQUENCE","I-CONSEQUENCE","I-CONSEQUENCE","I-CONSEQUENCE","O"]}
+
+
+
+The user may download the confidential report up to three times within 30 days for research purposes only,
+provided that attribution is given to the company.
 
 The Data Discloser shall ensure that before the Commencement Date, Shared Personal Data is accurate and that it has appropriate internal procedures in place for the Data Receiver to sample Shared Personal Data before the Commencement Date and it will update the same if required before transferring the Shared Personal Data.

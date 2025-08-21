@@ -135,6 +135,7 @@ def clean_line(raw: str) -> str:
 
 def process_dir(in_dir: Path, min_tokens: int) -> list[str]:
     out_lines: list[str] = []
+    short_lines: list[str] = []
     files = sorted(in_dir.glob("*.txt"))
     for p in files:
         for raw in p.read_text(encoding="utf-8", errors="ignore").splitlines():
@@ -144,9 +145,10 @@ def process_dir(in_dir: Path, min_tokens: int) -> list[str]:
             if "?" in line:
                 continue
             if count_tokens(line) < min_tokens:
+                short_lines.append(line)
                 continue
             out_lines.append(line)
-    return out_lines
+    return out_lines, short_lines
 
 def compute_stats(lines: list[str]) -> dict:
     if not lines:
@@ -170,13 +172,16 @@ def main():
     if not in_dir.is_dir():
         raise SystemExit(f"Input directory not found: {in_dir}")
 
-    lines = process_dir(in_dir, args.min_tokens)
-    Path(args.output).write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
+    lines, short_lines = process_dir(in_dir, args.min_tokens)
 
-    stats = compute_stats(lines)
-    print(f"Done. Files: {len(list(in_dir.glob('*.txt')))} | Lines kept: {stats['lines']}")
-    print(f"Wrote: {args.output}")
-    print(f"Token stats -> min: {stats['min_tokens']} | max: {stats['max_tokens']} | avg: {stats['avg_tokens']}")
+    # Path(args.output).write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
+
+    Path(args.output+"removed.txt").write_text("\n".join(short_lines) + ("\n" if short_lines else ""), encoding="utf-8")
+
+    # stats = compute_stats(lines)
+    # print(f"Done. Files: {len(list(in_dir.glob('*.txt')))} | Lines kept: {stats['lines']}")
+    # print(f"Wrote: {args.output}")
+    # print(f"Token stats -> min: {stats['min_tokens']} | max: {stats['max_tokens']} | avg: {stats['avg_tokens']}")
 
 if __name__ == "__main__":
     main()

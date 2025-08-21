@@ -46,6 +46,7 @@ def build_dataset(config):
                         token_ids = token_ids[:pad_size]  # 对词汇索引列表进行截断
                         seq_len = pad_size  # 更新序列长度为填充长度
                 # 将处理后的数据添加到contents列表
+                # print("(token_ids, int(label)", (token_ids, int(label)))
                 contents.append((token_ids, int(label), seq_len, mask))
         return contents
 

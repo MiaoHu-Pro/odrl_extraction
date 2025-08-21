@@ -43,3 +43,8 @@ for the confidentiality of such information to be maintained.",
 
 
 
+results are ok
+data: v3_adv:
+python app.py --model bert-lstm-crf --data_path ./data/ --save_dir ./save_model_datav3adv  --word_embedding_model_path /home/mh1f25/scratch/llms_model/bert-base-cased --do_train --do_test --num_epochs 20  --batch_size 16 --rnn_layers 1  --device cpu
+
+

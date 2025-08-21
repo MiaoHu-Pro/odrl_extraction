@@ -6,9 +6,10 @@ import numpy as np
 
 # 定义BERT特殊符号和类别映射
 CLS = '[CLS]'
-id_to_name = {0: 'finance', 1: 'realty', 2: 'stocks', 3: 'education', 4: 'science',
-              5: 'society', 6: 'politics', 7: 'sports', 8: 'game', 9: 'entertainment'}
+# id_to_name = {0: 'finance', 1: 'realty', 2: 'stocks', 3: 'education', 4: 'science',
+#               5: 'society', 6: 'politics', 7: 'sports', 8: 'game', 9: 'entertainment'}
 
+id_to_name = {0: 'non', 1: 'odrl'}
 # 加载BERT情感分析模型和相关配置
 model_name = 'bert'
 x = import_module('models.' + model_name)

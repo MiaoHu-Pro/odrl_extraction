@@ -83,15 +83,26 @@ class BERT_LSTM_CRF(nn.Module):
 
         return emissions
 
-    def forward(self, sentence, masks):
-        """
-        Viterbi decode tags.
-        sentence: input_ids  (batch, seq_len)
-        masks:    attention_mask/CRF mask (batch, seq_len) with 1 for valid tokens
-        """
+    # def forward(self, sentence, masks):
+    #     """
+    #     Viterbi decode tags.
+    #     sentence: input_ids  (batch, seq_len)
+    #     masks:    attention_mask/CRF mask (batch, seq_len) with 1 for valid tokens
+    #     """
+    #     emissions = self.get_output_score(sentence, attention_mask=masks)
+    #     scores, tag_seq = self.crf._viterbi_decode(emissions, masks.bool())
+    #     return tag_seq
+
+    def compute_emissions(self, input_ids, attention_mask):
+        return self.get_output_score(input_ids, attention_mask=attention_mask)
+
+    def forward(self, sentence, masks, return_emissions=False):
+        if return_emissions:
+            return type("Out", (), {"emissions": self.get_output_score(sentence, attention_mask=masks)})
         emissions = self.get_output_score(sentence, attention_mask=masks)
-        scores, tag_seq = self.crf._viterbi_decode(emissions, masks.bool())
+        _, tag_seq = self.crf._viterbi_decode(emissions, masks.bool())
         return tag_seq
+
 
     def neg_log_likelihood_loss(self, sentence, mask, tags):
         """

@@ -7,7 +7,7 @@ import torch
 from utils import print_and_save_params, _words_from_text
 from predict import run_test
 from flask import Flask, render_template, request, jsonify, make_response
-
+from hybrid_rules import postprocess_tags
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.ERROR)  # Only show errors, not warnings
@@ -80,7 +80,7 @@ def get_input(config, sample):
     return input_ids, masks, words
 
 
-def model2predict(model, config, sample):
+def model2predict(model, config, sample, apply_post_rules=True):
     """
     Run the model on a single sentence and return:
         tokens_used (word-level, truncated to fit),
@@ -114,6 +114,11 @@ def model2predict(model, config, sample):
     # map ids -> string labels
     i2l = config.i2l
     pred_labels = [i2l.get(tid, "O") for tid in pred_ids]
+
+    # 5) Deterministic cleanup (RULE_TYPE cues, ASSET expansion, PARTY dets, etc.)
+    if apply_post_rules:
+        pred_labels = postprocess_tags(words, pred_labels)
+
 
     result = {"text": words, "labels": pred_labels}
 

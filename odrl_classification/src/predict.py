@@ -4,8 +4,10 @@ import numpy as np
 
 # 定义一些特殊的符号和类别映射
 CLS =  "[CLS]"
-id_to_name = {0: 'finance', 1: 'realty', 2: 'stocks', 3: 'education', 4: 'science',
-              5: 'society', 6: 'politics', 7: 'sports', 8: 'game', 9: 'entertainment'}
+# id_to_name = {0: 'finance', 1: 'realty', 2: 'stocks', 3: 'education', 4: 'science',
+#               5: 'society', 6: 'politics', 7: 'sports', 8: 'game', 9: 'entertainment'}
+
+id_to_name = {0: 'non', 1: 'odrl'}
 
 def inference(model, config, input_text, pad_size=32):
     """

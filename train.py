@@ -5,8 +5,8 @@ import torch
 from torch.nn.utils import clip_grad_norm_
 from torch.optim import AdamW
 from transformers import get_linear_schedule_with_warmup
-
-
+from hybrid_rules import apply_rules_to_predictions
+from hybrid_bias import decode_with_rule_bias
 from utils import recover_label, get_ner_fmeasure
 
 
@@ -49,9 +49,56 @@ def _split_param_groups(model, bert_lr, head_lr, weight_decay=0.01):
         groups.append({"params": head_params, "lr": head_lr, "weight_decay": 0.0})
     return groups
 
+#
+# @torch.no_grad()
+# def evaluate(model, cfg, dev_loader, dev_features):
+#     """
+#     Run Viterbi decoding on dev set and compute NER metrics.
+#     Returns: (acc, precision, recall, f1)
+#     """
+#     device = _device_from_cfg(cfg)
+#     model.eval()
+#
+#     pred, gold = [], []
+#     for batch in dev_loader:
+#         sentence, masks, tags = batch
+#         sentence = _to_device(sentence, device)
+#         masks    = _to_device(masks, device)
+#         tags     = _to_device(tags, device)
+#
+#         tag_seq = model(sentence, masks)  # may be Tensor or list[list[int]]
+#         if isinstance(tag_seq, torch.Tensor):
+#             tag_seq = tag_seq.tolist()
+#
+#         pred.extend(tag_seq)
+#         gold.extend(tags.tolist())
+#
+#
+#
+#     # map back to string labels & compute metrics
+#     pred_label, gold_label = recover_label(pred, gold, cfg.l2i, cfg.i2l)
+#     # using hybrid rule only
+#     if dev_features is not None:
+#         pred_label = apply_rules_to_predictions(pred_label, dev_features)
+#
+#     acc, p, r, f = get_ner_fmeasure(gold_label, pred_label, label_type='BIO')
+#
+#
+#     model.train()
+#     return acc, p, r, f
+
+
+def _sanitize_paths(pred_ids, label2id):
+    C = len(label2id)
+    o = int(label2id.get("O", 0))
+    clean = []
+    for seq in pred_ids:
+        clean.append([(int(t) if int(t) < C else o) for t in seq])
+    return clean
+
 
 @torch.no_grad()
-def evaluate(model, cfg, dev_loader):
+def evaluate(model, cfg, dev_loader, dev_features):
     """
     Run Viterbi decoding on dev set and compute NER metrics.
     Returns: (acc, precision, recall, f1)
@@ -59,34 +106,44 @@ def evaluate(model, cfg, dev_loader):
     device = _device_from_cfg(cfg)
     model.eval()
 
-    pred, gold = [], []
+    gold = []
+    all_pred_ids = []
+    offset = 0
     for batch in dev_loader:
+        bsz = batch[0].size(0)  # input_ids
+        batch_features = dev_features[offset: offset + bsz]
+        offset += bsz
+
         sentence, masks, tags = batch
-        sentence = _to_device(sentence, device)
-        masks    = _to_device(masks, device)
-        tags     = _to_device(tags, device)
+        # >>> Rule-biased decode (adds logits, then Viterbi via CRF) <<<
+        pred_ids = decode_with_rule_bias(
+            model, batch, batch_features,
+            device=device,
+            label2id=cfg.l2i,  # your BIO_HEAD id map
+            alpha_pos=3.0  # bias strength; try 2.0–4.0
+        )
 
-        tag_seq = model(sentence, masks)  # may be Tensor or list[list[int]]
-        if isinstance(tag_seq, torch.Tensor):
-            tag_seq = tag_seq.tolist()
+        pred_ids = _sanitize_paths(pred_ids, cfg.l2i)  # <<< add this line
 
-        pred.extend(tag_seq)
+        all_pred_ids.extend(pred_ids)
+
         gold.extend(tags.tolist())
 
-        # print("\n")
-        # print("gold_label:", tags.tolist())
-        # print("pred_label:", tag_seq)
+
 
     # map back to string labels & compute metrics
-    pred_label, gold_label = recover_label(pred, gold, cfg.l2i, cfg.i2l)
+    pred_label, gold_label = recover_label(all_pred_ids, gold, cfg.l2i, cfg.i2l)
+
+    # if dev_features is not None:
+    #     pred_label = apply_rules_to_predictions(pred_label, dev_features)
+
     acc, p, r, f = get_ner_fmeasure(gold_label, pred_label, label_type='BIO')
 
 
     model.train()
     return acc, p, r, f
 
-
-def run_train(model, cfg, train_dataloader, dev_dataloader):
+def run_train(model, cfg, train_dataloader, dev_dataloader, dev_features):
     """
     Train loop with:
       - AdamW param groups (BERT vs. heads)
@@ -181,7 +238,7 @@ def run_train(model, cfg, train_dataloader, dev_dataloader):
         print(f"[epoch {epoch+1}] train loss: {avg_loss:.6f}")
 
         # --- dev eval
-        acc, p, r, f = evaluate(model, cfg, dev_dataloader)
+        acc, p, r, f = evaluate(model, cfg, dev_dataloader, dev_features)
         print(f"[epoch {epoch+1}] dev  acc={acc:.4f}  P={p:.4f}  R={r:.4f}  F1={f:.4f}")
 
         # --- save best & last

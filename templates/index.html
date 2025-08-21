@@ -10,6 +10,7 @@
       --chip:#20253d; --chipBorder:#2a3150; --o:#414a67;
       --ASSET:#ffd166; --ACTION:#3ddc97; --RULE_TYPE:#6ea8fe; --CONSTRAINT:#ff7b7b;
       --DUTY:#c77dff; --PURPOSE:#57cc99; --P_ASSIGNEE:#f79d65; --P_ASSIGNER:#ff5d8f;
+      --P_CONSEQUENCE: #576acc;
     }
     *{box-sizing:border-box}
     body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial}
@@ -51,6 +52,7 @@
     .e-PURPOSE{background:var(--PURPOSE); color:#002018}
     .e-PARTY_ASSIGNEE{background:var(--P_ASSIGNEE); color:#301400}
     .e-PARTY_ASSIGNER{background:var(--P_ASSIGNER); color:#300010}
+    .e-CONSEQUENCE{background: var(--P_CONSEQUENCE); color:#300010}
 
     .muted{color:var(--muted)}
     footer{margin:28px 0 8px;color:var(--muted);font-size:12px;text-align:center}
@@ -67,7 +69,7 @@
             <textarea name="text" placeholder="Paste a sentence to tag…">{{ (question or '')|e }}</textarea>
             <div class="actions">
               <button type="submit">Label sentence</button>
-              <span class="help">BIO tags: ASSET, ACTION, RULE_TYPE, CONSTRAINT, DUTY, PURPOSE, PARTY_ASSIGNER/ASSIGNEE</span>
+              <span class="help">BIO tags: ASSET, ACTION, RULE_TYPE, CONSTRAINT, DUTY, PURPOSE, PARTY_ASSIGNER/ASSIGNEE, CONSEQUENCE</span>
             </div>
           </div>
         </div>
@@ -82,6 +84,7 @@
         <span class="tag"><span class="sw" style="background:var(--PURPOSE)"></span>PURPOSE</span>
         <span class="tag"><span class="sw" style="background:var(--P_ASSIGNER)"></span>PARTY_ASSIGNER</span>
         <span class="tag"><span class="sw" style="background:var(--P_ASSIGNEE)"></span>PARTY_ASSIGNEE</span>
+        <span class="tag"><span class="sw" style="background:var(--P_CONSEQUENCE)"></span>CONSEQUENCE</span>
         <span class="tag"><span class="sw" style="background:var(--o)"></span>O</span>
       </div>
 
@@ -105,7 +108,7 @@
             {% set lab = result.labels[i] %}
             {% set base = (lab.split('-', 1)[1]) if ('-' in lab) else lab %}
             {% if base not in [
-              'ASSET','ACTION','RULE_TYPE','CONSTRAINT','DUTY','PURPOSE','PARTY_ASSIGNEE','PARTY_ASSIGNER','O'
+              'ASSET','ACTION','RULE_TYPE','CONSTRAINT','DUTY','PURPOSE','PARTY_ASSIGNEE','PARTY_ASSIGNER', 'CONSEQUENCE' ,'O'
             ] %}
               {% set base = 'O' %}
             {% endif %}
