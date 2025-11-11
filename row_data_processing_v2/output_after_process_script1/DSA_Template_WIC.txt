@@ -121,7 +121,7 @@ Portland One of the fifty states which is a member of the federation known as th
 Other US geographic areas, such as Puerto Rico and the District of Columbia, are essentially equivalent to State when used in an address.
 Oregon ZIP A system designed to expedite the sorting and delivery of mail by assigning a series of numbers to each delivery area in the United States.
 Also used to refer to any individual delivery area code.
-COLLECTION_DATE Date that the weight, height, and hemoglobin of the child were taken, as reported in the weight, height, and hemoglobin fields.
+Date that the weight, height, and hemoglobin of the child were taken, as reported in the weight, height, and hemoglobin fields.
 The child's weight, measured with minimal clothing and without shoes, to the nearest pound.
 Data Attribute Name Reference Name Information Example Value for Reference Name WEIGHT_OUNCES The child's weight, measured with minimal clothing and without shoes, to the nearest ounce over the value in WEIGHT_POUNDS.
 The child’s measured height, without shoes, or measured recumbent length if the child is < 24 months of age, to the nearest inch.
