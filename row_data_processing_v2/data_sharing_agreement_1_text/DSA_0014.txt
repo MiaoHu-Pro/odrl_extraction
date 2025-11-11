@@ -1,0 +1,1744 @@
+Annex 5: Data Sharing Agreement
+(DSA)
+Social Housing Decarbonisation Fund
+(SHDF) – Wave 1
+Between the Secretary of State for Business, Energy & Industrial
+Strategy (BEIS)
+and
+London Borough of Camden
+
+Month 2022 < BEIS TO COMPLETE >
+Contents
+Glossary of key terms ................................................................................................ 2
+Signatory Details ........................................................................................................ 3
+Introduction ................................................................................................................ 3
+Principle 1 - Lawfulness, fairness & transparency ...................................................... 5
+Principle 2 – Purpose Limitation ............................................................................... 10
+Principle 3 – Data minimisation ................................................................................ 12
+Principle 4 – Accuracy ............................................................................................. 12
+Principle 5 – Storage limitation ................................................................................. 13
+Principle 6 – Integrity and confidentiality .................................................................. 13
+Principle 7 – Accountability ...................................................................................... 15
+Appendix A – Summary of Processing ..................................................................... 21
+Appendix B – Performance Data Sharing Diagram .................................................. 23
+Appendix C – Personal Data Sharing Diagram ........................................................ 24
+Appendix D – Personal Data Journey ...................................................................... 25
+Appendix E – List of Data Items to be Shared with BEIS ......................................... 27
+Appendix F – Privacy Notice Template .................................................................... 35
+Appendix G – Consent Form to Issue to Data Subjects ........................................... 38
+Appendix H – Key Contact Details ........................................................................... 39
+Appendix I – Signatories .......................................................................................... 40
+
+Glossary of key terms
+In this Data Sharing Agreement (DSA) the following words and phrases will have
+the following meanings:
+Term Explanation
+“Authority”
+means the local authority that is to sign
+this Agreement, that is: London Borough of Camden
+“BEIS”
+means the Department for Business, Energy &
+Industrial Strategy
+“Consortium”
+means a group of local authorities, housing
+associations and or private companies working
+together to deliver the Social Housing
+Decarbonisation Fund – Wave 1 under the MoU
+“Controller”
+has the meanings set out in Article 4 of the
+UK GDPR
+“Data Subject”
+has the meanings set out in Article 4 of the
+UK GDPR
+“DPA” means the Data Protection Act 2018
+“DSA” means Data Sharing Agreement
+“Funding
+Period”
+has the meaning given to it in the MoU
+“Government
+Social Research
+Publication protocol”
+means the “Government Social Research
+Publication protocol”, which are the principles for the
+publication of all government social research that is
+not regulated by the UK Statistics Authority
+“MoU”
+means the Social Housing Decarbonisation Fund
+– Wave 1 Memorandum of Understanding
+between the Secretary of State for Business
+Energy and Industrial Strategy and London
+Borough of Camden dated
+[BEIS insert date once signed]
+“Partners”
+means partners to this Agreement, namely the
+Secretary of State for Business, Energy &
+Industrial Strategy and: London Borough of Camden
+“Personal data”
+has the meanings set out in Article 4 of the
+UK GDPR
+“Processing”
+has the meanings set out in Article 4 of the
+UK GDPR
+“Processor”
+has the meanings set out in Article 4 of the
+UK GDPR
+“Project Team”
+means the Social Housing Decarbonisation Fund –
+Wave 1 project team within BEIS responsible for
+DSA - 2
+
+DSA - 3
+the delivery of the scheme, supported by their
+appointed delivery partner
+“SHDF” means Social Housing Decarbonisation Fund
+“SHDF – Wave
+1”
+Means Wave 1 of the Social Housing Decarbonisation
+Fund
+“Special
+Category data”
+means the types of data listed in Article 9(1) of
+the
+UK GDPR
+“The Code of
+Practice
+for Official Statistics
+”
+means the Code of Practice
+for Official Statistics edition 2.0 (February 2018)
+published by the UK statistics authority
+FoIA means the Freedom of Information Act 2000
+UK GDPR
+means UK - General Data Protection
+Regulation (EU 2016/679), as retained in UK law
+and tailored by the Data Protection Act 2018
+Signatory Details
+The following are the agreement owners (herein: Partners) for this document:
+BEIS Agreement Owner
+Name
+Role
+Programme Director, Social Housing Decarbonisation
+Fund
+Email
+The Authority Agreement Owner
+Name
+Gavin Haynes
+Role
+Director of Property Management
+Email
+Gavin.Haynes@camden.gov.uk
+Introduction
+1. This Data Sharing Agreement (herein: DSA) sets out an agreement between the
+Partners, which consists of London Borough of Camden (herein: the Authority)
+and the Secretary of State from the Department for Business, Energy & Industrial
+Strategy (herein: BEIS), on how data will be shared in relation to Wave 1 of the
+Social Housing Decarbonisation Fund (herein: SHDF – Wave 1).
+
+DSA - 4
+2. The Social Housing Decarbonisation Fund (herein: SHDF) is a 2019 Conservative
+Manifesto commitment for a £3.8bn fund set up over a 10-year period to improve
+the energy performance of social rented homes, on the pathway to Net Zero 2050.
+The SHDF will upgrade a significant amount of social housing stock currently
+below, and on an ‘infill’ based at or above, EPC Band C up to that standard;
+delivering warm, energy efficient homes, reducing carbon emissions and fuel bills,
+tackling fuel poverty, and supporting green jobs.
+3. The SHDF will be delivered through a series of individual projects (herein:
+Waves). The first wave of the programme (SHDF - Wave 1) will provide around
+£179m to England only projects to support Registered Providers of Social
+Housing, including Private and Local Authority Providers, to improve the energy
+performance of their social housing stock by installing Eligible Measures. The
+approximately £179m of funding is to be awarded in FY2021/22 and delivered
+through to March 2023.
+4. We expect the SHDF to result in the following outcomes:
+• Fuel Poverty: Reduce the numbers in Fuel Poverty by improving the energy
+efficiency rating of social homes below EPC Band C and reducing energy bills. On
+this basis, tenant energy bills should not increase for equivalent home warmth, and
+it is expected that bills will reduce.
+• Carbon: Deliver cost effective carbon savings to contribute to carbon budgets, and
+progress towards the UK’s target for Net Zero by 2050 by reducing CO2 emissions
+from Social Housing.
+• Green Economy: Support economic resilience and a green recovery in response
+to the economic impacts of Covid-19, supporting thousands of jobs.
+• Tenants: Improve the comfort, health, and well-being of Social Housing tenants
+by delivering warmer and more energy-efficient homes.
+5. Under the Memorandum of Understanding (herein: MoU), the Authority agreed to:
+a. Put a system in place to collect data, as set out in the MoU, for
+performance reporting, research, and evaluation purposes (herein: the
+Data).
+b. Ensure the Data is collated, quality assured and shared with BEIS in
+such a way as to meet the required reporting periods and date standards
+set out in the MoU.
+6. Additionally, under the MoU, the Authority agreed to collect the Data in a way that:
+a. Allows it to be shared with BEIS, in accordance with the principles set out
+in this Data Sharing Agreement and as referenced in the Monitoring,
+Evaluation and Audit section of the MoU.
+b. Allows BEIS to share it with any of its research or evaluation service
+providers.
+c. Allows BEIS to use it for research and statistical purposes (this does not
+include publishing the information in a way that identifies individual
+households) provided always that BEIS complies with the provisions of the
+Data Protection Act 2018 and UK GDPR.
+d. Allows BEIS to keep names and contact details of the Authority and its
+delivery partners on file for use in the in-house CRM system to enable
+better relationship management (see the BEIS privacy notice, as published
+
+DSA - 5
+on the SHDF Wave 1 webpage on gov.uk alongside the Wave 1
+competition documents).
+7. This DSA documents the lawful basis for this data sharing initiative, what
+information will be shared and how. The Partners have entered into this DSA to
+demonstrate that data protection and privacy requirements have been taken into
+account, to set out how use of information meets the data protection principles
+under UK General Data Protection Regulation (herein: UK GDPR), as defined in
+Section 3(10) of the Data Protection Act 2018 (herein: DPA 2018), and how the
+rights of data subjects are protected.
+8. This DSA is not a contract and is not legally binding. It does not create a legal
+power for either Partner to lawfully exchange and process personal information,
+and it does not provide indemnity from action under any law. It does not remove
+or reduce the legal obligations or responsibilities on any Partner.
+9. The Partners enter this DSA intending to honour all provisions outlined
+within.
+10. This is a new DSA that relates to the collection and processing of data created as
+a result of the SHDF - Wave 1. This DSA will commence when it has been signed
+by all Partners and will terminate on 31st March 2025.
+Principle 1 - Lawfulness, fairness &
+transparency
+11. The contact details of delivery teams and property information are personal data,
+as individuals may be personally identifiable. BEIS requires this data to monitor,
+facilitate and support the delivery of SHDF – Wave 1, to perform a task in the public
+interest. Aggregated delivery data shared will also support statistical reporting and
+evaluation of the SHDF – Wave 1 and the overarching SHDF programme, to
+provide accountability in the use of public funds. As such, both are necessary to
+share with BEIS on the legal basis of public task, as defined under Article 6(1) of
+UK GDPR.
+12. BEIS also request the personal data of delivery teams, installers and tenants for
+evaluation research purposes. This research enables BEIS to report the
+effectiveness of SHDF – Wave 1. It enables BEIS to evaluate whether SHDF –
+Wave 1 has delivered value-for-money, realised its intended benefits and inform
+future policymaking in the fields of energy efficiency, fuel poverty and health. This
+personal data should only be shared with BEIS for evaluation purposes on a
+consent basis.
+13. BEIS’ data sharing with Partners under this DSA does not involve the processing
+of personal data relating to criminal convictions, offences or related security
+measures, nor does it involve the processing of Special Category data.
+
+DSA - 6
+Data to be shared
+14. The Authority has agreed to provide BEIS with the data as described below and
+set out in the relevant paragraphs, sections and or annexes within the MoU:
+a. SHDF – Wave 1 project performance data (herein: Performance Data), as
+defined by the Governance section (paragraphs 54 to 63),
+Performance section (paragraphs 79 to 88) and Annex 7 of the MoU.
+Perproperty information may be personally identifiable, and as such be
+categorised as personal data. This data includes but is not limited to:
+i. An overview of monthly progress on the project. ii. An update of
+the Authority's progress against Key Performance
+Indicators (KPIs) and project milestones iii. Top risks, issues
+and or concerns that could impact the project iv. Any incidents of
+fraud.
+v. Specific per property information, including but not limited to
+requirements outlined in Annex 7 of the MoU.
+vi. Any other items the Authority wishes to escalate to BEIS.
+b. SHDF – Wave 1 monitoring and evaluation data (herein: M&E
+Data), as covered by the Monitoring, Evaluation & Audit section
+(paragraph 89) of the MoU. This data may contain personal
+information data as defined by UK GDPR. This data includes but is not
+limited to:
+i. Qualitative and or quantitative data obtained through the
+delivery team’s participation in research led by an evaluation
+partner appointed by BEIS. This research will ensure that wider
+insights can be provided on the experience of delivering SHDF –
+Wave 1. BEIS will confirm plans for delivery team participation in
+the evaluation research during the spring of 2022.
+ii. Contact details and consent of households and installers
+engaged in the scheme to be contacted for feedback on the
+scheme. iii. Data from households receiving measures and
+installers delivering them, as set out in Annex 7 of the MoU,
+including but not limited to installation data, household
+engagement data, installer data and project delivery data.
+15. The data provided by the Authority maybe linked to and or compared against other
+existing datasets or models within BEIS for compliance, evaluation, and
+performance reporting purposes.
+How data will be shared
+16. BEIS will provide a system for projects to securely transfer the Data they have
+collected under this DSA to share with BEIS. Diagrams visualising the data sharing
+process are available in Appendices B-D – BEIS’ Data Sharing Process of this
+DSA.
+
+DSA - 7
+17. The Authority is responsible for ensuring there is a system in place to securely
+collect and store this Data. This system must include data supplied from other
+participating local authorities, housing associations, or partners where they are
+forming a Consortium. It must also put measures in place to ensure consent for
+data subjects to enable data sharing on this legal basis.
+18. The Authority, or its appointed third party, will share this data with the SHDF –
+Wave 1 Project Team via a password-protected report, for example using Egress,
+a secure file transfer protocol and or restricted folders on SharePoint, or through
+an alternative data collection system that has been approved by the SHDF – Wave
+1 Project Team and the BEIS Chief Information Security Officer (CISO) as being
+suitable for the transfer and storage of personal data.
+19. Data sharing under this DSA will be shared from execution and up to 31st March
+2025 to enable the successful delivery of scheme evaluation activity.
+20. BEIS will share the contact details of the Authority’s delivery team with its SHDF
+delivery partners, such as the SHDF Wave 1 – Scheme Administrator (Ricardo),
+as necessary to deliver BEIS’ energy efficiency schemes.
+21. BEIS will share M&E Data with its SHDF research, evaluation partners as
+appropriate. There are also circumstances under which BEIS may share M&E Data
+with other Government Departments. These circumstances are detailed further
+below in paragraphs 45-50, under Principle 2 – Purpose Limitation.
+22. Where BEIS decides to share personal data received under this DSA, it will ensure
+the data transfer is performed using a method approved by the BEIS Chief
+Information Security Officer (CISO), the preferred mechanism being restricted
+areas on MS Egress.
+23. At all times, BEIS and the Authority will ensure all personal data shared under this
+DSA is stored in restricted folders held on restricted access secure servers.
+24. Further information about the safekeeping of the data is set out further below under
+Principle 6 – Integrity & Confidentiality.
+Legal gateways
+25. The Partners of this DSA share Performance Data and the personal data of the
+delivery team on the legal basis of public task, as defined by Article 6(1)(e) of UK
+GDPR. It is necessary for the performance of a task carried out in the public
+interest. This does not require consent.
+26. The Partners of this DSA process and share the M&E Data on a consent basis
+only, as outlined by Article 6(1)(a) of UK GDPR.
+27. Specifically, the data sharing and or processing is required in order to:
+
+DSA - 8
+a. Enable BEIS to evaluate the effectiveness of existing and future policies
+b. Support BEIS’s functions and departmental responsibilities relating to
+carbon reduction and Net Zero as defined by the Climate Change Act
+(2008).
+c. Enable the Partners to carry out their responsibilities as regards to
+effectively managing the spending of public funding, including but not
+limited to BEIS reviewing how and where SHDF – Wave 1 funding has
+been spent and assessing whether this expenditure has enabled it to meet
+its objectives under the scheme.
+d.
+28. Principle 2 – Purpose Limitations provides further information for which processing
+of data under this DSA is needed.
+Data controller relationship
+29. The Authority and BEIS act as joint data controllers for personal data covered
+by this DSA. This includes when they collect data, are in receipt of it or share the
+data with others.
+30. For all other personal data shared under this DSA, the Authority and BEIS act
+as independent controllers, and becomes an independent controller of that
+personal data on receipt of it. BEIS’ limitations on onward disclosures in data
+processing are covered under Forward Use - Onward Disclosure, paragraphs
+4550 of this DSA.
+Transparency
+31. The Authority accepts responsibility for ensuring that both BEIS’ Privacy Notice
+and their own Privacy Notice are provided to all households, installers and,
+
+DSA - 9
+where applicable, Consortium Members in compliance with the DPA 2018 and UK
+GDPR.
+32. The Authority will ensure that their Privacy information includes content that alerts
+the data subject to the fact that their personal data will be passed from to the
+Authority and then from the Authority to BEIS.
+33. Furthermore, the privacy information will inform the data subject that their data
+might be used either in full or in part by BEIS for:
+a. The management and delivery of the scheme.
+b. Evaluation, auditing, research, statistical and fraud prevention purposes;
+Or
+c. Be linked to other data sources held by BEIS, other Government
+Departments, contractors appointed by BEIS and or other third parties for
+any of these reasons aforementioned.
+d. With their consent, be used by a third-party to invite them to participate in
+research about their experiences with the project.
+34. BEIS have provided the Authority with BEIS’ SHDF Privacy Notice, as published
+on the SHDF Wave 1 webpage on gov.uk alongside the Wave 1 competition
+documents. The Authority is ultimately responsible for ensuring that all
+households, installers, and Consortium Members are provided with this BEIS
+privacy notice.
+35. The Authority must also ensure data subjects are informed of any of their own or
+their consortia organisations’ processing of personal data, via their own Privacy
+Notice. The Authority may use the template Privacy Notice provided as guidance
+(see Appendix F of this DSA) or their own version. If the Authority decides to use
+their own version, they must ensure that it includes the information mentioned
+under paragraphs 31 to 33 of this DSA.
+36. By agreeing to this DSA and the MoU, the Authority accepts responsibility for
+seeking valid consent, as defined by Article 4(11) of UK GDPR, from households,
+installers, and Consortium Members to be recontacted for the purposes of
+evaluation of SHDF – Wave 1 and, where appropriate, any further research and
+evaluation therein. A consent form is provided in Appendix G of this DSA and
+should be used by the Authority to seek consent.
+37. The Authority will maintain records of informed consent and share Data with
+BEIS in accordance with their data reporting requirements. These
+requirements are set out under the Governance section (paragraphs 54 to 63),
+Performance section (paragraphs 79 to 88), Monitoring, Evaluation and Audit
+section (paragraph 89) and Annex 7 of the MoU. The exact data items and formats
+requested are detailed under Appendix E – List of Data Items to be Shared with
+BEIS.
+
+DSA - 10
+38. If a data subject informs either Partner and or its service providers, where
+applicable, that they are withdrawing consent, the Partner is responsible for
+communicating the withdrawal of consent to the other Partner. In this scenario,
+BEIS will be responsible for ensuring the data subject is no longer contacted by
+BEIS and or its service providers, for the purpose of evaluation of SHDF – Wave 1
+and related further research and evaluation.
+39. Where consent has been withdrawn by the data subject, BEIS will seek to cease
+contact with the data subject as soon as reasonably practicable.
+40. BEIS and the Authority, as part of their ongoing requirements to comply with UK
+GDPR or its successor legislation, where applicable, will keep their Privacy Notices
+under ongoing review. Where legislative changes are made, BEIS and the
+Authority will communicate these to the data subject as soon as reasonably
+practicable to ensure that the data subject’s rights are maintained and complied
+with.
+Principle 2 – Purpose Limitation
+41. The Authority will, where necessary, disclose personal data to BEIS as part of its
+data reporting requirements, as set out in the MoU and this DSA. The primary
+purposes for sharing and processing this data are to support:
+a. The administration of SHDF – Wave 1.
+b. An assessment of whether SHDF – Wave 1 has achieved its objectives.
+c. BEIS to effectively publish statistical reports relating to SHDF – Wave 1.
+d. An evaluation of SHDF – Wave 1 and any associated home energy or
+carbon reduction policies, where applicable.
+e. Effective management of fraud and non-compliance under SHDF – Wave
+1.
+42. Additionally, BEIS may use all or some of the data shared by the Authority:
+a. To review and develop existing or future Government policy.
+b. For research, evaluation, and statistical purposes.
+43. Where BEIS uses all or some of the data for research, evaluation, and statistical
+purposes this may be linked with data from other data sources held by BEIS or
+other Government Departments.
+44. The analysis and research expected to be undertaken may include, but is not
+limited to:
+a. Analysing whether the presence of measures installed under SHDF – Wave
+1 has led to a significant change in energy consumption. This may be done
+
+DSA - 11
+by comparing SHDF – Wave 1 measures data to other databases, including
+but not limited to: the National Energy Efficiency Database, Cavity
+Insulation Guarantee Agency and or other related similar operational
+databases.
+b. Linking and or comparing the SHDF – Wave 1 data to other datasets from
+other BEIS or HM Government administered energy efficient programmes
+to enable BEIS to assess the following without double counting properties:
+i. Progress against fuel poverty targets. ii. Insulation levels for the
+overall housing stock in Great Britain, and impact on remaining
+potential for cavity wall, solid wall, and loft insulation.
+iii. The characteristics of recipient (e.g., location, property type,
+tenure, and vulnerability group) to inform future policy making.
+c. Address matching SHDF – Wave 1 installations through the National
+Energy Efficiency Data-Framework to maintain a central database of
+property characteristics, household characteristic, energy consumption and
+or Energy Performance Certificates (EPCs).
+Further use and onward disclosure
+45. To deliver SHDF, BEIS may need to share the Data with the SHDF – Wave 1
+Scheme Administrator (Ricardo). Ricardo will be subject to UK GDPR compliance
+via commercial contract clauses, and only permitted to process personal data to
+execute a public task on BEIS’ behalf.
+46. To effectively audit and manage SHDF – Wave 1 and other Government schemes,
+BEIS may need to share SHDF – Wave 1 data with delivery partners of other
+current or future energy efficiency or low carbon heating government support
+schemes. This is to ensure that SHDF – Wave 1 funded installations are not
+already or subsequently subsidised under other Government schemes.
+47. Where BEIS needs to share SHDF – Wave 1 data with delivery partners of current
+or future energy efficiency or low carbon heating government support schemes,
+BEIS will seek to use primarily anonymised or pseudonymised data to limit the use
+of personal data. Where this data sharing is necessary BEIS will put a data sharing
+agreement in place with the relevant delivery partner to support the sharing of the
+data.
+48. BEIS will share SHDF – Wave 1 data with its third-party monitoring and evaluation
+contractor to support the delivery of research, evaluation, and auditing activities.
+This will be primarily to confirm that projects under SHDF – Wave 1 are complying
+with the scheme’s guidance and objectives. BEIS will put in place a DSA with its
+monitoring and evaluation contractor to support the sharing of data for this purpose.
+49. Items included within onward disclosures are limited to those already outlined in
+this DSA (Appendix E – List of Data Items to be Shared with BEIS).
+
+DSA - 12
+50. At all times, BEIS will comply with the ‘data minimisation’ principle set out in
+this DSA, in accordance with Article 5(1)(c) of UK GDPR. Wherever possible, BEIS
+will use aggregated, pseudonymised or anonymised data to limit onward disclosure
+of personal data. Where onward disclosure is required, BEIS will ensure that there
+is a DSA or contract in place to outline the legal basis for sharing the data, and that
+any onward disclosure of data is restricted to only the data that is required by the
+third party to support the purpose for which the data is being shared.
+Principle 3 – Data
+minimisation
+51. By agreeing to this DSA, each Partner confirms that the data being shared under
+this agreement is the minimum amount of personal data that is necessary to
+achieve the purposes for which it is being shared, as outlined by Article 5(1)(c) of
+UK GDPR.
+Principle 4 –
+Accuracy
+52. In accordance with the Governance section (paragraphs 54 to 63), Performance
+section (paragraphs 79 to 88), Monitoring, Evaluation and Audit section (paragraph
+89) of the MoU, the Authority agrees to carrying out a series of quality assurance
+checks on the Data it generates.
+53. These accuracy checks will include:
+a. Checks to ensure that the installation data is for an eligible household and
+that the installer meets the necessary standards (either through Trustmark
+or an alternative) as part of the grant award.
+b. Data completeness checks to ensure that all mandatory and required data
+fields are completed in any data return sent to BEIS.
+c. Data validation checks, such as, checking field formats (e.g., a date field is
+in a date format) or that an entry is valid (e.g., a postcode is alphanumeric)
+before returning any data sent to BEIS.
+54. BEIS will also conduct checks on the Data it receives from the Authority to identify
+any reporting errors, double counting, or ineligible households and or installers.
+The processes for these are outlined in Appendices B and C to this DSA.
+55. If, after the Data has been either passed from the Authority to BEIS, or from BEIS
+to the Authority, either Partner identifies an error in that information then the
+following process should be undertaken to correct the error:
+
+DSA - 13
+a. The Partner that identifies the error should, as soon as reasonably
+practicable but within a period exceeding that of five working days, alert the
+other Partner to the error.
+b. The Authority will then liaise with the relevant delivery partner, installer, or
+Consortium Member, where appliable, to clarify and correct the data; And
+c. Promptly notify BEIS of any correction to the data required.
+Principle 5 – Storage
+limitation
+56. BEIS will retain personal data until 31st March 2025 for the purposes outlined in
+this DSA. The remaining project data is not subject to a specified retention period
+since it does not contain personal data
+57. In line with the storage limitation principle outlined under Article 5(1)(e) of UK
+GDPR BEIS will review the data it holds at regular periods to ensure that personal
+data is only retained for as long as it is needed up to 31st March 2025.
+58. The Authority will retain any personal data created or collected, for reporting
+purposes under SHDF – Wave 1, in accordance with its own retention and disposal
+policies.
+59. All Partners will destroy or delete all personal data at the end of the relevant
+retention periods using a process that is in line with their data destruction
+processes.
+60. In order to achieve the purposes outlined under Principle 2 – Purpose Limitation,
+identifiable personal data, rather than anonymised or pseudonymised data is
+required to be processed by the designated BEIS Teams outlined in paragraph 62
+of this DSA. As outlined by paragraph 64 of this DSA, non-designated BEIS Teams
+will only have access to anonymised data.
+Principle 6 – Integrity and
+confidentiality
+61. The following information security measures will be put in place by BEIS and the
+Authority to ensure the safekeeping of the data shared under this DSA, including,
+and with particular reference to, personal data. The Partners agree to work and
+comply with their respective information assurance and data protection policies,
+while following the security measures outlined below.
+62. BEIS will hold SHDF – Wave 1 monitoring and evaluation data in a secure
+SharePoint folder with access controls or on a dedicated analyst server (CBAS)
+that limit access to those on the SHDF – Wave 1 data access list. Only designated
+BEIS Team and nominated third parties will be able to access this data.
+
+DSA - 14
+63. By agreeing to this DSA, BEIS acknowledges and agrees that:
+a. The designated BEIS Teams will be named in an internally held SHDF – Wave 1
+access list and kept to a reasonable minimum.
+b. It will maintain the SHDF – Wave 1 access list and share it with the Authority as
+requested on request.
+c. BEIS will require that the mandatory annual UK GDPR eLearning training, or its
+successor where applicable, is completed by all staff, including personnel named
+on the access list.
+64. Non-designated teams within BEIS may use an anonymised version of the SHDF
+– Wave 1 M&E data, that excludes address, and any record-level identifies, for
+internal analysis only. BEIS will only publish aggregate results that meet the
+requirements of Principle T6.4 of the Code of Practice for Official Statistics on
+confidentiality.
+65. Generally, the underlying data will not be published by BEIS, however, in order to
+comply with the Government Social Research Publication Protocol, BEIS may
+publish datasets resulting from M&E Data. The publication of this data may require
+inclusion of data extracted from the M&E data, however, publication in this instance
+would only be conducted where the data could be fully anonymised and complies
+with Principle T6.4 of the Code of Practice for Official Statistics on confidentiality.
+66. , the Programme Director for SHDF (or successor) has been
+appointed as the BEIS Information Asset Owner of the SHDF – Wave 1 monitoring
+and evaluation data and, as such, is ultimately responsible for the security of the
+data provided by the Authority.
+67.
+Gavin Haynes, Director of Property Services
+(or successor) has been appointed as the Authority’s Information Asset Owner of the
+SHDF – Wave 1 monitoring and evaluation data and, as such, is ultimately
+responsible for the security of the personal data provided to BEIS under this DSA.
+68. All Partners confirm that, as a minimum, they have considered the risks of the
+accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or
+access to any personal data processed under this DSA and have arrangements in
+place to manage or mitigate these risks accordingly.
+
+DSA - 15
+Principle 7 –
+Accountability
+69. BEIS confirms that it can demonstrate compliance with the data protection
+principles outlined in this DSA, the DPA 2018 and UK GDPR. BEIS has completed
+a Data Protection Impact Assessment (DPIA) outlining how it will process data
+under this DSA. This DPIA is available on request. BEIS demonstrates UK GDPR
+compliance to data subjects in the information provided on the BEIS SHDF Privacy
+Notice. All BEIS staff are required to complete annual training in UK GDPR. All
+BEIS staff on the access list for data shared under this DSA will attend a briefing
+on handling datasets shared under SHDF - Wave 1.
+70. BEIS confirms that the processing of the Performance Data and M&E Data covered
+in this DSA will be added to BEIS’s existing central record of processing.
+71. The Authority confirms that it can demonstrate compliance with the data protection
+principles outlined in this DSA, the DPA 2018 and UK GDPR. The Authority
+demonstrates GDPR compliance by:
+Completing a DPIA Pre Screen, in addition the Authority / London Borough of
+Camden have a have a suite of internal data protection policies and procedures
+that show good robust management and oversight. The Authority / London
+Borough of Camden also holds NHS DSP toolkit accreditation.
+72. The Authority confirms that the processing of personal data covered in this DSA
+will:
+be added to our Record of Processing Activities, and will be in accordance with
+data protection laws and the Council’s own internal policies and procedures.
+Rights of data subjects
+73. The rights of data subjects are set out in the following table:
+
+DSA - 16
+Right to under UK
+GDPR:
+Applies?
+If yes, are any additional actions required. If
+no, why this right does not apply.
+Transparent
+information (Article
+12)
+Y
+The Authority takes responsibility for
+ensuring that appropriate fair processing and
+privacy notices are provided to data subjects.
+Information when data
+collected from data
+subject (Article 13)
+Y
+The Authority takes responsibility for
+ensuring that appropriate fair processing and
+privacy notices are provided to data subjects.
+Information when data
+collected from
+elsewhere (Article 14)
+Y
+The Authority takes responsibility for
+ensuring that appropriate fair processing and
+privacy notices are provided to data subjects,
+either by itself or by the relevant participating
+Consortium Members or installer.
+Access by data
+subject
+(Article 15)
+Y
+Where either Partner receives a data access
+request from a data subject, this will be actioned
+in line with the relevant Partner’s existing policies
+for handling such requests.
+Rectification
+(Article 16)
+Y
+Where a Partner receives a rectification request
+from a data subject, this will be communicated to
+the other Partner within 5 working days. Where
+this request results in concluding there is an error
+in the original data, this will be notified to the
+other Partner within 5 working days.
+Erasure
+(Article 17)
+Y
+Where a Partner receives an erasure request
+from a data subject, this will be communicated to
+the other Partner within 5 working days. The
+eligibility of each erasure request will be reviewed
+by each Partner in line with article 17 of the UK
+GDPR and a decision made regarding the nature
+of the processing undertaken by that Partner.
+Restriction of
+processing (Article 18)
+Y
+Data subjects may request a restriction of
+processing of their data, but their request may be
+refused if it would prevent the administration and
+auditing of the scheme and processing for fraud
+prevention. Where a Partner receives a
+restriction of processing request from a data
+subject, this will be communicated to the other
+Partner within 5 working days.
+Notification
+regarding
+rectification, erasure,
+or restriction (Article
+19)
+Y
+BEIS will notify any parties with whom it has
+shared the data within 5 working days of an
+action being taken under a request for
+rectification, erasure, or restriction, unless this
+proves impossible or involves disproportionate
+effort.
+
+DSA - 17
+Data portability
+(Article 20)
+N
+The personal data processed by BEIS under this
+DSA is not provided by the data subject to BEIS
+and is not processed by BEIS on the basis of
+consent (other than for re-contact purposes) or
+for the performance of a contract.
+Object to processing
+(Article 21)
+Y
+Data subjects may object to the processing of
+their data, but the request may be refused if it
+would prevent the administration and auditing of
+the scheme and use of the data for fraud
+prevention and/or statistical purposes. Data
+subjects will be notified of their right to object via
+the fair processing and privacy notices mentioned
+above in relation to articles 12, 13 and 14 of the
+UK GDPR and for which the Authority takes
+responsibility. Where a Partner receives an
+Object to Processing request from a data subject,
+this will be communicated to the other Partner
+within 5 working days.
+Automated
+decisionmaking and
+profiling (Article 22)
+N
+It is not expected that automated decisionmaking
+or profiling will be required under this DSA.
+Governance and administration
+Data Protection Impact Assessments
+74. BEIS has completed a Data Protection Impact Assessment (herein: DPIA) for the
+processing that it will undertake in relation to this DSA. The DPIA considers BEIS’
+processing activities including the analysis and publication of data for statistical
+reasons and the sharing of data with its third-party contractors and delivery
+partners of relevant schemes. The DPIA is available upon request.
+75.
+For this project, the Authority / London Borough of Camden has completed a DPIA
+Pre Screen ‘first stage risk assessment’ which showed this project as 'low risk'. A full
+DPIA was deemed not necessary, as the requirements for it have not been met.
+
+DSA - 18
+Offshoring
+76. It is not expected that any processing under this DSA will involve processing from
+any third countries.
+Data processors and sub-processing
+77. BEIS may share personal data with its third-party contractors, to support the
+monitoring, evaluation and auditing of SHDF – Wave 1 as well as for statistical,
+research and fraud prevention purposes. BEIS remain the controller in all
+instances of sharing data with its third-party contractors and the third-party
+contractors will be processors.
+78. BEIS may share personal data with other scheme delivery partners or other
+Government Departments to prevent the duplication of support under other
+government schemes that may breach scheme rules or help to prevent fraud. In
+this scenario, BEIS and the scheme delivery partners, or other Government
+Departments would both be the controllers for the personal data. Where this data
+sharing is necessary, BEIS will put a data sharing agreement in place with the
+relevant delivery partner to support the sharing of the data.
+79. The use of any new data processors by a Partner for processing covered by this
+Agreement will be notified to the other Partners, and follow the procedures noted
+in paragraphs 45-50 of this DSA.
+Consultation
+80. BEIS have consulted with the BEIS Data Protection Officer in the process of
+completing a DPIA. Data subjects will not be consulted before the processing
+covered by this DSA commences, however, data subjects will be notified of the
+data processing as per paragraph 73.
+81.
+The Authority / London Borough of Camden Information Rights Team has
+deemed that consultation with the data subjects will not be necessary, full
+details about the project, and privacy notice will be available on the London
+Borough Camden website.
+
+DSA - 19
+Automated decision making and profiling
+82. It is not expected that any automated decision making, or profiling will be
+undertaken by BEIS with any data collected under this DSA.
+Necessity and proportionality
+83. BEIS has completed a DPIA regarding the processing covered by this DSA, this
+included a consideration of necessity and proportionality. The proposed
+processing was deemed as necessary and proportionate.
+Freedom of Information requests
+84. Partners subject to the requirements of the Freedom of Information Act 2000 or the
+Environmental Information Regulations 2006, will assist and cooperate with each
+other, to enable each to comply with its information disclosure obligations.
+85. Where a Freedom of Information request or the Environmental Information
+Regulations 2006 is received by a Partner to this agreement, which relates to data
+that has been provided by another Partner, the Partner receiving the request will
+take reasonable steps, where appropriate, to give the other Partner advance notice
+to allow it the opportunity to make representations on the potential impact of
+disclosure, or failing that, to draw the disclosure to the other Partner's attention
+after any such disclosure.
+86.Each Partner shall be responsible for determining in its absolute discretion and
+notwithstanding any other provision in this DSA or any other agreement whether
+any information is exempt from disclosure in accordance with the provisions of the
+Freedom of Information Act or the Environmental Information Regulations 2006.
+Personal data breaches
+87. The Partners will follow their own internal processes on the discovery of a personal
+data breach and advise their own security teams.
+88. In addition, they will notify other Partners of any personal data breach that relates
+to this DSA, via direct contact with the project leads named in Appendix H – Key
+Contact Details of this DSA within 72 hours of discovering the personal data
+breach.
+89. In the event of a personal data breach (or where there is reasonable cause to
+believe that such an incident may arise), the Partners will delay data transfers until
+the cause or incident is resolved, as authorised by the signatories to this
+
+DSA - 20
+agreement. If the breach cannot be resolved or if - in the view of the Partners - it
+is very serious, data transfers will stop and will not resume until the signatories to
+this agreement are satisfied with the security arrangements.
+90. Any Partner who decides that a personal data breach that affects, or is relevant to,
+the processing under this Agreement must be self-reported to the ICO and shall
+ensure that the other Partners are notified of this.
+Dispute resolution
+91. Disputes between the Partners regarding the operation of this agreement will be
+resolved in the following way:
+a. In the first instance a material breach will be reported between the project leads on
+each side, named in Appendix H of this DSA. An assessment by the breaching
+party will be conducted promptly to identify if the breach is ongoing or was a oneoff,
+and the potential impact of the breach.
+b. All material breaches will be notified to the Data Protection Officers in BEIS and
+the Data Protection Officers within the Authority. The outcomes of the assessment
+conducted by the project leads on each side, named in Appendix H of this DSA,
+will be discussed and actions identified.
+Review
+92. Scheduled formal reviews of this DSA are not expected to take place to assess
+the ongoing effectiveness of this data sharing initiative and this DSA. This DSA will
+only be reviewed if the purpose of the processing changes, or the processing
+otherwise changes in a way that affects the rights of data subjects.
+Termination
+93. The terms and conditions of this DSA will apply until the 31st March 2025. In the
+event of termination of the MoU, personal data will cease to be shared under the
+terms of this DSA.
+94. Any Partner can terminate this DSA, without giving a reason, on expiry of one (1)
+month's written notice to the others. Termination of the notice would trigger a
+formal review of the SHDF – Wave 1 grant funding provided to the Authority.
+95. Any Partner can terminate this DSA with immediate effect, where another Partner
+breaches any of its obligations to this DSA. Termination notices should be
+addressed to the Information Asset Owners at BEIS and the Authority.
+
+DSA - 21
+Press enquires
+96. Press and media enquiries should be directed by
+email at: SHDF.Enquiries@beis.gov.uk.
+Appendices
+Description Appendix
+Summary of Processing A
+Performance Data Sharing Diagram B
+Personal Data Sharing Diagram C
+Personal Data Journey D
+List of Data Items to be Shared with
+BEIS
+E
+Privacy Notice Template F
+Consent Form to Issue to Data Subjects G
+Contact Details for Key Members of
+Staff
+H
+Signatories I
+Appendix A – Summary of
+Processing
+Description Details
+Subject matter of
+the processing
+The processing relates to the delivery of the SHDF
+– Wave 1 scheme.
+Duration of
+the processing
+Processing will commence on and from the date on
+which this DSA is signed by, or on behalf of, both
+Partners. Personal data will be retained only for as
+long as it is needed and, in any case, up to 31st March
+2025.
+Nature and
+purposes of
+the processing
+The Authority will ensure that personal data relating to
+delivery of the SHDF – Wave 1 scheme is shared with
+BEIS. BEIS will process the data, including matching
+it with other datasets and onward sharing with other
+parties, to effectively manage and review the use of
+public funds and to support further research,
+evaluation, and statistical reporting.
+
+DSA - 22
+Type of
+Personal Data that
+will be processed
+The delivery of the SHDF – Wave 1 scheme is
+expected to reach over 15,000 properties, from these
+properties it is expected that the Authority and/or
+Monitoring & Evaluation Contractor will collect
+personal data including (but not limited to):
+Professional contact details of key staff in the
+Authority’s project team
+Name, address, phone, email of the property owner
+Details of the property and installation undertaken
+Details and contact information of the installer
+Categories of Data
+Subject
+Authorities and consortia leading SHDF– Wave 1
+projects
+Residents of properties eligible for the SHDF– Wave 1
+scheme
+Installers of home retrofits under SHDF – Wave 1
+scheme
+Third parties providing additional funding for SHDF –
+Wave 1
+Third parties involved in the retrofit supply chain
+Special
+Category Data
+The data collected and shared under this DSA does
+not constitute Special Category data or
+criminalorientated data (Article 10 of the UK GDPR)
+
+Appendix B – Performance Data Sharing Diagram
+Please note: BEIS are trialling a new DMS. Aspects of this are subject to change.
+
+DSA - 24
+Appendix C – Personal Data Sharing Diagram
+Please note: BEIS are trialling a new DMS. Aspects of this are subject to change.
+
+Appendix D – Personal Data Journey
+
+DSA - 25
+
+Please note: BEIS has yet to appoint an evaluation contractor to finalise the design of the M&E framework for SHDF – Wave
+1. Aspects of this are subject to change.
+DSA - 26
+
+DSA - 27
+Appendix E – List of Data Items to be
+Shared with BEIS
+SHDF – Wave 1 Data
+Collection
+Data Type Definition
+Project Summary - Monthly
+Name of Lead LA Text Name of Lead Local Authority,
+whether it is a consortium
+application and if so all other
+Registered Providers of Social
+Housing involved in the application.
+Summary of status Drop-down Please provide a RAG rating on how the
+project is performing
+Activities this period Text Describe the current state of play of the
+project. Outline activities undergone by
+the LA during this reporting period
+Plan for next period Text Outline what activities are planned for
+the next reporting period
+Estimated Project
+Completion date
+Date Insert when you estimate the project will
+be complete.
+Date at which project
+team was appointed
+Date MS1 - Insert the date when the full
+project team was appointed
+PAS2035 Risk
+Assessment stage
+completion date
+Date MS2 - When did all your projects
+complete the PAS2035 risk assessment
+stage
+PAS2035 Dwelling
+Assessment stage
+completion date
+Date MS3 - When did all your projects
+complete the PAS2035 dwelling
+assessment stage
+Design & Coordination
+completion date
+Date MS4 - When did all your projects
+complete the design and coordination
+stage
+Procurement activity
+stage completion
+date
+Date MS5 - When did all your projects
+complete their procurement activity
+Installation stage
+started
+Date MS6 - Insert the date that installation
+started
+Installation stage
+completed
+Date MS7 - Insert the date that all your
+projects finished installing their
+measures
+
+DSA - 28
+Handover and
+Lodgement Stage
+completed
+Date MS8 - Insert the date that all your
+projects finished the handover and
+lodgement stage
+Top 5 Risks Text Risks descriptions, category, mitigation,
+RAG of the top 5 risks
+Instances of Fraud Text Instances, mitigation, RAG
+Total Number of
+Installers
+Number Provide the total number of installers
+cumulatively that have worked on the
+project
+Total Number of
+Apprentices
+Number Provide the total number of apprentices
+cumulatively that have worked on the
+project
+Performance Monitoring - Monthly
+% of Project Team
+Appointed
+% Outline the percentages of the project
+team that has been appointed,
+including the Retrofit Coordinator
+PAS 2035 Risk
+Assessment
+Completed
+Number KPI1 - Outline the number of homes that
+have passed the PAS2035 Risk
+Assessment stage
+PAS 2035
+Dwelling
+Assessment
+Number KPI2 - Outline the number of homes
+that have passed the PAS2035
+Dwelling Assessment stage
+Design & coordination
+stage
+Number KPI3 - Outline the number of homes that
+have passed the Design & Coordination
+stage
+Procurement
+Activity Completed
+% Outline the percentage of procurement
+activity completed to deliver all the
+projects being funded
+Number of
+completed properties
+Number Outline the number of homes that have
+had measures installed
+Handover & Data
+Lodgement
+Completed
+Number Outline the number of homes that have
+passed the Handover & Data
+Lodgement stage
+Privacy notices issued
+to tenants
+Number KPI4 - Outline the total amount of privacy
+notices issued to tenants
+Privacy notices issued
+to installers
+Number KPI4 - Outline the total amount of privacy
+notices issued to installers
+Ancillary and Admin
+costs
+£ KPI 6 - This is the value spent within your
+allocated A&A budget
+Capital costs £ KPI 6 - This is the value spent from your
+grant excluding your A&A costs
+Property Details – Frequency TBC
+Unique Property
+Reference Number
+Number Please input the properties UPRN
+
+DSA - 29
+Total spend this month £ KPI 6 - How much funding (received
+from BEIS), for this project, has been
+spent this month. This should not
+include any other sources of funding
+such as co-funding contributions.
+First line of address Text Please input the first line of address for
+this property
+Town Text Please input the town for this property
+Postcode Text Please input the postcode of this property
+Fuel Poor Household Yes/No Answer yes, if the household income less
+than 60% of the median
+Property Type Drop-down Provide the type of premises the measure
+was installed to.
+Property Year Built Date Provide the year the property was
+built in, to aid with broader
+understanding of the energy efficiency
+and use of the property
+Property Floor Space
+(metres squared,
+m2)
+Number Provide the usable area of the internal
+flooring of the building in metres
+squared. This should cover the total
+of all room areas, hallways and
+circulation space, excluding
+staircases. Loft space is not included,
+unless the loft is habitable with a fixed
+stairway to access it. This definition is
+taken from the English Housing
+Survey, Floor Space in English
+Homes technical report 2018 by
+DHLUC (formerly MHCLG).
+https://www.gov.uk/government/public
+ations/floor-space-in-english-homes
+Property Number of
+Floors
+Number Provide the number of floors that exist
+on the property. This should exclude the
+loft.
+Property Number of
+Rooms
+Number Provide the number of usable rooms
+that exist in the property. This should
+include living rooms, kitchen,
+bathrooms, bedrooms. It should
+exclude the loft, unless this is a liveable
+space with a fixed stairway
+Smart Meter Installed? Yes/No Indicate whether the property has a smart
+meter installed
+On or off gas grid
+property
+Yes/No Identify whether the property is
+connected to the gas grid network or is
+an off gas grid property.
+
+DSA - 30
+Current Heating
+System Type
+Text Indicates the main space heating system
+of the premises prior to installation of the
+measure
+Number of measures
+to install
+Number Identify the number of measures planned
+for installation at the property and
+covered by this application
+Total Cost of
+Application
+Number The application should include a total
+proposed cost for the project. The
+total application cost should
+include the cost of the equipment, labour,
+repairs and maintenance
+Number of
+Installers
+Number Input the total amount of installers,
+including apprentices, that are working
+to install measures in the property
+Number of Apprentices Number Input the total amount of apprentices that
+are working to install measures in the
+property
+Current EPC Rating Drop-down The EPC rating of the property before any
+measures were installed
+Post Measures
+Installed EPC Rating
+Drop-down The EPC rating of the property post
+measures being installed
+Current SAP Box 39
+value
+Number Insert in numerical format the SAP Box
+39 value for the property before
+measures were installed. Should be
+supplied using full SAP
+Post Measures
+Installed SAP Box
+39 value
+Number Insert in numerical format the SAP Box
+39 value for the property after
+measures were installed. Should be
+supplied using full SAP
+Current SAP Box 4
+value
+Number Insert in numerical format the SAP Box
+4 value for the property before
+measures were installed. Should be
+supplied using full SAP
+Post Measures
+Installed SAP Box
+4 value
+Number Insert in numerical format the SAP Box
+4 value for the property after measures
+were installed. Should be supplied
+using full SAP
+Current Measures
+Installed SAP Box
+99 value
+Number Insert in numerical format the SAP Box
+99 value for the property before
+measures were installed. Should be
+supplied using full SAP
+Post Measures
+Installed SAP Box
+99 value
+Number Insert in numerical format the SAP Box
+99 value for the property after
+measures were installed. Should be
+supplied using full SAP
+
+DSA - 31
+Current
+Airtightness Test value
+Number Insert in numerical format the airtightness
+test value for the property before
+measures were installed
+Post Measures
+Installed
+Airtightness Test value
+Number Insert in numerical format the airtightness
+test value for the property
+after measures were installed
+Trustmark
+Measure
+Reference Number
+Number When a measure is lodged with
+TrustMark a unique TrustMark
+measure reference will be generated.
+Supplier must have this number before
+notifying the measure to the
+Administrator. This field will be validated
+against TrustMark’s Data Warehouse.
+Auto generated from installer details.
+TrustMark
+Lodgemark
+Certificate Number
+Number Provide a TrustMark lodged certificate
+ID which will be issued by TrustMark for
+the measure. This field will be validated
+against TrustMark’s Data Warehouse.
+PAS Certification
+Number
+Number Provide installer’s PAS certification
+number. This must be the PAS
+certification number relevant to the
+annex of the measure being installed.
+PAS certification number is required as
+evidence that a measure has been
+installed by a PAS-certified installer.
+Auto generated from installer details.
+Date of Starting
+Installation
+Date The date of started installation (DOSI)
+indicates the date on which the
+installation of the measure began. This
+is the point at which the installer
+begins working on site to install the
+measure. It includes any preparatory
+work before commencing the measure
+installation.
+
+DSA - 32
+Date of Completed
+Installation
+Date The date of completed installation
+(DOCI) indicates the date on which the
+installation of the measure was
+'complete'. By complete, this is the
+point of handover, when the measure
+must be able to deliver savings at a
+level expected for that measure. This
+will typically be the point at which the
+installer has finished the installation,
+with handover being the installer
+providing any explanation on the safe,
+efficient operation of the system, as
+well as any guidance on care and
+maintenance. N.B. All paperwork and
+updated EPC-band must be completed
+prior to recording date completed.
+Measure Type Drop-down This describes the measure type
+installed at the premises (each
+measure installed is to be reported in a
+separate row). Please see the
+guidance page on the measures that
+should be reported against
+Other Measure Text If other measure is selected from the
+dropdown please specific it here
+Total cost of measure
+(£)
+£ The cost should include a total cost for
+the measure.
+Of the total cost,
+how much is SHDF
+- Wave 1 funding
+from government
+for this measure
+(£)
+£ The total amount of funding that came
+from SHDF – Wave 1 from government
+for this measure.
+Of the total cost,
+how much is
+funding from other
+LA sources
+(nonSHDF – Wave
+1) for this measure
+(£)
+£ The total amount of funding that came
+from other LA sources (not SHDF – Wave
+1 funding) for this measure.
+Of the total cost, how
+much is selffunding
+for this measure (£)
+£ The total amount of funding contributed
+by the household where a measure
+took place.
+Installer Details - Quarterly
+LA Installer ID number Text Links back to lodgement number
+within TrustMark
+
+DSA - 33
+Installer Name Text Provide the name of the company that
+carried out the installation of the
+measure at the premises. This should
+not be the name of the managing
+agent unless they carried out the
+installation.
+Installer Email Address Text Email address of the installer. This
+should be the email address of a named
+contact, and not a generic business
+address.
+Installer Phone Number Number Phone number for the installer, either
+landline or mobile number. This
+should be the phone number of a
+named contact, and not a generic
+business phone number.
+Installer Consent to
+Contact
+Yes/No Provide Y/N response as to whether the
+installer consents to future contact
+regarding the installation and scheme
+Privacy Notice Issue
+Date
+Date Indicate the date when the LA issued the
+Installer with a Privacy Notice
+Trustmark Business
+ID number
+Number All measures must be delivered by a
+TrustMark registered business (or
+equivalent). This field will be validated
+against TrustMark’s Data Warehouse.
+Was the installer
+Trustmark accredited
+before SHDF –
+Wave 1
+project
+Yes/No
+Companies House
+Company
+Registration
+Number
+Number Registration number
+PAS Certification
+Number
+Number Provide installer’s PAS certification
+number. This must be the PAS
+certification number relevant to the
+annex of the measure being installed.
+PAS certification number is required as
+evidence that a measure has been
+installed by a PAS-certified installer.
+Tenant Details - Quarterly
+Unique Property
+Reference Number
+Number Please input the properties UPRN
+Tenant Name Text Name of the Tenant
+Tenant Email Address Text Email address of the applicant
+
+DSA - 34
+Tenant Contact
+Number
+Text Phone number for the applicant, either
+landline or mobile number
+Contact Consent Yes/No Provide True/False response as to
+whether the applicant consents to
+future contact regarding the
+installation and scheme
+Privacy Notice Issue
+Date
+Date Indicate the date when the LA issued the
+tenant with a Privacy Notice
+Tenant dropout Yes/No Provide YES/NO as to whether tenant
+has dropped out of project
+Reason for tenant
+dropout
+Drop-down State the reason for tenant dropout
+Reason for tenant
+dropout - Other reason
+Text If 'Other' selected please outline the
+reason for tenant dropout in the text box
+
+Appendix F – Privacy Notice
+Template
+Type text here
+SHDF Privacy Notice
+This notice sets out how
+The London Borough of Camden will
+use your personal data, and your rights. It is made under Articles 13 and/or 14 of the
+UK General Data Protection Regulation (UK GDPR). This notice relates to data
+collected under the Social Housing Decarbonisation Fund scheme (SHDF) operated
+by
+The London Borough of Camden
+and run by BEIS. For further information on how BEIS uses your personal data, please
+see BEIS’ SHDF Privacy Notice (Available here).
+What personal data do we hold?
+In order to deliver energy efficiency improvements, it is necessary for us to collect and
+hold personal information.
+If you are a tenant, we will process the following personal data:
+- Basic personal information such as your name, address, telephone number and
+email address for arranging works
+- Details about the works installed at the property, including size, type and cost
+- Household income and any other scheme eligibility information
+- Expected energy, carbon and cost savings expected from the works
+- Your name and preferred means of contact if you’d like to take part in BEIS’ scheme
+evaluation (optional)
+If you are an installer, we will process the following personal data:
+- Your name and preferred means of contact for arranging the works
+- Relevant accreditation and registration information
+- Business contact address
+- Details of SHDF installations you delivered (including location)
+- The number of employees in your organisation
+- Your name and preferred means of contact if you’d like to take part in BEIS’ scheme
+evaluation (optional)
+If you are a delivery partner in a project, we will process the following personal data:
+- Your name, role, and professional contact details
+
+How will we use the Information we hold about you?
+We collect information about you (where applicable):
+- To support the delivery and administration of energy efficiency schemes. This may
+require linking of your data to other datasets held by BEIS and other government
+departments
+- With your consent, to invite you to take part in scheme evaluation
+What is the legal basis for us to process your data?
+The lawful basis is article 6(1)(e) public task as processing is necessary to perform
+tasks carried out in the public interest or in the exercise of official authority vested in
+us. This is to undertake our responsibilities relating to carbon reduction and Net
+Zero as defined by the Climate Change Act (2008).
+Other processing will be necessary for the performance of our contractual obligations,
+e.g. under any tenancy or lease which will be article 6(1)(b) contract.
+BEIS process data necessary for the performance of tasks in the public interest to
+deliver SHDF. The lawful basis is article 6(1)(e) public task . The data will support
+a detailed evaluation of the overall scheme, including the types of properties,
+households and measures delivered through the SHDF, in order to ensure use of
+public funds has delivered value for money, and realised intended benefits, including
+to inform policy making in the fields of energy efficiency, fuel poverty, and health. It
+will also support BEIS’ functions relating to carbon reductions under the Climate
+Change Act 2008. Your data may also be used for statistical, research and fraud
+prevention purposes.
+BEIS will be conducting an evaluation of the Scheme. This may include you being
+contacted to take part in further research. Use of your personal data to contact you to
+take part in further evaluation research will be subject to your consent. The lawful
+basis will be article 6(1)(a) consent. BEIS will only process your personal data for
+this purpose with your opt-in consent, and a consent form will be provided to you. Note
+that you can withdraw consent at any time, and it will not impact the delivery of any
+works.
+Who we will share your information with
+We may share your information with partner organisations, including:
+- The Department for Business, Energy and Industrial Strategy (BEIS), its
+delivery partners and contractors, and their data processors Microsoft and
+Amazon Web Services
+- details of who will be doing the works
+
+We will not normally share your information with organisations other than our partner
+organisations without your consent, however, there may be certain circumstances
+where we would share without consent such as where we are required to do so by
+law, to safeguard public safety, and in risk of harm or emergency situations. Any
+information which is shared will only be shared on a need to know basis, with
+appropriate individuals. Only the minimum information for the purpose will be shared.
+How long do we keep your records
+Throughout the duration of the SHDF project which is expected to end 31st March
+2023.
+International transfers
+No data will be transferred out of the EEA.
+Your rights
+You have a number of rights under UK GDPR, including the right to request your
+information and the right to request your information be erased or amended if
+incorrect. To request your records, request changes to your records, or to object
+to the processing of your data, you will need to put your request in writing and
+provide a proof of identification to dpo@camden.gov.uk or use our webform Your
+rights - Camden Council
+You have the right to withdraw consent for the processing of your personal data,
+where processing is based on consent, such as the BEIS research and evaluation.
+To withdraw consent, you can choose to contact dpo@camden.gov.uk or use our
+webform Your rights - Camden Council
+You may also contact BEIS’ Data Protection Officer at the Department for Business,
+Energy and Industrial Strategy, 1 Victoria Street, London, SW1H 0ET, or via email,
+dataprotection@beis.gov.uk.
+You also have a right to make a complaint about our handling of your personal data
+to the Information Commissioner’s Office (ICO), an independent regulator. You can
+contact the ICO at Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, or via
+email, casework@ico.org.uk. Any complaint to the ICO is without prejudice to your
+right to seek redress through the courts.
+Further information
+If you have any questions or concerns about how your information will be used, please contact
+the Data Protection Officer at dpo@camden.gov.uk
+
+Appendix G
+– Consent Form to
+Issue to Data Subjects
+I have read and understood this Privacy Notice and BEIS’ Privacy Notice.
+Yes □ No □
+Do you consent to BEIS, or their appointed contractors, to recontact you for the
+purpose of research and evaluation related to the installation received under
+SHDF-Wave 1?
+Yes □ No □
+Participation is entirely voluntary and you may withdraw consent at any time.
+Personal data necessary to deliver work on your property will continue to be
+collected. Your installation and the work on your property will not be affected if,
+at any time, you choose not to take part.
+Full Name
+Signature
+Address
+Telephone/Mobile
+Email Address
+Preferred contact method Date
+
+Appendix H
+– Key Contact Details
+BEIS Key Contacts:
+Programme
+Director
+Name
+Email
+Data Protection
+Officer
+Name BEIS Data Protection Officer
+Email dataprotection@beis.gov.uk
+Name
+Head of Information Rights
+Team
+Email FOI.Requests@beis.gov.uk
+Data Lead
+Name
+Email
+The Authority Key Contacts:
+Project Lead
+Name
+Email
+Telephone
+Data Protection
+Officer
+Name Andrew Maughan
+Email dpo@camden.gov.uk
+Telephone
+(optional)
+FOIA Lead
+Name Information Rights Team Leader
+Email FOI@camden.gov.uk
+Telephone
+(optional)
+Data Lead
+Name
+Email
+Telephone
+(optional)
+
+Appendix I
+DSA - 39
+– Signatories
+BEIS Signature
+Signed:
+On behalf of the Secretary of State for Business, Energy & Industrial Strategy
+Name
+Role
+Address
+Email
+Date of signature
+The Authority Signature
+Signed:
+On behalf of [The London Borough of Camden]
+Name Gavin Haynes
+Role Director of Property Management
+Address LB Camden
+33-35 Jamestown Road
+London N1C 4AG
+Telephone
+(optional)
+Email Gavin.Haynes@camden.gov.uk
+Date of signature
+
+75
+Annex 6a: Approved Application Proposal (the Proposal)
+For the purposes of SHDF – Wave 1, the Proposal is the approved application
+submitted on or before 15 October 2021 as part of the SHDF – Wave 1
+competition.
+
+Annex 6b: Updated Baseline Milestone Schedule
+For the purposes of SHDF – Wave 1, the updated Baseline Milestone Schedule is a revised version of table 5a in the SHDF – Wave 1
+application form, with dates updated to reflect the new competition award date.
+Updated Baseline Milestone Schedule
+Milestone Date
+completed
+Units Jan22 Feb22 Mar22 Apr22 May22 Jun22 Jul22 Aug22 Sep22 Oct22 Nov22 Dec22 Jan23 Feb23 Mar23
+MS1 – Project Team
+Established
+%
+completed
+MS2 – PAS 2035 Risk
+Assessment stage
+completed
+No.
+homes
+MS3 – Dwelling
+Assessment stage
+completed
+No.
+homes
+MS4 – Design and
+Coordination Stage
+completed
+No.
+homes
+MS5 – Procurement
+Activity completed
+%
+completed
+MS6 & MS7 –
+Installation started
+and completed
+No.
+homes
+MS8 – Handover &
+Data Lodgement
+Completed
+No.
+homes
+
+76
+
+78
+Annex 7: Data Requirements
+In accordance with the Governance and Performance sections of this MoU, the
+Authority will be responsible for supplying the Project Team with the required
+monthly data on or before the 10th working day of each month. The requirements for
+this reporting, which will form the Monthly Report by the Authority, are as follows:
+Monthly Data Requirements Quarterly Data Requirements
+(for ongoing Monitoring &
+Evaluation)
+Per Property or One-off Data
+Requirements
+Monthly Summary
+• Summary of status
+• Activities this period
+• Plan for next period
+• Estimated Project Completion date
+• Top 5 Risks
+• Instances of Fraud
+Milestone updates
+• MS1 Date at which project team was
+appointed
+• MS2 PAS2035 Risk Assessment
+stage completion date
+• MS3 PAS2035 Dwelling
+Assessment stage completion date
+• MS4 Design & Coordination
+completion date
+• MS5 Procurement activity stage
+completion date
+• MS6 Installation stage started
+• MS7 Installation stage completed
+• MS8 Handover and Lodgement
+Stage completed
+KPI Performance
+• KPI 1 PAS 2035 Risk Assessment
+Completed
+• KPI 2 PAS 2035 Dwelling
+Assessment
+• KPI3 Design & coordination stage
+Completed
+• KPI4 Number of Privacy notices
+issued to tenants and Installers
+• KPI5 Number of completed
+properties
+• KPI6 – Total project spend
+Project additional info
+• No. of tenants & installers who have
+consented to be invited to take part
+in BEIS evaluation
+• Procurement activity – percentage of
+all procurement activity completed to
+deliver all projects being funded
+• Number of Installers
+• Number of Apprentices
+• Unique Property Reference Number
+• Tenant Name
+• Tenant Email Address
+• Tenant Contact Number
+• Contact Consent
+• Privacy Notice Issue Date
+• Tenant Dropout
+• Reason for Tenant Dropout
+• LA Installer ID number
+• Installer Name
+• Installer Email Address
+• Installer Phone Number
+• Installer Consent to Contact
+• Privacy Notice Issue Date
+• Trustmark Business ID number
+• Was the installer Trustmark
+accredited before SHDF project
+• PAS Certification Number
+• Companies House Company
+Registration Number
+Per property
+• Unique Property Reference Number
+• Property Address (first line)
+• Town
+• Postcode
+• Fuel Poor Household
+• Property Type
+• Property Year Built
+• Property Floor Space (metres squared,
+m2)
+• Property Number of Floors
+•
+Property
+Number of Rooms
+• Smart Meter Installed?
+• On or off gas grid property
+• Current Heating System Type
+• Number of measures to install
+• Type of measure installed
+• Total Cost of Application
+• Current EPC Rating (pre-measures
+installed)
+• Post Measures Installed EPC Rating
+• Current SAP Box 39 value (premeasures
+installed)
+• Post Measures Installed SAP Box 39
+value
+• Current SAP Box 4 value (pre-measures
+installed)
+• Current Installed SAP Box 4 value
+• Post Measures Installed SAP Box 99
+value (pre-measures installed)
+• Post Measures Installed SAP Box 99
+value
+• Current Airtightness Test value
+(premeasures installed)
+• Post Measures Installed Airtightness Test
+value
+• Date of Starting Installation
+• Date of Completed Installation
+• Trustmark Measure Reference Number
+• TrustMark Lodgemark Certificate Number
+• Total cost of measure (£)
+• Of the total cost, how much is SHDF grant
+funding for this measure (£)
+• Of the total cost, how much is LA funding
+for this measure (£)
+• Of the total cost, how much is selffunding
+for this measure (£)
+
+79
+Annex 8: Recovery Plan (draft – final template to be provided to
+the Authority)
+Local Authority Grant Reference Grant
+Name
+Local Authority
+Lead
+Report Date
+INSERT FULL
+NAME
+INSERT
+REFERENCE
+SHDF
+Wave 1
+INSERT LEAD
+OFFICIAL
+INSERT DATE
+# Interventions Target
+Date
+Status Owner
+1 R/A/G
+2 R/A/G
+3 R/A/G
+4 R/A/G
+5 R/A/G
+Annex 9: AP1a form
+The template for this is attached separately as a Word document to enable
+completion.

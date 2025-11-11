@@ -1,0 +1,85 @@
+The Scottish Government’s Education Analytical Services (EAS) is part of the Scottish Government’s Learning Directorate.
+To allow us to fulfil our functions, we collect data with regards to children and young people educated in, and the workforce of, Scotland’s education establishments, and have legal powers to do so.
+This is data that schools, settings providing funded Early Learning and Childcare (ELC), local authorities, awarding bodies (such as the Scottish Qualifications Authority) and other public bodies (such as Skills Development Scotland) already hold for their own purposes.
+This document details information relating to how the personal data shared with the Scottish Government as part of the Early Learning and Childcare Data Transformation Project (ELC DTP) is processed by EAS.
+This statement reflects the privacy notices we publish and make available to inform data subjects, as well as providing additional details to support these data providers.
+The organisations involved in the sharing are Scottish local authorities.
+These organisations will share data that they hold and data received from settings providing funded ELC in Scotland, with the Scottish Government.
+As part of the ELC DTP we need to carry out a series of trials collecting data on children accessing funded ELC and the workforce in these settings in order to establish a robust process for collecting and transferring data for this sector.
+The longer term aim is to establish a dataset that will be used to: plan and deliver better policies for the benefit of all, or specific groups better understand some of the factors which influence child outcomes conduct workforce planning target resources better enhance the quality of research to improve the lives of people in Scotland provide a window on society, the economy and on the work and performance of government by publishing statistical publications and additional tables about education.
+More information about the project is available at https://www.gov.scot/Topics/Statistics/Browse/Children/ELCData/ELCDTP
+By completing this project and collecting information on children and the workforce we can maximise the value of the analysis and research that we conduct and achieve the purposes set out in section 3.1. Achieving these aims will help bring benefits for people in Scotland.
+Data may also be shared with others such as academic institutions or charities to carry out additional research and statistical analysis, helping to inform policy development and contributing to improving outcomes for Scotland’s people.
+The trial data collected in the meantime will help identify any issues with the methodology and test the systems in place, and allow us to develop the process, for example, by assessing what validation is necessary for this data collection.
+This will improve the quality of the data for this sector in the future.
+Individual data about children educated in, and the workforce of, Scotland’s education establishments is collected by EAS for statistical and research purposes only for the performance of a task carried out for reasons of public interest.
+The Scottish Government will not publish or make publicly available any information that allows individual people be identified, nor will data be used by Scottish Government to take any actions in respect of individuals.
+On occasion, we may share data on individuals when it is lawful and ethical to do so, and after we have considered the following questions: does the data sharing comply with the law? is it in the public interest to share the data? are we only sharing the minimum amount of data and for the shortest possible time to meet the request? does the organisation asking for the data have sufficient security standards themselves and are they aware of statistical disclosure controls?
+Education Scotland in order for this agency to carry out its functions National Records of Scotland to carry out research relating to the national population census Academic institutions and organisations to carry out additional research and statistical analysis which helps inform policy development and contributes to improving outcomes for Scotland’s people Other Public Bodies who require the data in order to carry out their official functions.
+All requests are scrutinised by the EAS Data Access Panel, who consider the potential public benefits and also the privacy risks of sharing data.
+The Panel is chaired by the Divisional Data Access Officer, and membership includes senior officials from EAS, the Scottish Qualification Authority (SQA) and the Scottish Government’s Data, Statistics and Outcome Divisions (DSOD).
+The panel provide advice on data access requests to the EAS Head of the Division who, as Information Asset Owner, is responsible for decisions on data sharing.
+If a request to share data is approved, an appropriate data sharing agreement is put in place with the relevant organisation prior to the data being securely shared.
+Further information on data access can be located on the Scottish Government Education Analytical Services web pages.
+The data collected and processed by the Scottish Government will be on both children being educated in settings providing funded ELC, and staff working within these establishments.
+The majority of the data on children is initially received by the setting or local authority from parents/carers of children when registering their child for funded ELC in Scotland, and is regularly maintained by the establishment and the local authority responsible.
+The workforce data that will be collected for funded ELC only covers those employed by the local authority and is initially collected by local authorities, and largely held on local authority management information systems.
+Going forward more detailed information will be collected on children and staff working in settings providing funded ELC.
+For children, data collected will contain a range of information on personal characteristics (e.g. sex, ethnic background) and education variables (e.g. stage, additional support needs, English as an additional language).
+For workforce, data collected will contain a range of information on personal characteristics (e.g. sex, ethnic background) and employment details (e.g. setting staff are employed at, working pattern).
+Although education establishments and local authorities require and collect a lot of additional information about the children it is responsible for educating, and for its own workforce, not all of this information is shared with the Scottish Government.
+For example, we will not receive contact details for children that are collected for use within the setting when contacting parents, etc. We also do not collect the names of children or of the workforce.
+Information is also collected and held by the Scottish Government on the settings providing funded ELC.
+Some special category personal data is collected as part of data trials for the new ELC collection, and will continue to be collected in the future.
+Information on the ethnic background of children and workforce will be collected as part of the child census and staff census respectively.
+Due to data quality issues and the incomplete nature of the trials data, this may limit the use of this data in linkage projects, but there is still the possibility that it could be made available for data linkage if appropriate.
+In the future when the new ELC census is established, this data may be made available for data linkage in order to enhance the research and statistics for this sector.
+Any data linkage will be done under the Data Linkage Framework for Scotland.
+The aims of the Data Linkage Framework are to: build on existing successful programmes collaboratively to create a culture where legal, ethical, and secure data-linkage is accepted and expected;  minimise the risks to privacy and enhance transparency, by driving up standards in data sharing and linkage procedures; encourage and facilitate full realisation of the benefits that can be achieved through data-linkage to maximise the value of administrative and survey data.
+The six Guiding Principles which should be considered before undertaking a data linkage project can be viewed in detail at: www.scotland.gov.uk/GuidingPrinciplesforDataLinkage
+When a research project requests access to data as part of a data linkage project, these applications will be considered by the SG’s Statistics Public Benefit and Privacy Panel (PBPP) or the PBPP for Health and Social Care.
+For the data trials and the new ELC census, the source for most of the data is information held on local authority data management systems on children receiving funded ELC within Scotland, and its workforce.
+The local authority data management system used to hold the majority of the data on children is hosted by SEEMiS Group who process data for local authorities in Scotland.
+SEEMiS are not using this data for their own purposes.
+SEEMiS Group are an education Management Information System provider and may be contacted at letters@seemis.gov.scot.
+ScotXed (within the Scottish Government) will securely transfer the data from SEEMiS, local authority systems or other education establishments or public body’s systems using secure transfer software and processes for collecting and validating data.
+However, not all of the data transferred to the Scottish Government is held on SEEMiS.
+Some information will come directly from other local authority management information systems, or from education establishments or other public bodies, to the Scottish Government.
+The storage of ELC data within Scottish Government, is managed by the ScotXed Unit (within the EAS).
+The format of data to be shared is still being finalised for the new ELC collections.
+Once decided, data specifications and guidance notes will be available on the Scottish Government website.
+Information is collected by EAS regularly, usually on an annual basis.
+Data is currently being transferred as part of a set of data trials.
+Once the process is finalised, data on children accessing funded ELC will be transferred in Spring each year, and data on the workforce will be transferred in Autumn each year.
+Access to the individual level data is restricted to a limited number of Scottish Government staff based in EAS, where access is required for the stated purposes set out in section 3.1. Access to the data is audited and subject to approval from the Head of the ScotXed Unit.
+Information on the legislation which allows EAS to collect information on children educated in, and the workforce of, Scotland’s settings providing funded ELC can be found in:
+The Education (Scotland) Act 1980 Standards in Scotland's Schools etc. Act 2000 Children and Young People (Scotland) Act 2014
+Under GDPR, the lawful basis for processing is Article 6(1)(e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
+The lawful basis for processing special category data is Article 9(2)(j) processing is necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) based on Union or Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject.
+Under GDPR, Article 89 (2) provides for derogations from Articles 15 (subject access) , 16 (right to rectification), 18 (right to restriction of processing) and 21 (right to object) subject to the conditions and safeguards set out in Article 89 (1) where data are processed for scientific or historical research purposes or statistical purposes.
+The data is also exempt from right to erasure (Article 17) given that it is needed for archiving purposes in the public interest.
+The organisations involved in data sharing take appropriate technical and organisational measures against the unauthorised or unlawful processing of data and against the accidental loss or destruction of, or damage to, data.
+The measures taken by Scottish Government include, but are not limited to, the security measures set out below.
+Access to the individual level data is controlled by the ScotXed Unit.
+Access is restricted to a limited number of Scottish Government staff based in EAS, where access is required for the stated purposes set out in section 3.1. Access to the data is audited and subject to approval from the Head of the ScotXed.
+All Scottish Government staff are required to complete annual training on data protection and information security to ensure staff are aware of the responsibilities when handling data.
+Data is stored on physically secure data servers, to which access is restricted.
+The building which host the servers is subject to access control, with security passes and personal pin numbers requited to enter the building.
+There are additional controls on access to the secure rooms which house the servers.
+The data is secured and permissions to access the data only given on the submission of a Data Access form signed off by the appropriate Data Controller.
+The warehouse is designed to help with versioning and consistency of data structure.
+It can only be accessed within the SCOTS network using network authentication.
+In the event of a material breach of these arrangements by Scottish Government EAS shall inform data providers affected immediately.
+Under the General Data Protection Regulation (the GDPR), which took effect in the United Kingdom from 25 May 2018, the Parties shall duly comply with and observe these obligations.
+The Parties shall comply with any notification requirements under the Data Protection Act 2018 (DPA) and duly observe all their obligations under the DPA which arise in connection with this Agreement.
+The Parties shall co-operate in handling and disposing of any requests made to either of the Parties, under the Freedom of Information (Scotland) Act 2002 (‘FOISA’) of the other.
+The Parties acknowledge that nothing in this arrangement is confidential.
+The Scottish Government agrees to publish this arrangement on its website.
+Research and statistics exemption Each party shall comply with any obligation incumbent upon it, to the extent it applies under Article 15 of the GDPR.
+The data will be processed in accordance with Article 89 of GDPR and each party will take the appropriate technical and organisational measures.
+EAS have conducted a Data Protection Impact Assessments (DPIA) for this project which is available on the Scottish Government website: https://www.gov.scot/Topics/Statistics/Browse/Children/ELCData/ELCDTP/DTPPrivacyAssessment
+A privacy notice covering the data collected for the project is available on the Scottish Government website: https://www.gov.scot/Topics/Statistics/Browse/Children/ELCData/ELCDTP/DTPPrivacynotice
+The Parties acknowledge that, Personal Data are to be stored in accordance with Article 5 (1)(e) of the GDPR.
+Notwithstanding clause 11.1, personal information no longer required for the purposes set out in section 3.1 will be destroyed, in line with Scottish Government security protocols.
+The party destroying the information in terms of clause 11.2 will notify that information (including specifying what information) has been destroyed in line with the relevant security protocol.
+The provision of trial data to EAS to support the ELC DTP has a finite life and will be reviewed in line with progress with the project, but the project will result in an on-going arrangement and the continued need for similar data to meet the longer term purposes set out in section 3.1. Future data requirements will be regularly reviewed by the Scottish Government.

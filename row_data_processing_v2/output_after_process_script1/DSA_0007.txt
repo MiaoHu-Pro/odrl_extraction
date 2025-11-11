@@ -1,0 +1,121 @@
+London Borough of Camden 5 Pancras Square London N1C 4AG (“the Council”) Status 1 This DSA is not legally binding and no legal obligations or legal rights shall arise between the Parties from the provisions of the DSA.
+By signing this agreement the parties agree to adhere to the framework set out in this DSA.
+Purpose 1 The purpose of this DSA is to set out the roles and obligations of each of the Parties.
+Background 1 An ONS feasibility study in 2017 identified the benefits of using Council Tax data to help meet our transformation goals.
+As the required data is beyond what is collected centrally by any government department, ONS are therefore acquiring Council Tax data from every Local Authority in Great Britain.
+Acquisition of Council Tax data will also move ONS towards achieving its corporate aims laid out in the Statistics for the Public Good strategy published in July 2020.
+The aims of this strategy include, but are not limited to; providing faster data to support critical decision making on a daily basis, delivering a successful Census in March 2021 with high-quality outputs from the Census in 2022 and 2023, and delivering population and migration statistics based on administration data burden.
+In line with the above corporate aims, this administrative source will also enable ONS to enhance our current statistical outputs in terms of both quality and timeliness, and may in the future be used in the production of new statistical outputs.
+ONS proposes the transfer software will be MoveIt which they will manage on the Council’s behalf, unless the Council agrees to use a different software with ONS.
+Following discussions with ONS, (the Council) will not supply the following variables that are set out in Annex 1: Account Reference Number, Council Tax paid and Date of Council Tax paid.
+ONS continue to have a business need for Council Tax paid and Date of Council Tax paid and will continue to provide (Insert LA) with evidence of this, but understand that (Insert LA) cannot find their own justification to supply these variables at present.
+This Data Sharing Agreement is a temporary solution, so once agreement to supply all variables is reached, this DSA will be terminated and a new agreement signed.
+Legal basis 1 Section 45A of the Statistics and Registration Service Act 2007 (as inserted by section 79 of the Digital Economy Act 2017) permits any public authority to disclose to the Statistics Board any information they hold in connection with their functions.
+Subject to the provisions laid out in section 53A of the Statistics and Registration Service Act 2007 (as inserted by section 81 of the Digital Economy Act 2017), ONS may disclose information to a devolved authority if that information is required by the devolved authority for their statistical functions, only with the consent of the public authority to do so.
+Data Protection Legislation 1 The Council is the data controller for the Council Tax data they hold.
+Both parties have completed a Data Protection Impact Assessment and ONS have embedded theirs in Annex 4 for reference.
+ONS will become a Data Controller of the copy of the Council Tax data they receive under this DSA.
+The following are the UK GDPR lawful basis under which ONS will process personal data including special categories of personal data: Article 6(1)(e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
+The following are the UK GDPR lawful basis under which the Council will process personal data including special categories of personal data: Article 6(1)(e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
+Article 9(2)(g) processing is necessary for reasons of substantial public interest, on the basis of Union or Member State law, with the Data Protection Act 2018 Schedule 1 part 2 condition being para 6 statutory and governmental purposes and the underlying law being S45A Statistics and Registration Service Act 2007 Security Incidents or Information Breaches 4 Any incident or breach involving Council Tax data (such as loss or wrongful disclosure etc. ) must be reported to the Council, within 24 hours of becoming aware.
+The report outlined in 6.4 must explain the incident in detail and the steps that are being taken by ONS to address the incident.
+On receipt of any security incident report the Council will consider whether the impact means further transfer of information will be halted, or until such time as information transfer can be resumed.
+ONS will notify the Council of any breaches.
+Further ONS will report any breaches that are likely to present a risk to the rights and freedoms of
+Data use 1 Council Tax data supplied under this agreement will be used by ONS for the purposes of any one or more of its functions under the Statistics and Registration Service Act 2007, the data will also be used in accordance with ONS’ functions laid out in the Census Act 1920.
+Examples of work that will be undertaken by ONS using Council Tax data are as followed; Social Survey Division: Replace Council Tax related questions on four social surveys (Survey on Living Conditions, Living Costs and Food Survey, Wealth and Assets Survey, Family Resources Survey), used to produce new statistical outputs and enhance current statistical outputs.
+Also replace survey questions about disability and carers at a Local Authority level to produce more accurate and granular health related modelling.
+Address Register Team: Creating and enhancing our address register for the Census.
+Admin Data Census: improve population research outputs by creating an indicator of activity to use for people and addresses.
+Contribute to adminbased population estimates and internal migration statistics.
+Methodology: Efficient sample designs and improve precision of estimators Public Policy Division: Improve the statistics about the number of new properties built.
+Also help improve dwelling stock estimates by enabling a subnational vacancy rate adjustment, which isn't currently possible between censuses.
+Census Transformation Programme 2021: Help with enumeration, especially of hard to count population / geographic areas.
+Quality assurance and validation of census responses and estimates, improve the accuracy of census estimates.
+Council Tax data is vital in helping build pictures for signs of activity and inactivity, indicators for missed and vacant addresses.
+Information supplied under this agreement may be disclosed under section 53A SRSA 2007 to a devolved authority following a request in writing outlining the information which is sought and the purposes for which it is sought.
+Information may only be disclosed if ONS is satisfied that the information is necessary for the purposes of the statistical functions of the devolved authority and that it will not be used for any other purpose, and with consent from the Council for the disclosure of the information.
+Council Tax Data will be stored securely in ONS’s Data Access Platform (DAP) and will be de-identified at the earliest possible point by business areas who will use it.
+It will be kept on DAP for as long as ONS reasonably require it for its statistical functions in accordance with the relevant law and guidance set out in clause 11.
+Access to Council Tax Data is set out in clause10.2.
+Data linkage undertaken by ONS will not lead to the creation of new Identity Registers.
+Data will be linked to the pre-existing Demographic Index (DI) which sits within ONS’s Admin Based Population Estimates (ABPE).
+Commencement and period of operation 1 This DSA shall take effect from the date the Parties affix their signatures below and shall continue in force until the DSA is terminated in writing by any of the Parties (see section 13.1).
+A termination notice should be provided to the Primary Contact in Annex 3.
+This DSA will be reviewed at least annually.
+Any changes needed in the interim may be agreed in writing and appended to this document for inclusion at the following review.
+Reviews outside of the schedule can be called by representatives of any Party to this DSA by writing to the Primary Contact listed in Annex 3.
+Amendments to the data by the data supplier 1 the Council undertakes a commitment to advise ONS at the earliest opportunity of any plans to implement the following changes to their Council Tax data; The type of data collected, or the way the data are collected, including data no longer collected; The way the data are organised, stored and retrieved; The way the data are supplied.
+This commitment does not change the right of the Council) to make such changes, but will help mitigate any potential disruption to the production of statistics and statistical research conducted by ONS.
+After reviewing their data needs, ONS no longer require the Account Reference Number (which has been removed from Annex 1 of this DSA).
+ONS are working with Software Providers to provide a software solution to this.
+Where a software solution is not yet in place, in the interim it is the responsibility of the Council to remove the data in Account Reference Number column before sending them to ONS (if this is possible for them to do so).
+The column must be kept (with blank values in it) to ensure column conformity when comparing longitudinal data and the engineering processes match.
+As this DSA agrees the supply of a reduced variable set, it is also the responsibility of the Council to remove the data in the Council Tax Paid and Date of Council Tax paid columns before sending them to ONS.
+The columns must be kept (with blank values in them) so that the files remain useable and can be matched to the rest of the data being supplied by other Local Authorities.
+Otherwise, data should be supplied under the variables set out in Annex 1 and through the methodology set out in Annex 2.
+Security and assurance 1 Data security for storage and linkage of the data will be provided with an assured ONS data analysis environment that includes the following elements of security control: Need To Know applied through user account access and management Controlled ingest and export of data into/out from the environment Controlled account access using unique credentials based on job role Logged and monitored access of user activity within the environment Secure build configuration for infrastructure, including cloud services Vulnerability tested infrastructure with appropriate remediation and patching Compliance checks against security enforcing controls Architectural review against standards and best practice Staff security cleared to the appropriate level based on their supervised and/or unsupervised access to sensitive data in accordance with ONS clearance policies and data access processes Education and awareness of environment users covering security policies and secure working practices Operational support processes to securely manage the environment Risk assessment to identify security risks and mitigation actions to reduce this risk.
+In order to be granted access to record level data, ONS users must provide a project proposal describing their use of data and justifying their requirements.
+Approval for projects is given on a case-by-case basis by the designated Information Asset Owner (IAO), with input and advice from Security and Information Management (SaIM).
+Each business case for access to data by an individual or by a project team is reviewed to ensure the following criteria are met: Purposes of the proposed work expected outcomes and benefits to the ONS and the public are clearly outlined; Ethical approval for the proposed project/piece of work is in place; Justification for use of all Personal and Special Categories of Personal Data requested as part of the project is in place; The role of each user within the proposed project/piece of work is clearly specified and users are security-cleared to the appropriate level; Requirements for access to multiple sensitive datasets for use within a single project/piece of work are clearly specified; Processes are in place to minimise access to personal identifiers by segregation of duties, where appropriate.
+Access to record level data is time-limited for the specified duration of the project and regular auditing is in place to ensure compliance with Data Partner agreements and with specific conditions of data access imposed by IAOs.
+With reasonable notice, periodic written/verbal checks may be conducted by an authorised employee of the Council to confirm compliance with this DSA.
+ONS will keep a record of any processing of Personal Data and will provide a copy of such record to the Council on request.
+ONS will not transfer or permit the transfer of the Data to any territory outside the UK without the prior written consent of the Council.
+Data destruction 1 In accordance with Article 5(1)(e) UK GDPR, ONS will keep the data for as long as necessary to fulfil its statutory functions.
+The retention of the Council tax data until ONS no longer requires it to fulfil our statutory functions aligns with the Information Commissioner’s Office guidance
+Further details can be found on the ICO website: https://ico.org.uk/for-organisations/guide-to-the-generaldata-protection-regulation-gdpr/principles/storage-limitation/.
+Once ONS no longer need to hold the data to fulfil its statutory functions the council tax data held by ONS under this arrangement will be destroyed in line with HM Government security guidelines and with relevant data protection legislation.
+ONS’s security principles for deleting data align with National Cyber Security Centre guidance.
+ONS will provide a written declaration confirming that the Data has been destroyed in accordance with 11.2 to the Primary Contact listed in Annex 3.
+Warranty 1 ONS acknowledge that in providing us with the data listed in Annex 1 by the Council make no representations and offer no guarantees as to its completeness, quality or accuracy.
+ONS also acknowledge that in no event will the the Council be liable for any loss or damage including, without limitation, indirect or consequential loss or damage, arising from use or loss of use of the information by ONS.
+Termination 1 This DSA may be terminated by any Party giving not less than 3 months (65 working days) notice in writing to the other Parties at any time.
+Such a notification should be provided to the Primary Contact listed in Annex 3 of this agreement.
+This DSA will be terminated and a new agreement will be signed when the supply of all variables have been agreed.
+Confidentiality 1 The Parties agree that they shall take appropriate organisational, security and technical measures to prevent unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to personal data in accordance with applicable Data Protection Legislation.
+All ONS employees must comply with S.39 SRSA which makes it a criminal offence to disclose personal information.
+Statement of Administrative Sources 1 In line with the commitment of ONS to ensure administrative data is collected in a transparent manner and treating data suppliers and data subjects with respect, the receipt of the Council Tax data listed in Annex 1 will be added to ONS’ Statement of Administrative Sources.
+This statement is published biannually, and provides publicly available information on the administrative sources of data that ONS uses to produce statistics, or that are available for use in the production of statistics in the future, as well as, information on statistical techniques for using administrative data.
+Publication of statistical and research outputs 1 In line with s.39 SRSA (confidentiality of personal information), any ONS output, will undergo thorough disclosure control prior to publication to protect the identity of individual persons and/or businesses in those releases.
+The disclosure control applied by ONS will ensure that no person and/or business will be; Specified in the information, Can be deduced in the information, Can be deduced from the information taken together with any other published information.
+All Parties to this DSA are subject to the requirements of the Freedom of Information Act (FoIA) 2000.
+Parties to this agreement will notify each other if they receive a FoI request relating to this data share, and will work with each other to provide the
+Notification of an FoI request should be given to the Primary Contact provided in Annex 3.
+Dispute resolution 1 The Parties shall each appoint a nominated representative to whom any disputes arising from the operation of this DSA shall be referred.
+If the Parties are unable to agree a matter arising under the terms and clauses of this DSA, such a dispute shall be referred to the senior officers at Grade 6 (equivalent) or above of the nominated representatives for resolution.
+The decision of the senior officers shall bind all Parties and be treated as resolving the dispute.
+The Parties shall, where a dispute cannot be resolved by agreement between their senior officers, appoint an adjudicator whose decision shall be final.
+Extraction software 1 ONS has commissioned and funded the creation of a bespoke piece of software that is supplied to the Council by the Software Providers scheduled regular release.
+This software will allow the Council to extract the required variables listed in Annex 1 from the Council’s Revenue and Benefit System.
+As the Council are sending a reduced set of variables, it is the responsibility of the Council to delete the data in Account Reference Number, Council Tax Paid and Date of Council Tax Paid but keep the columns as set out in 9.4 of this agreement.
+Name Mark Stewart Position Head of Council Tax and Business Rates
+ONS have a business case for all variables listed below, but under this agreement the Council do not currently have to supply Council Tax Paid and the Date of Council Tax Paid as the Council do not currently believe they have a legal basis for supplying ONS these variables.
+These variables have been clearly marked and greyed out in the table below.
+Variable description Variable name Variable type Variable length Comments UPRN UPRN Character 12 Unique Property Reference Number, if available.
+Supplying local authority district LAD Character 9 9-character local authority district code of the authority who supplied the data.
+PUR PUR Character 25 Property Unique Reference, mandatory field.
+Company/organisat ion or exors name company_name Character 120 To include any organisations/compa nies or executors that are paying the council tax for the property.
+First name of primary liable party first_name_pml Character 40 Forename of council tax payer.
+Middle name/names of primary liable party middle_names_p ml Character 40 Any middle names held for the pml Surname of Primary Liable Party surname_pml Character 40 Surname of council tax payer pml Full name of parties classed as liable or otherwise for CT full_name_2 Character 120 Full name of any other named individual given, first name, middle name, surname order Full name of parties classed as liable or otherwise for CT full_name_3 Character 120 Full name of any other named individual given, first name, middle name, surname order
+ctr_paid_flag Character 1 Flag to indicate whether any current liable parties have received reduction entitlement as at extract date.
+Council Tax Reduction ct_reduction Decimal 10 Council tax reduction at extraction date, amount in pounds and pence.
+Current liability date liability_date Date YYYY- 10 Date that the current council tax payer (the live account at extract date) started to pay council tax on this property Exemption flag exempt_flag Character 1 Flag to indicate if the property is exempted from paying council tax.
+Any open exemptions as at the extract date.
+Exemption type exempt_type Character 4 The reason for the exemption (class of exemption).
+Date exemption applied exempt_date Date YYYY- 10 Earliest date this exemption has been applied Discount flag discount_flag Character 1 Flag to indicate if the property is paying council tax at a discounted rate or if a disregard is applied.
+Discount type 1 discount_type_1 Character 4 The reason for the discount.
+Discount value 1 discount_value_ Decimal 4 Percentage discount given for entire year (at time of extract).
+Decimal to account for local discounts.
+Discount type 2 discount_type_2 Character 4 The reason for the discount.
+Discount value 2 discount_value_ Decimal 4 Percentage discount given for entire year (at time of extract) to 1 decimal place Date discount type 1 applied discount_date_1 Date YYYY- 10 Earliest date this discount has been applied of the latest instance.
+Date discount type 2 applied discount_date_2 Date YYYY- 10 Earliest date this discount has been
+Disregards flag disregard_flag Character 1 Flag to indicate whether a disregard has been applied to people within the property.
+This should be any active codes at the time the extract is taken.
+Premiums applied premium Character 1 Flag to indicate whether the property has attracted a premium.
+Only for empty properties at date of extract Date premiums applied premium_date Date YYYY- 10 Date the premium was applied.
+Empty or second homes date empty_second_d ate Date YYYY- 10 Date the property became empty or became a second home.
+Penalty Issued penalty_issued Character 1 Flag to indicate whether a penalty has been applied since the last extract was taken.
+Penalty date penalty_date Date YYYY- 43 Date penalty issued since the last extract.
+Transfer Process Transfer mechanism ONS requires that the monthly extracted data is transferred via the dedicated and secure MoveIT account, which has been set up for each Local Authority.
+Data Journey The flowchart below provides an overview of the monthly end-to-end data journey Local Authority uses dedicated MoveIT account to transfer data to ONS Local Authority runs monthly schedule and extracts data Extracted council tax data sent to secure, dedicated ONS MoveIT account ONS automatically extracts data from secure, dedicated Moveit Account Data ingested into Trusted Data Zone (Virus Checked) Moved into ARC Data stored in the secure Data Access Platform Users given controlled and restricted access to data variables ONS Data Engineering Team restructures data to ensure usability

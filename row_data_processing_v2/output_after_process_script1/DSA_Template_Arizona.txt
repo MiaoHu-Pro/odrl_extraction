@@ -1,0 +1,48 @@
+WHEREAS Requester has a requirement for Data that is produced, curated and/or in the custody of Data Owner, and WHEREAS Data Owner and Requester are both signatories to the Arizona State Data Sharing Memorandum of Understanding (DSMOU), and WHEREAS Data Owner has agreed to provide Data to Requester under the terms of the DSMOU and those additional terms hereinafter set forth, NOW, THEREFORE, the parties agree as follows.
+Requester requires, and Data Owner agrees to provide, the Data Elements listed and described in Annex A, hereinafter referred to as “Data”, using a process that may or may not be scheduled or automated, whereby one party requests said Data, and the other party responds by transmitting the requested Data, the whole process hereinafter referred to as a Data Exchange.
+This Data Exchange will be referred to by the parties using the business name(s).
+Requester agrees to the use of the Data solely for that/those purpose(s).
+Data Owner expressly accepts and agrees to provide the Data under that legal authority.
+Data Owner agrees to the use of the Data solely in that manner.
+At the expiration of such retention period, Requester will securely erase the Data from all systems and storage media.
+Requester shall also securely erase Data, and/or return physical media to Data Owner, within 30 days of receiving a written request from the Data Owner.
+Requester hereby agrees to notify the Data Owner in the event of a records request affecting the Data and to give the Data Owner the opportunity to object to the disclosure of the Data.
+Requester hereby acknowledges that the privacy, confidentiality and security of the Data must be protected in accordance with the regulations, if any, selected and initialed in Annex “B”.
+Requester further represents and warrants that it is aware of the regulations and the privacy requirements and undertakes to train and supervise all staff that has access to the Data on the procedures to be taken to protect the privacy of this Data in accordance with stated law(s).
+Requester may integrate the Data into its data repository and must observe the following additional restrictions
+In the event that the Data is intended to be used for reports, charts, analyses and other work products to be published or transmitted to third parties then the Data Owner reserves the right to require the Requester to submit such work products and conclusions based on the Data to the Data Owner prior to publication to allow Data Owner to comment on whether the Data has been used and interpreted in a manner consistent with its business purpose.
+Requester shall not share or re-disclose the Data to third parties without written permission from the Data Owner, unless, in the course of integrating the Data into their systems, it becomes indistinguishable from similar data, such as, for example, email addresses or phone numbers, generated internally by the Requester.
+The parties agree to deliver Data to the Requester using the methods enumerated in Annex “C” and on the schedule and frequency enumerated in Annex “D”.
+Deliveries of Data from the Data Owner to the Requester shall commence on next first.
+Data Owner represents that the Data conforms to the Data Quality Requirements enumerated in Annex “E”.
+Data Owner does not represent that the Data is suitable for Requester’s intended business purposes, and, provided that the Data conforms to the Data Quality Requirements, Requester assumes all risks that Data is suitable for its purposes.
+The parties agree to review this agreement not less than annually, one month prior to the anniversary date, and to make such amendments, which may include the termination of this agreement, as they deem necessary at the time.
+This agreement may be terminated in the event that the Requester is not compliant with its terms, or with the terms of the DSMOU.
+The effective date of such termination will be specified by notice given to the Requester by the Data Owner.
+This agreement may be terminated immediately in the event that Applicable Law makes it illegal to exchange the Data or the intended use of the data by the Requester is no longer permitted by law.
+This agreement continues in perpetuity commencing on the date hereof.
+This agreement may be cancelled by agreement between the parties.
+Cancellation will become effective not less than 90 days following written notice of cancellation by either party, unless the 90-day notice period is waived in writing by the Requester.
+This agreement, including the Annexes, may be amended in writing by mutual agreement of the parties at any time.
+Amendments shall be made in writing.
+No monetary consideration shall be exchanged between the parties for the operational costs of this Data Exchange, other than those expressly provided for in this agreement.
+No monetary consideration shall be exchanged between the parties for failure to meet Service Level Objectives stated in this agreement.
+The parties agree to faithfully and fully cooperate to resolve any service level issues that arise throughout the term of this agreement, and to refer disagreements to the State Data Interoperability Council for assistance with issue resolution.
+To Securely Erase data means to erase it in a manner that prevents it from being restored or reconstructed.
+In the case of removable media such as tape or optical disk, this means destroying the media through shredding or physical destruction.
+In the case of rewritable storage media such as disk, removable hard drive, thumb drive, solid state media or cloud storage media, the files must be overwritten with zeros or nulls and then deleted from the system.
+Data Exchange means the transfer of data from a Data Owner to a Requester.
+Annex “A” Data Elements Include: Specific Data fields, names, Data type and size File layout, delimiters, headers, footers, etc.
+Format (JSON, CSV, Excel, flat text, API, etc. ) Whether an existing Interoperability standard is being applied, such as an internal standard, HL7, NIEM, etc. If the Data service does not follow an approved standard, or there is no standard, specify this as well.
+Applicable items from Data Sharing MOU § 8(K) Data lineage information that will help the user understand how to interpret the Data values, how to protect the Data and how the Data can be used.
+Classification of confidential data elements Change management procedures Annex “B” Applicable Privacy Regulations Annex “C” Data Transmission Process and Protocols Include, if applicable: Details of Data format Method of transmission (API, SFTP, etc. ) Folders/directories where Data will be placed Login & authentication procedures Process for obtaining credentials, API keys, encryption keys, etc.
+Encryption methodology File naming convention Time period covered for each exchange How to identify the time period in the header, file name or elsewhere in the Data.
+Whether Data is a full replacement, append or update in place How to identify which rows to update in an “update only” exchange Details on the Data transfer process, including: Tracing the business path of the Data transfer from the source System to the target location; Identifying if any updates or transformations are made to the Data in transit; Capturing details on the transport protocol that will be applied transferring the Data; Noting if the transport protocol changes along the path; and Indicating the transfer/transmittal protection requirements to ensure the Data content is protected appropriately per Applicable Law.
+Change management procedures Annex “D” Schedule & Frequency of Data Exchange Include: Time of day when exchange occurs Frequency (monthly, quarterly, hourly, etc. ) Schedule (1st Thursday; 15th of the month, etc. ) Procedure for notifying Requester if Data will be late or service will be unavailable Start date (and end date, if applicable) Service level agreement.
+A statement of whether this Data Exchange is mission-critical and requires high-availability.
+A process for restarting the service should the transfer fail unexpectedly Change management procedures Annex “E” Data Quality Metrics Include: Data element name Permissible values or range of values Precision (decimal places) Number or % that can be blank Number or % that can be outside permissible values or range of values If any code sets or reference data is used, the version of the code set or reference data must be specified, and copies of the reference data supplied on request Change management procedures - ie.
+how changes to file layouts, valid value sets or similar changes are communicated between the parties.
+Test procedures and pass/fail criteria; The time period in which the Data remains valid and relevant How to validate that message format and content are valid and that content has been received without error Feedback mechanism to report erroneous Data back to the Data Owner for correction and reprocessing Annex “F” Additional Security and Access Controls Include: An evaluation of whether additional Partner-specific restrictions should be applied on the Data Exchange.
+User or Group level restrictions shall be included, if applicable.
+Child Abuse Prevention and Treatment and Adoption Reform Education Sciences Reform Act of 2002 Individuals with Disabilities Education Act of 1975 Internal Revenue Code, Title 26 of USC IRS Publication 1075 Tax Information Security Guidelines For Federal, State and Local Agencies Office of Management and Budget Memorandum M-17-12 (? ) Preparing for and Responding to a Breach of Personally Identifiable Information Pub.L.
+

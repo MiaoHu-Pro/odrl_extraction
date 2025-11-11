@@ -115,10 +115,6 @@ def model2predict(model, config, sample, apply_post_rules=True):
     i2l = config.i2l
     pred_labels = [i2l.get(tid, "O") for tid in pred_ids]
 
-    # 5) Deterministic cleanup (RULE_TYPE cues, ASSET expansion, PARTY dets, etc.)
-    if apply_post_rules:
-        pred_labels = postprocess_tags(words, pred_labels)
-
 
     result = {"text": words, "labels": pred_labels}
 

@@ -1,0 +1,639 @@
+THE MAYOR AND BURGESSES OF THE
+LONDON BOROUGH OF ISLINGTON
+and
+THE MAYOR AND BURGESSES OF THE
+LONDON BOROUGH OF CAMDEN
+AMENDED AND RESTATED
+ACCESS AGREEMENT FOR THE NO RECOURSE TO
+PUBLIC FUNDS {NRPF) CONNECT DATA SHARING
+SERVrCE
+NRPF Connect Access Agreement 201 B
+tsl!ngton Legal Servrces
+lsllngton Cou nei1
+7 Newington Barrow Way
+London N7 7EP
+Raf: ROCIBEQU/36
+Page 1
+
+THIS AGREEMENT Is made the 1ST JU.LY 2018
+BE·TWEEN
+The r.,a.yor 1nd 8urgnsesotth• London 8orougfl of·lslhi(ltonofTown Hall) Upper
+Street, Islington, londQn N1 2UO ("the Councllj; and
+The Mayor and Burgessas Qf tnt La.ndon Borough of Jslfngton of towr1 ttafl •
+Judd St.-.et , Camden London WC1M 980
+WHEREAS
+A, The NRPF Netwock 1s a network of locaf auth~rities established In 2008 ID focus on -the
+stab,Jtory respon&e to people with care needs who have no recourse to public fUnds. The
+aims of lhe NRPF Netwo~ are to snare lnfQrmatlon and good practioe. Eimongst local
+authorities, to won< With govemmen( departments· to raise practical snd policy issues and to
+deverop a strategi<~ response to NRPF. n is hosted by the Council.
+B. The NRPF Network, togellerwith ths Horne Offibl, has deve~ped NRPF Connect Which ls
+a securfl data &hating system for focal authority social services depar:tments and lhe Home
+Offlca wo'1<lng with mlgtanta who-tiave no recourse to public funds.
+C. NRPF Connect .allows th& trlome, Office and local authorities to be updated on each other'8
+work on NRPF cases ilJ1d for ctnmges ir, circumstances 10 be oommuntcatec;I.
+D. NRPF Connect Is .a ~se management ~tem that is prnvldeo by W\G:NET Solutions Ltd
+und$r a contract with the. Cooncll.
+E. Tho User Wist')es lo access NRPF co,mect tn accordanoe Wlth tt,e terms of this Agreement
+F.. This Agree.meat is entered into puriuant ·to sar,:Uon 3 af the local' Govemmant Act 1999
+and section 1 of the l.ocalism Act 2011 .
+IT IS HEREBY AGREED
+a,
+follows: -
+1, DEFINITION$ AND l~TERPRET ATIONS
+1.1 In 1he Agreement unless the context otherwis& requires the following tenn& ehaU have 1he
+meanings gWGr, to Chem bl;llow:
+"An~ua( M1mbershtp Fee•
+means tha fee for option 2 .ae :8ijl out rn schedule 3 to ba paid by the
+User to the O:.uncll -adjusted for inflation on eacti anniversary of the
+Commencament Date In line With 1he General Index of Reta:iJ Prices
+{RPIX).
+NRPF C()nnect Access Agreement 2018 Pege2
+
+'"Commenfiiem.ent Date"
+m~m~ 1st of Jun-, of 2019 or such alte(rlittlve
+date .as ma~ be agreed between ltle Parties jn Writing.
+"'Conffden~ al lnforrttatlorf
+mea~ any information which has. been designated as oonflttential by ~
+PartY lh writlrtg or that ought fu be considered as cgnftdential (however (t Is
+conveyed or on Whatever medla It Is stored) Including infonnatjon which
+retates to the business, affairs, properties. $.S$8t&~ trading practices.
+S81Vices
+1
+developments
+1
+trade secretst Intellectual Property Riijhb, know
+flow
+i
+personnel. c1.1stomers and supplief.$ or a PartV1 alJ personal data and
+senslt1vs personal data withtn tha-m~ning.of the f]ata Protection Act 2018
+.and informatfon In re1alion to the Servlce-.
+-tC,ou"cll Sarvlc•a"
+means the NRPF Cooned:services provided by tfie.Counc:11 as
+se1 out tn Schedules 3 and 4.
+~•co..-ncws PanJonnet"
+means .an directors, amcers, empk,yee5, agents. consultan" and
+ooritraotors of the Counctl ,and/or of any Su~Pro~der engaged In the
+performance of its obl!gatlons under Ibis Agreemen1:
+"Data Protection leglslatlon~
+(I) the GOPR, the; LED and t.tny applicat:>le national implementing
+Laws asamendeq from.·tJrne to time {IIJ the DP.A 2018 to -the extent
+tt,al If telafes to processing of persotial data end privacy; (1lii) all
+appUcabJe Law about 1ha processing of parsor,al data and pnvaa.y;
+.uoata Protectlo11 lmPJict As.sessment1
+'
+an assessn,ent by the Controller of the impact of the anvtsaged
+processing on the pratactkin of Persona, Data;
+'·Data ~oss Event"·
+any event that resurts, or may result, m unauthorised access to
+Personat Data held by the Provider -under this Agraemeri~ and/Qr
+actual or potenth1I IQ$&. and/or deetruqtlon o1 Persona, Data in
+breaell of 'tt1is Agreement; Including any· Personal Data Btead\:
+"'Data S ubJ•ct Ac c e • & Request."
+~OPA 2011''
+*GOPR"
+~ ~ueet made by, ~r on :behalf of; a Data Subject In accordance
+wfth rights granted pUl"$Uanl to lhe Cata Protectioo Legislation to
+access lhelr Personal Oat$;
+means Data Prutectlon Act 201 B
+means the ·Genera! Data Protection Regulation (Regulation (EU)
+2016/679)
+NRPF Conned Am:ess: Agreement201 & PaJ$3
+
+"Home offlc•"
+means the ministerial department oft)a UK government.
+"Homa ,Offlce Data~
+means data P"1vit'led bY the Home Office in accordance wtth the
+provistoas of this agreementt
+·1morma.tlon Sharing P.-otocor
+"Law~
+Is asset olll in Se::hedule 1.
+means any taw, subol'dltiate regislation Wfthin the meaning of
+Secttan '21(1) of the Interpretation Atf. 1S78, bye,.law, enforceable
+right wjthin the meaning of Section .2 of the European Commooltles
+Act 1972, regulaUon, order, regutatory poticy, mandatory guidance or
+code t;>J practloe, judgment <>f a relevant court of law. or di.reotiv&s or
+requirements with which the Provider is bound to comply;
+Law Enforcement o,rective
+(OirecUve (t:U) 2016/680)
+mLos111es~ tneans all clafms, dam~ges·, losses, lfabillties, costs, expenses. (1"cl\ldlng
+legaf and o!her professional charges -and expenses) and charges whether
+arising under statute1 oontmc;.t or at wmr:non raw, or in connection with
+judgements; proceedings, internal costs or demands.
+•Local A'-\thodt~ .Data~
+means the data provided by the Use{ as may be -updi;ited by the Home
+Office as more particula.r1y described in Schedule .2 for use by 1he Coone.ii
+for the P"1rpose.
+means no recoorse to public funds;
+"t.lRPF Connect~
+means tha· :secur& data sharing Servlte tor local authority soelal services
+departments and the Home Office working WiU, migra.-.ts who have no
+r:9COurse to pubUc ft.lnd!S'.
+''N~PF Netwqtk''
+means -the 11etwork of local authorities hosted by the Councll and
+established ,n 2006 to focus -on the statutory response to peOple wJth cam
+needs Who ha~ no ,receurse.
+,o
+public fUnds with the ajms of sharing
+infDm1ation and good p,actice amor1gst local authorities, womng With
+govemment departments to raise- pract1~, aod policy fssues
+I
+and
+deveh:lping a strategic response to NRPF.
+NRPF CQnneot A008ss Agraament,2018 Page4
+
+~othar Users of NRPF Connect"
+means-ltie ,ocal authortttes and the 11ome Office wbo have entered 1ntQ an
+e~~ agn;iemeot With tl'le CoUnOfl in ord'-'r to use NRPF Connect
+means a party to this .Ag™'r:nent and -~PartlaS~ .ahall be construed
+acoordingly
+.. Protac1iw Measures''
+apptopriata technical and organisatJonal measures Whfch may
+loclude; ~seu~O!'Yf:llisfng and ~ncrypling P8fSOnal Data, ~SUl'ing
+confldentlaUty. lnteg~ty, avai!abili!Y and reSilience of s~ems .and
+senAces, ar:isunng ttlat avanablHfy of and access to Personal Data can
+-be restored in a timely manner after-ap inalden!,.and r!lJUlarty
+assessing ar\CI evaluating U,e effectiveness of such measures adopted
+·by it;
+~•p rovldat's Personnel"
+means. alt dirnetors~ officers, employees, agents, -consultants and
+cot1lrii1c1Qr$ of ttie Provldet .and/or of any Sub-Provider er:tgaged i11 th~
+petformance of Its obHgatlons under U;ile Agreement;
+11Purpose~ means the purpose for which the council may us.e the- Home Offic,e Data.
+bal'ng tt,e purpQae of building a,nafional evidence base on Yh\lct, to ma_ke
+policy N;K:QmmsndatiOJ1s to the Home Offlce·arid other local authorities with
+tfltt aim of lmprovtn_g Ul~ qualilY and efficiency of services pJQvidad to the
+NRPF client group.
+"'Service· means Service Provider Services and Cot,JncU ,Services,
+·•servfr;• ProV',dor''
+means MAGrNET So.lutlons Limited
+"'Service P,ovldar Contr1ct11
+means the contract to be entered into between ttie Council and the Sef'Yice
+Ptoviaer for the f)rovision of data base servjces in the fomi s:et out in
+Sd\edule 5
+·se.rvlee Provider Sarvlcea"
+.means the NRPF Conned ·~Mees. prov;cted by ttie SeNice Provider as
+set out in Schedules 3 and 4 .
+... S ub-pr0cas1or,.
+any third Party appotnted to pr'Oeess Personal Data on behatr or the
+Provldertelated to this Agreement
+1.2. In lhls Agreement wh:ere the context so ad m Its:
+NRPF Connect ~ss-Agreem8flt2018 Page5
+
+'1.2, 1 rarsrenoes to Ul& singular sbaii tr'l'.dude tti41 pJuraT ,arid \iai wrsa and rafereni::es to any
+gen~ 1JhaO include all genders..;
+1.2.a the-hasdings ·are for ease of refeR:ince only and shall 001 affect.the construction qr
+fnterP.retaUoi1 tif this Agreement:
+1.Zi"9 references· tCi Qooefftions are
+1
+unlen .Qthel'Wlse pn;wided~ . .refetences to the Conditions of
+1tUs AgJ-eemenl .ami references 1o S'Chedules are ,to ths sehedUfes of the Agreement
+2. TERII(
+This Agreement shall oommence on 1tie· Commencement Oate and Shall confinue u11tll
+tenntn~ted fn accordance wtth C011dnic>n 9 of this Agreement ..
+3. OBJE'CTIVES OF NRPF CONNECT
+3. 1 The objectiveS' of NRPF Conneet for local authority users are1o ~~
+3 .t .1 Facllitsta betle.r-joint working between kmat a~thf>titjes and the Horne-Offloe. In order 1o
+enoourage sp,;1edier-resolutiQn of NRPF ·cases,, ~vmg the· ta): paYffi monev;
+3 .1.2 Help Identify fraudulent claim a for·I0e21I authority. support by crose~matching reoonis from
+other local authoritias;
+:3 .1 .. J Altow 'thtt Home ·Office and local authoritle$ to update case. roootde and to lnfol'r'IJ aa,ch
+o1her of chanaes In cin:umstance so as to avojd unnecessary d'e1ays;
+3.1A Provide a good practice framework for case,rnanaglng· 'NRPF' fndMduals and. families;
+3 .1 .5 f:nable· lbt::al aut~arifies ·10· fallow a simP,e ar:id logica1 process, for reoordtng) assessing
+artd monitoring NRPF cases. irictuding·~xper\dltore;
+~ 1.6 Reduce 1he risks of poor case-working decisions being made, wf:lere ihfortnallon ia aot
+being stliared between loaal authorities and th~ Home .Office;
+3., .7 Enable locaJ auffl of"ities b) monitcr cases tf they move from, boroogh to borough,
+identifying any child or a~:1.1lt safeguarding ooncems and notifying the relevant
+profes.sionals;
+3
+i
+1.8 Gtve•,toeel authc;>rj,es a Way to eGcoun t for the N RP F cases they sup.port .Md to monitQt
+expenditure;
+3.1..9 EijrniM!e the risks aeeocfated ~ e.xchanglng sensitive data with lhe Hom~ Office Via
+$pread sheets and by email;
+3.1.1 O Enable loc-al authorities to run report1 on lhe ta$8a· th~y support. Jll"Ovidihg dfftailed data
+en a range of indicators sudl as expor,diture andMferrars.
+3.2 The objectives Df NRPF Conr,ecf forthe Honie Qfficeare to.-
+NRPF Ci;,r1neet Aqcess Agreemlflt'2018 Page8
+
+3.2.1 Assist the-Home Office In securing :SErvings ,by working in ,;iartnefShip With local
+authorities 1o mana,ge NRPF cases more effiQenUY;
+3.2.2 Provide access for the Home Office to u, e expertise of local autt.Qrity profess,onals in
+order to meet Homa ·Office,ta~ets and strategic 0bjectlves1 suob as1's0Uttat1ng removal~;
+vo1untary retume and deciding rmmjgratloh a.ppUeafions exf>edienlly;
+3.2.3 Assist in the. control of m1gtefion u:iJ'O\tQh pro\ilding a mote complete pictu~ of sopported
+NRPF cases i!lnabling the Home Office to speed-up decision makln_g;
+3.2.4 Assist lo making d;ata ooUection more efficient and -economical through dialogue with ,aU
+lhe users of NRPF Corinecl
+4. ROLES AND RESPONSIBILITY OF THE COUNCIL
+4.1 The Council shall:
+4.1.1 Ceny out the Serv1ces ror which 11 is directly responsible
+rn
+compliance with this
+Agt-ei:trnent and all relevant legislat1on and vA~h do~ p~eesiOnal skillt care and dJH~ entft
+and With good faith;
+4.1 ;2 Manage the Service Pr'DVlder Contract in order to ensure proper deltvery of ttie Servfces
+for Wtlich ttie Service Provider is responslbla;,
+4.1.3 Consuh. with and receive f~edback ·from the User and other users Bf the Service and take
+such feed back ,nto oonstderation 'in e;,cploring ways to improve the Service;
+(cid:141)
+~1.
+(cid:141)
+Maintain ·an updated list af ~II the organisations who are ~sers of NRPF connect and
+.make that list pubtid.y avajlabte;
+4.1.5 Undertake to,use U\e Local AUthorUy Data only in an anonyrnlsed form and 011ly fot tha
+Purpose,
+5. ROLES AND RESPONSIBtL.ITIES DFTHE USER
+5~ 1 The Usar ghall: -
+5,t.i Pay the Annual Membership Fee lo the Counclt on the· Commencement Date ariid
+thereafter on each ·anrtlversary or the Commencement Data. for .-.a duratfOn of this
+Agreement;
+5.1.2 CreatE.t, r.na lntain and ctose files for NRPF cases as set ,out in ttie lnformatron Shartn9
+Protoco~
+5.1.3 When instructing lhe Sen,toe PtQ\lider do so in accofdance with condition a.12 of the
+Service Promer ContraCll;
+S~ 1,4 Hereby grant to lhe Cooncll a licence, to use the Locat Authority tJata 1or tJie Purpose for
+the duration of this Agreement;
+NRPF Ctlnnect Access Agreement '2018 Page7
+
+5.1.5 Hereby grant 1o the-Home Offiae .and Olhef Ueeni of NRPF C.Onneot a ltcence to IJ98, in
+acool'dance with lhe tnfOrmation Sharing Protocol, the information providl;ld by the User
+for purposes .of 1his agreement,
+5.1'
+.e
+Indemnify the council for any Losses tncurred bY the CouncD 1n, or· fn connectlOtl with, or
+in the -oourse of or as a resuJt of the Councif perfOtrritng. or di$charging its roles ar,dlor
+responslbiHtiliS' underth 1, Agreement.
+PROVIDED 'THAT
+(I) lb~ CouriQif shal[ be ~lely respon-sble for btiaring ariy suet,
+Losses to ihe extent that they are incurred by reason or tn
+cona&quenoe of the negrigence or wilful misoonduct of the
+Ccunoil Df persi~e.nt breach by the Council of any law or duty
+01} Tha Councll shall lis.e reasonable endeavours to minimise "e
+losses tllat ~re the subject Of ihe indemnity
+5. I. 1 Hereby undertake to each of tl1e Olhet Users of NRP~ Connect 1hal It shall comply wtttl
+the obligation~ Of tne User set out In this agreement (including the ,nrormatfOf, Sharing
+Protoool). This: undertaking confers rights on each of the Other Users. of NRPF Connect
+~o ar-e not party to this Agreement·who shall by virtue of the Contracts (Right$ of ThfYd
+Parties) Act 1999 be entitled lo enforce those rights as if it was a party to this
+A.greement,
+G.. UABIUTY AND INDEMNl1V
+6, 1 The CounciJ shall be liable for and shall funy indemnify the User. Its offloerst employees
+and agentsagafnst ~II UabiHties, damages, costs·, losses,.clalms. demands-and
+proceedings arising from .any deliberate or n~ligent a~ (fefault omission and or breach
+of this. Agreement by the Councll nr ~ny of P.s stab-contractors or "mpk>yees except to
+the el(lent that suct'I HabHities,, damages, costs, losses. daims, demands andfor
+proceedtngs anse ovt of any act.of wifrul default or r,egllgence by the User;
+62 ThecouncWs rtd>ir,ty to the UserunderConditlon 6.1 aneveshall'be
+wilhoot prejudice to any other right or rernedy available to the User.
+1. VARIATIONS
+Variation,.-; or modlflcatioos lo the terms, of this Agreement .may b&. made ~ agreement
+between the Parties in wrffir,g.
+•. f,JON.PERFORMANCE AND o,sPUTE RESOLUTION
+8.1 The Council ehaU notify lt\e User Immediately of any difficult$es that arise arid affect the
+dsllvery of the Sef'\110es in accordance With this AgreemenL
+8.2 The User 9ha11 provkle notice .in wrtUng to !he Council i, lt detet:m ines that· U,e Services .or
+any part of them have not been camed out In accordanc& with this Agreemianl
+NRPF Connect Access Agceement 2018 Page8
+
+6.3 The Panias shall andeavaurto find a mutual~ agreeable.sa1uttan ~ overt;Ome-any
+dlfficuffles 1hat affect U'te provision of the Seivioe.
+8.4 In the eventttlat there it no agreement on a sotu~on ellher P~rty m_ay, after providing
+notice--1n wrltlng to the C:Jther Party. do one or more of tl1e 'followlngi
+8.4.1 Require the Party in default to remedy the default within a .speclfi'ed ·t,me scale~
+a.4.2 Termln~te lt\e .Agreement in acr.ordance wttti COnc:Ution 9 whvre there is a
+materi~I br'Siich Qf the Agreement whk:tl is lneqpable of' rem~.
+9~ TERMINATION
+9+ 1 This Agreement may be tanninated by either l?arty wUh wntten no1ioe wilrl lmmadlate
+effect jf;
+9.1.1 O.ne Party {the noefaulting Party) com·1111ts a breach Of -thisAgreement and falls
+1o remedy. such l:lrttach ftf' capabia .of remedy} Wittlin the timescales stated ln a
+notice iss,ued by the-other Party stating 'tl:le breach; or
+9, 1,2 The Defaulting Patty commits a breac11 of lhis. Agreement which ts. ~nDt'~ble-of
+remedy ·
+9.1.3 Etther P~rty is prevented from fulfilling Jts obligation, (or part 11,ereof) under this
+Agreement fQr a pl;tric)d of long1,r than thirty da9s for reasons bayond ils
+r~sonabte oontrol.
+9~2 Notwithstanding ihe provisions of Condition 9.1 above and subJ:ect to Condition 9.3
+b8'0W the User shall be en~tled to terminate 1his Agreement on. giving tn& Council not
+less than three months' 11otloo in wriUng.
+·9.a Tennin~on of 1he Agreement pursuant io Condttion 9.2. sheU not relieve the User ft0m
+its obli~flQn tQ pay tt,e fuO 1'nr,ual Membership Fee (n ~peot of th8 year during Whlcfl
+termination occurs. For the avoid.ance of doubt r10 refund of th9 Annual Men,b;rship Fee
+shall be mc1de ~y the Counol1
+w.
+the· User tar temiinatlon of the Agreement pursuan1 to
+Condition ,9.2_
+9--4 NotWlthstandina the provisrons oJ Condition 9.1 above anct ,subject to Cortditlon 9~5
+below 1he CounolJ shall be entitled to terminate fflis Agraement on gl\llng the U&er not
+less ffian ·sl)( months: notice In Writin~.
+9.6 Wh~re th~ Agreement is terminated,pursuant to Condlfioll 9.4, the U$er shall be entitled
+to recover from the'Coundt pro rata ·that part of the Annual Membershtp Fe& Chat relattts
+to lt)e perJad for whklh the Anl'\u~l Membership Fe& was paid but during v.flich r,o
+Services were provided as a result of lhe farmir.laQ011 Qf the Agreement
+9.6 In the event that the Service Provider Contract Is terminated for whatever reason, this
+Agreement will tettnlnate With effect from 1he date
+er
+1h& termination of the
+sennee
+NRPF Connect Access Agreement :2018 Pa_ge 9
+
+Provider Contract, unless- the Council has made arrangeansnts ft)r procuring a new·
+~ervice provider.
+9 7 Toe axara&e of rtghts to terminate tbJs Agreemer:it shall raot affect any ~i5ttng tights or
+obHgatiOns ef eilher Party,
+·10.. DATA SHARt~G AND CONFIDENTIALITY
+1 O, 1 Toe User hereby acknowledges tt,at (t Js a data controJler for purposes of 1he DPA .201&
+and GDPR in tespect of the data that is shared undtir this Agreement, to the elrtet)t that
+the User create~ or modifies the relevant recon:ts. Fot the-avoidance of doubt. the Use,
+i~ a data oonttoller Qnl~ in relatlori k> tlle data for which it, has ''Vdile" access as mor~
+partioularty set out In lhe ,nfoffllaUon Sharing Pmtaool.
+10.2 The Parties $hall cqniply with all their reapeeUve dutles and responslbllUlas ln relauon to
+information sharing. data security and confld~r,tiality as ~ out in the lnfonnalion Sharing
+Prolooof and any Loss incurred as a result of a breach of the lnformatJon Sharing
+Protooo, ,shall be deemed to be a loss under this Agreement.
+10.3 The provisfons of tt\is Condition 10 ~hall appfy during Ule tem1 of this
+Agreemeot and contJr:1ua to appJy lnd$1inltely after Hs e)(J)iry or termlnaUon.
+10.4 Toe Parties shaU oo-operata and assist eactt other In responding to-a'lY requests made
+under the Freac;fom of Information Act 2000 whicfl related to NRPF Connect.
+11. DATA PROTECTION! SERV4'CE·PRO'VJDERSERVICES
+11. t Jn relation to Service Provider Services the User acknowtedges that the ServtGe Prowier
+is a data processor for purposes .of the. DPA 2018 and GDP'R and tt,e Service Provider
+Contract at Clausa 17 sets. out provtsions for data protection.
+12, DATA PROT~CTION~ COUNCIL SERV,CES
+12.G For tt\9 purposes ,of this CondlUon 12 itl&· terms '•Contmffer'\ *Pro<:nso,-i•,
+P
+Dat•
+SUbjec.t"
+1
+"Person~I Oatal', •P•rsonat Data Btuc:h11
+,
+and "Data Probu:tion
+Offlceft take the m$aning given in ttle GDPR ..
+12.1 The Panies acknowfadge that for the purposes of the Data Proteotion Legfstatlon, the
+User Is the Cootroller and the Co1,rnQI is. Che Processor. The only processing 1hal
+U,e Councif Is authorised to do is fisted in Schedule 4 by the User and may not be
+dettmtined by the Council.
+12·.2 The Council shall notify the User tmmediatety If It considers that any of the User's
+urstruQtiona tnfrlnge the Data Protectio" Legislation.
+12.3 The Council .shall provtde all reasonable assistance ta the U9er In the preparation of
+any Data PfOteoUon Impact Assessment prior to ~menolhg any processing .
+. Such a8.Bi6t'anG& may1 at the disctet!Qn of the User, Include:
+NRPF ConnectAcceas Agreement2016 Page 10
+
+(a) a systematic descnption of ttie envtsaged processing operations and lhe
+puwose of the prt>CeSSlng;
+(b) an assessment of the ~ssity and _proportianaUty -of the processing
+operations In l°Qlstiol'l to the Council Services;
+(c ) an assessment •of 1ha .riake to the rights .and freedt>ms of Data $ut;Jjects; and
+(d) the measures-,envisaged to address lhe nslcs~ lncl1,1dlng safeguaros, securtty
+measures ar.id ,:nechamlsms to oosu~ the protection ,of P8fSonal Data.
+12.4 itia Counc,lt sha",· fn relation lP any Persor:ial O.ata processed Jn conneelion with Its
+oblig~ttons underlhis Agreement;
+.(a)
+(b)
+.pJYJcess· that Personal Data on lY in ~coonf~nce with 'Sdiedule 4 unless the
+Coui:icil is. reqaired lo .do otht;tl'Wlse 'by l..aw. If it is so tequlred the Council
+shail promptly n.otify th4f lJSiJfi before processh1g the Personal Data unless
+prohibited by la;W;
+ensure that it has in place Protecti'ffl Measures, which have beei, reviev.,ed
+and approYQd by 1t!e User as .appropriate to protect agalns~ a Pijta Loss
+Evaht having taken account of the~ ·
+(i) nature of the data to be protected;
+(ii), ,harm lhat.mlr,ht resuttfrom ~Data t0css Event;
+(iii) state. of tedlnol~lcal developmant; and
+(iv) cost of Im plementl ~g any mel;)suras;
+ensure that:
+(i) the Council's Personnel do not pn;>ce$S f'Bfsona, Data except In
+acoordanoo with this Agreement (and In particulatSchedule4);
+(H) It takes all reasonable. sh~pti to ena1,1re the rellablllt~ and Integrity of any
+Council's. Personnel Who have access ta the· Personal Data and
+ensure that they:
+(li--1) are aware of a.nd oorriply with the Counclrs duties under
+thjs ciause;
+( ii-2) are subjeclto appropriate cc,mfidentialtty l.r,dertakings With
+lhe Cour:icU or any Sub-processor;
+(li.-3) are lr:iformad of ttl .. confidential nature of the P~rsonal
+Data and do not pob!ish. djsclose or divulge any of the P8'Sonal
+Data lo any thlrti Party Utll&$s. directed in ·wrffiog to do so by 1he
+User or as o1herwise permitted by ·this Agreement~ ar:,d
+(ii.-4) have undergone adequate: training in the use, care,
+protecticn• ar,d har:,dUr.lg of P$r$MSI Data; and
+not traosfer Personal Data oufside of tna EU unless the prior written consent of
+the User has been obtaln$d and the ·toUQWlng conditions are fufflllad:
+(i) the User or the Coundt has provided appropriate $afeguards In reratlon
+to: the transfer (whetfler In .accordance Wllh GOPR Article 46 or LED
+NRPF Connect Access Agl'Bement 2018 Page 11
+
+(ii)
+(lll)
+(Iv)
+Mlcle 37) as detennlned by 'the
+user:
+the Data Subject has enforceable rights and effective legal remedies;
+th& Council co111pJies with its obUgations under the Data ProteGtlon
+LegislatJon by providfng an adequate tev~I Of protection to ~ny Per10nal
+Data that is tranwen-e(I (or, If It ~s not so bound, t.Jses
+as
+best
+endeavours to assist the User In meeting lts obUgattons): end
+the Council compiles wi1t, any reasortebte instructlons notified to it in
+adVarioe b)" 1he User wi-,, respect to th-, processing of the Pere.onal
+Data;
+12.5 S1JbJecl. lo ctause 12.s. ~e Counclf sh111H notify the \.Iser immediately if it;
+(a) recetvea a Data Subject Access Request (or purport,ed Data Subject
+Aoca.ss Request};
+(h) receives a request to rectify. black or·erase i!OY Personal Data;
+(c) teceive.s any other re-que&t, complaint .or COl1lmunlcation relating le either
+Party's·obllg~ttons uridar the Data Protec:1ion Legislation;
+(d) recetves any oomrru:micaUon from the lnfonnation CommisSK)ller or any other
+reguJatory .authorit'Y in co,-,nedion with Personal D.ata prooessed under
+this Agreement;
+(e} receives a requ~st from any third Party for disc1osure of Personal Data where
+oomplfance with such request rs required or purported to be raqufred by
+Lewi or
+(f) beaomas aware
+or
+a Data Los~ Event.
+12,6 The Council's obllgatlon to notify under clause 1i,s shall lnclude. the provision of
+further information \Q the User in phases. as de.tails beoome avatlable.
+12.7 Taking into account -the nature of the prooss1ing, the Council shail provide the
+User with full assistanoo In relation to either- Partys oblfgations- under Data
+Protection legislaUon and any complaint
+(cid:141)
+communication or request made under
+clause 12.S (and \nsofer as possible Within the tfmescales ree.SQnably required by
+the User) including by promptly providing:
+(a) the User with full detaits and copies of the complafnt, communication or
+request
+(b) such aeslstance as is reasonably requested by the User to enable tha
+user to comply Will1 a Data Subject Request within the rstevant tlmescales
+s.et out il'l the Data Protection legislationj
+(c) the User. at Its request, vAth any Personal Data it holds in ~latlon to a
+Data StJbJect;
+(d) assistance as requested by the UserfQIIQWing any Data Loss Event
+( e) asmstance as requested by Iha t,ser with respect to any requeal from the
+'hfcmiatlon Commissioner's Office, or any consuttation by the Uset with
+the lnfonnation Commlss!Qnefs Office.
+NRPF Connect Access Agreement 2018 Page 12
+
+12,8 The Coundl shall meii:itain oomplete and- accurate records and infOfma.Uon to
+demo08trate 1ts. compJlance With this clause. Thts requirement does notapplywhere
+th~ Council employs-fewer th_an 250 staff, unless:
+(a} Ifie Usetd&tertrtlhe.& that,fuff processing is not occasiona1:
+(b) ttte User determhies the processing includes sp.ecial categories of data
+as referred ta in Miele 9(1) or tile GDPR or Personet Data relattng to
+crlmlrial convlctlonsand affentl'9s ~~rred 'toiri Article 10 of the GDPR; arid
+(c) the User determines that the proce&Sing f$ llkefy ta resutt io a risk to the
+ngt,ts artd fffleck>rne Of Data
+e
+ubjects.
+12.9 The Council shall allow fot audrts of its Data Processing activity by the User or .Ute
+Users designated at1d~or.
+12Jtl The Councll shall designate: a. data protection o~r if requlred .by the Data
+Pcoteeuan .Legislation.
+12.11 Before allowing any Sub--prooosseif to process any P4'¥$0nal Data related to this
+Agreement. lhe Council must:
+(a) notify the User ln wrtt1ng of the intended Su bi)r:ocessor and prooessing;
+(b} obtain the. Writtefl cons~nt of the User:;
+(c) enter Into a written agreement with the StJb-processpr which give effect to the
+tenns sel out in tbls clause 12 such that they apply let ·the Sub-processor; and
+(d) provide the User wtih such Information regarding tbe Sub-pmoossor ai 'the
+User may reason~bty require.
+12, 12 The, Council shall remain fully ilable for all acts or omissions of ariy Sub•processor.
+12.13 The Usar roay,. at. any time on not l,ess lhan 30 Working Days..• notloo, revis& ttiis
+clause by r:E1pl~olng It, with any appUoabas controller t<.> prooossor standard clauses
+or slrr,itar terms fp,mjog part of an applicable certification scheme (Which shaU
+apply vmen incorporated by, atlacl:lment to this Agrt?ement).
+12..14 The Parties agn,e to take account of any gwldanoe issued by the lnfonnatlan
+Commissioner's .Office. The User may' Qn not less ttw, 30 Worldng Days• notice to
+the CounoU t;1meod this agreement to er1sure ihat it complies with any guidance
+issued by ttie lnfOrmation Commislfi~ner's Office.
+12,15 Jho,Council acknowledges that damages may not bean adGquate remedy for breach
+Of the provlsl~r'ls lJnder thl&.Agreernant. lhe ~&er reserves the. right to seek equitable
+reUeffor a breacll., includiRg relief in '11\e form of an injunction or .specific perfoiynanoe:
+12 .. 18 The Council shell indemnify and ~ep tndemnmed the User ~ga,,i9t aH actions. claims1
+00sts, damages, deductions, expenses tnsses. and ltabifltles inQUrred by the U&er in
+respect of any breach by the Council (and/or any act. Qr Qfl'li$slon of Qny $Ub-QOntractor)
+of Its Obligations under lhis Clause 12.
+NRPF Connect Access Agreement 20, B Page 13
+
+12.17 The User may terminate this Agreement forttMith t>y providing ·written notice
+to the Council in the evem. lhaf tl1e Council breaches any terms of this.
+Clause 12.
+12.18 Upan iennioation or expt,y t>f tNa Agreement the Council shalt (and mi~re
+BtlY sub-proce8$0tS,shall) within 1 o Business ~ys,. i)n,e.ss the Councll fs
+legaHy required to preserve. that type-of data:
+(~) RetlJm all copie$ of informailon subject to the pnNisions under the
+DPA and or GDPR.' to the User in a seoore format;
+{2) Remove. detete or destroy any electronic PersoneJ Dilta stored on the
+~uneH's IT systems and/or any pflystcal Perao11al Data retained by
+the Council tn any form whatsoeVSf'; and
+(3) Certify to lh& User its oomplianoo with this cfause 12.18.
+13. PUBUClTY
+13t1 In the eveot th~t the Userwisnes to Issue a press release, ,nak~ a public
+statement connected With ot arising from this Agreement, the User shall first
+1ntQrm the Council as to Its contents aod manner and timil'l9 of its presentation
+and publication.
+14, FORCE M.AJEURE
+1A.1 f'or tne PUYPOs& of tits. Condition 12, "Force Majeure~
+mean.s
+&l'JY event or
+occurrenoe which (s outside th~ rease1riable control of Che Party oonoemed.
+and which Is not sttributable to any act or failure to take preventatnre ~ctiOi'I by
+tfie party concerned, including (but not limited to) goVet'f'irnental maulations.,
+fire. flood, or any disaster_ It does not include any Industrial action oocurrlf'\9
+am0ng$t the staff or one or more of the Parfnets or any staff of any sub
+oontracior:
+14.2 No Party sflan be Hable to 1h& other for '.any daisy ih ot fallura to perform its
+obllgationa under th& Agreement if such delay or failure re&1lls from s Foroe
+Majeure· event. Notwlth~ding the foregoing, each Party shaH use all
+l'OOSOnable endeavours to continue to p8ffoml Its obligati"ons hereundet for
+the-duration of such F,m;:e MaJ.eUre event.
+M.3 If a Party becomes aware ef circumstances of Force MaJeure whloh give rise
+lo or w~lch ara rike1y· to gwe, rise 10 .any· such faUure or 'delay on Ui part it shan
+forthWHh notify the other Party by th~ most expediUous ,nethod Chen avaHable
+and !hair lnfonn the olher Party of the perlod whi et, it is estimated that ~eh
+faHure or delay shall continue.
+15~ NO PARTNERSHIP
+15.1 For the avoidance of do'-lbt and nolWilhstandln91he terminology used, nothing
+trt ttiis Agreement .shart be construed as a 180$1 partnerehip "'1thln the
+meantng of the Partnerstlip Aot 12'90 Act, the Limited Partnership Act 1907.
+NRPF Connect.Acoe8S Agreement 2018 Page 14
+
+Limited Liablltty Partnersh1 ps Act 2000 -0r any· oiher ,egl slatlon .concerning
+partnerships or fimtfed liab1Uty par.tnershlps.
+16.2: save as permitted by this Agrsemenf neither Party shaH~
+1 5.3 act or-hofd ibelf out as an agent of the othtir Patty} nor
+15.4 meke eny n!pressntalions or give an~ warranties IO ihird parties 'en beh~lf or
+In respect of the: other Party;
+16.5 bind or hold itself,out.as, havjng the power to blnd'the·oiher Party.
+16. WAIVER
+16. 1 The failure of the Partner to exercise
+arw
+rlght or remedy shall not constitute a
+wall/er of that right or rernecty. A .warver is only effeottve if communicated as
+such to the other Party in writing.
+11. ENTIRE AGREEMENT
+17. 'I This Ag,-eem er:it cons1!tutes the entire. agreemer1t and l)nder$tanr:Ung between
+1he Parties in respect of the matters dealt w,th therein. The Agreement supersedes
+ar)Y previous agreement between ihe ParGes· relattn.g la such matters; all prior
+negofletloos between Partles,,and
+an
+reprasantations·and undertakings made by one
+Party to tt\e other. whether written or oraf. This condition s~all r,ot exclude fia'oi!ily in
+respec:t of any fraud or-ftaucJulent misrepresentation.
+18. GENERAL
+1B.1 A notice required o..-petmitted to, be gjven in conneotion YiiU, this Agreement
+shall l>e glven In writing and a!ddras~d to:
+18,1-,1 For U,e Council: Henry St CJalr Mil!EO\ lsling(Qn Council. 222 Upper
+Street, Londor,, N11 XR
+18.1.2 For the, User: The Adult SQQjal Cate Dltectot', Camden Council
+1
+5
+Pancras Square, Landon N1 C 4AG
+o.r to such other person or address as· l'XIS.Y have been previously notffied.
+18.2 If any provi~n of tlis Agreement is held by any court or other competent
+authority to be ,n~Ud or 1.1nenforceable in whole ot 1n part the validity of the
+ottret pro'-Aslons of this Agr91:1roent. an~ the remainder of tfte provision in
+question .shall r,ot be. affected.
+18.3 The Agreement sha.ll tie go"v-erned by the raws of England ar.id tt\& Partt8$
+agree to submit 1o the exclusive Jurisdi<:tion ar11ie English rourts.
+16.4 Subj~t to ·condition 5,1.7 the Agreement sh~H not confer-flOI' be deemed to
+confer a benefit on any third party for1he purposes of the Contracts (Rl~hts of
+Third Parttes) Act 19~.
+NRPF Connect Access Agreement2018 ~gets
+
+IN WITNESS Whereof thls Agreement has been executed by each of the Parties in
+accordance wllh theJr respe~ constitutlons on the day and year aboYfj written
+SIGNED FOR & ON BEHALF OF TtiE MAYOR
+AND BURGESSES OF THE LONDON
+BOROUGH OF tSLINGTON
+/l& rV ff c .&'1>/1 Al It.qi(_
+,. • ., •••• • • • • ••• • r • • ••-• •• • •• •• •• •• • •• • • .. • • • • • ••• • • ••
+AuthOriNd Offlctr (1): Name srgnature
+, .................. (cid:141) ••••••••••••• ' ••••••••••••••••••
+.....................
+~
+.................. ·····
+Authorised Offlcer(1): Name Sfgnatur•
+SIGNED FOR & ON BEHALF OF
+The Mayor and aurgeues of the London B9rough of Camden of Town Hall ,
+Ju 1" 9B1>
+I - ~J.IJ I I • • • • • '
+...
+.
+-:>o-Ot ftL.L IN& .................................... ·····•· ..
+Au
+.
+.
+.
+.
+. . ,
+Slgnatur1
+....... ,,, ............................................... . . .......... ' ............ -·
+................. .
+Authorteed Officer (1): Name SJgnalure
+NRPF Connect tvx;ess Agreement 2018 Page 16

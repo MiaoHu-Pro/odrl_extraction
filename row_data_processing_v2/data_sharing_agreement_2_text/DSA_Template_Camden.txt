@@ -1,0 +1,392 @@
+Page 1 of 14
+Master Data Sharing Agreement
+This Master Data Sharing Agreement (“Agreement”) is entered by and among the Camden
+Coalition of Healthcare Providers (“Camden Coalition”), located at 800 Cooper St. 7th Floor,
+Camden, NJ 08102, Center for Family Services (“CFS”) located at 584 Benson St., Camden, NJ
+08103, and ____________________, that provides Solutions and support to the Camden Promise
+Neighborhood, and is located at __________________, collectively “Parties”. This Agreement
+shall be effective as of May 1, 2017 (“Effective Date”).
+1. PURPOSE AND INTENDED USE OF DATA SHARING. The purpose of this Agreement
+is to facilitate the submission of data to the Camden Coalition for the creation, use, and
+maintenance of a system of integrated social, health, and educational data concerning citizens
+of Camden City, Southern New Jersey, and the broader state of New Jersey in order to obtain
+a more complete understanding of the service needs, service gaps, and impact of services
+(“Camden ARISE”). The data will be used for the following purposes:
+a. For inclusion in the Camden Promise Neighborhood case management system, which is a
+component of Camden ARISE and is used by Camden Promise Neighborhood Solutions
+(“Solutions”) to coordinate, manage, track, and report on the services provided by all or
+some of the other Camden Promise Neighborhood Solutions to individuals and families.
+[NAME] agrees to allow the disclosure of personally identifiable information to the
+entities shown in Exhibit A to this Agreement provided that (i) appropriate consent or
+authorization, if required for use, has been obtained from the individual or the
+individual's parent or guardian; and (ii) a role-based access control is assigned as
+specified in Exhibit A.
+b. For research and evaluation purposes to study and report on the impact of services
+provided by Solutions and other organizations contributing data for inclusion in Camden
+ARISE (“Data Contributor(s)”) to citizens of Camden City and Southern New Jersey on
+individuals and families in the area and to study and report on factors related to service
+provision, assessment of need, and topics relevant to innovating new approaches to
+benefit the citizens of Camden City and Southern New Jersey.
+2. DEFINITIONS
+a. Camden ARISE - A system of integrated social, health, and educational data concerning
+citizens of Camden City, Southern New Jersey, and the broader state of New Jersey
+b. Camden Promise Neighborhood – A project led by CFS which aims to create a
+comprehensive pipeline of services and a cradle through college to career path leading to
+positive change for the children and families
+c. Confidential Information – the [NAME] Data Set, Primary Data Set(s), the Case
+Management Data Set, Camden ARISE data or any part thereof
+d. Data Contributor(s) – Organization(s) that provide data for inclusion in Camden ARISE.
+e. Case Management Data Set – A data set comprised of data from all Solutions.
+
+Page 2 of 14
+f. Solutions– Organizations which form a part of the Camden Promise Neighborhood and
+who (1) have active data sharing agreements with the Camden Coalition and; (2)
+contribute data for use in the Camden Promise Neighborhood case management system
+and Camden ARISE. The Parties anticipate that these organizations/programs will
+include insert names of partner organizations here. The Solutions that form a part of the
+Camden Promise Neighborhood may change during the term of this Agreement. The
+Coalition will maintain an active list of Solutions which will be made available upon
+request.
+g. [NAME] Data Set – Data set comprised only of data provided by [NAME]
+h. Primary Data Sets – Data sets provided by Solutions other than [NAME]
+3. TERM AND TERMINATION.
+a. Term. This Agreement shall be in effect for five years from the Effective Date and
+thereafter shall renew for one year terms until terminated in accordance with 2b.
+b. Termination. This Agreement may be terminated by any party with thirty (30) days
+written notice to the other parties. In the event of the termination of the Agreement, the
+Parties shall, upon request, (1) delete all data containing individually identifying
+information obtained under this Agreement; and (2) certify in writing within ten (10)
+business days that all copies of the data stored on cloud-based or local servers, backup
+servers, backup media, or other media have been permanently erased or destroyed.
+4. DESCRIPTION OF DATA
+a. [NAME] Data Set. [NAME] shall share with CFS and the Camden Coalition data
+according to the specifications set forth in Exhibit B. The data shared shall be limited to
+the data elements mutually agreed upon by the parties. The designated representative of
+each party will agree on specific data elements and data and record and file formats.
+b. Agreements with Solutions. Solutions will contribute and be given access to the Promise
+Neighborhood Case Management System and Camden ARISE after executing data sharing
+agreements with the Camden Coalition that contain substantially similar provisions as
+those contained in this Agreement.
+c. Other Data Sources Eligible for Linkage.
+i. Each Solution will contribute a data set that shall be made part of the Promise
+Neighborhood Case Management System. The [NAME] Data Set will be linked with
+Primary Data Sets from all Solutions that choose to participate in the Case
+Management System to create a Case Management Data Set. The Primary Data Set
+from each Solution and/or the Case Management Data Set may be linked with data
+from Data Contributors that is available in Camden ARISE.
+
+Page 3 of 14
+ii. A data dictionary containing a list of all data elements in the [NAME], Primary, and
+Case Management Data Set will be available to Solutions and Data Contributors
+upon request.
+d. Adding to the [NAME] Data Set. Subject to applicable law, and provided there is mutual
+agreement of the Parties to this Agreement, content of the [NAME] Data Set may also
+include other records mutually agreed upon by the Camden Coalition, CFS and [NAME]
+to be necessary and appropriate for the proper execution of this Master Data Sharing
+Agreement or any approved Data Use Agreement executed under this Master Data
+Sharing Agreement.
+5. CUSTODIAL RESPONSIBILITY AND DATA STEWARDSHIP.
+a. The Camden Coalition and CFS will be joint Custodians of the raw and linked data sets
+and will be responsible for the observance of all conditions for use and for establishment
+and maintenance of security arrangements as specified in this Agreement to prevent
+unauthorized use.
+b. Unless otherwise stated or modified in this Agreement, the Camden Coalition and CFS
+shall manage, link, and store data as specified in Exhibit C to this Agreement.
+c. [NAME] will not use Confidential Information for any purpose other than the purposes
+specified in this agreement. The Camden Coalition and CFS will fully cooperate with
+[NAME] in the event that an adult individual or the parent or guardian of a minor under
+18 years old requests the opportunity to review his/her personally identifiable information
+disclosed to the Camden Coalition and/or CFS by [NAME] or wishes to revoke their
+consent to data sharing with the Camden Coalition and/or CFS. [NAME] will notify the
+Camden Coalition and CFS in the event it obtains written consent for data sharing with
+the Camden Coalition and CFS, a revocation of consent to share data with the Camden
+Coalition and CFS, or a request to review personally identifiable information stored by
+the Camden Coalition and CFS from an adult or parent/guardian of a minor under 18
+years old.
+d. [NAME] will not release any data it receives as a result of its participation in this
+Agreement to any third parties not specifically authorized to have access to such data
+under this Agreement.
+6. ROLES AND RESPONSIBILITIES. The Camden Coalition and CFS agree to provide
+appropriate staff support to execute its data stewardship, data management, custodial
+responsibilities, and analysis under this Agreement. The Camden Coalition and CFS agree to
+provide notice to [NAME] within thirty (30) days when additional Solutions or Data
+Contributors join Camden ARISE. [NAME] agrees to provide appropriate staff support to
+create and transmit the [NAME] Data Set to the Camden Promise Neighborhood case
+
+Page 4 of 14
+management system, which is a component of Camden ARISE, as specified in Exhibit C to
+this Agreement. The Camden Coalition and CFS will notify [NAME] and all other Solutions’
+staff member(s) of changes to any of the roles listed below within 30 days of receiving notice
+of the change. Notification via electronic mail to [NAME] and all other Solutions’ staff
+member(s) will be sufficient.
+a. The following Camden Coalition staff member(s) is/are assigned to roles related to the
+proper management, processing, and distribution of the data under this Agreement:
+Role Name, Title, and Organization Contact information
+b. The following CFS staff member(s) is/are assigned to roles related to the proper
+management, processing, and distribution of the data under this Agreement:
+Role Name, Title, and Organization Contact information
+c. The following [NAME] staff member(s) is/are assigned to roles related to the proper
+management, processing, and distribution of the data under this Agreement:
+Role Name, Title, and Organization Contact information
+d. Principal Investigator(s) or Lead Data Analyst(s) are individuals conducting research and
+evaluation, who will be vetted and approved through a governance structure developed by
+the Camden Coalition, CFS and all Solutions. All Principal Investigators or Lead Data
+Analyst(s) are Users, as defined in Exhibit C. Principal Investigators or Lead Data
+Analyst(s) will abide by any protocols and procedures established by the governance
+structure developed by the Camden Coalition, CFS and all Solutions. In addition, Principal
+Investigator(s) or Lead Data Analyst(s) may involve one or more researchers or student
+research assistants, working under the close supervision of the Principal Investigator(s) or
+Lead Data Analyst(s), to assist in a support role with various tasks under this Agreement
+and any approved data use agreements executed under this Agreement. Principal
+Investigator(s) will require any of its researcher(s) and/or student research assistants that
+create, receive, maintain, or transmit data to provide reasonable assurance, evidenced by
+written contract, that researcher(s) and/or student research assistants will comply with the
+same privacy and security obligations as Principal Investigator(s) with respect to the data.
+7. PERMISSIBLE DATA USE, LINKING AND SHARING UNDER THIS AGREEMENT.
+All data shared as part of this Agreement and/or any related data use agreements remains the
+property of the supplying Solution. This Agreement represents and warrants further that data
+covered under this Agreement shall not be disclosed, released, revealed, showed, sold, rented,
+leased, or loaned to any person or organization except (1) to other Solutions or Data
+Contributors; (2) as specified herein; (3) as approved in an executed data use agreement; (4)
+as otherwise authorized in writing by [NAME] or; (5) as required by law. Access to the data
+covered by this Agreement shall be limited to the minimum number of individuals necessary
+to achieve the purpose stated in this section and to those individuals on a need-to-know basis
+only.
+a. Authorized Linkage and Data Transfers for Program and Site Management. Access to
+
+Page 5 of 14
+limited identifiable individual-level data will be restricted to a tightly controlled data
+stream of “need to know” users at end service points and carefully selected organizational
+administrators (as specified in Exhibits A and C to this Agreement). Only records with a
+signed consent or authorization agreement will be transmitted for this purpose.
+b. Authorized Linkage and Data Transfers for Research and Evaluation. Uses of Confidential
+Information for research and evaluation shall be limited to the Principal
+Investigator(s)/Lead Data Analyst(s) with whom a signed data use agreement exists. Only
+de-identified data shall be released for this purpose. The Camden Coalition will manage all
+identifiable data contained with the Case Management Data Set as well as other Camden
+ARISE data. CFS will support the Camden Coalition in the management of the identifiable,
+linked data, as part of the broader data administration needs of the Camden Promise
+Neighborhood initiative. The Camden Coalition will establish external data sharing
+protocols with approval from the Solutions or Data Contributor(s). A data governance
+board, which will be established by the Camden Coalition, CFS, and the Solutions, will
+decide upon the process for de-identification. Data use agreements with Principal
+Investigator(s)/Lead Data Analyst(s) will include information about the de-identification
+process.
+8. NO WARRANTY FOR DATA OR LINKAGE QUALITY. Both the accuracy of record
+linkage and the utility of administrative data for research and analytical purposes are dependent
+on the quality and consistency of the source data. Although the Camden Coalition and CFS
+will use reasonable efforts to promote accurate record linkage and the creation of appropriate
+data sets for analysis, no warranty is made as to the achievement of any particular match rate
+nor as to the ultimate accuracy or utility of any data contributed under this Agreement.
+9. PUBLICATION AND DISSEMINATION OF RESULTS. The Camden Coalition and CFS
+shall provide [NAME] copies of written reports, analysis, or visuals produced or derived in
+whole or in part from [NAME]’s data prior to public dissemination. [NAME] will also be
+provided with final copies of these publications. Copies shall be submitted to the [NAME]’s
+primary contact for the administration of this Agreement as specified in Section 6 to this
+Agreement.
+10. MODIFICATION. The Parties may amend this Agreement by mutual consent, in writing, at
+any time. This Agreement may be terminated by either party with thirty (30) days written
+notice.
+11. SIGNATURES. By the signatures of their duly authorized representatives below, the Camden
+Coalition, CFS, and [NAME] agree to all of the provisions of this Master Data Sharing
+Agreement.
+[Signatures on following page]
+
+Page 6 of 14
+CAMDEN COALITION OF HEALTHCARE PROVIDERS
+_____________________________________
+By:
+Title: Chief Operating Officer
+Date:
+CENTER FOR FAMILY SERVICES
+_____________________________________
+By:
+Title: Chief Operating Officer
+Date:
+[Name]
+___________________________________
+By:
+Title:
+Date:
+
+Page 7 of 14
+List of Exhibits
+EXHIBIT A: Participating Entities and Role-Based Data Access Controls
+EXHIBIT B: Data Specification
+EXHIBIT C: Standard Protocols and Procedures for the Use, Management, and Custodial
+Responsibilities for identifiable and Linked Primary Data Sets and Other Data Sources Eligible
+for Linkage
+
+Page 8 of 14
+Exhibit A: Participating Entities and Role-Based Data Access Controls
+Insert names of participating entities and role-based data access controls here.
+
+Page 9 of 14
+Exhibit B: Data Specification
+The matrix shows the categories of data to be shared with the Camden Coalition under this Master
+Data Sharing Agreement. Data will be shared on mutually agreed upon dates at the frequency listed
+below. The information in this Exhibit will be negotiated by the parties throughout the term of this
+Agreement and is subject to modification by mutual agreement.
+Exhibit B: Data Specification
+The matrix shows the data elements to be shared with Camden ARISE under this Master Data
+Sharing Agreement.
+Individual-Level Data Sharing
+Data Type Update Frequency
+Demographic Data
+Client ID Monthly
+First Name Monthly
+Middle Name Monthly
+Last Name Monthly
+Social Security Number Monthly
+Address Monthly
+Date of Birth Monthly
+Race Monthly
+Ethnicity Monthly
+Primary Language Monthly
+Gender Monthly
+Family Code Monthly
+Guardian Name(s) Monthly
+Guardian Relationship(s) Monthly
+Homeless Monthly
+Program Enrollment Data
+
+Page 10 of 14
+Program Name Monthly
+Program Enrollment Date Monthly
+Program Outcome Date Monthly
+Program Outcome Type Monthly
+Assessment Data
+Insert name(s) of relevant assessment(s) here. Annual
+Annual
+
+Page 11 of 14
+Exhibit C: Standard Protocols and Procedures for the Use, Management, and Custodial
+Responsibilities for identifiable and Linked Primary Data Sets and Other Data Sources Eligible
+for Linkage
+This document describes protocols and procedures for the use, management, and custodial
+responsibilities for the Camden Coalition and CFS when accessing data meeting one or more of
+the following criteria:
+● Data are in the form of individual records containing personally identifying information;
+● Data are HIPAA or FERPA protected;
+● Data are shared by one or more Solutions with the understanding and intent that records
+from the contributed data sets will be linked with records from other Solutions; or
+● Data were provided under the terms of a Master Data Sharing Agreement between the
+Camden Coalition and Solutions and/or through obtaining consent or authorization from
+individuals to disclose their data.
+This document will act as a core component to all agreements entered into between the Camden
+Coalition and CFS in which data meeting any of the above criteria are shared and will define
+how individual-level data will be secured and managed.
+POLICY AND PROCEDURES FOR DATA SHARING
+1. Terms and Definitions.
+1.1. User. Includes any person with access to covered data.
+1.2. Public Information is information that can be freely given to anyone.
+1.3. Sensitive Information is all other information that is confidential, private, personal, or
+otherwise sensitive in nature. Sensitive Information includes the following:
+Personally Identifiable Information, including an individual's name; address; date of
+birth; student ID number assigned by a school district, local education agency, or
+state education agency or partner organization.
+1.4. Legislatively Protected Data are data subject to some government regulation or
+oversight. This includes, but not limited to, data as defined under:
+● The Family Educational Rights and Privacy Act (FERPA)-student education
+records
+● The Health Insurance Portability and Accountability Act (HIPAA)-individually
+identifiable health information
+1.5. Other Sensitive Data are data where unauthorized disclosure could lead to a business,
+financial, or reputational loss. Examples include all intellectual property, research
+results, or information protected by a confidentiality agreement.
+2. User Roles and Functions in Relation to data. For any Master Data Sharing Agreements
+executed under the terms of this document, Parties will assign (where applicable) an
+appropriate and qualified User for any of the following roles. Parties will inform each other
+in writing of the User(s) assigned to each role as well as to any changes in staffing for these
+
+Page 12 of 14
+roles. Parties agree that roles specified below may be performed by one or more staff.
+2.1. Data Steward. The Data Steward has supervisory authority and is ultimately responsible
+for all tasks related to the management of data under this Agreement, any Master Data
+Sharing Agreements, and any Business Associate Agreements, and ensures compliance
+with all applicable agreements and regulatory requirements. The Data Steward reports
+any compliance issue or breach to the Camden Coalition a data governance board
+established by the Camden Coalition and the Solutions.
+2.2. Database Administrator/Data Manager. The Database Administrator/Data Manager will
+be primarily responsible for (1) creating and maintaining appropriate data structures for
+secure warehousing of Confidential Information acquired under this Agreement; (2)
+facilitating secure transmission of Confidential Information between the Parties; (3)
+executing appropriate algorithms to standardize identifying data fields, de-identify the
+Confidential Information , and create unique linking IDs; (4) developing and executing
+appropriate data queries from Confidential Information to create linked, de-identified,
+and/or limited data sets; (5) monitoring and maintaining the server equipment and its
+security and overseeing regular data backups; (6) performing deletion or destruction of
+covered Confidential Information upon termination of applicable Agreements; and (7)
+deleting or permanently encrypting and archiving individually identifying data elements
+within active Confidential Information once it is determined that these elements are no
+longer needed in “clear text' (unencrypted) format to facilitate accurate record linkage.
+The Database Administrator/Data Manager reports any compliance issue or breach to the
+Data Steward.
+3. Data Set Creation and Delivery
+3.1. All creation, use, and/or transmittal of linked, de-identified, and/or limited data sets
+created under this Agreement is subject to the specific terms of this Agreement and any
+applicable Data Use Agreements. Under no circumstances will any data sets subject to
+the terms of this document be released to any party (including use by Solution) unless (a)
+the proposed use of the data set is explicitly authorized, either as part of the Master Data-
+Sharing Agreements executed by the Parties or by the execution of an approved Data
+Use Agreement covering the proposed Program and Site Management uses of the limited
+data set by all Solutions’ whose data are included in the data set requested; and (b)
+approval is obtained from the data governance board to be established by the Camden
+Coalition and the Solutions for the proposed Program and Site Management uses of the
+limited data set.
+4. Confidentiality and Data Security Safeguards
+4.1. Parties agree to establish appropriate administrative, technical, and physical safeguards
+to protect the confidentiality of the data and to prevent unauthorized use or physical or
+electronic access to it, and to report violations of this Agreement. Appropriate
+administrative, technical, and physical safeguards include, but are not limited to:
+4.1.1. Users must not save Sensitive Information on personal computers that are not
+approved for storage of such information.
+4.1.2. Users shall put in place reasonable safeguards and security procedures for its
+
+Page 13 of 14
+environment, including, but not limited to, using password protected spreadsheets,
+using password-protected computers, prohibiting password sharing among users,
+prohibiting unauthorized data downloads and distribution of data; requesting that
+users do not leave computer unattended and/or set a timeout to lock an unattended
+computer, installing antivirus software with current updates and a supported
+operating system with current patches and updates.
+4.1.3. Parties shall provide periodic training for Users on internal security policies and
+procedures, and on applicable state and federal legal requirements for protecting the
+privacy of individuals.
+5. Compliance
+5.1. Compliance to this Agreement includes, but is not limited to:
+5.1.1. Integrity Audits. To ensure compliance of this Agreement and the protection of
+Sensitive Data, the Data Manager shall have the right to make, via designated Users,
+unannounced visits to the Solution site for purposes of inspecting computer
+equipment and reviewing the security arrangements that the Program Administrator
+is maintaining with respect to Sensitive Information. Program Administrators will
+fully and promptly cooperate with the Data Manager and will assist them in
+completing those inspections. The Data Manager must coordinate access with the
+Data Steward.
+5.2. Camden Coalition may temporarily suspend, block, or restrict access to Sensitive
+Information when it reasonably appears necessary to do so to protect the integrity,
+security, or functionality of Sensitive Data or to protect the organization from liability.
+5.3. Statutory Breaches. If at any time a User of either party determines that there has been a
+breach of the security protocols or violation of this Agreement (including, but not
+limited to any unauthorized release, access use, or modifications of covered data), the
+User shall promptly take such reasonable steps as are necessary to prevent any future
+similar breaches and promptly notify the Data Steward and/or the Program/Contract
+Administrator and/or the Data Manager of the breach. The Data Manager and Program
+Administrator will identify the steps taken to prevent any future similar breaches and
+report to the Data Steward within 24 hours of their discovery.
+5.4. Reported Violations. The Data Manager and Data Steward will issue a report identifying
+any privacy and security breach on covered data by a User. Party will have three (3)
+business days to comply and put in place corrective measures to prevent any future
+similar breaches. Failure to comply within this time frame will result in temporary or
+permanent termination of access to covered data and possibly termination of this
+Agreement.
+6. Disposition of Data at Termination of Agreement. In the event of the termination of the
+Master Data-Sharing Agreement between the Camden Coalition and CFS, CFS shall (1)
+delete all Primary Data Sets containing individually identifying information obtained under
+this Agreement; and (2) certify in writing within five (5) business days that all copies of the
+data stored on local servers, backup servers, backup media, or other media have been
+permanently erased or destroyed.
+
+Page 14 of 14
+A downloadable version of this agreement is available
+at https://www.nationalcomplex.care/blog/data-sharing/

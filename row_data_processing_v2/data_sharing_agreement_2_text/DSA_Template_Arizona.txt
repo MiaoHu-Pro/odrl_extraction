@@ -1,0 +1,204 @@
+Data Sharing Agreement
+This Data Sharing Agreement entered into by and between ____________________________ ___________________________________________________________________________,
+hereinafter referred to as “REQUESTER” and _______________________________________ ___________________________________________________________________________,
+hereinafter referred to as “DATA OWNER”.
+WHEREAS Requester has a requirement for Data that is produced, curated and/or in the custody of Data Owner, and
+WHEREAS Data Owner and Requester are both signatories to the Arizona State Data Sharing Memorandum of Understanding (DSMOU), and
+WHEREAS Data Owner has agreed to provide Data to Requester under the terms of the DSMOU and those additional terms hereinafter set forth,
+NOW, THEREFORE, the parties agree as follows.
+DESCRIPTION OF DATA
+Requester requires, and Data Owner agrees to provide, the Data Elements listed and described in Annex A, hereinafter referred to as “Data”, using a process that may or may not be scheduled or automated, whereby one party requests said Data, and the other party responds by transmitting the requested Data, the whole process hereinafter referred to as a Data Exchange.
+This Data Exchange will be referred to by the parties using the business name(s) _________________________________________________________.
+Requester requires the Data for the following business purpose(s), namely, _________________________________________________________ _________________________________________________________ _________________________________________________________. Requester agrees to the use of the Data solely for that/those purpose(s).
+Requester cites the following legal authority to request this Data ______ _________________________________________________________ _________________________________________________________. Data Owner expressly accepts and agrees to provide the Data under that legal authority.
+Requester will make use of the Data in the following manner: _________ _________________________________________________________ _________________________________________________________. Data Owner agrees to the use of the Data solely in that manner. 
+REQUESTER OBLIGATIONS
+Requester will only use the Data for the business purposes stated in Section 1 and will specifically observe the following additional restrictions on the use, re-use and redisclosure of the Data: ___________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________
+Requester may retain the Data for _______ days/weeks/months/years from the date of receipt. At the expiration of such retention period, Requester will securely erase the Data from all systems and storage media. Requester shall also securely erase Data, and/or return physical media to Data Owner, within 30 days of receiving a written request from the Data Owner. 
+Requester hereby agrees to notify the Data Owner in the event of a records request affecting the Data and to give the Data Owner the opportunity to object to the disclosure of the Data.
+Requester hereby acknowledges that the privacy, confidentiality and security of the Data must be protected in accordance with the regulations, if any, selected and initialed in Annex “B”. Requester further represents and warrants that it is aware of the regulations and the privacy requirements and undertakes to train and supervise all staff that has access to the Data on the procedures to be taken to protect the privacy of this Data in accordance with stated law(s).
+Requester may integrate the Data into its data repository and must observe the following additional restrictions _____________________________________ ______________________________________________________________ ______________________________________________________________
+In the event that the Data is intended to be used for reports, charts, analyses and other work products to be published or transmitted to third parties then the Data Owner reserves the right to require the Requester to submit such work products and conclusions based on the Data to the Data Owner prior to publication to allow Data Owner to comment on whether the Data has been used and interpreted in a manner consistent with its business purpose. Requester shall add a disclaimer in the following form to any reports and artifacts generated with the Data ___________________________________________ _______________________________________________________________.
+Requester shall not share or re-disclose the Data to third parties without written permission from the Data Owner, unless, in the course of integrating the Data into their systems, it becomes indistinguishable from similar data, such as, for example, email addresses or phone numbers, generated internally by the Requester.
+Requester shall credit Data Owner for the use of Data using a citation in the following form: ______________________________________________ __________________________________________________________.
+CADENCE, FREQUENCY AND SERVICE LEVEL EXPECTATIONS
+The parties agree to deliver Data to the Requester using the methods enumerated in Annex “C” and on the schedule and frequency enumerated in Annex “D”.
+Deliveries of Data from the Data Owner to the Requester shall commence on ___________________________.
+Data Owner represents that the Data conforms to the Data Quality Requirements enumerated in Annex “E”. Data Owner does not represent that the Data is suitable for Requester’s intended business purposes, and, provided that the Data conforms to the Data Quality Requirements, Requester assumes all risks that Data is suitable for its purposes.
+COMPENSATION
+Data Owner and Requester hereby agree to share the cost of developing this Data Exchange in the following manner:____________________________________  ______________________________________________________________ ______________________________________________________________ ______________________________________________________________
+ADDITIONAL TERMS AND CONDITIONS
+The DSMOU forms a part of this agreement as if fully recited at length herein.
+The parties agree to review this agreement not less than annually, one month prior to the anniversary date, and to make such amendments, which may include the termination of this agreement, as they deem necessary at the time.
+This agreement may be terminated in the event that the Requester is not compliant with its terms, or with the terms of the DSMOU. The effective date of such termination will be specified by notice given to the Requester by the Data Owner.
+This agreement may be terminated immediately in the event that Applicable Law makes it illegal to exchange the Data or the intended use of the data by the Requester is no longer permitted by law.
+This agreement continues in perpetuity commencing on the date hereof. This agreement may be cancelled by agreement between the parties. Cancellation will become effective not less than 90 days following written notice of cancellation by either party, unless the 90-day notice period is waived in writing by the Requester.
+This agreement, including the Annexes, may be amended in writing by mutual agreement of the parties at any time. Amendments shall be made in writing.
+No monetary consideration shall be exchanged between the parties for the operational costs of this Data Exchange, other than those expressly provided for in this agreement.
+No monetary consideration shall be exchanged between the parties for failure to meet Service Level Objectives stated in this agreement. The parties agree to faithfully and fully cooperate to resolve any service level issues that arise throughout the term of this agreement, and to refer disagreements to the State Data Interoperability Council for assistance with issue resolution.
+DEFINITIONS
+To Securely Erase data means to erase it in a manner that prevents it from being restored or reconstructed. In the case of removable media such as tape or optical disk, this means destroying the media through shredding or physical destruction. In the case of rewritable storage media such as disk, removable hard drive, thumb drive, solid state media or cloud storage media, the files must be overwritten with zeros or nulls and then deleted from the system.
+Data Exchange means the transfer of data from a Data Owner to a Requester.
+Data Owner and Requester hereby enter into this agreement at (city, state) __________________, this _______ day of ______________________, 20___.
+DATA OWNER
+Name______________________________________
+Title_______________________________________
+Signature___________________________________
+Date ______________________________________
+REQUESTER
+Name______________________________________
+Title_______________________________________
+Signature___________________________________
+Date ______________________________________
+Annex “A”
+Data Elements
+Include:
+Specific Data fields, names, Data type and size
+File layout, delimiters, headers, footers, etc.
+Format (JSON, CSV, Excel, flat text, API, etc.)
+Whether an existing Interoperability standard is being applied, such as an internal standard, HL7, NIEM, etc. If the Data service does not follow an approved standard, or there is no standard, specify this as well.
+Applicable items from Data Sharing MOU § 8(K)
+Data lineage information that will help the user understand how to interpret the Data values, how to protect the Data and how the Data can be used.
+Classification of confidential data elements
+Change management procedures
+Annex “B”
+Applicable Privacy Regulations
+Annex “C”
+Data Transmission Process and Protocols
+Include, if applicable:
+Details of Data format
+Method of transmission (API, SFTP, etc.)
+Folders/directories where Data will be placed
+Login & authentication procedures
+Process for obtaining credentials, API keys, encryption keys, etc.
+Encryption methodology
+File naming convention
+Time period covered for each exchange
+How to identify the time period in the header, file name or elsewhere in the Data.
+Whether Data is a full replacement, append or update in place
+How to identify which rows to update in an “update only” exchange
+Details on the Data transfer process, including:
+Tracing the business path of the Data transfer from the source System to the target location;
+Identifying if any updates or transformations are made to the Data in transit;
+Capturing details on the transport protocol that will be applied transferring the Data;
+Noting if the transport protocol changes along the path; and
+Indicating the transfer/transmittal protection requirements to ensure the Data content is protected appropriately per Applicable Law.
+Change management procedures
+Annex “D”
+Schedule & Frequency of Data Exchange
+Include:
+Time of day when exchange occurs
+Frequency (monthly, quarterly, hourly, etc.)
+Schedule (1st Thursday; 15th of the month, etc.)
+Procedure for notifying Requester if Data will be late or service will be unavailable
+Start date (and end date, if applicable)
+Service level agreement.
+A statement of whether this Data Exchange is mission-critical and requires high-availability.
+A process for restarting the service should the transfer fail unexpectedly
+Change management procedures
+Annex “E”
+Data Quality Metrics
+Include:
+Data element name
+Permissible values or range of values
+Precision (decimal places)
+Number or % that can be blank
+Number or % that can be outside permissible values or range of values
+If any code sets or reference data is used, the version of the code set or reference data must be specified, and copies of the reference data supplied on request
+Change management procedures - ie. - how changes to file layouts, valid value sets or similar changes are communicated between the parties.
+Test procedures and pass/fail criteria;
+The time period in which the Data remains valid and relevant
+How to validate that message format and content are valid and that content has been received without error
+Feedback mechanism to report erroneous Data back to the Data Owner for correction and reprocessing
+Annex “F”
+Additional Security and Access Controls
+Include:
+An evaluation of whether additional Partner-specific restrictions should be applied on the Data Exchange. User or Group level restrictions shall be included, if applicable.
+Initial if
+Applicable	Regulation	Description
+	FEDERAL REGULATIONS	
+ 	7 CFR 246.26	WIC Confidentiality Provisions
+ 	20 CFR 603,	Federal-State Unemployment Compensation (UC) Program; Confidentiality and Disclosure of State UC Information
+ 	34 CFR Part 99
+  - 20 USC 1232g	- Family Educational Rights and Privacy (FERPA)
+- Family Educational and Privacy Rights
+ 	34 CFR 361.38	Protection, Use and Release of Personal Information (Special Education and Rehabilitative Services, Dept. of Ed.)
+ 	42 CFR Part 2
+  - Authority: 42 USC 290dd-2	- Confidentiality of Substance Use Disorder Patient Records
+- Confidentiality of Records
+ 	42 CFR 403.812	HIPAA Privacy, Security, Administrative Data Standards, and National Identifiers
+ 	42 CFR 431.300-431.307	Safeguarding Information on Applicants and
+Beneficiaries (Medicaid/medicare)
+ 	42 CFR 493.1231	Lab-patient confidentiality
+ 	45 CFR Part 160 and Subparts A and E of Part 164
+ - Note: 42 USC 201	- Health Insurance Portability and Accountability Act (HIPAA)
+- Definitions
+	45 CFR 155.260 and 280	MARS-E
+ 	5 U.S.C. 552a	Privacy Act of 1974
+ 	18 U.S.C. 1030	Fraud and related activity in connection with computers
+ 	42 U.S.C. 247b-4(a)	Early Detection, Diagnosis, and Interventions for Newborns and Infants with Hearing Loss
+ 	42 U.S.C. 280e	National Program of Cancer Registries
+ 	42 U.S.C. 679 et seq	Collection of Data Relating to Adoption and Foster Care
+ 	42 U.S.C. 1320b-7	Income and Eligibility Verification System
+ 	42 U.S.C. 1396(a)(7))	State Plans for Medical Assistance
+ 	42 U.S.C. 2000aa	Privacy Protection of 1980
+ 	42 U.S.C. 5101, et seq.	Child Abuse Prevention and Treatment and Adoption Reform
+ 	Education Sciences Reform Act of 2002	 
+ 	Individuals with Disabilities Education Act of 1975	 
+ 	Internal Revenue Code, Title 26 of USC	 
+ 	IRS Publication 1075	Tax Information Security Guidelines For Federal, State and Local Agencies
+ 	Office of Management and Budget Memorandum M-17-12 (?)	Preparing for and Responding to a Breach of Personally Identifiable Information
+ 	Pub.L. 107-347	E-government Act of 2002
+ 	Public Law No. 100-235 (H.R. 145)	Computer Security Act of 1987
+ 	ARIZONA STATUTES, REGULATIONS AND POLICIES	 
+ 	P8110 Data Classification Policy	System security vulnerabilities
+ 	P8110 Data Classification Policy	Generated security information
+ 	P8110 Data Classification Policy	Information regarding current deployment, configuration, or operation of security products or controls
+	A.R.S. §12-2291, A.R.S. §12-2292, A.R.S. §36-445.04, A.R.S. §36-404, A.R.S. §36-509, A.R.S. §36-3805	Medical records
+	A.R.S. §36-135	Child immunization Data
+	A.R.S. §36-133	Chronic disease information
+	A.R.S. §36-664, A.R.S. §36-666	Communicable disease information
+	A.R.S. §36-568.01, A.R.S. §36-568.02	Developmental disabilities service records
+	A.R.S. §36-2220	Emergency medical service patient records
+	A.R.S. §12-2801, A.R.S. §12-2802	Genetic testing records
+	A.R.S. §36-160	Home health service records
+	A.R.S. §36-756.01	Midwifery patient records
+	A.R.S. §36-2221	State trauma registry
+	A.R.S. §36-727	Tuberculosis control court hearing information
+	A.R.S. §36-342	Vital Records
+	Payment Card Industry Data Security Standard (PCI DSS) v3.2.1	Card Holder Data (CHD) including Primary Account Number (PAN), Cardholder Name, Expiration Date, and Service Code
+	A.R.S. §44-1373	Credit card, charge card or debit card numbers, retirement account numbers, savings, checking or securities entitlement account numbers
+	A.R.S. §41-1959]	Child Protective Services records
+	A.R.S. §41-619.54	Criminal history record information
+	A.R.S. §41-1750	Criminal Justice Information
+	A.R.S. §41-4273	Critical Infrastructure/Fuel Facility Reports
+	A.R.S. §39-123, A.R.S. §39-124	Eligible Persons
+	Risk Assessment and State Audit Record	Risk Assessment and State Audit Record
+	A.R.S. §41-1279.05	Auditor General Records
+	A.R.S. §39-126	Federal risk assessments of infrastructure
+	A.R.S. §41-4172	Personal Identifying Information (except as determined to be public record)
+	A.R.S. §44-1373	Social Security Number
+	A.R.S. §42-2001 et al.	Taxpayer Information State, Federal Tax Information (FTI) and other
+	A.R.S. § 44-315	Unclaimed Property Information
+	Licensing, Certification, Statistics and Investigation Information (of a sensitive nature)	Licensing, Certification, Statistics and Investigation Information (of a sensitive nature)
+	A.R.S. §36-2161	Abortion reports
+	A.R.S. §36-3503	Child Death Records
+	A.R.S. §36-2523	Controlled substance records
+	A.R.S. §36-2220	Emergency medical service investigation records
+	A.R.S. §41-1482	Employment discrimination information
+	A.R.S. §36-2917	Health Care Cost Containment Records
+	A.R.S. §36-3295	Health Care Directives Registry Information
+	A.R.S. §36-2403, A.R.S. §36-404	Health care entity licensing information
+	A.R.S. §36-2810	Medical Marijuana Records
+	A.R.S. §36-445, A.R.S. §36-445.01	Medical practice review
+	A.R.S. §36-446.10]	Nursing home certification records
+	A.R.S. §36-2604	Prescription information
+	A.R.S. §39-125	Archaeological discoveries
+	A.R.S. §38-507]	Attorney General opinions
+	A.R.S. §42-2001	Tax Examination guidelines
+	A.R.S. §41-3452	Vehicle information
+	A.R.S. §41-361	Attorney-Client Privileged Information
+	A.R.S. §6-129	Bank Records
+	Intellectual Property laws	Trade secrets and proprietary information
+	Management and Support Information 	Management and Support Information 
+	Other records protected by law	Other records protected by law

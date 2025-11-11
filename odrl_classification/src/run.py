@@ -17,12 +17,16 @@ if __name__ == "__main__":
         x = import_module("models." + model_name)
         config = x.Config()
         # 设置随机种子，保证实验的可重复性
-        print(config)
+        # print(config)
+        # Print each attribute in Config
+        for key, value in vars(config).items():
+            print(f"{key}: {value}")
+
         np.random.seed(1)
         torch.manual_seed(1)
         torch.cuda.manual_seed_all(1)
         torch.backends.cudnn.deterministic = True  # 保证每次结果一样
-        print("Loading data for Bert Model...")
+        print("\nLoading data for Bert Model...")
         # 构建训练、验证、测试数据集和数据迭代器
         train_data, dev_data, test_data = build_dataset(config)
         train_iter = build_iterator(train_data, config)

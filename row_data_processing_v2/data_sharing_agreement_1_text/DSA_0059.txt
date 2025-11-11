@@ -1,0 +1,73 @@
+London Borough of Camden and London Borough of Camden Electoral Registration Officer
+Memorandum of Understanding For the purpose of data sharing Between Adult and Health
+Services and the Electoral Registration Officer
+The London Borough of Camden Electoral Registration Officer is legally a different Data Controller to
+the London Borough of Camden but is employed by the same organisation. This Memorandum is
+non-binding but constitutes a written agreement setting out the intentions of both data controllers
+to further the lawful purpose described below, aid appropriate information sharing, and safeguard
+the integrity and confidentiality of the data concerned. In the circumstances both data controllers
+agree that due to the close and intertwined nature of the relationships and processing, that a formal
+Data Sharing Agreement is disproportionate and that a MoU will suffice.
+This Memorandum of Understanding sets out the respective roles of the parties and the conditions
+under which the data sharing is permitted. It is intended to meet the requirements of regulation 35A
+(3) Representation of the People (England & Wales) Regulations 2001 which requires that a
+disclosure under that provision may be made only in accordance with a written agreement between
+the authority and the registration officer regulating the processing of the information, including its
+transfer, storage, destruction and security.
+Regulation 35A provides that the council permitted to disclose to the registration officer, for certain
+registration purposes, information contained in records held by the council. These are the purposes
+set out in paragraph 1A of Schedule 2 to the 1983 Act, except for the purpose of verifying
+information related to a person named in a relevant absent voting application. Paragraph 1A(1) of
+Schedule 2 to the Representation of the People 1983 Act enables provision to be made authorising
+or requiring a person to disclose information to another person for the purpose of assisting a
+registration officer
+(1) to verify information relating to a person who is registered or who is named in a registration
+application.
+(2) to ascertain the names and addresses of people who are not registered but who are entitled
+to be registered; or
+(3) to identify those people who are registered but who are not entitled to be registered.
+The Electoral Registration Officer confirms that the information requested comes within the scope of
+their legal powers in Regulation 35 (1) of the Representation of the People (England & Wales)
+Regulations 2001 which authorises a registration officer to inspect, for the purpose of their
+registration duties, records kept in any form by Camden.
+Purpose: The data is being accessed to allow the ERO to:
+• maintain and manage the register of electors (including the public record of electors)
+• meet any statutory requirements of the registration officer not listed above and to administer
+and enforce rules and regulations relating to electoral registration.
+• Assistance with voting for persons with disabilities
+The personal data will include:
+• Name
+• Current address and previous address (where recorded or where applicable)
+• Date of Birth
+• National Insurance Number (where recorded)
+
+• Nationality (where recorded)
+• Details of disability and presence on the Sight Loss Register
+The data will be provided to the Electoral Registration Officer by provision of Sight Lost Register
+and other data if applicable via email in a.csv flat file in the format expected by the ERO system.
+Electoral registration staff will be able to request the information when required, although requests
+will not be so regular as to be unduly onerous to ASC, and the information will be provided within 5
+working days of request.
+Retention and Deletion: The data files received will be destroyed once data has been entered into
+Democracy Counts. The statutory process of the Annual Canvass will check the information held on
+the register of electors and any potential electors who are identified as no longer being at the
+property will be archived in the EMS.
+Purpose Limitation and Information security. The ERO warrants that they have, will record and will
+maintain appropriate organisational measures to ensure that ERO staff do not use this data for any
+other purpose. Information Security for the ERO is provided by the council’s Information Security
+Team and DDS service and will be to the same standards as for other council assets. All those who
+will handle the disclosed data are bound by the employee code of conduct, have undergone
+appropriate employee checks as necessary for the role, will only use the information for purposes of
+their role and no other, will not share the information gained with other services or agencies (save
+where required to do so by law e.g. safeguarding duties, by court order or with the courts or as part
+of legal proceedings ). Breach of these conditions may result in disciplinary action for breach of the
+code of conduct.
+Agreement:
+Agreed:
+Name: Jamie Spencer
+Position Head of Insight, Quality & Financial Services and Caldicott Guardian for Adult Social Care
+Date:
+Agreed:
+Name: Jeanette Pegler
+Position: Electoral Services Manager
+Date: 28/03/25

@@ -49,7 +49,7 @@ def train(config, model, train_iter, dev_iter):
         total_batch = 0
         print("Epoch [{}/{}]".format(epoch + 1, config.num_epochs))
         # 遍历每个批次
-        for i, (trains, labels) in enumerate(tqdm(train_iter)):
+        for i, (trains, labels) in enumerate(tqdm(train_iter, desc=f"Epoch {epoch+1}/{config.num_epochs}\n")):
             # 模型前向传播
             outputs = model(trains)
             # 梯度清零
@@ -78,7 +78,7 @@ def train(config, model, train_iter, dev_iter):
                 time_dif = get_time_dif(start_time)
                 # 输出训练和验证集上的效果
                 msg = "Iter: {0:>6},  Train Loss: {1:>5.2},  Train Acc: {2:>6.2%},  Val Loss: {3:>5.2},  Val Acc: {4:>6.2%},  Time: {5} {6}"
-                print("\n\n", msg.format(total_batch, loss.item(), train_acc, dev_loss, dev_acc, time_dif, improve), "\n\n")
+                print(msg.format(total_batch, loss.item(), train_acc, dev_loss, dev_acc, time_dif, improve), "\n")
                 # 评估完成后将模型置于训练模式, 更新参数
                 model.train()
             # 每个batch结束后累加计数

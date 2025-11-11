@@ -337,7 +337,6 @@ The user may download the confidential report up to three times within 30 days f
 
 
 
-The user may download the confidential report up to three times within 30 days for research purposes only,
-provided that attribution is given to the company.
+The user may download the confidential report up to three times within 30 days for research purposes only, provided that attribution is given to the company.
 
 The Data Discloser shall ensure that before the Commencement Date, Shared Personal Data is accurate and that it has appropriate internal procedures in place for the Data Receiver to sample Shared Personal Data before the Commencement Date and it will update the same if required before transferring the Shared Personal Data.

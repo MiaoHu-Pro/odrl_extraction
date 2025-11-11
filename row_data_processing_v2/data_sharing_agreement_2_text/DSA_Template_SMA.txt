@@ -1,0 +1,81 @@
+DATA SHARING AGREEMENT BETWEEN XXXX AND XXXX
+This data sharing agreement exists to ensure that personal data contained within archaeological archives deposited with XXXX will continue to be protected with adequate security by any other organisations/individuals that will have access to it and that the receiving organisation:
+understands the nature and sensitivity of the information
+will take reasonable steps to ensure that those security measures are in place
+has an agreed set of security standards that have been signed up to by all the parties 
+will ensure organisations/individuals  the data is disclosed to will take on their own legal responsibilities in respect of the data, including its security
+Data sharing protocols
+These are the procedures and responsibilities that will be adopted by both institutions involved in the data sharing agreement.
+The purpose of the sharing:
+XXXX is a XXXX that delivers a wide variety of archaeological interventions and recording projects including archaeological excavations, and surveys as well as landscape and buildings studies.  Its objectives are as follows:
+XXXX
+To this end, XXXX undertakes archaeological activity in response to a variety of circumstances but particularly in advance of development as part of the planning control process. This work involves collecting and processing data from donors, landowners and other interested parties such as freelance specialists and employees.  The personal Information that is collected will relate to a person who may be identified (directly or indirectly) within: 
+documents provided to initiate the deposition process 
+within the deposited archive itself
+email and administrative correspondence relating to deposition
+The recipient and the circumstances in which data will be shared:
+XXXX is managed by XXXX, and is the Data Controller. 
+It is XXXX ‘s responsibility to ensure that it has obtained permission to share this data with the receiving body and to confirm this in writing. 
+The data may be shared with XXXX at several points during the deposition process. The data is stored by XXXX on XXXX and only accessed by its employees and volunteers. With reference to the archaeological archiving process the data is used by XXXX to:
+administer the overall delivery of the project 
+to initiate the archaeological archive deposition process 
+to satisfy the receiving body’s conditions of acceptance including the transfer of title process. 
+As the receiving body, it is XXXX’s responsibility to ensure the security of the data it receives and will use it to: 
+administer the overall delivery of the deposition process
+store, process and use the information provided in perpetuity (i.e. forever) for the purposes of collections provenance (the object history)
+be able to make contact with the unit or the landowner/donor regarding particular archives on an occasional basis only should the need arise, e.g. out of courtesy should the material be incorporated in an exhibition; to confirm how (or if) the  donation should be credited; as a stakeholder relevant to collections management activities including rationalisation and disposal.
+The data will never be used for marketing purposes or passed on to a third party (see also research access below).
+NB Personal data such as the landowner/donor details will not be made routinely available on public platforms and donations will remain anonymous in museum publications such as object labels and other published works without the donor’s express permission: this includes the museum’s Collections Online website.
+The data to be shared
+Data will/could include:
+Name(s)
+Addresses
+Telephone number(s)
+Email addresses
+Social media user name(s)
+Company names
+Postal addresses
+Correspondence
+Photographs
+Data security
+All data submitted by electronic or other means to XXXX will be addressed to specific named individual(s) within the  XXXX  team responsible for the administration of the deposition process. ICT access control measures will be supported by procedural and personnel controls to enforce the “need to know” principle. This means that access to the data held in either electronic or paper copy format will be restricted to a limited number of staff members who require it to fulfil their role responsibilities: the data will be password protected and processed using safeguarded systems with firewall and antivirus protection. 
+All data submitted as part of the complete final archive to XXXX will be held in secure storage locations with restricted staff and volunteer access.
+XXXXXXXXXXXXX
+XXXX will ensure that:
+the information will be protected against unauthorised access
+the confidentiality of information will be assured
+the integrity of information will be maintained
+regulatory and legislative requirements will be met
+Data retention
+A Document Retention Schedule (DRS) is an essential component of an efficient and effective records management system. The DRS ensures that business records are kept for as long as they are needed to meet operational needs and to comply with legal requirements. The DRS relevant to the deposition of archaeological archives for XXXX is as follows:
+XXXXXXXX
+It is a business requirement of XXXX that all records relating to loans, donations and bequests (including those relating to the deposition of archaeological archives) made to XXXX are held in perpetuity.  These records are classified as OFFICIAL based on the Cabinet Office's Government Security Classifications - April 2014 (Version 1.1 – May 2018)
+https://www.gov.uk/government/publications/government-security-classifications
+Termination of the sharing agreement
+Termination of the agreement will need to be agreed by both parties with at least six months’ notice such so that alternative arrangements can be made.
+Sanctions for failure to comply with the agreement or breaches by individual staff.
+All XXXX’s staff members are expected to adhere to a Code of Conduct and as such are subject to a pre-existing Disciplinary Policy that provides a framework for managers to deal with misconduct and breaches of discipline in a timely, fair and transparent way. Staff members are required to understand what information must be kept confidential and what information can only be disclosed with relevant authority. Adherence to XXXX’s Information Security Policy is mandatory. Any breach of this policy may result in disciplinary and/or criminal proceedings. Disciplinary action may include dismissal.
+Individuals’ rights – procedures for dealing with access requests, queries and complaints
+All requests from donors to access or alter the data held on them will be actioned by the XXXX and dealt with promptly.
+Signed on behalf of XXXX
+Date:
+igned t Team – either directly ---------------------------------------------------
+Signed on behalf of XXXX
+Date:
+NOTES
+Data sharing
+Most people will understand ‘data sharing’ as the sharing of data between organisations. However, the data protection principles also apply to the sharing of information within an organisation – for example between the different departments of a local authority or financial services company.
+By ‘data sharing’ we mean the disclosure of data from one or more organisations to a third party organisation or organisations, or the sharing of data between different parts of an organisation. Data sharing can take the form of: 
+a reciprocal exchange of data; 
+one or more organisations providing data to a third party or parties; 
+several organisations pooling information and making it available to each other; 
+several organisations pooling information and making it available to a third party or parties; 
+exceptional, one-off disclosures of data in unexpected or emergency situations; or
+different parts of the same organisation making data available to each other.
+Archaeological Archives
+An archaeological archive is defined by the Archaeological Resources in Cultural Heritage European Standard (ARCHES) as follows:
+An archaeological archive comprises all records and materials recovered during an archaeological project and identified for long-term preservation, including artefacts, ecofacts and other environmental remains, waste products, scientific samples and also written and visual documentation in paper, film and digital form.
+
+http://archaeologydataservice.ac.uk/arches/Wiki.jsp?page=STANDARD%20for%20archaeological%20archiving
+Data Sharing Agreement between XXXX and XXXX 2018
+Data Sharing Agreement: Archaeological Archives 

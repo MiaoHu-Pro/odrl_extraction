@@ -1,0 +1,46 @@
+Appendix H – Information Sharing Protocol templates 1 - One Staffordshire Information Sharing Protocol Information Sharing Agreement In relation to: <Please state name of initiative/project> This individual Agreement is made under the One Staffordshire Information Sharing Protocol between: <Details of Organisation ‘A’> and <Details of Organisation ‘B’> Introduction 1 Basis for sharing Please use this section to give the background around why the information must be shared.
+Outline the basis for sharing including relevant statutory powers, processing conditions and fairness.
+If there is a legislative or national target that is driving the need to share information please include this, as well as any timescales in terms of starting or finishing the information transfer.
+Purpose for the sharing Statement explaining why the sharing initiative is necessary, objectives and benefits you hope to achieve.
+Length of agreement This agreement will commence at midnight on XX/XX/XXXX.
+This agreement will remain in place for XXXX (days/months/years/indefinitely) and will end on XX/XX/XXXX (if applicable) or until terminated by either party.
+Key Contacts Insert the names, roles and contact details (including telephone number and email address) of those who are involved in the sharing of the information.
+This could be the initiative/project leads, technical, clinical or administrative staff, however the contacts must be from each of the organisations involved who have sufficient awareness of the details of information that is being shared.
+Information Sharing 1 Type of information that may be shared List in broad category terms the types of information that may need to be shared i.e.
+Basic personal data = name, address, date of birth etc.
+Sensitive personal data = ethnic origin, health, criminal offences etc.
+Relationship data = next of kin, doctor etc.
+Appendix H – Information Sharing Protocol templates 2 - All organisations should also take reasonable steps to meet service user’s communication needs.
+If applicable these needs should be highlighted between partners, with consent, in data shared as part of integrated, local data sharing processes.
+How the information will be shared The agencies should detail how the physical transfer of the data will take place including the necessary security measures in place.
+Frequency: the information will be shared [each day/month/in response to a specific event].
+The information sharing will cease [**].
+The information sharing can be terminated by either party on written notice of [***].
+The terms of this agreement remain binding on any information shared and retained throughout its lifecycle, irrespective of whether the party remains a current signatory to this agreement.
+Transfer: will occur by [system to system transfer, Secure File Transfer, NHS Mail etc].
+Information will be shared on a strict need to know basis only and the data will only be processed by staff in order for them to perform their duties in accordance with one or more of the defined purposes.
+Under no circumstances should personal data be processed in any way that is unsecure or left unattended.
+It is the responsibility of the sender to ensure that the method is secure and that they have the correct contact details for the receiver.
+Recipients and other organisations that the information may be shared with All organisations that will be involved in the sharing should be detailed as well as other partners that the information may need to be shared with i.e. organisations not party to the agreement.
+If the provider agency of the personal information wishes to place any additional restriction on the use of the information, these should be indicated here.
+Data Quality Outline any practical problems including ensuring that information shared is adequate, relevant, not excessive, accurate and up to date.
+Consider the usability and compatibility of the data.
+Consideration should be made for data accuracy including the use of periodic sampling.
+Compatible data sets should be utilised and outlined within the agreement, for example ensuring how data items are recorded such as dates of birth i.e.
+5 Retention and destruction Detail any relevant retention periods and whether the information should be returned to the supplying partner or destroyed.
+Consideration should made for the exit strategy, for example whether this be evidence of destruction or return of the data.
+Appendix H – Information Sharing Protocol templates 3 - Explain what the process will be for dealing with a Subject Access Request, Freedom of Information request, query or complaint received by a partner.
+Data Security Detail what security measures will be in place for the data, including both organisational and technical.
+Review and Audit 1 The Processor shall provide the Controller with all information requested to enable the Controller to verify the Processor (and each Sub-Processor's if applicable) compliance with this Agreement.
+Without prejudice to clause 3.1, the xxx shall be entitled to inspect, test and audit or appoint representatives to inspect, test and audit, all facilities, premises, equipment, systems, documents and electronic data relating to the processing of personal data by or on behalf of xxxx and xxxx shall cooperate and assist with each inspection, test and audit.
+In the event any non-compliance is identified with this Agreement as a result of the exercise of its rights under clauses 3.1 and 3.2, xxxx shall remedy the non-compliance and shall take such steps as the xxxx reasonably requests for this purpose.
+General Obligations All parties should have already signed up to the overarching Tier 1 One Staffordshire Information Sharing Protocol which specifies a set of general obligations that all must meet.
+Any additional obligations that apply to all parties involved in this Tier 2 agreement should be specified here.
+Obligations to an individual party Please include details that only apply to an individual party and ensure that it is documented to which organisation these obligations apply.
+Examples of these could be submission of data, incident reporting, handling of queries/complaints from individuals affected by the information sharing.
+Review of Agreement The agreement should outline any sanctions for failure to comply.
+The agencies should detail how long the agreement is valid for and, if it is a rolling agreement, there should be a date to review its ongoing effectiveness.
+This agreement will remain in force irrespective of whether the agreement has been officially reviewed until a notice of termination is served.
+Signatures Signed for and on behalf of <Organisation A - specify service/area and include the address> Name:
+ Appendix H – Information Sharing Protocol templates 4 - Position: Signature: Date: If applicable please also complete the below: ICO Registration No. Date of expiry: DSP IG Toolkit Code Rating and Score: Signed for and on behalf of <Organisation B - specify service/area and include the address> Name: Position: Signature: Date: If applicable please also complete the below: ICO Registration No. Date of expiry: DSP IG Toolkit Code Rating and Score:
+ Appendix H – Information Sharing Protocol templates 5 - Schedule 1 – Processing, Personal Data and Data Subjects Description Details Subject matter of the processing Duration of the processing Nature and purposes of the processing Plan for destruction of the data once the processing is complete (please state if there is a legal requirement to preserve the data)

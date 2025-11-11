@@ -1,0 +1,210 @@
+1
+DATA SHARING AGREEMENT
+This DATA SHARING AGREEMENT (this “Agreement”) is effective as of
+, 20 (the “Effective Date”) between _ (“Researcher”),
+located at and GlaxoSmithKline, LLC,
+with offices located at 5 Crescent Drive, Philadelphia, PA 19112 and Five Moore Drive,
+Research Triangle Park, NC 27709 or GlaxoSmithKline Research and Development Ltd, with
+offices at 980 Great West Road, Brentford, Middlesex, TW8 9GS (“GSK”).
+BACKGROUND
+GSK and its affiliates develop, manufacture, distribute, and sell pharmaceutical and
+healthcare products. Researcher desires access to certain data collected by GSK in order to
+conduct certain analyses as further described below. GSK and Researcher intend to establish this
+Agreement with respect to Researcher’s access to GSK data.
+DEFINITIONS
+“GSK Confidential Information” means all information (including, without limitation, patient-
+level data, research specifications or Protocols, reports, specifications, computer programs or
+models and related documentation, know-how, trade secrets, or business or research plans) of
+GSK or GSK’s affiliates that are provided to Researcher in connection with this Agreement.
+“New Intellectual Property” means all discoveries, developments, inventions (whether patentable
+or not), improvements, methods of use or delivery , know-how or trade secrets which are made
+by Researcher in connection with the use of GSK Confidential Information under this
+Agreement.
+“Analytical Tools” includes but is not limited to any methodology, statistical methods, formulae
+or other methods or tools used by Researcher in conducting the Analysis.
+“GSK Uses” means any and all uses of or related to a compound which is owned or Controlled
+by GSK on or after the effective date, including the compound(s) which was used to generate the
+patient level data, which would otherwise be an infringement of any New Intellectual Property.
+For the avoidance of doubt, a related use includes, but is not limited to a diagnostic test
+applicable to a disease treated by the compound or the class to which it belongs.
+1. DATA SHARING
+(a) GSK and Researcher agree that GSK will provide the Researcher with access to
+patient level data from the GSK-sponsored clinical studies listed in Exhibit A for the sole
+purpose of analysis according to Researcher’s approved research plan (the “Analysis”) attached
+as Exhibit B and for no other purpose. Researcher agrees that data provided by GSK are GSK
+Confidential Information. GSK makes no representations or warranties regarding the suitability
+of the data provided to Researcher for the Analysis.
+(b) Researcher agrees that it will only use GSK Confidential Information for the
+20 September 2013
+V1.1
+S
+a
+m
+p
+l
+e
+
+2
+approved Analysis and associated obligations and will not download or transfer the GSK
+Confidential Information from the GSK access system for either the approved use or other
+uses.
+(c) Researcher agrees to provide access and reasonable assistance to GSK to utilize
+and implement any Analytical Tools for the sole purpose of reproducing the Analysis.
+(d) Researcher agrees that it will inform GSK immediately (and will also inform any
+regulatory authority) of any safety concerns identified as part of the Analysis. Researcher agrees
+that GSK may take action regarding such safety concerns, including informing regulatory
+authorities or healthcare providers, or otherwise making the safety concern public, even in
+advance of publication of the Analysis by Researcher.
+(e) Researcher agrees to comply with any additional requirements identified by the
+Independent Review Panel which approved the Analysis plan, listed in Exhibit C.
+2. CONFIDENTIALITY
+(a) GSK Confidential Information and all tangible expressions, in any media, of GSK
+Confidential Information are the sole property of GSK. Researcher agrees not to use GSK
+Confidential Information for any purposes other than the purpose(s) described in this Agreement.
+Researcher agrees not to disclose GSK Confidential Information to third parties except as
+necessary for the purpose(s) described in this Agreement and under an agreement by the third
+party (with the exception of regulatory authorities notified of Analysis results) to be bound by the
+obligations of this Section. Researcher shall safeguard GSK Confidential Information with the
+same standard of care that is used with Researcher’s confidential information, but in no event
+less than reasonable care. At any time upon the request of GSK, all tangible expressions, in any
+media, of GSK Confidential Information in Researcher’s possession shall be delivered to GSK,
+or at GSK's option, destroyed.
+(b) The obligations of confidentiality and limited use under this Section shall not
+extend to any information:
+(i) which is or becomes publicly available, except through breach of this
+Agreement;
+(ii) which Researcher can demonstrate that it possessed prior to, or developed
+independently from, disclosure under this Agreement;
+(iii) which Researcher receives from a third party which is not legally
+prohibited from disclosing such information; or
+(iv) which Researcher is required by law to disclose, provided that the other
+party is notified of any such requirement with sufficient time to seek a protective order or
+other modifications to the requirement.
+(c) The obligations of this Section shall survive this Agreement for a period of fifteen
+(15) years after the Effective Date.
+3. INTELLECTUAL PROPERTY
+(a) Researcher will notify GSK, promptly and in writing, of any New Intellectual
+Property. Researcher hereby grants to GSK and to GSK’s Affiliates a perpetual, non-exclusive,
+20 September 2013
+V1.1
+S
+a
+m
+p
+l
+e
+
+3
+royalty-free, worldwide license for GSK Uses with right to sublicense (with an exclusive option,
+to be exercised within one hundred eighty (180) days from notice of the New Intellectual
+Property to negotiate in good faith an exclusive, fee-bearing, worldwide license with right to
+sublicense for GSK Uses) to all New Intellectual Property which Researcher may have or
+obtain, each without additional consideration from GSK. Researcher will provide reasonable
+assistance to GSK, upon commercially reasonable terms that are at least as favorable to GSK as
+the terms agreed with any other licensee for such assistance, to facilitate GSK in fully utilizing
+any New Intellectual Property for GSK Uses.
+(b) If GSK exercises its option to negotiate an exclusive license for GSK Uses, GSK
+and Researcher will exclusively negotiate in good faith, for up to one hundred eighty (180) days
+or such mutually agreeable longer period, regarding commercially reasonable terms for an
+exclusive, worldwide, fee-bearing license, including the right to sublicense, for GSK and GSK’s
+Affiliates to make, have made, use, sell or otherwise dispose of the subject matter of the New
+Intellectual Property or products incorporating the subject matter of the New Intellectual
+Property for GSK Uses. In the event that GSK does not exercise its option to negotiate an
+exclusive license, or in the event Researcher and GSK fail to agree to commercially reasonable
+exclusive license terms following good faith negotiation, Researcher may negotiate further non-
+exclusive license terms with third parties for GSK Uses. The Researcher may negotiate license
+terms with third parties for non-GSK Uses. Any such terms shall be consistent with the non-
+exclusive license granted to GSK in section 3(a) above. Should any terms be agreed with a third
+party in accordance with this section, then for five (5) years after the effective date, Researcher
+will notify GSK, within thirty (30) days of the effective date of any such agreement, of the
+identity of the third party.
+(c) Researcher agrees to obtain written agreements with Researcher employees,
+agents, and subcontractors which assign, without additional consideration, all rights, title and
+interests in New Intellectual Property to Researcher for subsequent licensing to GSK. The
+obligations of this Section shall survive termination of this Agreement.
+4. PUBLICATION
+Researcher agrees to post a summary of the Analysis plan on a publicly-available internet
+register or website prior to conducting the Analysis, and to post summary results of the Analysis
+on the same publicly-available internet register or website within one year of completing the
+Analysis. Researcher also agrees to submit the results of the Analysis for publication in the peer-
+reviewed literature (a "Publication") in a timely and complete manner as described in the
+Publication plan attached as Exhibit D, with such Publication appropriately disclosing the
+strengths and weaknesses of the Analysis methodology. Researcher shall submit to GSK a copy
+of the summary results of the Analysis at the time of posting the summary results as well as a
+copy of any proposed Publication within five (5) days of submission to a scientific congress or
+journal. Additionally, Researcher shall provide GSK with a reference citation upon publication.
+In the event GSK submits Analysis results to regulatory authorities with the potential to impact
+product labelling, Researcher agree that GSK may post a summary of the Analysis results on
+GSK’s Clinical Trial Register. Researcher agrees, following publication, to provide other
+researchers with additional details of the Analysis on request and to provide access and
+reasonable assistance to those other researchers to utilize and implement any Analytical Tools
+for the sole purpose of reproducing the Analysis. The obligations of this Section shall survive
+termination of this Agreement.
+20 September 2013
+V1.1
+S
+a
+m
+p
+l
+e
+
+4
+5. INDEPENDENT CONTRACTOR
+The relationship of the parties is that of independent contractors. Neither party is the
+partner, joint venturer, or agent of the other and neither party has authority to make any
+statement, representation, commitment, or action of any kind which purports to bind the other
+without the other's prior written authorization.
+6. ASSIGNMENT
+GSK may assign its rights and duties under this Agreement without Researcher’s consent.
+Any assignment by Researcher is valid only upon the prior written consent of GSK. To the
+extent permitted above, this Agreement shall be binding upon and inure to the benefit of the
+parties and their permitted successors and assigns.
+7. REPRESENTATIONS AND WARRANTIES
+(a) Researcher represents and warrants that it does not have, and will not enter into,
+any legal or contractual obligations that would prevent it from complying with its obligations
+under this Agreement, including without limitation, the obligations of Section 3.
+(b) Researcher represents and warrants that it has the authority to bind to the terms of
+this Agreement any individual proposed by Researcher to have access to GSK data, and that the
+term “Researcher” shall apply to all such individuals.
+(c) Researcher represents and warrants that it will obtain any regulatory or ethics
+approvals necessary to conduct the Analysis.
+(d) Researcher acknowledges the importance of data privacy of individuals to whom
+accessed data may relate, and commits to comply with all applicable data privacy legislation, not
+to attempt to identify subjects, and not to combine accessed data with other sources of data that
+would lead to the identification of any individual.
+8. GOVERNING LAW; VENUE
+This Agreement shall be governed by and interpreted in accordance with the laws of
+Delaware or England and Wales.
+9. ENTIRE AGREEMENT
+This Agreement represents the entire and integrated agreement between the parties and
+supersedes all prior negotiations, representations or agreements, either written or oral, regarding
+its subject matter.
+20 September 2013
+V1.1
+S
+a
+m
+p
+l
+e
+
+5
+GlaxoSmithKline: Researcher:
+By: By:
+Name: Name:
+Title: Title:
+Date: Date:
+Attachments:
+Exhibit A – Clinical Trial Listing
+Exhibit B – Analysis Plan
+Exhibit C – Independent Review Panel Requirements
+Exhibit D – Publication Plan
+20 September 2013
+V1.1
+S
+a
+m
+p
+l
+e

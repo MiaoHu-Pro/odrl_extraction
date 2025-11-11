@@ -1,0 +1,898 @@
+October 2022
+HUG 2: Data Sharing
+Agreement
+For local authorities in England
+Between:
+The Secretary of State for Business Energy & Industrial Strategy and
+[insert the name(s) of Grant Recipient]
+
+© Crown copyright 20[XX]
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.
+To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the
+Information Policy Team, The National Archives, Kew, London TW9 4DU, or email:
+psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third-party copyright information you will need to obtain permission from the
+copyright holders concerned.
+Any enquiries regarding this publication should be sent to us at:
+enquiries@beis.gov.uk
+
+3
+Contents
+Introduction ______________________________________________________________ 6
+Principle 1 - lawfulness, fairness, and transparency __________________________ 8
+Data items to be shared _________________________________________________ 8
+How data will be shared ________________________________________________ 10
+Legal Gateways _______________________________________________________ 11
+Data Controller relationship _____________________________________________ 11
+Transparency ________________________________________________________ 11
+Principle 2 - purpose limitation __________________________________________ 12
+Onward disclosure ____________________________________________________ 13
+Principle 3 - data minimisation __________________________________________ 14
+Principle 4 - accuracy __________________________________________________ 14
+Principle 5 - storage limitation ___________________________________________ 15
+Principle 6 - integrity and confidentiality __________________________________ 15
+Principle 7 – accountability _____________________________________________ 17
+Rights of data subjects _________________________________________________ 18
+Governance and administration _________________________________________ 20
+Offshoring ___________________________________________________________ 20
+Consultation _________________________________________________________ 20
+Automated decision-making and profiling _________________________________ 21
+Necessity and proportionality ___________________________________________ 21
+Freedom of Information Requests ________________________________________ 21
+Personal data breaches ________________________________________________ 21
+Dispute Resolution ____________________________________________________ 22
+Review ______________________________________________________________ 22
+Termination __________________________________________________________ 22
+Appendix A – Summary of Processing ____________________________________ 25
+Appendix B – Key contact details ________________________________________ 27
+Appendix C - CBAS default data handling _________________________________ 28
+
+HUG 2: Data Sharing Agreement
+4
+Glossary of key terms
+In this Agreement the following words and phrases will have the following meanings:
+Phrase Meaning
+“Grant Recipient [insert name(s) of Grant Recipient]
+“The Authority” means BEIS and any BEIS Delivery Agent, BEIS Delivery
+Partner or other contractor or organisation appointed by
+BEIS to act on its behalf in connection with HUG 2
+“BEIS” The Secretary of State for Business, Energy & Industrial
+Strategy
+“Partners” Partners to this Agreement, namely BEIS and the Grant
+Recipient
+“DPA” Data Protection Act 2018
+“DSA” Data Sharing Agreement
+“FoIA” Freedom of Information Act 2000
+“HUG 2” Home Upgrade Grant Phase 2
+“UK GDPR” UK version of Regulation (EU) 2016/679 – the General
+Data Protection Regulation
+“Controller” as referred to in UK GDPR
+“Processor” as referred to in UK GDPR
+“Data Subject” as referred to in UK GDPR
+“Processing” as referred to in UK GDPR
+“Personal Data” as referred to in UK GDPR
+
+HUG 2: Data Sharing Agreement
+5
+“Special Category
+Data”
+personal data as referred to in Article 9(1) of the UK
+GDPR
+“MoU” Memorandum of Understanding between BEIS and the
+Grant Recipient to record their understanding regarding
+the Grant funding
+BEIS Delivery Agent has the meaning given in the MoU
+BEIS Delivery Partner has the meaning given in the MoU
+“Grant” has the meaning given in the MoU
+“Eligible Measures” has the meaning given in the MoU
+“Eligible Household” has the meaning given in the MoU
+“Eligible Installer” has the meaning given in the MoU
+“Proposal” has the meaning given to it in the MoU
+“HUG 2 Performance
+Monitoring Data”
+has the meaning given to it in paragraph 6 of this DSA
+“HUG 2 Scheme
+Delivery Data”
+has the meaning given to it in paragraph 7 of this DSA
+“HUG 2 Fraud and
+Non-Compliance
+data”
+has the meaning given to it in paragraph 8of this DSA.
+“HUG 2 Funding
+Duplication Data”
+has the meaning given to it in paragraph 9 of this DSA
+“Funding Period” has the meaning given to it in the MoU
+
+HUG 2: Data Sharing Agreement
+6
+Introduction
+1. This Data Sharing Agreement (DSA) sets out the data sharing arrangements between
+the Partners in relation to HUG 2. It covers personal data being shared by the Grant
+Recipient with the Authority and personal data shared by the Authority with the Grant
+Recipient.
+2. HUG 2 is supported by grant funding to the Grant Recipient from the Authority in
+accordance with the MoU.
+3. HUG 2 has two key aims:
+• To deliver progress towards the fuel poverty target to improve as many D, E, F or G
+rated fuel poor homes as reasonably practicable to a minimum energy efficiency rating
+of C by the end of 2030, and an interim milestone of D by 2025.
+• To deliver progress towards the UK’s statutory target for net zero by 2050 and enable
+the delivery of the wider policy package to phase out high-carbon heating for homes off
+the mains gas grid this decade by growing supply chains and ensuring such policies do
+not act to the detriment of fuel poor households.
+4. The Grant Recipient has committed to spend the Grant to deliver Eligible Measures to
+Eligible Households, using Eligible Installers.
+5. Under paragraph 190 of the MoU, as far as it is possible to do so in accordance with
+the DPA and UK GDPR, the Grant Recipient has agreed to collect information for
+evaluation and reporting purposes (referred to below as “the Information”) in a way
+which:
+• Allows it to share the Information with the Authority.
+• Allows the Authority to share the Information with any of its research or evaluation
+partners;
+• Allows the Authority to use the Information for research and statistical purposes (this
+does not include publishing the Information in a way that identifies individual
+households) provided always that the Authority complies with the provisions of the Data
+Protection Act 2018 and UK GDPR; and
+• Allows the Authority to use the Information for official communications and audit
+activities.
+6. Under paragraph 113 of the MoU, the Grant Recipient will provide a monthly report to
+the Authority. The KPI data will cover activity from the first day of the month to the last
+and will need to be provided on or before the 10th working day of the following month.
+The Monthly Report shall detail monthly progress against KPIs stipulated in the
+Proposal, the top 5 risks and issues and any incidents of fraud, and an overall delivery
+confidence rating. There is also space to highlight any items the Grant Recipient wishes
+to escalate for attention by the Authority. The Grant Recipient will report to the Authority
+on the performance of the project(s) set out in their Proposal, in line with the stated KPIs
+
+HUG 2: Data Sharing Agreement
+7
+using a Monthly Report online reporting platform. This data is referred to as the “HUG 2
+performance monitoring data” in this DSA to differentiate it from the personal data that
+will be shared. Paragraphs 15 to 19 of this DSA define each dataset covered by this
+DSA.
+7. Under paragraph 113 of the MoU (see Annex 7 for the data requirements under the
+MoU or the draft template available on gov.uk) and as set out in the monitoring and
+evaluation section of the HUG 2 guidance document, the Grant Recipient is required to
+provide additional detailed information monthly to support a detailed evaluation of the
+overall scheme. This is expected to include personal data. This data is referred to as
+“HUG 2 scheme delivery data” in this DSA. Further details of the personal data to be
+shared are set out in Annex 9 of the MoU.
+8. In addition to the HUG 2 scheme delivery data, it may be necessary for the Grant
+Recipient to share data relating to any suspected fraudulent activity with the Authority
+on an ad-hoc basis, as stipulated in paragraphs 116-118 of the MoU, as well as within
+the monthly HUG 2 scheme delivery data. This is also expected to include personal
+data. This data is referred to as “HUG 2 Fraud and Non-Compliance data” in this DSA.
+9. Under paragraph 53 of the MoU, funding Grant Recipients receive from HUG 2 cannot
+be blended with other government schemes such as ECO, HUG 1, or the Social
+Housing Decarbonisation Fund, for the same individual measure. The Authority may
+undertake data matching between the data shared by the Grant Recipient and other
+datasets to check that relevant blending or duplication of funding has not taken place.
+Where a potential case of such blending or duplication of funding is identified, the
+Authority may notify the Grant Recipient. Such notification would be expected to involve
+the sharing of personal data. This data is referred to as “HUG 2 funding duplication
+data” in this DSA.
+10. This DSA documents the lawful basis for this data sharing initiative, what information will
+be shared and how. The Partners have entered into this DSA to demonstrate that data
+protection and privacy requirements have been taken into account, to set out how use of
+information meets the data protection principles, and how the rights of data subjects are
+protected. All the obligations in this DSA are subject to compliance with the law
+(including the DPA and UK GDPR).
+11. This DSA is not intended to be legally binding, and no legal obligations or legal rights
+shall arise between the Partners from this DSA. Nothing in this DSA is intended to, or
+shall be deemed to, establish any partnership, joint venture, or relationship of
+employment between the Partners, constitute either Partner as the agent of the other
+Partner, nor authorise either of the Partners to make or enter any commitments for or on
+behalf of the other Partner. This DSA does not create a legal power for either Partner to
+lawfully exchange and process personal information, and it does not provide indemnity
+from action under any law. It does not remove or reduce the legal obligations or
+responsibilities on any Partner. The Partners enter this DSA intending to honour its
+provisions.
+
+HUG 2: Data Sharing Agreement
+8
+12. This DSA will commence when it has been signed by or on behalf of both Partners and
+will terminate one year after the end of the Funding Period or, if later, one year after
+receipt by the Authority of the final transfer of the HUG 2 scheme delivery data in
+accordance with paragraph 43 of this DSA.
+Principle 1 - lawfulness, fairness, and transparency
+13. The sharing of the personal data, as described above, is necessary for the Authority to
+review the operation of HUG 2 and effectively assess whether HUG 2 has met the
+objectives set out in paragraph 3 of this DSA as well as for statistical, policy research
+and fraud prevention purposes. For this, the Authority requires details of the measures
+installed under HUG 2 as well as the consumers, installers and properties involved in
+those installations. Principle 2 - purpose limitation further below sets out the detailed
+purposes for which processing of data under this DSA are needed.
+Data items to be shared
+14. The Grant Recipient has agreed to provide the Authority with data, as described below:
+15. HUG 2 performance monitoring data. As set out in the MoU and referred to in
+paragraph 6 above, the Grant Recipient will provide a monthly update of aggregate
+data to allow monitoring of scheme progress against agreed targets. This summary
+aggregate data is not expected to include personal data and as such the controls and
+procedures specified in this agreement do not apply. The HUG 2 performance
+monitoring data is only defined here to ensure understanding of the other data types is
+clear.
+16. HUG 2 scheme delivery data. As set out in the MoU and supplementary guidance (and
+referred to in paragraph 7 above), the Grant Recipient is required to provide detailed
+data covering their delivery of HUG 2. This data is expected to include personal data.
+Annex 7 in the MoU sets out the draft HUG 2 Data Dictionary. In summary the types of
+data to be shared are:
+• the addresses and corresponding details of properties applying, or being referred, for
+installation of a measure.
+• contact details for the occupants and owners (if different) of the property where the
+installation took place, as well as details about how and why they were identified by the
+Grant Recipient for participation in HUG 2 and details about any financial contributions
+they have made towards the cost of the installation.
+• details of the energy efficiency measures or low carbon heating system installed,
+including type, size and cost.
+• details of any additional funding used to support the installations, for example from the
+owners, landlords or other third parties.
+• pre- and post-installation property SAP or RdSAP assessments with scores.
+
+HUG 2: Data Sharing Agreement
+9
+• details of the installers in relation to each installation of a HUG 2 measure, including
+their contact details and any relevant accreditation or registration information; and
+• contact details for households offered an installation but who do not accept.
+17. HUG 2 Fraud and Non-Compliance data. As set out in the MoU and referred to in
+paragraph 8 above, data relating to suspected fraudulent activity is expected to be
+shared by the Grant Recipient with the Authority on a monthly basis. The Authority may
+also request further data where the Grant Recipient requires support or assistance from
+the Authority in addressing issues of fraud or non-compliance. The format of the HUG 2
+Fraud and Non-Compliance data is prescribed in the Monthly Reporting Template and in
+the data dictionary of this MoU.
+18. In addition to personal data, the HUG 2 scheme delivery data and HUG 2 Fraud and
+Non-Compliance data shared by the Grant Recipient with the Authority is expected to
+include data which may be considered commercially sensitive to the Grant Recipient’s
+installers and sub-contractors. Below are the data sets of commercially sensitive
+information which are expected to be shared on a regular basis by the Grant Recipient
+with the Authority:
+• how much installers charge them to deliver the HUG 2 installations.
+• how much it costs them to administer HUG 2; and
+• how much property owners or other third parties have contributed to the cost of the
+installations (note that this could be personal data as well).
+19. HUG 2 funding duplication data. As referred to in paragraph 9 above, the Authority
+may match the HUG 2 scheme delivery data and HUG 2 Fraud and Non-Compliance
+data with other datasets to check that ineligible blending or duplication of funding has
+not taken place. Where a potential case of ineligible blending or duplication of funding is
+identified, the Authority may notify the Grant Recipient and share data with the Grant
+Recipient relating to the suspected duplication or blending of funding that has been
+identified. Such notifications would be on an ad-hoc basis as required and would be
+expected to include personal data collected under other government schemes. The
+Grant Recipient will only use the HUG 2 funding duplication data for the purposes of
+fraud prevention and supporting the administration of HUG 2. The data shared is
+expected to include (but is not limited to):
+• The address of the relevant property
+• The relevant measure
+• The date of installation
+• The name of the government scheme under which the installation was funded.
+
+HUG 2: Data Sharing Agreement
+10
+How data will be shared
+20. The Grant Recipient will share the HUG 2 scheme delivery data and HUG 2 Fraud and
+Non-Compliance data with the BEIS Energy Statistics team (or with such other team
+within the Authority as is notified to the Grant Recipient by the Authority in writing). The
+HUG 2 scheme delivery data and HUG 2 Fraud and Non-Compliance data will be
+shared in a password-protected report, for example using Egress, a Secure FTP or
+platform, restricted folders on SharePoint or another method which has been approved
+by the BEIS Departmental Security Officer as being suitable for the transfer of personal
+data.
+21. Once the Grant Recipient has provided the HUG 2 scheme delivery data and the HUG 2
+Fraud and Non-Compliance data to the Authority, the Authority may in turn share this
+data with other third parties, including other Government Departments and its
+contractors. These arrangements are detailed further below in relation to purpose
+limitation.
+22. In line with paragraph 7 of this DSA, the HUG 2 scheme delivery data will be shared by
+the Grant Recipient monthly for the duration of the Funding Period or, if later, until the
+Grant Recipient has shared with the Authority the HUG 2 scheme delivery data in
+relation to each installation the Grant Recipient has delivered under HUG 2. In line with
+the HUG 2 guidance documents, the Grant Recipient will share HUG 2 scheme delivery
+data relating to an installation no later than the 10th working day of the month following
+the installation.
+23. HUG 2 Fraud and Non-Compliance data will be shared by the Grant Recipient with the
+Authority on an ad-hoc basis as and when issues of fraud and non-compliance are
+identified and within the monthly scheme delivery data.
+24. The Authority will share the HUG 2 funding duplication data with the Grant Recipient in
+a password-protected report, for example using Egress, a Secure FTP, restricted folders
+on SharePoint or another method which has been approved by the BEIS Departmental
+Security Officer as being suitable for the transfer of personal data.
+25. The Authority and the Grant Recipient will store all personal data received under this
+DSA in restricted access folders held on a restricted access secure server. Further
+information about the safekeeping of the data is set out further below under Principle 6 -
+integrity and confidentiality.
+26. Where the Authority shares the HUG 2 scheme delivery data and HUG 2 Fraud and
+Non-Compliance data with third parties (including other government departments) as
+specified in paragraphs 36 to 38 of this DSA, the data will be shared in a password-
+protected report, for example using Egress, a Secure FTP, restricted folders on
+SharePoint or another method which has been approved by the BEIS Departmental
+Security Officer as being suitable for the transfer of personal data.
+
+HUG 2: Data Sharing Agreement
+11
+Legal Gateways
+27. The lawful basis for the Authority and Grant Recipient sharing the personal data
+covered by this DSA and for the Authority and Grant Recipient processing the data in
+the way described in this DSA is that it is necessary for the performance of a task
+carried out in the public interest (Article 6(1)(e) of the UK GDPR). Specifically, this data
+sharing, and processing is required for:
+• [Applicant to add any specific Applicant functions that are supported by HUG 2 data
+sharing.]
+• the Authority to carry out its functions in relation to fuel poverty and carbon reductions
+under the Warm Homes and Energy Conservation Act 2000, the Climate Change Act
+2008, the Fuel Poverty (England) Regulations 2014 and in relation to the fiduciary duty
+to ensure public money is used responsibly and to prevent fraud; and
+• each Partner to carry out their functions as regards effectively managing the spending of
+public funding, including the Authority being able to review how and where the HUG 2
+funding is spent, including decisions as to whether further tranches of funding should be
+provided or released to the Grant Recipient as well as assessing whether the funding
+has achieved its objectives.
+The full list of purposes for which processing of data under this DSA is needed are set out
+under Principle 2 – Purpose Limitations below.
+Data Controller relationship
+28. BEIS is an independent controller for the personal data the Authority shares with the
+Grant Recipient under this DSA. Except to the extent the Grant Recipient informs the
+Authority otherwise in writing prior to the data share, the Grant Recipient is an
+independent controller for the personal data it shares with the Authority under this DSA.
+BEIS becomes an independent controller on receipt of any personal data shared with
+the Authority by the Grant Recipient under this DSA. The Grant Recipient becomes an
+independent controller on receipt of any personal data shared with it by the Authority
+under this DSA.
+Transparency
+29. The Grant Recipient accepts responsibility for not only providing privacy information to
+all installers, whether their own or sub-contracted, but also for ensuring that all installers
+provide privacy information to households and landlords to whom a measure is
+promoted in compliance with the DPA and the UK GDPR. In addition, the Grant
+Recipient will ensure that the privacy information includes content which alerts the data
+subject to the fact that their personal data will be passed from the installer to the Grant
+Recipient, and then from the Grant Recipient to the Authority. The privacy information
+will state that, in addition to the data being used for management and delivery of the
+scheme, the Authority may also use some of the data for evaluation, auditing, research,
+statistical and fraud prevention purposes. The privacy information will also indicate that
+
+HUG 2: Data Sharing Agreement
+12
+the data may also be linked to other data sources held by the Authority and other
+Government departments, and shared with Ofgem, BEIS contractors and other third
+parties, for these purposes. The Authority has provided a privacy notice (see Annex 5
+of the MoU) for this purpose which the Grant Recipient has responsibility for ensuring is
+shared with data subjects.
+30. As part of the Authority’s and the Grant Recipient’s ongoing UK GDPR compliance, their
+respective privacy notices are regularly updated as required to ensure that the data
+subject’s rights are complied with. The Authority may update the privacy notice provided
+in Annex 5 of the MoU by reasonable notice in writing to the Grant Recipient.
+Principle 2 - purpose limitation
+31. The Grant Recipient will, as necessary, disclose personal data to the Authority. The
+primary purposes for sharing and processing the data covered by this DSA are to:
+• support the administration of HUG 2,
+• support an assessment of whether HUG 2 has achieved its objectives,
+• support BEIS to effectively publish statistical reports relating to HUG 2,
+• support an evaluation of HUG 2 and associated home energy policies, and
+• support effective management of fraud and non-compliance under HUG 2.
+32. As set out in the HUG 2 guidance documents, HUG 2 cannot be blended with other
+government schemes such as the Energy Company Obligation (ECO), Boiler Upgrade
+Scheme (BUS), Local Authority Delivery (LAD), HUG 1 or the Social Housing
+Decarbonisation Fund for the same individual measure. The Authority may therefore
+use the HUG 2 scheme delivery data and HUG 2 Fraud and Non-Compliance data to
+identify where installations may be receiving funding under more than one Government
+scheme. This will entail the Authority carrying out data matching of addresses to look for
+potential duplication. This may entail the Authority sharing data with delivery partners for
+those other schemes, for example Ofgem who administer ECO, BUS, and the
+Renewable Heat Incentive. In future this may involve delivery partners of other
+schemes. Details of the onwards sharing of data are set out in paragraphs 35 to 38.
+Where relevant blending of or duplication of funding is identified, the Authority may
+share personal data with the Grant Recipient in the form of the HUG 2 funding
+duplication data to enable the Grant Recipient to effectively manage their delivery and
+for fraud prevention.
+33. In addition, the Authority may use some of the data shared by the Grant Recipient to
+review and develop Government policy, and for research, evaluation and statistical
+purposes and may, for these purposes, link the data with other data sources held by the
+Authority and other Government departments. Evaluation activities may include the
+Authority contacting householders, landlords and/or installers to invite them to take part
+in surveys or other evaluation of HUG 2. The following are further examples of analysis
+and research that are expected to be undertaken:
+
+HUG 2: Data Sharing Agreement
+13
+• analysing whether the presence of HUG 2 installations leads to a significant change in
+energy consumption by matching HUG 2 measures data to the National Energy
+Efficiency Database, and Cavity Insulation Guarantee Agency or other related similar
+operational databases.
+• linking the HUG 2 scheme delivery data to other record level data from other centrally
+administered energy efficiency programmes (within an address spine), enabling the
+Authority to assess the following without double counting properties:
+o
+progress against fuel poverty targets.
+o
+insulation levels for the overall housing stock in Great Britain, and impact on
+remaining potential for cavity wall, solid wall, and loft insulation.
+o
+the characteristics of recipients (e.g., location, property type, tenure, vulnerability
+group) to inform future policy making.
+o
+interaction between HUG 2 and the Energy Efficiency (Private Rented Property)
+(England and Wales) Regulations 2015.
+• address matching HUG 2 installations through the National Energy Efficiency Data-
+Framework to maintain a central database of property characteristics, household
+characteristics, energy consumption and EPCs (Energy Performance Certificate).
+34. This is not an exhaustive list of purposes for which the data might be used. For
+example, HUG 2 scheme delivery data may be used to answer a few internal (to BEIS)
+ad-hoc requests and this DSA does not cover the use of data for other external
+purposes.
+Onward disclosure
+35. To effectively audit and manage HUG 2 and other Government schemes, the Authority
+may need to share the HUG 2 scheme delivery data and HUG 2 Fraud and Non-
+Compliance data with delivery partners of current or future energy efficiency or low
+carbon heating government support schemes. Where this data sharing is necessary the
+Authority will put a data sharing agreement in place with the relevant third parties to
+support sharing of the data.
+36. The Authority may share HUG 2 scheme delivery data and HUG 2 Fraud and Non-
+Compliance data with a BEIS Delivery Agent, BEIS Delivery Partner or with other BEIS
+contractors or organisations appointed by BEIS to act on behalf of BEIS in connection
+with HUG 2. The purpose of the data sharing would be to support the administration,
+management, delivery, evaluation and/or auditing of HUG 2, and/or for statistical,
+research and fraud prevention purposes. This would be subject to review and approval
+of the contractor or organisation by the BEIS Information Asset Owner. BEIS would be
+the controller for the personal data and the contractor or organisation would be its
+processor. The Grant Recipient may share the personal data with its contractors subject
+to review and approval of the contractor by the Grant Recipient’s Information Asset
+Owner. In this scenario, the Grant Recipient would be the controller for the personal
+data and the contractor would be the processor.
+
+HUG 2: Data Sharing Agreement
+14
+37. The Authority may need to share HUG 2 scheme delivery data and HUG 2 Fraud and
+Non-Compliance data with other Government departments where it is necessary for the
+performance of a task carried out in the public interest or in the exercise of official
+authority vested in the department (Article 6(1)(e) of the GDPR). A data sharing
+agreement would be put in place for this purpose.
+38. The exact data items that will be included within the onward disclosures listed above
+cannot be confirmed at this stage. The Authority will comply with the ‘data minimisation’
+principle set out in UK GDPR Article 5(1)(c) and ensure that the onward disclosure of
+data is restricted to only that data required by the third party to support the purpose for
+which the data is shared.
+Principle 3 - data minimisation
+39. Each Partner confirms that the information being shared under this DSA is the minimum
+amount of personal data that is necessary to achieve the purposes for which it is being
+shared.
+Principle 4 - accuracy
+40. In line with the monitoring and evaluation section of the HUG 2 guidance documents,
+the Grant Recipient will carry out a series of checks on the accuracy of HUG 2 scheme
+delivery data, and the HUG 2 Fraud and Non-Compliance data before is it shared with
+the Authority. These checks include:
+• checking the eligibility of the households and installers.
+• checking for data completeness; and
+• carrying out data validation checks.
+41. The Authority will also conduct checks of the HUG 2 scheme delivery data it receives
+from the Grant Recipient to identify reporting errors, double counting or ineligible
+households or installers.
+42. If, after personal data has been passed from the Grant Recipient to the Authority, or
+from the Authority to the Grant Recipient, either the Authority or the Grant Recipient
+identifies an error in that information then they will notify each other within five working
+days of identifying the error.
+• For the HUG 2 scheme delivery data and HUG 2 Fraud and Non-Compliance data, the
+Grant Recipient will then:
+a. take reasonable steps (including liaising with the relevant installer) to clarify and correct the data, and
+b. promptly notify the Authority of any correction to the data.
+
+HUG 2: Data Sharing Agreement
+15
+For HUG 2 funding duplication data, the Authority will then: (a) take reasonable steps
+(including liaising with any relevant delivery partners) to clarify and correct the data; and (b)
+promptly notify the Grant Recipient of any correction to the data.
+Principle 5 - storage limitation
+43. The Authority will retain the HUG 2 scheme delivery data and HUG 2 Fraud and Non-
+Compliance data for up to 25 years after the end of the Funding Period for the purposes
+noted above. In line with the storage limitation principle (UK GDPR Article 5(1)(e)) the
+Authority will review the HUG 2 scheme delivery data and HUG 2 Fraud and Non-
+Compliance data it holds at the end of the Funding Period and at regular periods
+thereafter to ensure that data is only retained for as long as it is needed up to the full 25
+years.
+44. The Grant Recipient will retain the HUG 2 scheme delivery, HUG 2 Fraud and Non-
+Compliance data and HUG 2 funding duplication data in accordance with its retention
+and disposal policy.
+45. Partners will destroy or delete all personal data at the end of the retention periods using
+a process that is in line with their existing data destruction processes.
+46. The use of anonymised or pseudonymised data will be considered as the primary form
+of data sharing with parties outside of the Authority. Only where the required purpose
+cannot be achieved using anonymised or pseudonymised data will identifiable personal
+data be shared.
+47. To achieve the purposes, set out in Principle 2 (purpose limitation) above, identifiable
+personal data, rather than anonymised or pseudonymised data, is required to be
+processed by the designated teams within the Authority referred to in paragraph 50 of
+this DSA. As set out in paragraph 52 of this DSA, non-designated teams within the
+Authority will only have access to anonymised data.
+Principle 6 - integrity and confidentiality
+48. The following information security measures will be put in place by the Authority and the
+Grant Recipient to ensure the safekeeping of the data shared with it as covered by this
+DSA, including, and with reference to, the personal data. The Partners agree to work
+and comply with their respective information assurance and data protection policies.
+49. The Authority will hold the HUG 2 scheme delivery data on the Cloud Based Analytical
+System (CBAS), The Authority’s IT (Information Technology) system for analytical
+software and data storage. Information on CBAS will be classified as OFFICIAL-
+SENSITIVE-PERSONAL and will be restricted to named individuals. Access requires
+provision of a username, password and one-time passcode issued to the user's mobile
+device. All CBAS servers comply with ISO 9001, ISO 14001, and ISO 27001. Further
+information regarding CBAS default data handling can be found in Appendix C of this
+DSA. The Authority will hold the HUG 2 Fraud and Non-Compliance data in a secure
+
+HUG 2: Data Sharing Agreement
+16
+SharePoint folder with access controls limiting access to those on the HUG 2 data
+access list. For reference, the HUG 2 performance monitoring data will be held in an
+unrestricted SharePoint folder.
+50. Only designated teams within the Authority and nominated third parties will be able to
+access the HUG 2 scheme delivery data and the HUG 2 Fraud and Non-Compliance
+data containing the personal data. The Authority acknowledges and agrees that:
+• the designated teams within the Authority will be named in an internally held HUG 2
+data access list and kept to a reasonable minimum.
+• it will maintain the HUG 2 data access list and share it with the Grant Recipient as
+required on request.
+• The Authority will require that the mandatory annual “Responsible for Information”
+eLearning, or equivalent, will be completed by all persons within those teams granted
+access.
+51. Only designated teams within the Grant Recipient and nominated third parties will be
+able to access the HUG 2 funding duplication data. The Grant Recipient acknowledges
+and agrees that:
+• the designated teams will be named in an internally held HUG 2 funding duplication data
+access list and kept to a reasonable minimum.
+• it will maintain the HUG 2 funding duplication data access list and share it with the
+Authority as required on request.
+• the Grant Recipient will require that appropriate information handling training will be
+completed by all persons within those teams granted access.
+52. Non-designated teams within the Authority may also use an anonymised version of the
+HUG 2 scheme delivery data and HUG 2 Fraud and Non-Compliance data, that
+excludes address and any record-level identifiers, for internal analysis only. The
+Authority will only publish aggregate results that meet the requirements of Principle T6.4
+of the Code of Practice for Official Statistics on confidentiality. The underlying data will
+not be published by the Authority, however, to comply with the Government Social
+Research Publication Protocol, the Authority may publish datasets resulting from HUG 2
+participant surveys. The publication of this data may require inclusion of data extracted
+from the HUG 2 scheme delivery data, however, publication in this instance would only
+be conducted where the data could be fully anonymised and complies with Principle
+T6.4 of the Code of Practice for Official Statistics on confidentiality.
+53. Shaun Garvey, the Project Director for HUG 2 (or successor) has been appointed as the
+BEIS Information Asset Owner of the HUG 2 scheme delivery data and HUG 2 Fraud
+and Non-Compliance data and, as such, is responsible for the security of the HUG 2
+scheme delivery data and HUG 2 Fraud and Non-Compliance data provided by the
+Grant Recipient.
+
+HUG 2: Data Sharing Agreement
+17
+54. <The Grant Recipient to insert Information asset name and role> (or successor) has
+been appointed as the Grant Recipient’s Information Asset Owner of the HUG 2 funding
+duplication data and, as such, is responsible for the security of the personal data
+provided by the Authority under this DSA.
+55. All Partners confirm that, as a minimum, they have considered the risks of the accidental
+or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to any
+personal data processed under this DSA and have arrangements in place to manage or
+mitigate these risks.
+Principle 7 – accountability
+56. All Partners confirm that they can demonstrate compliance with the data protection
+principles.
+57. BEIS confirms that the processing of the HUG 2 scheme delivery data, the HUG 2
+Fraud and Non-Compliance data and HUG 2 funding duplication data covered in this
+DSA will be added to the BEIS’s existing central record of processing.
+58. The Grant Recipient confirms that the processing of the HUG 2 scheme delivery data,
+the HUG 2 Fraud and Non-Compliance data and HUG 2 funding duplication data
+covered in this DSA [will be included in the Grant Recipient’s existing central record of
+processing / does not need to be included in the Grant Recipient’s existing central
+record of processing because [Grant Recipient TO INPUT]].
+
+HUG 2: Data Sharing Agreement
+18
+Rights of data subjects
+The rights of data subjects are set out in the table below:
+Write to: Applies?
+If yes, are any additional actions required.
+If no, why this right does not apply.
+Transparent information
+(GDPR Article 12)
+Y The Grant Recipient takes responsibility
+for ensuring that appropriate fair
+processing and privacy notices are
+provided to data subjects.
+Information when data
+collected from data
+subject (GDPR Article
+13)
+Y The Grant Recipient takes responsibility
+for ensuring that appropriate fair
+processing and privacy notices are
+provided to data subjects.
+Information when data
+collected from elsewhere
+(GDPR Article 14)
+Y The Grant Recipient takes responsibility
+for ensuring that appropriate fair
+processing and privacy notices are
+provided to data subjects, either by itself
+or by the installers working on its behalf.
+Access by data subject
+(GDPR Article 15)
+Y Where either Partner receives a data
+access request from a data subject, this
+will be actioned in line with the relevant
+Partner’s existing policies for handling
+such requests.
+Rectification
+(GDPR Article 16)
+Y Where a Partner receives a rectification
+request from a data subject, this will be
+communicated to the other Partner within
+5 working days. Where this request results
+in concluding there is an error in the
+original data, this will be notified to the
+other Partner within 5 working days.
+Erasure
+(GDPR Article 17)
+Y Where a Partner receives an erasure
+request from a data subject, this will be
+communicated to the other Partner within
+5 working days. The eligibility of each
+erasure request will be reviewed by each
+
+HUG 2: Data Sharing Agreement
+19
+Partner in line with article 17 of the UK
+GDPR and a decision made regarding the
+nature of the processing undertaken by
+that Partner.
+Restriction of processing
+(GDPR Article 18)
+Y Data subjects have the right in certain
+circumstances (for example, where
+accuracy is contested) to request that the
+processing of their personal data is
+restricted. Where a Partner receives a
+restriction of processing request from a
+data subject, this will be communicated to
+the other Partner within 5 working days.
+Notification regarding
+rectification, erasure, or
+restriction
+(GDPR Article 19)
+Y The Authority will notify any parties with
+whom it has shared the data within 5
+working days of an action being taken
+under a request for rectification, erasure,
+or restriction, unless this proves
+impossible or involves disproportionate
+effort.
+Data portability (GDPR
+Article 20)
+N The personal data processed by the
+Authority under this DSA is not directly
+provided by the data subject to the
+Authority and is not processed by the
+Authority on the basis of consent or for the
+performance of a contract.
+Object to processing
+(GDPR Article 21)
+Y Data subjects may object to the
+processing of their data, but the request
+may be refused if it would prevent the
+administration and auditing of the scheme
+and use of the data for fraud prevention
+and/or statistical purposes. Data subjects
+will be notified of their right to object via
+the fair processing and privacy notices
+mentioned above in relation to articles 12,
+13 and 14 of the UK GDPR and for which
+the Grant Recipient takes responsibility.
+Where a Partner receives an Object to
+Processing request from a data subject,
+
+HUG 2: Data Sharing Agreement
+20
+this will be communicated to the other
+Partner within 5 working days.
+Automated decision-
+making and profiling
+(GDPR Article 22)
+N It is not expected that automated decision-
+making or profiling will be required under
+this DSA.
+Governance and administration
+Data Protection Impact Assessments
+59. The Authority is completing a Data Protection Impact Assessment (DPIA) for the
+processing that it will undertake in relation to this DSA. The DPIA considers the
+Authority’s processing activities including analysis and publication of data for statistical
+reasons and sharing of data with its contractors and with delivery partners of relevant
+schemes. The DPIA is available on request.
+60. [State here whether the Grant Recipient has completed a DPIA and, if so, whether it
+covers this data share and whether it has been or will be published. If no DPIA has been
+completed, explain why this was not necessary.]
+Offshoring
+61. Personal data shared with the Authority will be stored on its IT infrastructure
+and may therefore also be shared with its data processors Microsoft and Amazon Web
+Services. The data may therefore be transferred and stored securely outside the UK
+and European Economic Area. Where that is the case, it will be subject to equivalent
+legal protection using Model Contract Clauses.
+Consultation
+62. The Authority consults with the BEIS Data Protection Officer in the process of
+completing its DPIA. Data subjects will not be consulted before the processing covered
+by this DSA commences; however, data subjects will be notified of the data processing
+as per paragraph 29.
+63. State here whether the Grant Recipient has consulted with their Data Protection Officer,
+or otherwise (for example through the DPIA process) obtained specialist data protection
+advice. Also state whether data subjects or their representatives have been or will be
+consulted before the processing covered by this Agreement commences.
+
+HUG 2: Data Sharing Agreement
+21
+Automated decision-making and profiling
+64. It is not expected that automated decision-making or profiling will be undertaken by the
+Authority with the HUG 2 scheme delivery data or HUG 2 Fraud and Non-Compliance
+data, or by the Grant Recipient with the HUG 2 funding duplication data.
+Necessity and proportionality
+65. The Authority is completing a DPIA regarding the processing covered by this DSA,
+including a consideration of necessity and proportionality. The proposed processing is
+deemed as necessary and proportionate.
+Freedom of Information Requests
+66. Partners subject to the requirements of FoIA and the Environmental Information
+Regulations 2006, will assist and cooperate with each other, to enable each to comply
+with its information disclosure obligations.
+67. Where a request for information under FoIA or the Environmental Information
+Regulations 2006 is received by a Partner to this DSA, which relates to data that has
+been provided by another Partner under this DSA, the Partner receiving the request will
+take reasonable steps, where appropriate, to give the other Partner advance notice to
+allow it the opportunity to make representations on the potential impact of disclosure, or
+failing that, to draw the disclosure to the other Partner's attention after any such
+disclosure.
+68. Each Partner shall be responsible for determining in its absolute discretion whether any
+information is exempt from disclosure in accordance with the provisions of the FoIA or
+the Environmental Information Regulations 2006.
+Personal data breaches
+69. The Partners will follow their own internal processes on the discovery of a personal data
+breach and advise their own security teams.
+70. In addition, each Partner will notify the other Partner of any personal data breach that
+relates to this data share, via direct contact with the project leads named in Appendix B
+of this DSA within 72 hours of discovering the personal data breach.
+71. In the event of a personal data breach (or where there is reasonable cause to believe
+that such an incident may arise), the Partners will delay data transfers until the cause or
+incident is resolved, as authorised by the Authority’s Information Asset Owner and the
+Grant Recipient’s equivalent. If the breach cannot be resolved or if - in the view of the
+Partners – it is very serious, data transfers will stop and will not resume until the
+Authority Informational Asset Owner and the Grant Recipient’s equivalent are satisfied
+with the security arrangements.
+
+HUG 2: Data Sharing Agreement
+22
+72. Any Partner who decides that a personal data breach that affects, or is relevant to, the
+processing under this DSA must be self-reported to the ICO shall ensure that the other
+Partner is notified of this.
+Dispute Resolution
+73. Disputes between the Partners regarding the operation of this DSA will be resolved in
+the following way:
+• In the first instance a material breach will be reported between the project leads on each
+side, named in Appendix B of this DSA. An assessment by the breaching party will be
+conducted promptly to identify if the breach is ongoing or was a one-off, and the
+potential impact of the breach.
+• All material breaches will be notified to the Data Protection Officers in the Authority and
+the Grant Recipient. The outcomes of the assessment conducted by the project leads
+on each side, named in Appendix B of this DSA, will be discussed and actions
+identified.
+Review
+74. Scheduled formal reviews of this DSA are not expected to take place to assess the
+ongoing effectiveness of this data sharing initiative and this DSA. This DSA will only be
+reviewed if the purpose of the processing changes, or the processing otherwise
+changes in a way that affects the rights of data subjects.
+Termination
+75. Any Partner can terminate this DSA, without giving a reason, on expiry of one (1)
+month’s written notice to the others. Notice of termination would also trigger a formal
+review of the HUG 2 grant funding provided to the Grant Recipient.
+76. Any Partner can terminate this DSA with immediate effect, where another Partner
+materially breaches any of its obligations to this DSA.
+77. Termination notices should be addressed to the Information Asset Owners at the
+Authority and the Grant Recipient.
+78. In the event of termination, data will cease to be shared under the terms of this DSA.
+
+HUG 2: Data Sharing Agreement
+23
+Signatories
+Signed for and on behalf of BEIS.
+Signature:
+Name:
+Shaun Garvey
+Position:
+Deputy Director, Net Zero Buildings, Domestic, Department for Business, Energy
+& Industrial Strategy
+Full contact details:
+<insert email address > @beis.gov.uk
+<insert appropriate phone number>
+1 Victoria Street, London, SW1H 0ET
+Date:
+Signed for [insert name of partner organisation]
+Signed by: [should be Senior Responsible Owner or equivalent]
+Name: [insert name and position in organisation. This should be a senior person
+with adequate authority to be fully accountable.]
+
+HUG 2: Data Sharing Agreement
+24
+Full contact details: Address:
+Email address:
+Telephone Number:
+Date:
+Appendices
+Appendix A – Summary of Processing
+Appendix B – Contact details for key members of staff from Partner organisations
+Appendix C – CBAS Default Data Handline
+
+HUG 2: Data Sharing Agreement
+25
+Appendix A – Summary of Processing
+Description Details
+Subject matter of the
+processing
+The processing relates to the delivery of HUG 2.
+Duration of the processing Processing will commence on and from the date on
+which this DSA is signed by, or on behalf of, both
+Partners. Personal data will be retained only for as
+long as it is needed and, in any case, up to a
+maximum of 25 years
+after the end of the Funding Period.
+Nature and purposes of the
+processing
+The Grant Recipient will share with the Authority
+personal data relating to delivery of HUG 2. The
+Authority will process the data, including matching it
+with other datasets and onward sharing with other
+parties, to effectively manage and review the use of
+public funds and to support further research,
+evaluation, and statistical reporting.
+If relevant blending or duplication of funding is
+identified, the Authority may share personal data
+with the Grant Recipient so it can effectively
+manage delivery of HUG 2 and for fraud prevention
+purposes.
+Type of Personal Data that
+will be processed
+It is expected that the types of personal data
+processed will include (but not limited to):
+Name, address, phone, email of the property owner
+Details of the property and installation undertaken
+Details and contact information of the installer
+Types of Special Category
+data
+Special Category data is not expected to be
+shared.
+
+HUG 2: Data Sharing Agreement
+26
+High risk processing It is not expected that the processing is likely to
+result in a high risk to the rights and freedoms of
+individuals.
+Law enforcement N/A
+Criminal convictions data N/A
+Categories of Data Subject Households and owners of properties offered home
+energy upgrades under HUG 2
+Installers of home energy upgrades under HUG 2
+Third parties providing additional funding for home
+energy upgrades under HUG 2.
+
+HUG 2: Data Sharing Agreement
+27
+Appendix B – Key contact details
+BEIS
+HUG central email inbox hug.project@beis.gov.uk
+Each Partner may update their contact details in this appendix at any time by reasonable
+notice in writing to the other Partners.
+
+HUG 2: Data Sharing Agreement
+Appendix C - CBAS default data handling
+
+28
+
+HUG 2: Data Sharing Agreement
+
+29
+
+HUG 2: Data Sharing Agreement
+
+30
+
+This publication is available from: https://www.gov.uk/government/publications/home-upgrade-
+grant-phase-2.
+If you need a version of this document in a more accessible format, please email
+alt.formats@beis.gov.uk. Please tell us what format you need. It will help us if you say what
+assistive technology you use.

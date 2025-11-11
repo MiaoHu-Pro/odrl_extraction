@@ -15,15 +15,7 @@ class Config(object):
         self.test_path = self.data_path + "test.txt"  # 测试集
         self.class_list = [x.strip() for x in open(self.data_path + "class.txt").readlines()]  # 类别名单
 
-        self.save_path = "/home/mh1f25/scratch/upcast_pro/odrl_extraction/odrl_classification/odrl_save_dic" #模型训练结果保存路径
-        if not os.path.exists(self.save_path):
-            os.mkdir(self.save_path)
-        self.save_path += "/" + self.model_name + "ep5bz16mq200.pt"  # 模型训练结果
-        print("save path : ", self.save_path)
-        self.save_path2 = "/home/mh1f25/scratch/upcast_pro/odrl_extraction/odrl_classification/odrl_save_dic1" # 量化模型存储结果路径
-        if not os.path.exists(self.save_path2):
-            os.mkdir(self.save_path2)
-        self.save_path2 += "/" + self.model_name + "_quantized.pt"  # 量化模型存储结果
+
 
         # 模型训练+预测的时候, 放开下一行代码, 在GPU上运行.
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")  # 训练设备，如果GPU可用，则为cuda，否则为cpu
@@ -31,15 +23,28 @@ class Config(object):
         # self.device = 'cpu'
 
         self.num_classes = len(self.class_list)  # 类别数
-        self.num_epochs = 20  # epoch数
-        self.batch_size = 8  # mini-batch大小
-        self.pad_size = 400  # 每句话处理成的长度(短填长切)
+        self.num_epochs = 5  # epoch数
+        self.batch_size = 16  # mini-batch大小
+        self.pad_size = 190  # 每句话处理成的长度(短填长切)
         self.learning_rate = 5e-5  # 学习率
         # self.bert_path = "../data/bert_pretrain" # 预训练BERT模型的路径
         self.bert_path = "/home/mh1f25/scratch/llms_model/bert-base-cased" # 预训练BERT模型的路径
         self.tokenizer = BertTokenizer.from_pretrained(self.bert_path) # BERT模型的分词器
         self.bert_config = BertConfig.from_pretrained(self.bert_path + '/config.json') # BERT模型的配置
         self.hidden_size = 768 # BERT模型的隐藏层大小
+
+        self.save_path = "/home/mh1f25/scratch/upcast_pro/odrl_extraction/odrl_classification/odrl_save_dic"  # 模型训练结果保存路径
+        if not os.path.exists(self.save_path):
+            os.mkdir(self.save_path)
+        self.save_path += "/" + self.model_name + f"ep{self.num_epochs}bz{self.batch_size}mq{self.pad_size}.pt"  # 模型训练结果
+        print("save path : ", self.save_path)
+
+        self.save_path2 = "/home/mh1f25/scratch/upcast_pro/odrl_extraction/odrl_classification/odrl_save_dic1"  # 量化模型存储结果路径
+        if not os.path.exists(self.save_path2):
+            os.mkdir(self.save_path2)
+        self.save_path2 += "/" + self.model_name + "_quantized.pt"  # 量化模型存储结果
+
+
 
 
 class Model(nn.Module):

@@ -1,0 +1,57 @@
+DATA SHARING AGREEMENT 
+BETWEEN
+[PROVIDING ORGANIZATION NAME]
+AND
+[REQUESTING ORGANIZATION NAME]
+Purpose of Agreement
+Describe the purpose of the data sharing agreement between the Providing Organization and Requesting Organization. Describe why the sharing initiative is necessary, objectives and benefits the Requesting Organization hopes to achieve.
+Duration of Agreement
+Describe length of agreement between the Providing Organization and Requesting Organization.
+Example: This agreement will commence at midnight on MM/DD/YYYY. This agreement will remain in place for XXXX (days/months/years/indefinitely) and will end on MM/DD/YYYY (if applicable) or until terminated by either party.
+Description of Data
+Describe the data being provided in this agreement. (Be specific – include variables names, descriptions, format, level of security/sensitivity.)
+Data Access
+Describe how data will be physically transferred from the Providing Organization to the Requesting Organization. Include individuals or groups of individuals that will have access to the data. List the frequency data will be exchanged between the Providing Organization and Requesting Organization. 
+Example:
+Frequency: the information will be shared [each day/month/in response to a specific event]. The information sharing will cease [**]. The information sharing can be terminated by either party on written notice of [***]. The terms of this agreement remain binding on any information shared and retained throughout its lifecycle, irrespective of whether the party remains a current signatory to this agreement. 
+Transfer: will occur by [system to system transfer, Secure File Transfer, NHS Mail etc]. Information will be shared on a strict need to know basis only and the data will only be processed by staff in order for them to perform their duties in accordance with one or more of the defined purposes. 
+Under no circumstances should personal data be processed in any way that is unsecure or left unattended. It is the responsibility of the sender to ensure that the method is secure and that they have the correct contact details for the receiver.
+Data Security
+Describe security measures around transferring, accessing, and storing data.
+Termination (of Agreement)
+Describe how an organization will terminate services (verbal/writing, length of notice before termination), and what needs to happen once termination of services is provided by either organization (documents returned to Providing Organization or destruction of documents – deleted from hard drives, shredded, burned, etc. by Requesting Organization).
+Payment
+Describe if and how payment for data will be provided between the Providing Organization and Requesting Organization. 
+Signatures
+[Providing Organization Name]
+_________________________________
+Signature
+_________________________________ 
+Printed Name
+_________________________________
+Title
+_________________________________ 
+Date[Requesting Organization Name]
+_________________________________
+Signature
+_________________________________ 
+Printed Name
+_________________________________ 
+Title
+_________________________________ 
+Date
+Examples of Data Sharing Agreements
+https://effectiveinterventions.cdc.gov/docs/default-source/data-to-care-d2c/datasharingagreementtemplate.pdf?sfvrsn=2
+https://www.cdc.gov/cancer/ncccp/doc/sampledatasharingusageagreement.doc
+https://www.harpercollege.edu/about/leadership/irb/pdf/Data-Sharing-Agreement-Outside-Parties-Template.docx
+http://rpp.wtgrantfoundation.org/library/uploads/2016/01/BERC-Executed-MOU-2013-2018.pdf
+https://www.nationalservice.gov/sites/default/files/documents/Appendix%20A.16%20-%20Sample%20Data%20Sharing%20Agreement.pdf
+http://www.npaihb.org/images/epicenter_docs/NW-Idea/Sample%20DSA.docx
+Source
+Based on the template shared by the government of Staffordshire located at: https://www.staffordshire.gov.uk/community/InfoShare/Templates/Information-Sharing-Agreement-template.doc
+[Providing Organization Name]
+Data Sharing Agreement TEMPLATE
+[Providing Organization Name]
+Data Sharing Agreement TEMPLATE
+[Providing Organization Name]
+Data Sharing Agreement TEMPLATE

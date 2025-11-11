@@ -1,0 +1,143 @@
+Purpose
+The purpose of this agreement is to establish the principles and practices for sharing the data from <AA> – <System A> with <BB> – <System B> for < (specify the purpose and objective of this agreement e.g. reporting and analytical purposes)>. 
+Distinct use cases are outlined in section 6. Use Cases*.
+* One agreement can have multiple use cases.
+Scope
+This document outlines the agreed conditions of data sharing between <AA> and <BB>.
+This document does not review the specific methods of constructing the connection, or applying security controls.
+This document does not imply legal obligations.
+Definitions
+Personal information: Information or an opinion (including information or an opinion forming part of a database and whether or not recorded in a material form) about an individual whose identity is apparent or can reasonably be ascertained from the information or opinion.
+Refer to the UNSW Data Governance Centre for all other definitions. 
+If the agreement is with external entity, please define the relevant terms, such as:
+<BB>
+<AA>
+<System A>
+<System B>
+Data
+Data Transmission 
+Data Storage
+ISMS
+Protocol statement
+Roles and Responsibilities
+<AA> shall
+provide <System B> with <specific data - provide the details of data set e.g. tables, schemas, fields etc>
+provide and maintain access to the <System A> server containing data files for <System B>
+notify <BB> a minimum of sixty (60) days before a restructure of the <System A> database.
+<BB> shall
+comply with the Policies, Standards and protocols relating to this agreement
+use <System A> data only for the purposes specified in section 6. Use Cases.
+Use Cases
+Project <CC>
+Transfer
+<Batched reports containing aggregated> <System A> data will be created in <System B> and transferred through to <Project CC>.
+Use
+<BB> will combine <System A> data with other data available in <System B> for <Project CC>.
+Disclosure
+Batched reports are completed and made available to the daily.
+The aggregated <System A> data for <Project CC> will be made available by approval of the Data Owner or their delegate.
+Retention
+Data made available to <Project CC> reports shall overwrite prior reports.
+Project <DD> 
+In case of multiple use cases. Add more if you have more use cases
+Transfer
+Data will be compiled in <System B> and transferred through to <Project DD>.
+Data will be refreshed and made available daily.
+Use
+BB will combine <System A> data with other data available in <System B> to provide the necessary data for <Project DD>.
+Disclosure
+Presentation and access to the data made available through <Project DD>. <Project DD> will be managed through <AA>.
+Retention
+Data made available to <Project DD> shall overwrite prior records.
+Checklist	To finalise this agreement, ensure that the following actions are taken:
+ UNSW Data Owner approves and signs the document
+ Any Downstream System Owners agree to and sign the document
+ Data User agrees to and signs the document
+ Privacy Officer reviews and signs the document if the data contains personal information
+A PDF copy of the fully signed document is provided to the following people as soon as possible following completion:
+ Data Owner
+ Data User
+ Data Governance & Information Manager (datagov@unsw.edu.au)
+Agreement between	<AA> and <BB>
+*AA and BB are the parties to the agreement, typically the Data Owner and the Data User, along with the owners of any Downstream Systems that may be involved. Parties could be any UNSW Division, School, Faculty or external organisation.
+Effective date	
+Review Date	
+Approved by UNSW Data Owner	Name
+E: 
+P: 
+Signature: 				 Date: 			
+This approval is for all use cases outlined in this document.
+Agreed by Downstream System Owner (if applicable)	Name
+E: 
+P: 
+Signature: 				 Date: 			
+This agreement is for all use cases outlined in this document.
+Agreed by Data User	Name
+E: 
+P: 
+Signature: 				 Date: 			
+This agreement is for all use cases outlined in this document.
+Privacy Review and Approval	If this agreement involves the use of personal information, it must be reviewed by the Privacy Officer to confirm that such use is within the UNSW’s legitimate functions and the purposes notified to the individuals concerned at the time it was collected.
+Privacy Officer: 
+Name
+E: 
+P: 
+Signature: 				 Date: 			
+Related documents	Data Governance Policy
+Data Classification Standard
+Data Handling Guidelines
+IT Security Policy – Information Security Management System (ISMS)
+Code of Conduct
+Privacy Management Plan
+Recordkeeping Policy
+<AA> – <System A> – User Agreement (if applicable)
+Other documents if applicable
+Protocol	Protocol	Description
+	What information is being shared and the purpose(s) of each	<System A> data
+The sharing of data from <System A> is necessary to <e.g.enable the creation of reporting> through <System B> for the purposes presented in section 6. Use Cases.
+The data contains the following personal information [insert details of personal information to be shared].
+<BB> must ensure that they have read the UNSW Data Governance Policy, Data Handling Guidelines and Data Classification Standards and will comply with these.
+	The frequency and duration of information exchanged 	The data transfer from <System A> to <System B> will occur <e.g. daily>. The extraction is expected to take <time with unit> (e.g.~ 1 hour).
+	The authority to use the information 	<AA> and <BB> have the right and operational need to access <System A> data. Access to <System A> data will be limited to officials who have provided the appropriate credentials (see Protocol i of this document).
+Where the data being shared contains personal information:
+ the purpose of the data sharing is included in the purposes notified to the individuals concerned at the time the information was collected, or
+ the express consent of the individuals concerned has been obtained for this new purpose. 
+	The methods and security measures for transferring and storing the information	<BB> shall ensure that the shared data:
+is used only for the objective
+is stored and maintained so as to be accessible only to Authorised Persons, and 
+is accessed and used by an Authorised Person only for an Authorised Purpose.
+<System B> will comply with the ISMS at a minimum data classification level of ‘Sensitive’. This will be applied in line with the ISMS Rollout plan.
+Where the use of the data will involve access by or transfer of the data to an external service provider, <BB> will ensure that a contract or agreement with the service provider is in place with sufficient data and privacy protections provisions to ensure that the data is protected from unauthorised access, use or disclosure.
+	Procedures in the event there is a privacy or security breach 	The affected party shall immediately notify, in writing, the other party with available details regarding the breach. Both parties shall review logs pertaining to <System A> data. Both parties shall review access to <System A> data through both systems, <System A> and <System B>.
+	Limitations for access, use, disclosure and retention 	Access 
+<System B> will access data only through a data transfer from <System A>.
+Use 
+<BB> is permitted to combine <System A> data with other available data in order to complete the objectives outlined in 
+section 6. Use Cases.
+All new use cases must be reviewed by the Data Owner or their delegate for acceptable use.
+All reported data must be aggregated and appropriately de-sidentified unless approved by the Data Owner or their delegate.
+Any ad hoc analyses or other use of the data, not specified in this Agreement, is not permitted without the prior written agreement of <AA>.
+Disclosure 
+Reports are only to be disclosed as specified in section 6. Use Cases.
+Retention 
+Data obtained through this agreement must not be retained outside of <System B>, except as specified in section 6. Use Cases. 
+	Provision for accuracy of the information 	<System A> makes no warrant or representation that the shared data is accurate or complete and is not to be responsible for any consequences resulting from the use of the shared data.
+	Compliance monitoring 	<BB> agrees that <AA> shall have the right, at any time, to monitor, audit and review activities and methods in implementing the Agreement in order to assure compliance therewith, within the limits of <BB’s> capacity and technical capabilities.
+	User access approval for users to receive/access the shared data	The <BB> team will have full access to the raw data in <System B>.
+Access to raw data must be approved by the Data Owner or their delegate and approvals recorded.
+<BB> acknowledges the personal and/or confidential nature of the information and agrees that their staff and contractors with access shall comply with all laws, regulations, and policies that apply to protection of the confidentiality of the data.
+	Termination process	Either party may terminate this Agreement with a minimum of sixty (60) days’ written notice to the other party.
+<BB> agrees that upon the termination of this agreement it shall erase and render unrecoverable all <System A> data and certify that these actions have been completed within sixty (60) days of the termination of this agreement.
+The Data Handling Guidelines will be followed regarding the method of data handling.
+Agreement between	<AA> and <BB>
+Approved by	Data Owner / Delegate for <AA>
+Agreed by	<BB> Director/Delegate
+Effective date	
+Review Date	
+Agreement between	<AA> and <BB>
+Approved by	Data Owner / Delegate for <AA>
+Agreed by	<BB> Director/Delegate
+Effective date	
+Review Date	
+Data Sharing Agreement V 1.2		Page 6 of 6
+UNSW

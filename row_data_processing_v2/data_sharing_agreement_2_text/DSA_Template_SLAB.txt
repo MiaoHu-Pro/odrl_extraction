@@ -1,0 +1,349 @@
+1
+DATA SHARING AGREEMENT
+Between
+THE SCOTTISH LEGAL AID BOARD, Thistle House, 91 Haymarket Terrace, Edinburgh
+(“SLAB”)
+And
+[…] (“The Agency”)
+Relative to: SNSIAP Reviews
+The terms of this Agreement are:
+1. DEFINITIONS AND INTERPRETATION
+In this agreement, unless the context otherwise requires:
+“Agreement” means this data sharing agreement including any schedules
+“The parties” means the parties to this agreement detailed above
+“Data protection legislation” means:
+(a) The General Data Protection Regulation (EU) 2016/679 (hereafter referred to
+as “GDPR”;
+(b) The Data Protection Act 2018 (“DPA”);
+(c) All and any other primary or secondary legislation that in respect of the United
+Kingdom replaces GDPR or DPA, or enacts, varies or makes supplementary
+provision in relation to data protection, the processing of personal data and
+privacy thereof
+“Data controller” has, as the context requires, the meaning set out in the data protection
+legislation
+“Data recipient” or “Recipient” means a party to this agreement who receives data shared
+with them by the other party in accordance with this agreement
+“Data transferor” or “Transferor” means a party to this agreement who transfers data to the
+other party (the recipient) in accordance with this agreement
+“Data subject” means an individual in respect of whom personal data is being processed
+“Data breach” means any misuse of data, failure of data security, loss of data or other issue
+which would be reportable to the Information Commissioner
+“Objectives” means the purpose or purposes for which a data recipient requires data sharing
+in accordance with the Agreement
+“Subject access request” means a request from a data subject for access to his or her data in
+accordance with Article 15 of GDPR or otherwise a provided for in the data protection
+legislation
+
+2
+2. THE PURPOSE OF THE AGREEMENT
+2.1 The purpose of this agreement is for the parties to establish a clear framework for the
+exchange of data between the parties and ensuring that this is in accordance with data
+protection legislation and good practice.
+2.2 The parties agree that they are both data controllers for the purpose of this agreement,
+in relation to the data which is to be shared, and otherwise, and that they have
+responsibility for full compliance with obligations arising from the data protection
+legislation as it applies to them, notwithstanding this agreement.
+2.3 The parties further agree that they will ensure that all personnel dealing with shared
+data are informed of their obligations under the Agreement with regard to the security
+and the protection of Personal Data and that those obligations are complied with.
+3. THE PURPOSE AND NATURE OF THE SHARING
+3.1 The new Scottish National Standards for Information and Advice Providers’
+(SNSIAP) accreditation model is designed to improve and assure the quality of advice
+in Scotland. SNSIAP is the accepted quality framework for any agency providing
+advice on housing, money/debt and welfare benefits issues. The SNSIAP contains
+both organisational standards and competences for an Agency
+3.2 SLAB is managing the first three-year cycle of a new model including the co-
+ordination of the peer review and audit of advice providers. The peer review process
+is overseen by a Moderation Committee appointed by SLAB. SLAB manages the
+SNSIAP accreditation scheme as part of its statutory functions under the Legal Aid
+(Scotland) Act 1986 so its lawful basis for processing data is that it is carrying out a
+public task. Scottish Government retains ownership of the SNSIAP and the award of
+accreditation
+3.3 SNSIAP covers three areas of advice: housing, money/debt and welfare benefits.
+Advice agencies seeking to be accredited (at Type II and III) under the SNSIAP in
+one or more of these areas will be independently reviewed by people who are
+appropriately qualified (known as Peer Reviewers) to assess the technical quality of
+advice against agreed criteria. The peer review process will provide a report for the
+Agency identifying strengths/weaknesses in their advice provision. The purpose of
+the peer review will be to encourage the Agency to continuously improve the service
+provided to the public by providing a means of evidencing how effectively technical
+quality is assured within their advice service
+3.4 The Agency (which for the purposes of this Agreement will be the Data Transferor)
+will share the data detailed in schedule 1 with SLAB (who for the purposes of this
+Agreement are the Data Recipient).
+3.5 The purpose of the sharing of data is to permit and facilitate carrying out the desired
+per review process.
+
+3
+3.6 The general nature of the sharing is that the Transferor will make available to the
+Recipient information relating to advice provision undertaken by the Transferor
+4. THE DATA TO BE SHARED
+4.1 The data or categories of data that will be shared are detailed in part 1 of the schedule
+to this agreement (the “Schedule”).
+5. THE BASIS OF SHARING
+5.1 The parties separately confirm that they have power to share the data which it is
+agreed will be shared between them, and that there is no legal impediment to the
+sharing.
+5.2 The objectives form part of the steps that SLAB is required to take in furtherance its
+statutory functions under the Legal Aid (Scotland) Act 1986 so its lawful basis for
+processing data is that it is carrying out a public task.
+5.3 The lawful basis for processing by the Agency is ;
+Delete as appropriate (only select one option for lawful basis):
+(a) the data subject has given consent to the processing of his or her personal data for
+one or more specific purposes;
+(b) processing is necessary for the performance of a contract to which the data
+subject is party or in order to take steps at the request of the data subject prior to
+entering into a contract;
+(c) processing is necessary for compliance with a legal obligation to which the
+controller is subject;
+(d) processing is necessary in order to protect the vital interests of the data subject
+or of another natural person;
+(e) processing is necessary for the performance of a task carried out in the public
+interest or in the exercise of official authority vested in the controller;
+(f) processing is necessary for the purposes of the legitimate interests pursued by the
+controller or by a third party, except where such interests are overridden by the
+interests or fundamental rights and freedoms of the data subject which require
+protection of personal data, in particular where the data subject is a child.
+5.4 The parties agree that the sharing of the data to which this agreement relates is
+necessary, and a proportionate method of attaining the objectives and which could not
+be achieved without sharing
+5.5 The Agency agrees that the Shared Information, will be provided to SLAB and that this
+can then be shared with the Peer Reviewer for the purposes of peer review under the
+SNSIAP.
+
+4
+5.6 The Agency agrees and acknowledges that SLAB will report the outcome of the peer
+review to the Moderation Committee and Scottish Government, as necessary, to enable
+them to fulfil their role.
+6. THE SHARING PROCESS AND SECURITY OF THE PROCESSING
+6.1 The process for sharing the data is as detailed in Part 2 of the Schedule:
+6.2 The steps to be taken to ensure the security of the sharing process, and of the
+subsequent processing by the recipient are as specified in Part 3 of the Schedule:
+7 DATA QUALITY, CHECKING ACCURANCY AND RELEVANCE
+7.1 The transferor will ensure that the data to be shared meets the specification of data
+detailed in this agreement, and that the data is accurate so as to allow the peer
+reviewer contracted by the recipient to carry out the work necessary to attain the
+objectives.
+7.2 The transferor will take steps to ensure that no personal data beyond the data specified
+above as data to be shared, shall be transmitted to the recipient.
+7.3 In the event that excessive personal data is shared with the recipient, the recipient
+shall delete any excessive information/return it and instruct the peer reviewer to do
+the same.
+8 RETENTION, REVIEW AND COMPLETION OF PROCESSING
+8.1 A recipient of data shared under this agreement shall retain the shared data only for
+such period as it is necessary so to do
+8.2 Without prejudice to the foregoing generality, the retention periods detailed in part 4
+of the Schedule apply to the categories data being shared
+8.3 Completion of processing
+8.3.(a) On completion of data processing (including the expiry of the retention periods
+above) or on the instructions of a transferor, a recipient under this Agreement
+shall ensure that the shared personal data processed are returned to the
+transferor or destroyed in accordance with the transferor’s instructions. Either
+party, insofar as a data transferor, reserves the right to issue instructions to the
+recipient under this Clause at any time.
+8.3.(b) A transferor under this Agreement reserves the right to issue instructions to a
+recipient as to the methods by which personal data is destroyed.
+8.3.(c) Following the deletion or destruction of personal data, the recipient shall
+notify the transferor that the personal data in question has been deleted or
+destroyed.
+
+5
+9. GENERAL GOVERNANCE
+9.1 For the purpose of this agreement the persons who will be primary contacts for the
+parties respectively are shown in Part 5 of the Schedule.
+9.2 Fair processing notices
+A Privacy Notice setting out how SLAB will process the data is available on the
+SLAB website.
+9.3 Individuals rights – SARs, inquiries and complaints
+In the event of a data subject requesting, from a data recipient, a subject access
+request, in respect of any of the shared personal data, the recipient will respond
+directly and will provide the transferor with a copy of the subject access request
+response at the point in time it is issued to the data subject.
+In the first instance, all communications or enquiries should be made to the named
+person from each Party. In the case of a complaint it should be addressed to the
+Information Sharing Lead from the relevant Party.
+9.4 Freedom of Information
+SLAB is a Scottish public authority for the purpose of the Freedom of Information
+(Scotland) Act 2000 and the Environmental Information (Scotland) Regulations 2004
+and is subject to the requirements of both. the Agency acknowledges and accepts that
+persons making a request for information (including information about the
+information sharing to which this agreement relates) are entitled to receive that
+information from SLAB unless exempt. Any such disclosure will not constitute a
+breach of any confidentiality obligations that otherwise arise from this Agreement.
+If asked the Agency will use its best endeavours to assist and co-operate with any
+reasonable request from SLAB relating to enabling SLAB to comply with disclosure
+requirements further to a request for information.
+9.5 Review of effectiveness
+After the peer review process has been completed, SLAB will ask the Transferor to
+participate in a formal evaluation of its experience of going through the peer review
+process; this will include seeking its views on the data-sharing process.
+9.6 Data breaches
+In event of any data breach by a recipient or any employee of the recipient or other
+person authorised by the recipient to process the shared data, the recipient will report
+to the transferor within 24 hours both the fact of the breach and the steps the recipient
+has taken in connection therewith. Thereafter the parties will liaise as to such further
+steps as are to be taken in relation to the data breach both in relation to full
+compliance with data protection legislation and otherwise in the interests of the data
+subject and their rights.
+
+6
+9.7 Termination of the sharing agreement
+Either party may terminate this agreement by giving 24 hours written notice.
+10. OTHER
+10.1 Jurisdiction
+This Agreement and any dispute or claim arising out of it or in connection with it
+shall be governed by and construed in accordance with the law of Scotland and the
+parties agree that the Scottish Courts have exclusive jurisdiction.
+Signed on behalf of: SLAB.
+………………………………………………………………………….
+Name:……Graeme Hill.………………………………………………
+Position:…Director of Corporate Services & Accounts (SIRO)...…….
+Date:…………………………………………………………………..
+Signed on behalf of [ … ]
+………………………………………………………………………….
+Name::…………………………………………………………………
+Position:……………..…………………………………………………..
+Date:…………………………………………………………………..
+Note: the Schedule should also be signed on the last page
+
+7
+SCHEDULE PART 1 –THE DATA TO BE SHARED
+The contents of the agency casefiles that are selected by SLAB to be peer reviewed under the
+SNSIAP peer review scheme. All information relating to advice provision undertaken by the
+agency in each case to be shared unless otherwise agreed between SLAB and the agency.
+This may include the following data or categories of data:
+Contact details
+Personal details
+Family details
+Location / Place of residence (if not included in contact
+details)
+Bank Account Details (excluding actual financial details)
+Lifestyle and Social details
+Other interests/or conflict of interests
+IP address or email
+Financial details
+Education and qualification details
+Referee Details
+Employment history details
+Business activities (of the data subject)
+Services provided to the data subject
+Physical or mental health details
+Racial or ethnic origin
+Religious or other beliefs
+Political life
+TU membership
+Sexual life or orientation
+Disclosure certificate details
+Offences
+Previous convictions
+Driving or vehicle information (excluding offences/PCs)
+Case details
+
+8
+SCHEDULE PART 2 – THE PROCESS FOR SHARING DATA
+1. In order for SLAB to facilitate peer review practitioner case files must be made
+available to Peer Reviewers. The advice provider is asked to complete, and submit
+to SLAB, a Pre-assessment Questionnaire (PAQ) and a Case-selection Grid (CSG).
+The CSG must identify and list all client files (or a proportion of such cases, as
+advised by SLAB) in any subject areas to be peer reviewed (housing, money/debt or
+welfare benefits) that have been active in the past year and for which they have the
+appropriate client consent or other lawful basis for processing. SLAB will make a
+random selection from the list and the selected files will form part of the basis of the
+review and the information to be shared. In order for the peer review to take place
+the entire contents of the client’s file must be provided. The contents of all client
+files identified for peer review is Shared Information.
+2. SLAB allocates a Peer Reviewer to a provider who wishes to take part.
+3. A secure cloud-based system called Nextcloud/Sharefile (delete the system
+name ) will be used for the peer review process. SLAB will provide the Agency
+with log-in details and a password for Nextcloud/Sharefile (delete the system
+name ). The Agency will upload the Shared Information onto Nextcloud/ Sharefile
+(delete the system name ). All Parties will be required to have the necessary
+technical-means to achieve this.
+4. Peer Reviewers will be provided with a Nextcloud/Sharefile account (delete the
+system name). The co-ordinator will transfer the Shared Information into the
+designated Nextcloud/Sharefile folder (delete the system name ) for the Peer
+Reviewer to access; to this folder will be strictly limited to the SNSIAP team and
+SLAB’s Information Systems department.
+5. Access to the Shared Information will be limited solely to those with a direct
+involvement in carrying out the SLAB duties associated with peer review.
+6. A selection of all cases submitted to SLAB for the purposes of peer review in each
+quarter will be selected and peer reviewed for Quality Assurance purposes using the
+same process as the one set out in 5.1.
+7. SLAB agrees that the Shared Information transferred to them will not be used for
+any other purpose.
+
+9
+SCHEDULE PART 3 – STEPS TO TAKEN IN RELATION TO SECURITY OF
+DATA
+1. Peer Reviewers will be provided with an encrypted laptop (hereinafter the “laptop”).
+Peer Reviewers will sign an agreement to acknowledge and agree that this will be
+the only device used to access the Shared Information accessible from the
+Nextcloud/Sharefile folder (delete the system name ) account.
+2. The laptop, which remains throughout in the ownership of SLAB, is provided on the
+basis that it is for the sole purpose of fulfilling this role and that it will only be used
+by themselves and not by any other person for any other purpose. The laptop will
+be returned to SLAB when the Peer Reviewer’s Consultancy Agreement is
+terminated. SLAB will remove all Shared Information from the laptop.
+3. Secure users’ permissions will be managed by SLAB in line with the Network and
+Desktop Security Policy. Parties acknowledge and agree that passwords will not be
+shared.
+4. Shared Information will remain on the Peer Reviewer’s Nextcloud/Sharefile folder
+(delete the system name ) folder until the Peer Review report is received; at
+this point the Shared Information on the Peer Reviewer’s folder will be deleted.
+5. SLAB will delete the Agency’s log-in details and password after the peer review
+report has been received by SLAB from the peer reviewer or, if a second peer review
+is required, after the second peer review report has been received
+6. SLAB confirms that relevant agreements are in place to ensure the outcome reports
+generated will contain no personal data that could lead to the identification of a data
+subject.
+7. Reports created for the Moderation Committee will not contain personal data that
+could lead to the identification of a data subject.
+8. The shared information will not be used by a data recipient under this agreement for
+any purpose incompatible with the purposes specified in Clause 3 of this agreement
+9. The parties will process shared information in accordance with their respective
+policies relating to information governance, computer and network usage, and
+desktop procedure
+10. The recipient of data under this agreement shall not retain or process personal data
+for longer than is necessary to carry out the objectives.
+11. The Agency remains liable for the security of Shared Information at all times during
+its transit to SLAB.
+
+10
+12. Should the Agency enter any alternative arrangements to facilitate Peer Reviewer
+access to Shared Information, the Agency will be wholly liable for the security of
+the Shared Information in these circumstances. The Agency will use reasonable
+endeavours to enter into an agreement with the Peer Reviewer in similar terms to the
+Agreement to record data sharing responsibilities.
+
+11
+SCHEDULE PART 4 – RETENTION PERIODS OF THE DATA TO BE
+SHARED
+Category of Data Retention Period
+Contents of casefiles selected for peer
+review
+30 weeks
+
+12
+SCHEDULE PART 5 – CONTACT DETAILS
+For SLAB
+Name:
+Title:
+Address:
+Email:
+Telephone:
+For the Agency
+Name:
+Title:
+Address:
+Email:
+Telephone:
+The schedule relative to the foregoing agreement is signed on behalf of SLAB.
+………………………………………………………………………….
+Name:……Graeme Hill.………………………………………………
+Position:…Director of Corporate Services & Accounts (SIRO)...…….
+Date:…………………………………………………………………..
+Signed on behalf of [ … ]
+………………………………………………………………………….
+Name::…………………………………………………………………
+Position:……………..…………………………………………………..
+Date:…………………………………………………………………..

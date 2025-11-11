@@ -1,0 +1,46 @@
+Resource Pack 38 - Data Sharing Agreement (DSA) This Data Sharing Contract (DSC) defines the arrangements for processing data between the respective GP Practices which make up the xx GP Cluster Network and x Cluster and sits underneath the overarching GP Record Viewing Agreement and Standard Operating Procedure.
+Parties to the agreement: Full names of organisations or businesses: Xx Surgery Xx Medical Centre Xx Health Centre etc Why is the information being shared?
+The identifiable data is required to inform appropriate treatment to be given to patients at xx Cluster by professional role.
+Example of background, e.g. The Vision 360 allows multiple users to access a shared record from both Vision 360 GP and EMIS Web practices, with all practices being able to refer their patients directly via a shared appointment system.
+Access to the shared record will give the audiologist(s) read /write access to the clinical information of that patient.
+What information is being shared?
+Patient information held in General Practice Clinical Systems (GP Record) to be accessible by Health Board employed professional role providing direct care for a patient registered with a specific General Practice.
+Only pre-agreed read codes will be available for viewing by the professional role This document outlines READ codes that are excluded.
+For a full list of codes that are included please refer to the NHS Wales IHR document.
+See Appendix 1 for excluded Read Codes.
+What is your legal justification for sharing?
+Has consent been gained if required?
+Data will only be viewed for direct personal medical care by the professional role and with the express consent of the patient requiring treatment.
+In the event of a patient being incapacitated and/or not being able to give explicit consent, the professional role may view the record if they believe it will be in the best interest of the patient as part of their diagnosis and treatment.
+Where explicit consent is not given by the patient, the professional role will be required to record the reason for viewing the patients record.
+A patient audit trail is included with the system with each individual surgery being able to track access to their individual patients.
+If patients do not give consent then a manual word template will be triggered and will be securely emailed to the referring practice.
+How will the information be shared?
+(e.g. data transfer - include any security measures) The non-identifiable patient data (i.e. Vision IDs and other fields) will be collected at source via an extraction template using ODBC connectivity from Vision3 (to be replaced by v360 once DLM 485 is released) to an excel workbook for the appointment data.
+Two ad-hoc V3 searches will also be run and exported to a shared drive (each practice will have access to their own share only) in order to collect onwards referral and ratification of DNA instances.
+For appointment data collected by the excel ODBC template two columns will need to be removed from the dataset in excel before saving onto the shared drive.
+The ad-hoc flat file output as well as the excel file will only contain the Vision ID as an identifier.
+The excel files and ad-hoc flat files will not leave the practice shared folder and the data will be transported into the ABMU secured SQL database via secure DTS.
+The identifiable data is required to inform appropriate treatment to be given to patients by the audiologist(s); only predetermined and pre-agreed read codes will be available for viewing by the audiologist(s) – See Appendix 1 for excluded Read Codes.
+INPS are current providers of the clinical system for all bar one of the GP practices within Neath Cluster and as such are not a new provider.
+The clinical data is not being transferred from the GP’s clinical system rather it is being made available to view by the audiologist(s) at the Primary Care Hub.
+This is both true for Vision and EMIS clinical data.
+This already happens as part of the current Primary Care delivery system and therefore is not a new privacy risk The GP practice remains Data Controller in this respect.
+As such the Data Protection Act requires that the Data Processor (CCG)  only acts on instructions from the Data Controller of the respective GP practices which are parties to this agreement  has security in place that is equivalent to that imposed on the Data Controller of the respective GP practices which are parties to this agreement by the seventh Data Protection Principle c) How will the information be stored?
+(e.g. secure server - include any security measures) This is a ‘view only’ solution, the data is not being transferred from the GP’s clinical system rather it is being made available to audiologist(s) at the Primary care hub only.
+Data does not leave the current NHS Wales data centre as per NHS Wales contract.
+Who will handle the information – name and job title?
+Data access will be kept to a minimum with only pre-determined audiologist(s) authorised to access the records of the patient requiring treatment.
+Express consent must be obtained from the patient before the audiologist(s) can access the patient’s records The audiologist(s) must ensure that access to the Data is managed, auditable and restricted to those individuals who need to process the Data for the specific purpose outlined in this DSC.
+Use of the Data is for the sole purpose set out in this DSC  Personnel processing the Data must be suitably trained and authorised and made aware of their responsibilities in handling the Data prior to having access to the data.
+The Data must not be shared with any other organisation or named individual not referred to within this DSC.
+If the Data is subject to a request under the Freedom of Information Act, then the GP practice must be consulted before a response is provided.
+Use of the Data must comply with all applicable legislation in relation to the Data e) How long will the information be kept?
+The data will remain on the GP’s clinical system and will therefore be subject to existing data retention regulations.
+How will the information be destroyed?
+Initial date must be later that the date of the signatures below and should give an indication of subsequent dates for regular sharing.
+This DSC shall commence no earlier than the dates of signature of this DSC giving ongoing real time access to up to date clinical records as is necessary for the collection and reporting on the outcome measures.
+When will this agreement be reviewed and by whom?
+This agreement shall continue until terminated earlier by either party to the DSC This agreement must be formally approved and signed by all parties before any information sharing takes place.
+All parties will ensure that the DSC and any associated documents are known and understood by all staff involved in the process.
+Information Governance & Caldicott – Primary Care Cluster Networks

@@ -1,0 +1,450 @@
+DATA SHARING AGREEMENT: NEXT STEPS EVALUATION
+CAMDEN COUNCIL AND MINISTRY OF HOUSING, COMMUNITIES AND LOCAL
+GOVERNMENT
+THIS AGREEMENT is made the day of November 2020
+BETWEEN
+1. London Borough of Camden (“Camden Council”) of 5 Pancras Square, London,
+N1C 4AG (“the Local Authority”)
+and
+2. THE MINISTRY OF HOUSING, COMMUNITIES AND LOCAL GOVERNMENT of 2
+Marsham Street, London, SW1P 4DF (“MHCLG”)
+1. BACKGROUND
+1.1 The Ministry of Housing, Communities and Local Government (MHCLG) has invested
+£3.2m of emergency funding for the ‘Everyone in’ policy, with further funding for
+homelessness and rough sleeping services provided within the £3.7 billion to help councils
+to manage the impacts of COVID-19. MHCLG has also committed a further £266m to the
+Next Steps Accommodation Programme in 2020/21, with a further £177m available
+between 2021/22 and 2023/24.
+1.2 MHCLG is conducting Research to evaluate the outcomes of people supported to find
+move-on accommodation following the ‘Everyone in’ policy, through the funding provided by
+Government for this - particularly, the Next Steps Accommodation Programme. In order to
+carry out the research, MHCLG needs the personal data of participants in the programme to
+be shared with the department’s evaluation contractor. The personal data will be used to
+generate and select a random sample of individuals and to contact individuals directly and
+invite them to participate in the research. The research includes initial interviews and follow
+up interviews.
+1.3 MHCLG needs the Local Authority to share data held on participants’ last known
+accommodation status if they cannot be re-contacted for follow up interviews.
+1.4 The purpose of this agreement is to set out how this data will be shared by Camden
+Council with MHCLG (and its contractor) and the obligations of each party in relation to data
+sharing. Camden Council and MHCLG will each be responsible for compliance with the Data
+Protection provisions in the General Data Protection Regulation (GDPR), the Data Protection
+Act 2018, and Article 8 of the European Convention on Human Rights in relation to the Data.
+This agreement exists to provide a framework for compliance with the Data Protection
+provisions and taking account of the Information Commissioner’s Code of Practice on Data
+Sharing.
+IT IS NOW AGREED as follows:
+2. DEFINITIONS AND INTERPRETATION
+2.1 In this Agreement the following words and phrases shall have the following meanings,
+unless expressly stated to the contrary:
+“Authorised Representatives” means the nominated lead officer representing each of the
+parties with delegated authority to handle the day-to-day matters arising from this
+Agreement;
+
+“Data Controller” has the meaning in article 4(7) of the GDPR. For this research MHCLG
+and the Local Authority will both be Independent Data Controllers of the personal data
+collected;
+“Data processor” has the meaning in article 4(8) of the GDPR;
+“Data Protection Legislation” means the GDPR, the DPA 2018 and all applicable laws
+and regulations relating to the processing of personal data and privacy, including where
+applicable the guidance and codes of practice issued by the Information Commissioner;
+“Data” means the data supplied to MHCLG;
+“Data subject” means the subject of the personal data – in this research, the people
+receiving support through the Next Steps Accommodation Programme or via other funding to
+move-on from emergency accommodation provided as part of the ‘Everyone in’ policy;
+“DELTA” means the online data collection platform that some personal information will be
+shared via;
+“DPA 2018” means the Data Protection Act 2018;
+“Environmental Information Regulations” means the Environmental Information
+Regulations 2004, as amended, together with any guidance and/or codes of practice issued
+by the Information Commissioner or relevant Government Department in relation to such
+regulations;
+“FOIA” means the Freedom of Information Act 2000, as amended;
+“GDPR” means the General Data Protection Regulation (EU 2016/679);
+“H-CLIC” refers to the Homelessness Case Level Information Classification – MHCLG’s
+statutory data collection on homelessness. Through this collection LAs are required to
+provide information about all households who make new homelessness applications.
+“Kiteworks” means the private, encrypted cloud-based external file sharing platform used
+by Kantar, which the local authority will use to share some files and data.
+“MHCLG’s evaluation contractors” refers to the organisation contracted by MHCLG to
+undertake this research. Initially this will be ICF, subcontracting to Kantar, however, later
+stages of the contract may be commissioned to a different contractor. The data systems set
+out in this agreement refer to the initial contract with ICF and Kantar. The data will be
+processed by Kantar, not ICF.
+“Participant” means an individual taking part in the research – i.e. completing the telephone
+interview;
+“Parties” means the parties to this Agreement, namely the Local Authority and MHCLG;
+“Personal Data” has the meaning in article 4(1) of the GDPR;
+“Personnel” means people who are directly, or sub-contractually, employed, by the Local
+Authority and MHCLG and are involved in this research;
+“Processing” has the meaning in article 4(2) of the GDPR;
+
+“Programme” refers to the Next Steps Accommodation Programme and includes
+individuals who have been housed in emergency accommodation during the COVID-19
+lockdown and who have been ‘moved-on’ through the Next Steps Accommodation
+Programme or other funding provided for this.
+“Pseudo-anonymised or Pseudo-anonymised data” bears the meaning attached to it by
+the Administrative Data Taskforce being such data that cannot directly identify an individual
+as the personal data have been removed, but includes a unique identifier that enables the
+person’s identity to be re-connected to the data by reference to separate databases
+containing the identifiers as identifiable data. The unique identifier allows datasets to be
+linked together without knowing the identity of the person1;
+“Questionnaire” means the questionnaire and follow up questionnaire that data subjects
+are being asked to complete to capture information relating to homelessness and support
+needs. This will be pseudo-anonymised data and will include a unique I.D;
+“Request for Information” means a request under FOIA or the Environmental Information
+Regulations.
+“Research” means the research being undertaken by MHCLG as further described in
+Clause 4;
+In this Agreement:
+a) the masculine includes the feminine and neuter;
+b) person means a natural person;
+c) the singular includes the plural and vice versa;
+d) a reference to any statute, enactment, order, regulation or other similar instrument
+shall be construed as a reference to the statute, enactment, order, regulation or
+instrument as amended by any subsequent statute, enactment, order, regulation or
+instrument or as contained in any subsequent re-enactment.
+2.2 Headings are included in this Agreement for ease of reference only and shall not affect
+the interpretation or construction of this Agreement.
+2.3 References in this Agreement to Clauses, Paragraphs and Annexes are, unless
+otherwise provided, references to the Clauses, Paragraphs and Annexes of this Agreement.
+2.4 In the event and to the extent only of any conflict or inconsistency between the
+provisions of this Agreement and the provisions of any document referred to or referenced
+herein, the provisions of this Agreement shall prevail.
+3. COMMENCEMENT AND TERM
+3.1 This Agreement shall commence upon signature by the Parties and shall continue in
+effect until the end of March 2023 in accordance with the requirements of this Agreement
+unless otherwise subject to earlier termination in accordance with Clause 11.
+3.2 The Parties may, by mutual consent in writing, agree to extend or amend this Agreement
+for a period of time to be agreed between them.
+4. PURPOSE OF RESEARCH AND USE OF PERSONAL DATA
+
+4.1 The aim of the research is to understand the outcomes of people assisted to find move-
+on accommodation through the Next Steps Accommodation Programme and other funding
+programmes, and the drivers and barriers behind tenancy sustainment outcomes. The data
+subjects of this agreement will be the people assisted through these programmes.
+4.2 The research will significantly improve understanding of the outcomes achieved through
+these programmes and what works to enable people to sustain their tenancies by following
+the outcomes of people over at least a two year period. This will be done through initial
+telephone interviews and later through administrative data linking.
+4.3 To enable initial and follow up contact to be made, and to enable administrative data
+linkage, the Local Authority will provide MHCLG’s contractors with the subject’s contact
+details via DELTA. This will be done initially during September-November 2020, but updated
+contact details will need to be shared over the period of the research.
+5. PURPOSE OF DATA SHARING
+5.1 The purpose of the data sharing covered by this agreement is to enable:
+• MHCLG’s contractors to select a random sample of individuals to be part of
+the research
+• MHCLG’s contractors to contact these individuals and invite them to
+participate in the research
+• MHCLG’s contractors to re-contact individuals who have completed initial
+interviews for this research
+• the research to include some evidence on accommodation outcomes even
+when participants cannot be contacted for follow up interviews (unless they
+have stated they do not want to take part)
+• questionnaire responses to be linked to administrative data collected as part
+of the Homelessness Data England project, to allow the research to cover a
+broader range of outcomes (where individuals have given their consent for
+this).
+5.2 MHCLG’s evaluation contractors will use the personal data to contact individuals. This
+will initially be done in Autumn and Winter 2020-21, and then six months later, with the
+possibility of further follow ups in Autumn-Winter 2021 and Autumn-Winter 2022. These later
+follow up interviews may be commissioned to a different contractor. In that event the
+provisions in this agreement will apply equally to that contractor. Personal data for any
+individuals who are not selected to be part of the research will be deleted.
+5.3 MHCLG’s contractors will also use the personal data to flag to ONS who has taken part
+in the interviews, so that their questionnaire responses can be linked to administrative data
+(from MHCLG, DWP, NHS Digital, MoJ and PHE (or any successor to PHE)) held by ONS.
+The questionnaire responses will only be linked to this information if participants agree to
+this. However, ‘consent’ will not be the legal basis used to process information (see sections
+6 and 7).
+5.4 The personal identifiers held by MHCLG’s contractors will be updated where relevant
+over the evaluation period. This is covered in section 7 below.
+6. LAWFUL BASIS FOR PROCESSING THE DATA
+6.1 The following are the GDPR lawful bases under which MHCLG and London Borough of
+Camden will process the personal data including special categories of personal data:
+
+• Article 6(1)(e) - the processing is necessary for MHCLG and London Borough of
+Camden to perform a task in the public interest or in the exercise of official
+authority, in particular to support households that are homeless or at risk of being
+homeless through furthering our understanding of repeat homelessness, the
+success of prevention activities, the outcomes of those in receipt of homelessness
+services, and the causes and factors associated with homelessness. In order to
+rely on Article 6(1)(e), Article 6(3) requires there to be a separate legal basis laid
+down in Union or Member State law to justify the processing. MHCLG is relying on
+its common law powers to justify this processing and London Borough of
+Camden relies on its various powers and duties under the Housing Act
+1996, the Homelessness Act 2002 and the Homelessness Reduction Act
+2017 .
+• Article 9(2)(g) – the processing is necessary for reasons of substantial public
+interest. MHCLG and London Borough of Camden will rely on meeting the
+condition in Schedule 1, Part 2, paragraph 6 of the DPA 2018 to process Special
+Category Personal Data in accordance with section 10(3) of the DPA 2018.
+• MHCLG and London Borough of Camden will also meet the conditions in Article
+10 of the GDPR and section 10(5) of the DPA 2018 to process criminal offence
+data since processing is authorised under Section 10(5) and Schedule 1, Part 2,
+paragraph 6 of the DPA 2018.
+• To meet the requirements in Schedule 1, Part 2, paragraph 5 of the DPA 2018
+MHCLG and London Borough of Camden has prepared an appropriate policy
+document for the processing of Special Category Personal Data and criminal
+offence data which sets out the procedures in place to comply with the principles
+in Article 5 of the GDPR.
+6.3 There are different layers of privacy information available to participants to advise them
+of their rights. More detail can be found in the Annex to this agreement.
+7. THE PROCESS FOR SHARING DATA
+7.1 MHCLG will request personal identifiers and contact details for everyone assisted as part
+of the ‘Everyone in’ policy who has been ‘moved-on’ into secure accommodation (either a
+private tenancy or long-term supported accommodation) by the Local Authority, to allow a
+random selection of individuals to be made. These will be sent securely over DELTA and
+accessed by Kantar between October and November 2020. Once the final selection has
+been made, MHCLG’s contractors will securely delete the personal data for anyone not
+selected. MHCLG’s contractors will use the personal data (name, nationality, address, email
+address and telephone number) to enable them to contact individuals to undertake up to 4
+interviews (the latter two of which may be undertaken by a different research contractor).
+The other details collected (H-CLIC case reference number, date of birth) will be used to
+facilitate data linking to H-CLIC (the data collection on homelessness applications) and the
+administrative data held by other Government Departments and Agencies (unless an
+individual states they do not agree) at a later date (and by end of 2024 at the latest).
+
+7.2 If MHCLG’s evaluation contractors are not able to contact participants for follow up
+interviews (after completing an initial interview), MHCLG’s contractors will request updated
+contact details for the individual from the Local Authority. This request will be made via
+Kantar’s secure system, Kiteworks. Kantar will load the details of the individuals they need
+updated details for, from Camden Council, into Kiteworks, which will result in a notification
+over email requesting that the system is accessed and updated details uploaded.
+Information (address, telephone number, email address) held for the participant should be
+uploaded within 7 days if possible. Kantar will download the updated details and store them
+securely.
+7.3. If updated contact details are not held or do not yield any direct contact with the
+individual, MHCLG’s contractor will request from the Local Authority the latest
+accommodation information (i.e. where the individual is known to have been staying most
+recently (hostel, long-term accommodation, prison, hospital etc) for those individuals. This
+request and the uploading of information will also be made via Kiteworks.
+7.4 If the LA is told that an individual does not want to be contacted by Kantar as part of this
+research, and their details have already been shared, the LA can request that Kantar does
+not make contact. This request should be made securely via a form in DELTA. Kantar will
+remove their details from the sample and not make any/any further attempt to contact them.
+Kantar will confirm to the relevant Local Authority that they have been removed from the
+research, and whether or not the request came through before initial contact was made with
+the participant. If an individual explicitly states that they want their details to be deleted,
+Kantar will delete their details and inform MHCLG so that the personal details can also be
+deleted from DELTA. All forms sent via DELTA will be deleted after a maximum of 6 months.
+8. PERSONAL DATA COVERED BY THIS AGREEMENT
+8.1 The personal data (personal identifiers) of the participants used for the research includes
+their full name, address, date of birth, nationality, telephone number, email address and H-
+CLIC case reference number. This data will initially be shared by the Local Authority,
+uploading this information securely via DELTA, where it will be accessed and downloaded by
+Kantar. Any updates to address, telephone number, email address will be shared by the
+Local Authority directly with Kantar, via Kiteworks, as described above.
+8.2 In addition, the type of accommodation - where this isn’t clear from the address or the
+exact address is not known (e.g. hostel, privately rented housing, rough sleeping, prison) -
+will be shared by the Local Authority. This information will be shared via Kiteworks, as
+described above, if a participant cannot be contacted for the follow up interviews.
+9. PROTECTION OF PERSONAL DATA
+9.1 The Local Authority agrees to share the Personal Data only as set out in this
+Agreement.
+9.2 MHCL, ICF and Kantar (and any other contractor acting on behalf of MHCLG) agree that
+they will not share Personal Data collected as part of this research for any other purpose and
+that the processing of the personal data will comply with the principles of GDPR. Compliance
+with these principles is also covered in sections 5, 6 and 10 of this Data Sharing Agreement.
+9.3 ICF’s subcontractor Kantar will maintain the highest possible levels of security
+throughout the research process and have a dedicated information security department
+
+working with teams across Kantar. Kantar have a network of information security
+representatives embedded in all Kantar teams and locations.
+10. RETENTION AND DESTRUCTION OF DATA
+10.1 All the personal data uploaded on DELTA will be deleted from the DELTA system after
+a maximum of 6 months. Kantar will securely store the personal data downloaded from
+DELTA until March 2023 at the latest, after which they will securely be deleted. The personal
+data provided on people not subsequently selected for the research will be deleted from
+Kantar’s systems within one month of that selection being made and by March 2021 at the
+latest. If a participant chooses not to participate or changes their mind about participating in
+the research, their personal details will be deleted from Kantar’s systems within one month.
+If it is not possible to contact someone selected to be part of the research at all, Kantar will
+securely delete from their system all their personal data within six months, with the exception
+of their H-CLIC case reference number.
+10.2 Any contractor processing personal data on behalf of MHCLG, during the time period
+covered by this agreement, will be required to process the Data securely and to the same
+standards as MHCLG. Data security measures will be set out in a Data Processing
+Agreement between MHCLG and the contractor.
+10.3 ICF’s subcontractor, Kantar, will transfer personal data using Kiteworks. This has
+several layers of security – overall network security, application security, data encryption and
+secure processes and updates. Kiteworks provide account access and configurable
+authentication security, integrated SSO and LDAP/AD, embedded anti-virus and integrations
+with data leak prevention and advanced threat prevention software. Audit logs can be sorted
+by attribute and exported for audits and legal requests. Data is encrypted both in transit and
+at rest. Kiteworks data encryption module is FIPS 140-2 certified.
+10.4 Kantar’s Public division follows the highest industry standards for data security and
+complies with all relevant corporate, legal, statutory and regulatory requirements including:
+ISO 20252; ISO 9001; ISO 27001; Data Protection Act (2018); Cyber Essentials; MRS and
+ESOMAR codes of conduct. Kantar’s ISO 27001 system is fully transparent, and allows
+access to their information security manual, procedures and working practices, risk
+management handbook and processes, and training materials, to external auditors and/or
+authorised visitors upon a signed confidentiality agreement.
+10.5 If, during the course of this agreement, MHCLG’s contractor changes, MHCLG will
+provide information on any changes in processes as necessary. MHCLG will also provide
+details of the contractor’s IT security if requested.
+10.6 In accordance with Article 5(1)(e) GDPR, MHCLG and MHCLG’s contractors will keep
+the personal data only for as long as necessary. At the end of the data retention period for
+the research MHCLG and MHCLG’s contractors will destroy all copies of the data relating to
+personal identifiers, in all media. If the two-year follow up with participants is completed
+before March 2023, MHCLG’s evaluation contractors will securely delete all the personal
+details held for the participant that are not needed for the administrative data linking
+(telephone number, email address).
+10.7 Kantar will securely send ONS the personal data (name, date of birth, H-CLIC case
+reference number, address and the unique reference number for the research) for
+individuals participating in the research (where the appropriate agreement has been given)
+
+and send pseudonymised questionnaire data separately so that responses can be linked to
+administrative data from other Government Departments and Agencies, held by ONS, and to
+any MHCLG interviews already completed by the participants. For more information about
+the data from other Government Departments and Agencies held by ONS please refer to the
+Data Sharing Agreement on the Homelessness Data England project. This information will
+be sent by Kantar via Kiteworks before the end of the data retention period - March 2023 –
+and held by ONS for no more than 6 months, before being deleted.
+10.8 Kantar will securely send ONS the H-CLIC case reference numbers for individuals who
+were selected to be part of the study, but who could not be contacted at all. ONS will use
+these to link to data held as part of the Homelessness Data England project to explore
+whether people who could not be contacted have different characteristics and support needs
+to people who did participate in the study.
+11. LOSS OR UNAUTHORISED RELEASE
+11.1 The Local Authority and MHCLG (including any contractor and the evaluation
+contractor) will report to all parties (MHCLG, The Local Authority) any loss or unauthorised
+release of the personal data no later than 48 hours after the loss or unauthorised release is
+identified [/comes to their attention]. In the case of a personal data breach, the controller
+shall without undue delay and, where feasible, not later than 72 hours after having become
+aware of it, notify the personal data breach to the supervisory authority competent in
+accordance with Article 55, unless the personal data breach is unlikely to result in a risk to
+the rights and freedoms of natural persons. Where the notification to the supervisory
+authority is not made within 72 hours, it shall be accompanied by reasons for the delay.
+11.2 The Local Authority and MHCLG acknowledge that any loss or unauthorised release of
+the personal data can be treated as valid grounds for immediately terminating this
+agreement by any party.
+12. FREEDOM OF INFORMATION
+12.1 MHCLG acknowledges that the Council is subject to the requirements of the FOIA and
+the Environmental Information Regulations and shall assist and cooperate with the Council
+to enable the Council to comply with their Information disclosure requirement in relation to
+this project.
+12.2 The Local Authority acknowledges that MHCLG is also subject to the requirements of
+the FOIA and the Environmental Information Regulations and shall assist and cooperate with
+MHCLG to enable MHCLG to comply with their Information Disclosure requirements in
+relation to this project.
+13. SUBJECT ACCESS REQUEST
+13.1 Individuals have the rights accorded by article 15 of the GDPR, including the right to
+see a copy of the information held about them. [The Council] and MHCLG as Data
+Controllers would each be responsible in responding to subject access requests each
+receives. MHCLG and [the Council] will respond appropriately to any subject access request
+within one month of receipt.
+
+14. ACCURACY OF DATA
+14.1 Camden Council will ensure accurate data is shared with MHCLG. Kantar will check the
+quality of these details and ask Camden Council to check the information supplied if it
+appears inaccurate.
+14.2 Each time new personal information is provided by the local authority Kantar will use
+this to over-write previous data provided.
+15. CORRECTING DATA
+15.1 [The Council] will respond appropriately to any requests to correct the data they have
+shared.
+16. DELETING/ERASING DATA
+16.1 Camden Council and MHCLG will respect the right to erasure where it is applicable to
+the data concerned. Further information related to this can be found above in section 10.
+17. AUTHORISED REPRESENTATIVES
+17.1 The Local Authority and MHCLG will each appoint an Authorised Representative to be
+the primary point of contact in all day-to-day matters relating to this Agreement:
+17.2 For Camden Council
+5 Pancras Square, London N1C 4AG
+17.3 For MHCLG:
+Name:
+Postal Address: 2nd Floor, Fry Building, 2 Marsham Street, London, SW1P 4DF
+E-mail address: lucy.
+Telephone number:
+18. TERMINATION
+18.1 Any Party may terminate this Agreement upon one month’s written notice to the other.
+18.2 Any Party may terminate this Agreement with immediate effect in the event of a
+material breach of its obligations by the other Party to this Agreement.
+18.3 Data will be processed if the contact is terminated but no more data will be shared. The
+same retention periods will be in place, unless there is a material breach to the contract.
+19. STATUTORY COMPLIANCE
+19.1 The Parties shall comply with all relevant legislation, regulations, orders, statutory
+instruments and any amendments or re-enactments thereof from the commencement of this
+agreement.
+
+20. DISPUTE RESOLUTION
+20.1 The Parties shall each appoint a nominated representative to whom any disputes
+arising from the operation of this DSA shall be referred. For MHCLG this would be the
+Director of Analysis. For Camden Council this would be Martin Pratt, Executive Director of
+Supporting People.
+20.2 If the Parties are unable to agree a matter arising under the terms and clauses of this
+DSA, such a dispute shall be referred to the senior officers of the nominated representatives
+for resolution. The decision of the senior officers shall bind all Parties and be treated as
+resolving the dispute. For MHCLG the senior officer would be the Permanent Secretary. For
+Camden Council this would be Jenny Rowlands, Chief Executive.
+20.3 The Parties shall, where a dispute cannot be resolved by agreement between their
+senior officers, appoint an adjudicator whose decision shall be final.
+AS WITNESS of which the parties have set their hands on the day and year first above
+written
+SIGNED for and on behalf of
+FOR LONDON BOROUGH OF CAMDEN
+By:
+Name: Rhys Makinson
+Title: DIRECTOR OF HOUSING SUPPORT SERVICES
+SIGNED for and on behalf of
+THE INFORMATION ASSET OWNER AT THE MINISTRY OF HOUSING, COMMUNITIES
+AND LOCAL GOVERNMENT
+By:
+___________________________
+Name: Stephen Aldridge
+Title: Director
+
+Annex 1
+Consents
+The wording of the consents are clear about the purpose of the data sharing and participants
+are able to choose which aspects they give consent for. The full consent wording is included
+below:
+Agreement to take part in research:
+1. I confirm that I have understood the information sheet for the study. I have had the
+opportunity to consider the information, ask questions and have had these answered
+fully.
+2.I understand that my participation is voluntary and I am free to withdraw at any time
+during the interview, without giving any reason.
+3.I agree for my answers to this questionnaire about my experiences of
+homelessness, support needs and use of health services and for these answers to
+go to the Ministry of Housing, Communities and Local Government (MHCLG).
+4. I agree for the researchers to re-contact me again
+5. I understand that if I change my mind about participating in the research I can let a
+researcher know and I won’t be re-contacted. My answers will also be deleted if they
+have not already been used by the researchers. (Answers are expected to be used
+4-8 weeks after an interview is completed).
+Agreement to share personal details to add other information:
+6. To help this research, I give consent for my personal details to be shared by the
+researchers so that my questionnaire answers can be linked to information held
+about my health care use, my statutory homelessness applications, any drug and
+alcohol treatment or welfare benefits I have received and any contact with the
+criminal justice system.
+Privacy Information
+MHCLG is providing a template for the privacy information that can be used by Local
+Authorities to notify people about the processing of their personal data and their rights. This
+information is presented through a ‘layered’ approach.
+The first ’layer’ is a poster/leaflet alerting people to the research and that the Local Authority
+will be sharing their personal data so that MHCLG can invite them to participate in research.
+The second ‘layer’ is a description of the research and what it involves that is designed to be
+accessible through the council’s website. It provides detail about how the data will be
+processed, the timeframe for processing and destroying the data and people’s rights.
+The third ‘layer’ is a description of the legal basis behind the research, which should be
+provided as additional information accessible via a link in the document described as the
+‘second layer’ or simply as further information below the main text.
+In addition to privacy information provided by the council, MHCLG’s contractors will provide
+information about the research to participants that will enable people to make an informed
+
+decision about whether to take part in an interview and agree to be re-contacted, and for
+their details to be shared with ONS for the purposes of linking their interview responses to
+administrative data.
+Following the interview, researchers will offer to post or email information to participants if
+they would like it. This information will briefly describe the research, what participants have
+agreed to and advise them of their rights,
+,
+At each point of contact with the participants (initial contact and any re-contact made by
+MHCLG’s contractors) participants will be reminded about the purpose of the research and
+what it involves. They will choose whether or not to participate in a further interview.
+
+Annex 2 Data flow diagram

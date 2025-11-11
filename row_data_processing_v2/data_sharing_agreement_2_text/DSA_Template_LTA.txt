@@ -1,0 +1,246 @@
+08
+Fall
+Appendix
+Data Sharing Agreement Template
+Version: 1
+Date: May 2019
+
+This Agreement is dated 31 January 2019
+PARTIES
+(1) LAWN TENNIS ASSOCIATION LIMITED, registered company number 07459469 (the "LTA"); and
+(2) COUNTY ASSOCIATION an unincorporated association having its principal offices at: County
+Association address (the “County”)
+(each a “Party” and collectively the “Parties”).
+BACKGROUND
+(A) The LTA is the national governing body for tennis in Great Britain, and as such processes the personal
+data of British Tennis Members (“BTMs”), players, coaches, officials, volunteers, ticket buyers and
+other customers, users of the LTA’s website and others, including staff, for the LTA’s various
+purposes.
+(B) The County works with the LTA to administer and govern tennis in Lincolnshire.
+(C) The LTA and the County may share personal data for the purposes of administering British Tennis
+Membership, organising competitions and major events, delivering performance programmes and
+keeping records of player rankings and ratings, carrying out criminal records checks, carrying out
+coach and official accreditation qualifications and training, overseeing volunteering in tennis,
+marketing products and services and for all other purposes relating to the governance of tennis,
+including the employment of staff for those purposes.
+(D) This Agreement has been produced to regularise the sharing of personal data by the Parties as
+required by the GDPR (defined below), which took effect on 25 May 2018 and sets out the terms,
+requirements and conditions on which the Parties will share personal data for the Purposes (defined
+below)
+AGREED TERMS
+1 DEFINITIONS AND INTERPRETATION
+The following definitions and rules of interpretation apply in this Agreement.
+1.1 Definitions:
+(a) “Commencement Date” means 1 January 2019.
+(b) “[Data] controller”, “[data] processor”, “data subject”, “personal data”, “processing” and
+“appropriate technical and organisational measures” shall have the meanings as set out in
+the Data Protection Legislation.
+(c) “Data Protection Legislation” means all applicable privacy and data protection laws including
+the GDPR and any applicable national implementing laws, regulations and secondary legislation
+in the UK relating to the processing of personal data and the privacy of electronic
+communications, as amended, replaced or updated from time to time, including the Privacy and
+Electronic Communications Directive (2002/58/EC) and the Privacy and Electronic
+Communications (EC Directive) Regulations 2003 (SI 2003/2426).
+(d) “GDPR” means the General Data Protection Regulation ((EU) 2016/679).
+(e) “Permitted Recipients” means the Parties and their employees, agents or volunteers whose
+access to the Shared Personal Data is necessary for the performance of those individuals'
+authorised duties and who are subject to appropriate duties of confidentiality.
+(f) “Purposes” means those purposes detailed in Schedule 1.
+
+(g) “Regulatory Communication” means a communication from the UK Information Commissioner
+(or any other competent data protection regulator) relating to any actual or alleged non-
+compliance with Data Protection Legislation by a Party with respect to the Shared Personal
+Data.
+(h) “Security Incident” means a personal data breach, whereby Shared Personal Data is lost,
+stolen or otherwise compromised, with or without fault on the part of the Party who had
+possession of it.
+(i) “Shared Personal Data” means the personal data shared between the Parties under this
+Agreement. Shared Personal Data shall be confined to the following categories of information
+relevant to the following categories of data subject:
+(i) For BTMs: BTM numbers, names, addresses, email addresses, telephone numbers,
+dates when their British Tennis Membership starts and ends, rankings and ratings,
+Wimbledon ballot entry / ticket information for major events, competitions entered, NUS
+number / student details (if applicable), and responses to surveys (plus parents’ or
+guardians’ names and contact details, if applicable);
+(ii) For players: names, addresses, email addresses, telephone numbers, performance
+match-play and training-related data, rankings and ratings, dietary requirements and
+other information relevant for training or competition arrangements, medical records and
+injury information, anti-doping disciplinary and safeguarding information, and biographical
+and professional details (plus parents’ or guardians’ names and contact details, if
+applicable);
+(iii) For coaches and officials: names, addresses, email addresses, telephone numbers,
+details of accreditations qualifications and training, availability selection and travel
+information, evaluations and assessments of players and matches, Disclosure and
+Barring Service (“DBS”) information (criminal records checks, where applicable), and
+disciplinary and safeguarding information;
+(iv) For volunteers: records of activity and availability (such as volunteer role(s), length of
+service, awards and number of hours), application or registration details for the purposes
+of volunteering, reference checks, DBS information (criminal records checks, where
+applicable), and disciplinary and safeguarding information;
+(v) For customers including ticket buyers: names, details of products or services purchased
+(including tickets), delivery addresses for products and services (including purchased
+tickets), email addresses, telephone numbers, payment information, details and dates of
+returns or refunds, dietary requirements, access requirements and proof of ID, where
+relevant for attending LTA events.
+(vi) For members of staff: names, addresses, email addresses, telephone numbers, details of
+professional activities, etc.
+2 DATA PROTECTION OBLIGATIONS
+2.1 The Parties recognise that the effective governance of tennis in Great Britain and, particularly, in
+Lincolnshire requires each of the LTA and the County to collect, process and share personal data
+relating to individuals in the Lincolnshire tennis community (and others).
+2.2 The roles of the Parties. This Agreement sets out the framework for the sharing of personal data
+between the Parties as independent data controllers. Each Party acknowledges that one Party (the
+“Data Discloser”) may disclose to the other Party (the “Data Recipient”) Shared Personal Data
+collected by the Data Discloser for the Purposes. Each Party shall comply with the obligations
+imposed on a data controller under the Data Protection Legislation in relation to the Shared Personal
+Data. Except as expressly set out in this clause 2 (and Schedule 2), nothing in this Agreement is
+intended to render either Party as a data processor acting for and on behalf of the other Party, and
+nothing in this Agreement shall render the Parties as “joint” data controllers under the GDPR.
+
+2.3 Particular obligations relating to data sharing. Each of the Parties shall be responsible for ensuring
+the compliance with applicable law of its processing of personal data as a data controller, subject
+always to the provisions of clause 2.4 and Schedule 2 and each Party shall:
+(a) ensure that it has all necessary fair processing notices (commonly known as ‘privacy notices’ or
+‘privacy policies’) and/or, as applicable, consents in place to enable the lawful transfer of the
+Shared Personal Data to the Permitted Recipients for the Purposes;
+(b) ensure that the Shared Personal Data is accurate as at the date it is shared with the other
+Party;
+(c) process the Shared Personal Data only for the Purposes;
+(d) not disclose or allow access to the Shared Personal Data to anyone other than the Permitted
+Recipients; and
+(e) ensure that it has in place appropriate technical and organisational measures to protect against
+unauthorised or unlawful processing of personal data and against accidental loss or destruction
+of, or damage to, Shared Personal Data.
+2.4 Where either party acts as a ‘data processor’ for the other, the data processor shall, to the extent that
+the processing must comply with the GDPR, comply with the data processing obligations set out in
+Schedule 2.
+2.5 Mutual assistance. Without prejudice to clauses 2.1 to 2.3 above, each Party shall assist the other in
+complying with all applicable requirements of the Data Protection Legislation. In particular, in relation
+to any Shared Personal Data it has received from the other Party, each Party shall:
+(a) take such steps as are reasonably requested by the other Party to enable that Party to comply
+with its obligations under the Data Protection Legislation;
+(b) promptly inform the other Party about the receipt of any data subject access request or another
+request received from a data subject seeking to exercise their rights under the Data Protection
+Legislation;
+(c) promptly notify the other Party if it receives a Regulatory Communication or becomes aware of
+a Security Incident, in each case which is likely to result in enforcement action, legal
+proceedings or otherwise adversely affect the reputation of the other Party, and, where relevant,
+provide reasonable assistance so that the Party in receipt of such Regulatory Communication or
+having detected such Security Incident may deal with and respond to the Regulatory
+Communication or Security Incident;
+(d) at the written direction of the Data Discloser, delete or return Shared Personal Data and copies
+thereof to the Data Discloser;
+(e) provide the other Party with contact details of at least one employee or volunteer as the point of
+contact and responsible manager for data protection compliance issues.
+2.6 Compliance with other policies and procedures. The Parties shall comply with all data protection,
+information security and information governance policies in place and notified to the Parties from time
+to time, including any Information Sharing Protocol established for the purpose of safeguarding
+children and adults at risk.
+3 TERM AND TERMINATION
+3.1 This Agreement will be deemed to have commenced on the Commencement Date and continue for so
+long as either Party retains any Shared Personal Data that it received from the other Party under this
+Agreement in its possession or control (the “Term”).
+3.2 Any provision of this Agreement that expressly or by implication should come into or continue in force
+on or after termination of this Agreement in order to protect Shared Personal Data will remain in force
+and effect.
+
+4 GOVERNING LAW AND JURISDICTION
+This Agreement is governed by the law of England and Wales and is subject to the jurisdiction of the
+English and Welsh courts.
+5 GENERAL
+5.1 Entire agreement. This Agreement, and any policies and procedures referred to in this Agreement,
+contains the entire agreement between the Parties, and replaces all previous agreements and
+understandings between them, relating to its subject matter.
+5.2 Counterparts. This Agreement may be executed in any number of counterparts, all of which taken
+together shall constitute one and the same agreement, and any Party existing at the date set out
+above may enter into this Agreement by executing a counterpart.
+5.3 Relationship of the parties. Without prejudice to clause 2.2, this Agreement shall not constitute or
+imply any partnership, joint venture, agency, fiduciary relationship or other relationship between the
+Parties other than the contractual relationship expressly provided for in this Agreement. Except as
+expressly provided for, neither Party shall have, nor represent that it has, any authority to make any
+commitments on the other Party's behalf.
+5.4 Variations. No variation of this Agreement will be effective unless it is in writing and signed by the
+Parties (or their authorised representatives).
+5.5 Waiver. No failure or delay by a Party to exercise any right or remedy provided under this Agreement
+or by applicable law will constitute a waiver of that or any other right or remedy, nor will it prevent or
+restrict the further exercise of that or any other right or remedy. No single or partial exercise of such
+right or remedy will prevent or restrict the further exercise of that or any other right or remedy.
+5.6 Severance. If any provision or part-provision of this Agreement is or becomes invalid, illegal or
+unenforceable, it will be deemed modified to the minimum extent necessary to make it valid, legal and
+enforceable.
+5.7 Third party rights. The Parties do not intend any third party to have the right to enforce any provision
+of this Agreement under the Contracts (Rights of Third Parties) Act 1999.
+This Agreement has been entered into on the date stated at the beginning of it.
+Signed by ………………………………………. Signed by ……………………………………….
+for and on behalf of
+LAWN TENNIS ASSOCIATION LIMITED
+for and on behalf of
+LINCOLNSHIRE TENNIS
+
+Schedule 1
+Purposes of the data processing
+The LTA’s Purposes
+The Purposes for which the LTA may use Shared Personal Data received from the County under this
+Agreement are:
+1. administering British Tennis Membership, and performing contracts (terms and conditions of
+membership) with BTMs, including by processing membership payments;
+2. complying with its legal obligations, including health and safety legislation, carrying out DBS checks on
+coaches, officials and volunteers, reporting to tax authorities, and assisting with investigations by the
+police and/or other competent authorities;
+3. for safeguarding purposes;
+4. and for all other purposes relating to the governance of tennis in Great Britain, including:
+i. organising competitions and major events, and ensuring the security of those events and all
+LTA premises, including by event accreditation, ID checks and the use of CCTV monitoring;
+ii. delivering performance programmes, including by monitoring player progress and making
+selection decisions for competitions etc., and keeping records of player rankings and ratings;
+iii. carrying out coach and official accreditation qualifications and training;
+iv. overseeing volunteering in British tennis, and monitoring engagement by research and
+analysis;
+v. Communicating with the tennis community including by communicating with individuals;
+vi. operating a customer services team, conducting surveys and operating websites; and
+vii. employing staff, and appointing board and committee members, for those purposes.
+The County’s Purposes
+The Purposes for which the County may use Shared Personal Data received from the LTA under this
+Agreement are:
+1. all of the purposes listed above for the LTA, as is relevant for the governance of tennis in the County
+specifically (and concerning primarily the personal data of individuals in the Lincolnshire tennis
+community);
+
+Schedule 2
+GDPR Compliant Data Processing Obligations
+1. In the course of the Parties interactions under this Agreement (and otherwise), one Party may have
+access to, or be required to, process personal data on the other Party’s behalf. The parties
+acknowledge that for the purposes of the Data Protection Legislation, specifically the GDPR, a data
+controller subject to the GDPR is required to meet its statutory obligations in relation to the processing
+of personal data, irrespective of whether the processing is undertaken directly by the data controller or
+by a data processor acting on behalf of the data controller.
+2. If either Party (“processor”) processes any personal data on behalf of the other Party (“controller”),
+the processor shall, to the extent it is regulated by the GDPR in relation to that processing:
+(a) process the personal data only on documented instructions from the controller (including this
+Agreement);
+(b) not transfer such personal data to a country outside the European Economic Area unless
+specifically authorised to do so by the controller;
+(c) ensure that persons authorised to process the personal data have committed themselves to
+obligations of confidentiality;
+(d) take all appropriate technical and organisational measures to ensure an appropriate level of
+security for the personal data (including to protect it against accidental or unlawful destruction,
+loss, or alteration, and against unauthorised disclosure or access);
+(e) not sub-contract its data processing obligations to a third party without the specific authorisation
+of the controller (and, where such authorisation is given, ensure that such a third party data
+processor agrees to the same data protection obligations as set out in this Schedule 2, on the
+understanding that the processor remains fully liable to the controller for the performance of
+those data processing obligations);
+(f) assist the controller in responding to individuals exercising their data subject rights as set out in
+the GDPR (e.g. by helping the controller to provide a copy of a particular individual's personal
+data, if they ask for it);
+(g) assist the controller to comply with its obligations under the GDPR (including regarding
+appropriate data security, the notification of a personal data breach to a relevant supervisory
+authority (i.e. data protection regulator) and to the data subject(s) affected, and the preparation
+of data protection impact assessments, where appropriate), taking into account the nature of
+processing and the information available to the processor;
+(h) at the choice of the controller, delete or return to the controller all such personal data once the
+processing of such personal data is no longer required;
+(i) make available to the controller all information necessary to demonstrate compliance with the
+obligations set out in this Schedule 2 (including a record of all categories of data processing
+activities the processor carries out on behalf of the controller) and allow for and contribute to
+data audits, including inspections, if the controller so requires.

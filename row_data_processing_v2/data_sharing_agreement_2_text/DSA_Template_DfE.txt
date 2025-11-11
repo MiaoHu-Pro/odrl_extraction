@@ -1,0 +1,323 @@
+Contents 
+Participants
+Contact details:
+Participants and role of the data share
+The DfE is a data controller of the data to be supplied to the Third Party.  It processes the data for purposes described in its information management charter and relevant privacy notice.  The DfE information management charter and ESFA privacy notice, together with contact details for the DfE’s data protection officer, are published here:
+
+https://www.gov.uk/government/organisations/department-for-education/about/personal-information-charter
+
+https://www.gov.uk/governmo0oent/publications/esfa-privacy-notice
+
+The Third Party requires the data as a data controller.  It processes the data for purposes described in its relevant privacy notice.
+
+The data share is necessary to enable the Third Party to inform the continued development and implementation of the LEP Local Growth and Strategic Economic Plans and support the process of addressing priority skills issues.
+Formalities
+This DSA will come into effect on [Insert date here]. (This will be the date that the DSA is signed by both Participants.)
+The date of the review of this DSA is August 2019
+Governance for data share approval 
+The DfE has approved the sharing of personal data through its Data Sharing Approval Panel (DSAP) to establish that any sharing of personal data under this DSA is legally compliant and in line with GDPR principles. As part of this approvals process officials, including senior data and legal experts, assess the application for public benefit, proportionality, Data minimisation, legal underpinning, and that the strict information security standards we enforce have been satisfied. DfE’s aim is to be transparent about all requests and we publish details regarding all personal level Data sharing.
+Monitoring and reviewing arrangements
+The arrangements described in this DSA will be reviewed as described above or sooner where a variation of arrangements is requested or the DfE or the Third Party serves notice to suspend sharing under the terms of the DSA.  Where a material variation to the DSA is requested (for example, where there is a request to vary the data to be shared by the DfE or the purpose for which the data will be processed by the Third Party), then that request will be referred to the DSAP for further approval.
+ 
+Nature and classification of the data share 
+The data is as defined in Data Protection legislation is described in Annex A of the DSA.
+The data is shared in accordance with the frequency described in Annex A of the DSA.
+
+In accordance with the HM Government classification scheme, the data is classified and labelled as OFFICIAL – SENSITIVE 
+Permitted uses of the data in respect of this DSA
+The Third Party agrees only to process the data for the purposes set out in Annex A.  Where the Third Party seeks to process the data for purposes other than those described in Annex A, it will obtain the prior written agreement of the DfE and a variation to Annex A will be recorded.
+
+Data protection
+Each Participant agrees to ensure it complies with its obligations under the General Data Protection Regulation (2018) (GDPR), Data Protection Act 2018 and related data protection legislation in relation to its control of the data shared under the DSA including, but not limited to, ensuring the data is processed:
+lawfully, fairly and in a transparent manner in relation to individuals;
+for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes;
+adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (‘data minimisation’);
+accurate and, where necessary, kept up to date;
+kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed;
+in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures
+Each Participant acknowledges that, as a controller of the data, it is responsible for, and must be able to demonstrate compliance with, its accountability responsibilities under Article 5 of the GDPR in relation to the data shared under the DSA
+Legal basis for processing data
+The DfE and the Third Party are legally obliged to handle personal data according to the requirements of the GDPR, the Data Protection Act 2018 and the Human Rights Act (HRA) 1998, along with any other relevant legislation.
+
+The data is processed by the DfE in accordance with the Apprenticeship, Skills Children and Learning Act 2009.
+
+The data is processed by the Third Party in accordance with article 6 of GDPR
+e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
+(Please insert any other relevant regulations else delete this placeholder)
+Lawful conditions for processing personal data 
+The DfE and the Third Party each processes the data for the purposes described in the DSA in performance of the DfE and Third Party’s respective public tasks.
+
+Processing data on behalf of the Third Party
+The Third Party is permitted to contract with another party to process the data on its behalf, subject to the Third Party ensuring the other party is contractually required only to process the data on behalf of the Third Party in accordance with the terms and conditions in this DSA and details of the other third party are notified in Annex C.
+The right to respect for private and family life
+The data will be processed by the Third Party only in accordance with the lawful basis set out in this agreement and any contact that is necessary with a data subject as part of the Third Party fulfilling its purpose in processing the data will minimise intrusion.
+Common law duty of confidentiality
+Both Participants acknowledge that they owe a Common Law Duty of Confidentiality in relation to its processing of the data.  This Duty does not give rise to an absolute right, and an obligation of confidence can be overridden where it can be demonstrated that it is in the public interest to disclose the information.  Each party acknowledges an overriding public interest in ensuring that it can fulfil its statutory duties by processing the data as described in the DSA.
+
+Publication of data
+Unless otherwise agreed as part of this data sharing agreement, this agreement does not extend to the further sharing or publication of the data.
+
+Where agreement to publish data is provided, the Third Party must only publish data in such a form as to prevent identification or re-identification of individuals.  The DfE will provide instruction on the format to be applied in any permitted publication of data. 
+
+Processing requirements
+Fairness 
+The data is required by the Third Party to enable it to inform the continued development and implementation of the LEP Local Growth and Strategic Economic Plans and support the process of addressing priority skills issues.
+
+Privacy notices
+Both Participants shall ensure that their respective Privacy Notices, as referred to in Section 1 of the DSA, sufficiently describe the data sharing activity specified in the DSA, including the purpose of the processing and the lawful basis for the processing.
+
+Data minimisation 
+Only the minimum of personal data is to be processed by the Participants to fulfil their respective purposes.  Where either party identifies that the data includes personal data that exceeds the minimum necessary in order to enable the Third Party to fulfil its purpose, the DfE or Third Party should notify the other party in order to vary arrangements in order to minimise its further processing of personal data.
+Accuracy of data
+Each participant will maintain systems and processes to maintain the accuracy and integrity of the data.
+Method of delivery of data
+The data is to be transmitted by the DfE to the Third Party using a method commensurate with the classification, volume and sensitivity of the data.
+
+The data is sent by the DfE to the key recipient for the Third Party in a suitably encrypted and password protected file.  The password to access the file is only supplied separately to the key recipient of the Third Party after the key recipient acknowledges safe receipt of the encrypted file.
+
+Where the key recipient for the Third Party cannot accept the encrypted file as described above due to technological constraints, the data is transmitted by the DfE using an alternative securely encrypted process to afford the Third Party restricted access to the data.
+
+Key recipient of data
+The Third Party will provide details of the key recipient of the data in Annex B of the DSA.  The key recipient must be an employee of the Third Party. It is the responsibility of the Third Party to ensure that the most up-to-date details of the key recipient are supplied to the DfE.  
+Handling of requests in relation to the data
+Each Participant is responsible for handling a data protection Subject Access Requests (SAR) that it receives from individuals who are the subject of the shared data in accordance with its obligations under the GDPR, Data Protection Act 2018
+
+Each Participant is responsible for handling a request for information under the Freedom of Information Act 2000 (FoIA) in accordance with its obligations under the FoIA.
+Data security 
+Systems and processes used in processing the data
+The DfE will ensure that the data, when processed for its own purposes as a data controller, is processed in accordance with the security requirements under the HM Government Security Policy Framework.  The policy applied by the DfE can be accessed here:
+
+https://www.gov.uk/government/publications/security-policy-framework
+The Third Party will process the data as a controller of the data only for the purposes in this DSA using systems and processes to safeguard the data in accordance with its legal obligations, the classification of the data, and the security policy requirements for protection of personal data required of the Third Party.
+The Lead LA’s policy to safeguard the data can be accessed here insert link to published security policy or provide policy attached to the agreement, where no link to published policy is available).
+Retention and destruction of data 
+The Third Party shall only retain the data as long as necessary in order to fulfil its purpose for processing the data in accordance with the DSA, and is responsible for the secure destruction of the data when retention of the data is no longer necessary. 
+Onward disclosure of data 
+Both Participants will ensure that only people who have a genuine business need to see the data will have access to it for the purposes set out in this DSA.
+Assurance of compliance
+The Third Party, as a data controller of the data, is responsible for assuring itself of any other contracted third party’s compliance with GDPR, the Data Protection Act and any other relevant legislation in relation to the contracted third party processing the data on behalf of the Third Party.
+Security breaches, security incidents, loss or unauthorised disclosures of data  
+Each Participant is responsible for the management of a security breach, security incident, loss or unauthorised disclosure of data in relation to its control of the data shared under this DSA, including any notification to the Information Commissioner.
+
+A security breach is a situation where the rules on handling and protecting information or equipment have been broken.
+
+A security incident is a situation which results in the loss or theft of, or unauthorised access to, the parties involved in data sharing or equipment.
+
+Examples of serious security breaches, incidents, loss or unauthorised disclosure may include, but are not limited to:
+accidental loss or damage to information;
+damage or loss of information by means of malicious software/hacking; 
+deliberate or knowingly disclosure of information to a person not entitled to receive the information; emailing classified/sensitive information to personal email accounts;
+leaving classified/sensitive papers in a unsecure or publicly accessible area; 
+using social networking sites to publish information which may bring either Participant’s organisations into disrepute. 
+The designated points of contact in Section 1 of the DSA are responsible for notifying the other Participant in writing in the event of loss or unauthorised disclosures of information within 24 hours of the event.  
+The designated points of contact will discuss and agree the next steps relating to the incident, taking specialist advice where appropriate. Such arrangements will include (but will not be limited to) containment of the incident and mitigation of any ongoing risk, recovery of the information, and assessing whether the DPO / Information Commissioner and/or the data subjects will be notified. The arrangements may vary in each case, depending on the sensitivity of the information and the nature of the loss or unauthorised disclosure.
+Where appropriate and if relevant to the incident, disciplinary misconduct action and/or criminal proceedings will be considered.
+ Issues, disputes and resolution between participants
+Any issues or disputes that arise as a result of exchange covered by this DSA must be directed to the relevant contact points listed in Annex B. Each Participant will be responsible for escalating the issue as necessary within their given commands. 
+Where a problem arises it should be reported as soon as possible. Should the problem be of an urgent nature, it must be reported by phone immediately to the designated business as usual contact (listed in annex B) and followed up in writing the same day. If the problem is not of an urgent nature it can be reported in writing within 24 hours of the problem occurring.
+Costs / charging
+There are no charges made to one Participant by the other as a direct result of this DSA.
+Termination
+This DSA may be terminated by giving three months’ notice by either Participant. 
+Both Participants to this DSA reserve the right to terminate this DSA with three months’ notice in the following circumstances:
+by reason of cost, resources or other factors beyond the control of the DfE
+if any material change occurs which, in the opinion of the DfE and the Third Party following negotiation significantly impairs the value of the data sharing arrangement in meeting their respective objectives.
+Upon termination, the data held by the Third Party will retained only for as long as necessary. 
+In the event of a significant security breach or other serious breach of the terms of this DSA by either Participant the DSA will be terminated or suspended immediately without notice.
+ Signatories
+Annex A – Data to be shared
+
+1. the purposes for which the data will be processed by the Third Party
+The primary purpose of the Data Cube management information reports is to inform the continued development and implementation of the LEP Local Growth and Strategic Economic Plans and support the process of addressing priority skills issues. Other data sets may be released from time to time by the Agency to supplement the data cube using these data sets. The terms in this Agreement apply to any supplementary information supplied to LEPs by the ESFA for the purpose set out in this section.
+2. description of the data to be shared
+The Operational data suite will be based on four years of data based on academic year. The detail needs to be sufficient to enable patterns of provision, learning aims, providers and demography to be identified.
+The data cube contains personal characteristics of learners but does not contain any information or unique identifiers that enable any individual learner to be directly identified from these characteristics.
+All data provided can be used unaltered for internal information or operational purposes and discussions.  The data and reports produced containing this data can be externally published as long as the requirements set out below are followed.  
+Where further guidance on publication is provided, all signatories to, and individuals and organisations bound by, this Data Sharing Agreement are expected to comply.
+No data which enables the direct or indirect identification of an individual must be published. This includes data where the individual could be identified by linking the data to other data.
+Any numbers derived and published must be presented in such a way as to not undermine the rounding and disclosure control of the Statistical First Release and other published tables.  Where data shows a value of 5 or less, then this data must be suppressed and replaced with an asterisk (“*”).  All values must be rounded up/down to the nearest 10.
+Tables, graphs and other info graphics, narrative text for the purposes of operational discussion, supporting the presentation & evaluation of published economic plans and developing skills priorities.
+The data must not be used to match with other data.
+The data must not be used to contact any individuals or be matched to other data sets to identify individuals.
+The ESFA is providing LEPs with a range of information about learners in the geographical region of their LEP. The information required comes from a variety of systems and data sources of the ESFA including the ILR, Apprenticeship Vacancies and the National Careers Service.
+The information provided will consist of annual and in-year scheduled offline cubes and supplementary MI reports for Learner Participation and Workplace Count.
+The cubes will contain data from the Single Individualised Learner Record, Large Employer Outcome Pilot and Employer Ownership Pilot.
+Annual Cubes
+Annual offline cubes provided before April 2018 will contain full end of year data for 2011/2012 onwards. Cubes provided after April 2018 will only contain data for 2014/15 onwards. Data from years 2010/2011 and earlier has already been provided to the LEPs.
+Two annual offline cubes will be provided for each LEP: 
+ One is based on the learner’s home postcode and includes learning aims and Apprenticeship frameworks where the learner’s home postcode is in one of the constituent local authority districts of the LEP. 
+ One is based on the delivery location postcode and includes learning aims and Apprenticeship frameworks where the delivery location postcode is in one of the constituent local authority districts of the LEP
+Scheduled Cubes
+Scheduled in-year offline cubes will contain full year historic data and quarterly data for the current academic year.  As per the annual offline cubes, two in-year offline cubes will be provided for each LEP: 
+One is based on the learner’s home postcode, as above
+One is based on the delivery location postcode, as above
+Learner Participation Report
+A separate MI report will be provided for Workplace Count data at the same time as the scheduled and annual cubes.  It will not be provided in the off-line cubes
+Data provided will be in the format of data cubes and MI reports for the LEP Area named in the cover sheet. This will include the constituent Local Authority districts of the LEP
+No bespoke data will be provided
+Access to the Localism Dashboard
+As access to the secure site is limited to FOUR people per LEP area, please use section below to list all organisations and people who you expect to need access to the Localism Dashboard. The access credentials are issued solely for the use of the people named below and must not be shared with anyone else. If you are the Data Controller and also require access, you must include yourself on this list. 
+Please ensure that the contact e-mail address is supplied as this will be used as the user name to access the Dashboard.
+If you need to replace names on the list at any point during the life of the DSA we will require confirmation from the Data Controller.
+3. schedule for sharing data i.e. frequency / any agreed dates etc.
+
+
+LEPs datacubes are supplied for 2016/17 R14, and 2017/18 R06 and R14.
+
+Annex B - Details of key recipient for the Third Party
+
+Insert below
+
+name and title, 
+role, 
+name of Local Authority, 
+postal address, 
+email address
+telephone numbers 
+for Key recipient
+
+Key recipient must be an employee of the Local Authority 
+
+
+
+Annex C - Details of third party with whom a Third Party contracts to process data on its behalf
+Insert below:
+
+name and address of organisation contracted by the Third Party to process data on its behalf
+purpose for which the Third Party has contracted the organisation to process data on its behalf
+Annex D - Data Required By Other Parties
+Under the Data Controller’s authority, LEP Cubes can be shared with the appropriate people within the LEP and their partners and Local Authorities as necessary ONLY for the purposes described in Annex A.  
+Please use section below to list all organisations who you expect to need access to the Data Cube for the purpose set out in Annex A.
+The ESFA expects that the data will be made available to partner organisations to the LEP and others who require access to the data as part of delivering the purpose described in Annex A. Where this data cube needs to be shared with / provided to other parties acting on behalf of the LEP to compete this work,(e.g. contractors, agents, partnerships etc), then their details must also be listed below along with the reason why they require the data. 
+If you need to replace names on the list at any point during the life of the DSA we will require confirmation from the Data Controller.
+Paragraph
+Number	Title of Paragraph	Page Number  
+1	Participants
+Contact details of participants to DSA
+Data sharing role of each participants	
+2
+
+2	Formalities 
+Dates DSA comes into effect and review dates
+Governance for data share approval
+Monitoring and reviewing arrangements	
+
+2-3
+3	Nature and classification of the data share	3
+4	Permitted uses of the data	3
+5	Data protection	3
+6	Legal basis for processing
+Lawful conditions for processing personal data
+Third party data processing
+Right to respect for private and family life
+Common law duty of confidentiality	
+
+4
+7	Processing requirements
+Fairness
+Privacy notices
+Data minimisation
+Method of delivery
+Key recipient	
+
+
+4-5
+8	Handling of requests in relation to the data	5
+9	Data security
+Systems and processes used in processing data
+Retention and destruction of data
+Onward disclosure to third parties
+Assurance of compliance
+Security breaches, security incidents, loss or unauthorised disclosures of data 
+Details of Data Protection Officer (DPO) 	
+
+
+5-7
+10	Issues, disputes and resolution between participants	7
+11	Costs / Charging	7
+12	Termination	7
+13	Signatories	8
+Annex A	Data to be shared	9-12
+Annex B	Details of key recipient for the Lead Local Authority	12
+Annex C	Details of third party with whom an LA contracts to process data on its behalf	12
+Annex D	Data required by other parties	12-13
+
+Department for Education (“the DfE”)
+Education & Skills Funding Agency
+Cheylesmore House
+Quinton Road
+Coventry
+CV1 2WT
+
+Email: DataSharing.ESFA@education.gov.uk
+
+	
+[Name of Third Party legal name] (“the Third Party”)
+
+[Insert Third Party contact details – including name of business area, address, email address and telephone number]
+Department for Education 
+
+Name: David Craig, on behalf of Neil McIvor
+Position: Director of Data Science
+
+
+
+Signature of head of business area:
+
+
+
+……………………………………………………
+
+
+Date: 15th August 2018
+	[Name of department/organisation Y]
+
+Name of head of business area:
+[name of head of business area in block capitals]
+
+
+
+Signature of head of business area:
+
+
+
+
+
+
+
+
+
+
+……………………………………………………
+
+
+Date: [date]
+
+Data Controller Registration
+    Please complete your Data Protection Registration details 	Data Controller Registration
+    Please complete your Data Protection Registration details 	Data Controller Registration
+    Please complete your Data Protection Registration details 	Data Controller Registration
+    Please complete your Data Protection Registration details 
+	Data Protection Registration No *	Data Protection Registration No *	
+		Data Protection Registration Renewal Date *	
+		Please note: Scheduled data will not be sent unless your registration has at least one month to run before it expires – this allows for processing time.  Checks will be made to ensure you are registered If your valid ICO Registration is not displayed on your ICO webpage we will not be able to provide the scheduled data. 	Please note: Scheduled data will not be sent unless your registration has at least one month to run before it expires – this allows for processing time.  Checks will be made to ensure you are registered If your valid ICO Registration is not displayed on your ICO webpage we will not be able to provide the scheduled data. 
+	People who need access to the Localism Dashboard	People who need access to the Localism Dashboard
+	Organisation Name	Contact Name 
+		Contact Email Address (User Name)
+	Organisation Name	Contact Name 
+		Contact Email Address (User Name)
+	Organisation Name	Contact Name 
+		Contact Email Address (User Name)
+	Organisation Name	Contact Name 
+		Contact Email Address (User Name)
+(Please expand this section if more organisations are receiving data)	(Please expand this section if more organisations are receiving data)	(Please expand this section if more organisations are receiving data)	(Please expand this section if more organisations are receiving data)
+	Other Organisation Details	Other Organisation Details
+	Other Organisation 
+Name & Address	Contact Name 
+		Contact Email Address
+	Other Organisation 
+Name & Address	Contact Name 
+		Contact Email Address
+	Other Organisation 
+Name & Address	Contact Name 
+		Contact Email Address

@@ -1,0 +1,126 @@
+Dorset Care Record Personal Information Sharing Agreement
+Personal Information Sharing Agreement Introduction This Personal Information Sharing Agreement (PISA) is made under (Name of the over-arching Information Sharing Protocol that applies).
+Dorset Information Sharing Charter between: (Names of organisations involved in partnership working under the agreement).
+The Dorset Care Record Partners namely  GP Surgeries (Primary Care);  Dorset County Hospital;  Poole Hospital;  Royal Bournemouth and Christchurch Hospitals;  Dorset HealthCare;  NHS Dorset Clinical Commissioning Group;  Dorset County Council;  Borough of Poole;  Bournemouth Borough Council  South Western Ambulance Service Trust.
+Note: Organisations who are signing up to the PISA must also be signatories to the overarching information sharing protocols as detailed above.
+Background Across Dorset, care for individuals is carried out by different organisations including health and social care.
+Individuals frequently move between primary care to acute hospital care, to community health care and social care.
+In other cases, individuals are cared for within multi-disciplinary teams that draw on expertise from different parts of health and social care.
+When a person accesses care from any of the above-mentioned organisations a record is kept.
+As these records are not automatically shared with other organisations involved with that person’s care there can be an adverse impact on that care such as:  the ability to provide ‘joined up care’- and care provided by the right person at the right time;  the quality of care;  he ability to fully support care pathways (e.g. for long term conditions)  the ability to safeguard vulnerable individuals;  the individuals experience;  the efficiency of services.
+The Dorset Care Record is the Dorset programme that aims to deliver a detailed, local, shared record.
+The programme will integrate health and social care information sourced from a variety of existing information systems currently in use thus providing a unified view of information that can be used to facilitate improved care provision and decision-making.
+Use of the DCR Portal will help to improve the security and auditability of the current methods of data sharing including verbal (phone calls and face to face) and written (correspondence, emails and faxes).
+Purpose of the PISA (Statement clearly defining the purpose(s) for the sharing of personal information. ) The main purpose of sharing information is for the: Primary Use of Data For the delivery of integrated care and treatment for patients/service users across the DCR partner organisations.
+Uploading of the information to the portal (as provided by Orion Health) is based on a model of consent.
+Access will be based on consent and legitimate relationship access.
+To set out the arrangements for the sharing and use of personal data for the Dorset Care Record (DCR) Programme between the signatory partner organisations.
+To enable approved users across the partners to view summary information from primary care in accordance with the requirements of the law and best practice.
+This PISA provides a formal agreement between the named agencies to share the information The delivery of urgent and safeguarding care across partners, where the failure to do so effectively carries a significant risk of avoidable harm to the individual(s).
+This is based on the ‘vital interests’ justification for processing data.
+The Dorset Care Record will enable clinicians and social care practitioners to more readily establish which other agencies are involved with a person, to gather key information to enable them to care for people more safely and efficiently, without referring to multiple records systems, or telephone.
+Sharing Data for Non-Direct care Purposes Information used by the DCR is currently for direct care and early intervention purposes only.
+Therefore, any request for information held on an individual, other than for these purposes, must have a legal basis.
+If there is a legal reason, then the receiving organisation should consider the following when responding:  Establish whether the request is appropriate, by liaising with the DCR Privacy Officer or their own IG lead;  Only disclose information from their own source systems, in line with their own organisational policy If deemed appropriate, refer the requester to another DCR Partner.
+Secondary Use of Data from the DCR It is expected that the DCR will become an effective tool for managing services and the strategic development of health and social care in the community.
+At present potential uses for this purpose are not fully understood or even identified, but a number of core principles must be in place for any secondary use of data:  data will be made available in three levels: aggregate, pseudonymised, and deidentified.
+(Explanations of these terms can be found in the glossary);  identifiable data will not be available without clear documented legal justification;  to support improvements in care analysis of data at an individual 'row' level will be required.
+Such activities will use either pseudonymised data, de-identified data identifiable data (where there is clear documented legal basis).
+This agreement will be updated when requirements to use data for secondary purposes are set out.
+Changes will be compliant with the Information Commissioner's Code of Practice on anonymisation (and NHS Anonymisation Data Standard).
+Benefits of sharing data for the DCR are:  Health and Social Care Professionals will have the ability to find up-to-date information about individual(s) that they provide care for as all the information will be in one place;  higher quality/more effective clinical/care decision making will be supported;  improved care and outcomes for individuals;  improved safety for individuals, e.g. vulnerable adults and children, safeguarding etc;  prevent a person undergoing duplicate tests thus providing a more person centred approach;  improved security of information, (Data Protection Principle 7).
+Information in one place reduces the need for professionals to communicate via letters, email and fax use of which have associated risks of error;  improved safety for individuals e.g. allergy information will be available to care professionals, reducing the risk of adverse drug reactions;  reduction of administrative costs.
+DCR partner organisations are frequently asked to provide information to other services about the individuals they care for via telephone, fax, letter etc;  reduced duplication of work e.g. duplicate tests being ordered or repeat requests for information;  person will be less likely to need to repeat information that is already known in another care setting;  help safeguard the individual, and staff working with them where risks are known and recorded on partner systems.
+All partner organisations accept that this information will not be shared without the consent of the individual concerned, unless there are statutory grounds and, in the case of confidential personal information, an overriding public interest or justification to disclose.
+Security Overview of the Dorset Care Record Solution The Portal is the pan Dorset view of the person record (DCR).
+The person record is a consolidation of information from different sources.
+Hospital PAS, Mental Health records, GP data via MIG and eventually Social Services information.
+The components in the diagram are described in the table below: Component Description Rhapsody Orion Health Integration engine that transforms and manages messages that come into the system.
+It enables the exchange of electronic data from multiple systems.
+Clinical Data Repository (CDR) A central data warehouse where information from a number of sources is transformed into a standard format to be made available to the user in the clinical portal.
+Clinical Portal A web-based application that provides users with a single access place to locate an individual's information from multiple systems.
+eMPI This is the enterprise Master Patient Index used in the Orion Health Solution, which matches up the records of individuals from the separate source systems.
+ADT Admission, Discharge and Transfer message (Including patient demographics etc as well as details of admissions to hospital and associated discharge or transfers between organisations) XML messages Transfer of pdf version of Discharge Letters MIG Medical Information Gateway.
+This is a hub which routes data held in GP systems – so data in GP records can be displayed in the portal.
+These standardised messages will run in the background to update any changes to a person’s care record, so the latest information is always available to people accessing the DCR portal The Consent and Audit databases (under the purple boxes in diagram) control which users have access and keep a track of who/when and where of data access.
+All data is processed within the UK.
+Dorset Care Record Portal The Dorset Care Record solution is hosted initially by Redcentic.
+The security for Redcentric data centres is as listed in appendix 1.
+Access Control Access is to be managed by a Privacy Officer for the DCR.
+Access to data is based on a user's role and their need to access specific data items relating to the needs of their role.
+Access to the portal will be via a username and password.
+Once a user is logged onto the system, the solution will: o Only grant access to applications for which the person has authorisation; o Only allow tasks to be carried out if the user has correct authorization.
+Privacy Officer The role of the Privacy Officer has been agreed by all partners in order to perform functions required for legal compliance:  Grant access/remove access to the DCR for authorised users;  Person Opt Out (required under principle 1 of the DPA);  Process Subject Access Requests (SARs) and public enquiries (required under principle 6 of the DPA);  Auditing and reporting;  Data Quality - duplication and accuracy of records (required under principle 4 of the DPA);  Monitoring emergency and best interest access;  Breaches and investigation of same;  DCR specific IG Toolkit returns.
+Partners All partners are responsible for providing training and guidance to their staff in relation to the security of personal data; All partners will have completed the Information Governance Toolkit to level 2.
+This demonstrates commitment to the security of data.
+Lawful basis for the sharing of personal information (Details of the legislation that provides the statutory powers (express or implied) for the Council and Partner Organisations to share personal information. ) Within a health and social care context there is legislation and regulation that relates to information sharing, some of it places regulatory control on the sharing of data, and others provide powers to share data.
+A list of some of the relevant legislation that supports this data sharing can be found in Appendix 2.
+This agreement is set within the relevant legal framework with specific references as follows:
+Data Protection Act (DPA) 1998: This is the key legislation to control the processing and sharing of personal data.
+All signatories to the agreement are required to comply with the requirements of the DPA.
+The processing of data within the DCR must also be compliant with the DPA.
+The principles are referenced throughout this document.
+In particular, the following principles have to be adhered to:  1st principle - Fair and Lawful Processing The DPA requires personal data to be processed fairly and lawfully.
+This is set out in the first data protection principle and is one of eight such principles of the Conditions for processing personal data are set out in Schedules 2 and 3 to the DPA and are known as the “conditions for processing”.
+When processing personal data one or more of these conditions has to be satisfied.
+This means that when processing data within the DCR one, or more, of the following conditions must exist:  legitimate grounds for collecting and using the personal data;  not using the data in ways that have unjustified adverse effects on the individual(s) concerned;  being transparent about the intended use of the data, and give individuals appropriate privacy notices when collecting their personal data;  people’s personal data is handled only in ways they would reasonably expect;  make sure that there is no unlawful use of the data.
+ Principle 6 – Rights of the Individual When an individual makes a request to an organisation for access to the data it holds on them, known as a Subject Access Request, then the organisation will follow its standard procedures and process.
+An organisation is not required to provide access to data that is held by the other data controllers.
+ Principle 7 - Technical and Organisational Security  See section 5.
+For other relevant legislation, conditions and good practice for sharing of data see Appendix 2.
+Consent The approach to consent for the DCR is as follows: Informing individuals There is to be a full communications campaign to inform residents of Dorset about the DCR, and give them the chance to opt out, is still being planned.
+(The PISA is a living document and will be updated as the campaign moves forward).
+Materials to promote the use of the system will be available to all partner organisations and will include posters, leaflets and web based materials.
+Partner organisations are expected to actively promote the DCR to individuals using these materials.
+It is expected that there will be some public events throughout the county.
+Opt-Out An individual residing in Dorset requesting to opt can do so by contacting the Privacy Officer/GP Practice.
+A designated read code will be added to the GP patient record which will prevent their record being shared.
+Information materials for individuals will highlight the process for concerns and queries to be raised.
+Staff dealing with individuals raising concerns will be expected to discuss the benefits of the system and the impacts of opt out, but will ensure individual wishes are respected, unless there is a legal duty to include their data.
+For an individual under the age of 15 where their parent or carer has opted them out of the DCR, then their information will only be available to be viewed by those with explicit safeguarding duties.
+This is based on the legal duties identified in Appendix 2.
+Implied Consent This refers to instances where the consent of a person can be implied without them having to give explicit agreement for a specific aspect of information sharing to proceed.
+The 'opt-out' allows the person to dissent from their data being accessed unless there is a safety or safeguarding concern.
+In this situation, care providers will not be required to record consent every time they are with the person.
+Implied consent is only applicable within the context of direct care of a person.
+The DCR requires a user to claim a 'legitimate relationship' with the person identifying the basis for the relationship.
+Explicit Consent Where consent is necessary to share/access information and the consent is not implied (through either being referred to a local care provider or by the care provider having an existing legitimate relationship with the individual), explicit consent will be required at the point of care, unless there is another justification (see below).
+This means that users providing care will be prompted to confirm consent with the individual when they access the shared DCR.
+Legal Requirement to Share information It may be necessary for information to be shared between organisations either because of a direct legal obligation or in order to assist in meeting a statutory requirement placed on any of the DCR partner organisations.
+Where this is the case, all partners must be aware of this legal requirement, agree and understand the limit of the information that is to be shared and the purpose it is to be shared for and ensure that individuals are adequately informed.
+Appendix 2 contains a list of legislation that, where applicable, allow the sharing of data to be lawful.
+Vital Interests In circumstances where an individual is unable to give consent, such as where there is severe injury or distress or where gaining consent would delay or put individuals at increased significant risk, information will be shared on the basis of 'vital interests' of the individual(s).
+"Break Glass" access within the DCR will be available to allow care providers to access information to provide the care that is required.
+"Break glass" access allows the record to be accessed and the reason for the access to be recorded.
+The system also has a privacy log of all privacy overrides that will be regularly reviewed by the Privacy Officer.
+“Break Glass” access can be used where there is no ongoing care relationship, but a justifiable basis to access the record, such as safeguarding concerns, is required.
+Access will be provided for a limited period.
+Type of personal information that will be routinely shared (Provide details of the broad categories of personal information to be routinely shared under the agreement. ) Data to be Shared  Patient demographics  Patient summary  Diagnoses  Medication (current, past and allergies)  Risk and warnings  Procedures  Investigations  Encounters, admissions and referrals  Letters from Hospitals and other Health Professionals The information being shared by DCR Partner Organisations is only done so for the specific purposes detailed in section 2 of this document. Note: A combination of categories of personal information may apply under the How personal information will be shared (Statement defining the method(s) that will be used to effect the:  safe and secure exchange of personal information between agencies, including where applicable the identification of officers within each organisation who are authorised to disclose and receive personal information under the PISA.   availability of requested personal information.  recording of requests for, and disclosures of, personal information)
+How information will be shared Data for the DCR is shared electronically via the Orion Health solution.
+All organisations accessing the DCR will be signed up to the Dorset Information Sharing Charter (DISC), and individual users will be identified and given appropriate access in accordance with their role.
+The system will control access to individual records via the agreed consent model, which will challenge whether explicit consent has been given by the patient, or record other reasons why access is being made.
+The audit trail will record who accessed information about a person, and under the DISC agreement, they will be held responsible for any access under their username.
+Restrictions on the use of shared personal information (If one of the partners to the PISA needs, or wishes to place specific additional restrictions on the use of personal information, these should be indicated in this section of the agreement. ) Where professionals request that information supplied by them be kept confidential from the service user, the outcome of this request and the reasons for taking the decision will be recorded.
+Such decisions will only be taken on lawful grounds.
+Breaches of confidentiality (Statement defining how breaches of confidentiality by any agencies party to the agreement will be monitored and dealt with. ) All activity on the Dorset Care Record is logged in an audit trail, and the individual user is responsible for justifying why they looked at a specific record.
+Any data breaches will be investigated under the Dorset Information Sharing Charter (DISC) Data Breach Management guidance.
+The Information Governance lead of the organisation detecting the breach should be informed and they will inform the DCR Project Manager, who will advise other IG leads throughout the partnership as appropriate to the breach.
+Where this involves the whole partnership, the chair of the Dorset Information Governance group will lead the response.
+ Inappropriate access by own staff: Any organisation either suspecting or identifying inappropriate use by their own staff will conduct their own investigation.
+If this identifies that information from another organisation has been viewed or used inappropriately, the original organisation will contact the relevant IG Lead;  Inappropriate access by external users: Any organisation either suspecting or identifying inappropriate use by users outside of their employees will raise the issue as soon as possible with the IG Lead for the organisation responsible for those users;  Any incident related to the use of personal/sensitive data within health and/or social care will be checked against the 'Serious Incidents Requiring Investigation' (SIRI), as produced by NHS Digital and reported based on the Department of Health (DH) and Information Commissioner’s Office (ICO) agreed solution for reporting personal/confidential data breaches.
+Where multiple organisations are involved, they will agree reporting between themselves as the incident does not need to be reported multiple times.
+ It is essential that all Information Governance Serious Incidents Requiring Investigation (IG SIRIs) which occur in Health, Public Health and Adult Social Care services are reported appropriately and handled effectively.
+Breaches raised by a Member of the Public - any complaint raised by, or on behalf of, a member of the public concerning allegations of inappropriate disclosure of information will be dealt with by the Privacy Officer in conjunction with the relevant partner organisation.
+Any disciplinary action will be an internal matter for the partner(s) concerned.
+Informing Individuals Where an incident identifies that the confidentiality of an individual may have been breached, consideration will be given to informing the individual.
+Decisions on informing individuals will be taken by the senior health or social care professional in charge of the care of the individual affected, taking advice from their Caldicott Guardian.
+Where the breach has been caused by an individual in a different organisation, it will be the senior professional in the organisation(s) whose data has been compromised who will determine whether the affected individual should be informed as they will have the greatest knowledge as to the impact on the individual of the breach in relation to the type of data in question.
+If a situation such as this was to arise involving more than one other organisation, the senior staff involved will collaborate on deciding whether to inform the individual.
+Review of PISA (Who will review the PISA and how often.) The Dorset-Wide Information Governance Group will review the PISA annually or as changes occur.
+Termination of this PISA by an organisation (Statement defining the method by which agencies can terminate their involvement in the PISA and the length of notice required. ) The Dorset Health and Social Care community have determined that care of individuals is enhanced by the sharing of information with appropriate safeguards.
+This also links to the Caldicott Principle – “the duty to share information is as important as the duty to protect confidentiality”.
+If a partner to this PISA wishes to withdraw from feeding information to the Dorset Care Record, they can stop the feed.
+In the case of GP records, with a live fetch of information, no data will reside on the shared record.
+For other agencies, the partners would work with OrionHealth to establish how to deal with records previously uploaded to DCR.
+Signatories to the PISA Authorised signatories from each organisation should formally accept this agreement by completing the attached table.
+Personal Information Sharing Agreement Signatories to the PISA Organisation Post/Position Name Signature Date

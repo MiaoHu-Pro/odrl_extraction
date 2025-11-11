@@ -1,0 +1,274 @@
+DRAFT VERSION
+Data Sharing Agreement – Controller to Controller
+Template: v1.0, August 2018 Page 1 of 8
+DATA SHARING AGREEMENT
+(Data Controller to Data Controller)
+This Agreement is made on:
+Between:
+1. GM Business Support Limited incorporated and registered in England and Wales with
+company number 08132524 whose registered office is at Lee House, 90 Great
+Bridgewater Street, Manchester, M1 5JW; and
+2. (Company Name), incorporated and registered in England and Wales with company
+number (X) whose registered office is at (Y);
+each a Party and together, the Parties.
+Background:
+A. The Parties have agreed to share personal data in relation to the Programme Support services
+B. This agreement sets out the framework for the sharing of Personal Data (as defined below)
+between the Parties, each acting in their capacity as Data Controller. This is a free-standing
+agreement that does not incorporate commercial business terms.
+The Parties agree to the following in relation to any Personal Data Processed as part of the
+Programme.
+1. Definitions
+"Controller", "Processor"
+and "Data Subject"
+"Data Protection Impact
+Assessment"
+shall have the meaning given to those terms in the applicable
+Data Protection Laws;
+means an assessment of the impact of the envisaged Processing
+operations on the protection of Personal Data, as required by
+Article 35 of the GDPR;
+"Data Subject Request" means an actual or purported request, notice or complaint made
+by, or on behalf of, a Data Subject in accordance with the exercise
+of rights granted pursuant to the Data Privacy Laws in relation to
+the Data Subject's Protected Data;
+"Data Protection Laws" means (a) any law, statute, declaration, decree, directive,
+legislative enactment, order, ordinance, regulation, rule or other
+binding restriction (as amended, consolidated or re-enacted from
+
+DRAFT VERSION
+Data Sharing Agreement – Controller to Controller
+Template: v1.0, August 2018 Page 2 of 8
+time to time) which relates to the protection of individuals with
+regards to the Processing of Personal Data to which a Party is
+subject, including the Data Protection Act 2018 and the GDPR or,
+in the event that the UK leaves the European Union, all legislation
+enacted in the UK in respect of the protection of Personal Data;
+as well as the Privacy and Electronic Communications (EC
+Directive) Regulations 2003; and; and (b) any code of practice or
+guidance published by the ICO (or equivalent regulatory body)
+from time to time;
+"Data Sharing Particulars" means, in relation to any Processing under this Agreement:
+(a) the subject matter and duration of the Processing;
+(b) the nature and purpose of the Processing;
+(c) the type of Personal Data being Processed; and
+(d) the categories of Data Subjects;
+(e) the Permitted Purpose;
+(f) the relationship between the Parties
+as further described in Appendix A.
+"GDPR" means Regulation (EU) 2016/679 of the European Parliament and
+of the Council on the protection of natural persons with regard
+to the Processing of Personal Data;
+"ICO" means the UK Information Commissioner's Office, or any
+successor or replacement body from time to time;
+"Permitted Purpose" means the purpose of the Processing of Personal Data by the
+Parties as specified in the Data Sharing Particulars;
+"Personal Data" means any personal data (as defined in the Data Protection Laws)
+Processed by either Party in connection with the Agreement, as
+described in more detail in the Data Sharing Particulars;
+"Personal Data Breach" has the meaning set out in the Data Protection Laws;
+"Personnel" means all persons engaged or employed from time to time by the
+Data Controller in connection with this Agreement, including
+employees, consultants, contractors and permitted agents;
+"Processing" has the meaning set out in the Data Protection Laws (and
+"Process" and "Processed" shall be construed accordingly);
+
+DRAFT VERSION
+Data Sharing Agreement – Controller to Controller
+Template: v1.0, August 2018 Page 3 of 8
+"Restricted Country" means a country, territory or jurisdiction outside of the European
+Economic Area which the EU Commission has not deemed to
+provide adequate protection in accordance with Article 45(1) of
+the GDPR;
+"Security Requirements" means the requirements regarding the security of Personal Data,
+as set out in the Data Protection Laws (including, in particular, the
+measures set out in Article 32(1) of the GDPR (taking due account
+of the matters described in Article 32(2) of the GDPR)) as
+applicable;
+2. DATA PROTECTION
+2.1 Nature of the Processing
+2.1.1 The Parties acknowledge that the factual arrangements between them
+dictate the role of each Party in respect of the Data Protection Laws.
+Notwithstanding the foregoing, each Party agrees that the nature of the
+Processing under this Agreement will be as follows:
+(a) the Parties shall each Process the Personal Data;
+(b) each Party shall act as a Controller in respect of the Processing of the
+Personal Data on its own behalf as described in Appendix A.
+2.2 Data Controller Obligations
+2.2.1 Each Party shall in relation to the Processing of the Personal Data comply
+with its respective obligations under the Data Protection Laws.
+2.2.2 Without limiting the generality of the obligation set out in clause 2.1.1, in
+particular, each Party shall:
+(a) ensure that all fair processing notices have been given (and/or, as
+applicable, consents obtained) and are sufficient in scope to enable each
+Party to Process the Personal Data as required in order to use the
+Personal Data for the Permitted Purpose;
+(b) ensure that all Personal Data disclosed or transferred to, or accessed by,
+the other Party is accurate, up-to-date and complete to enable either
+Party to Process the Personal Data;
+(c) work together to answer Data Subject Requests within 30 days and free
+of charge to the Data Subject;
+(d) ensure that appropriate technical and organisational security measures
+are in place sufficient to comply with at least the obligations imposed
+on the Controller by the Security Requirements and where requested
+the each Party shall provide to the other evidence of its compliance with
+such requirements;
+(e) support the other Party to make any required notifications to the ICO
+and/or other equivalent relevant regulator and affected Data Subjects;
+
+DRAFT VERSION
+Data Sharing Agreement – Controller to Controller
+Template: v1.0, August 2018 Page 4 of 8
+(f) other Party in writing promptly of it becoming aware of any actual or
+suspected Personal Data Breach in relation to the Personal Data
+received from the other Party. Any such notice will include full details of
+the Personal Data involved and the types of Data Subjects affected. The
+Party notified shall provide reasonable support and assistance to the
+Party affected by the Personal Data Breach in notifying the ICO and/or
+Data Subjects (as appropriate).
+(g) take reasonable steps to ensure the reliability of any of its Personnel
+who have access to the Personal Data;
+(h) not transfer any Personal Data it is Processing to a Restricted Country,
+without first ensuring adequate safeguards are in place.
+2.3 The Parties acknowledge that the arrangements outlined in this Schedule may need to be
+reviewed in light of a change in the Data Protection Laws. Each Party shall cooperate with
+the other Party in good faith to review and agree and document appropriate and
+reasonable changes to this Schedule to ensure that it addresses any change in the Data
+Protection Laws in accordance with good market practice.
+3 RETENTION AND DISPOSAL OF DATA
+3.1 The Parties acknowledge that the Personal Data shall be retained in accordance with Data
+Protection Laws and the Parties' respective retention policies and practices.
+3.2 The Parties acknowledge and understand that each Party may wish retain some Personal Data
+following termination of the Programme and/or the Principal Agreement. Each Party agrees
+that it shall only do so where that Party may lawfully retain and use the relevant Personal
+Data, and will ensure the relevant Data Subjects are informed of this continued use.
+3.3 If any Personal Data are no longer required by a Party following termination or expiry of
+the Principal Agreement, the Party shall securely destroy or delete such Personal Data as
+soon as reasonably possible following termination or expiry of the Principal Agreement.
+4 DIRECT MARKETING
+4.1 If the Parties process Personal Data for the purposes of direct marketing, the Parties will
+work together to ensure that:
+4.1.1 the appropriate level of any necessary consents have been obtained from the relevant
+Data Subjects to allow the Personal Data to be used for the purposes of direct
+marketing in compliance with the Data Protection Laws (which may include ensuring
+that any such consent names both Parties); and
+4.1.2 effective procedures are in place to allow relevant Data Subjects to 'opt-out' from the
+Parties using their Personal Data for such direct marketing purposes.
+
+DRAFT VERSION
+Data Sharing Agreement – Controller to Controller
+Template: v1.0, August 2018 Page 5 of 8
+5. INSURANCE
+5.1 Each Party agrees to obtain and keep in full force and effect at all times a policy or policies
+of insurance which, in the Party’s reasonable view, covers its potential liabilities under this
+Agreement and to deliver to the other Party upon request:
+(a) copies of all applicable insurance policies taken out pursuant to the
+provisions of this Agreement; and
+(b) evidence of premiums paid in relation to such insurance.
+6. POINTS OF CONTACT
+6.1 Each Party shall appoint a single point of contact as set out in Appendix A who will work
+together to reach resolution with regards to any issues arising from the data sharing
+arrangement.
+7. CONFIDENTIALITY
+7.1 Each Party will use reasonable endeavours to keep confidential and not to disclose to any
+third party, other than its employees, officers and agents who reasonably need to receive
+the information for the purposes of carrying out its obligations under this Agreement, any
+information which is marked “confidential”, described as “confidential” or which, by its
+nature or from the circumstances of its disclosure, should reasonably be presumed to be
+confidential.
+7.2 The obligation in clause 7.1 shall survive termination of this Agreement for five (5) years,
+but will not apply to any information which:
+7.2.1 was or becomes part of the public domain through no fault of the receiving
+Party;
+7.2.2 becomes available to the receiving Party by an unconnected third party with
+the right to make such disclosure;
+7.2.3 is approved in writing by the disclosing Party for release;
+7.2.4 was independently developed by the disclosing Party; or
+7.2.5 is required by law to be disclosed to any regulatory authority or court of
+competent jurisdiction, or which is required to be disclosed pursuant to a
+request under the Freedom of Information Act 2000.
+8. TERM
+8.1 This Agreement shall take effect on the last date of signature and shall remain in effect until
+31st March 2020, or until terminated by either Party on three months’ notice in writing.
+
+DRAFT VERSION
+Data Sharing Agreement – Controller to Controller
+Template: v1.0, August 2018 Page 6 of 8
+9. GENERAL
+9.1 No Party shall use the other Party’s name or logo in any press release or product advertising,
+or for any other commercial purpose, without the prior written consent of that Party.
+9.2 No variation of this Agreement shall be effective unless it is in writing and signed by the
+authorised representative of each Party.
+9.3 No failure or delay by a Party to exercise any right or remedy provided under this
+Agreement or by law shall constitute a waiver of that or any other right or remedy, nor shall
+it prevent or restrict the further exercise of that or any other remedy. No single or partial
+exercise of such right or remedy shall prevent or restrict the further exercise of that or any
+other right or remedy.
+9.4 A person who is not a Party to this Agreement shall have no rights under the Contracts
+(Rights of Third Parties) Act 1999 to enforce any term of this Agreement.
+9.5 Nothing in this Agreement is intended to, or shall be deemed to, establish any partnership
+or joint venture between any of the Parties, constitute any Party the agent of another Party,
+or authorise any Party to make or enter into any commitments for or on behalf of any other
+Party.
+9.6 This Agreement constitutes the entire agreement between the Parties and supercedes and
+extinguishes all previous agreements, promises, assurances, warranties, representations
+and understandings between them, whether written or oral, relating to the subject matter.
+10. LAW AND JURISDICTION
+10.1 This Agreement and any dispute or claim arising out of or in connection with it or its subject
+matter or formation (including non-contractual disputes or claims) shall be governed by
+and construed in accordance with the law of England and Wales.
+10.2 Each Party agrees that the courts of England and Wales shall have exclusive jurisdiction to
+settle any dispute or claim arising out of or in connection with this Agreement or its subject
+matter or formation (including non-contractual disputes or claims).
+Signed in English and agreed by the Parties through their authorised signatories:
+For and on behalf of GM BUSINESS SUPPORT LIMITED:
+Position
+_____________________________________________________
+Name
+____________________________________________________
+Signature
+_____________________________________________________
+Date
+_____________________________________________________
+
+DRAFT VERSION
+Data Sharing Agreement – Controller to Controller
+Template: v1.0, August 2018 Page 7 of 8
+For and on behalf of (NAME OF GROWTH HUB / LEP)
+Position
+_____________________________________________________
+Name
+_____________________________________________________
+Signature
+_____________________________________________________
+Date
+_____________________________________________________
+
+DRAFT VERSION
+Data Sharing Agreement – Controller to Controller
+Template: v1.0, August 2018 Page 8 of 8
+Appendix A
+Data Protection Particulars (To be Completed)
+The subject matter and
+duration of the Processing xxx
+The nature and purpose of
+the Processing xx
+The type of Personal Data
+being Processed xx
+The categories of Data
+Subjects xx
+Permitted Purpose
+xx
+Relationship between the
+Parties xx
+Points of Contact
+GM BUSINESS
+SUPPORT LIMITED
+Name:
+Position:
+Email Address:
+(NAME OF GROWTH
+HUB / LEP),
+Name:
+Position:
+Email Address:

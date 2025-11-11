@@ -1,0 +1,110 @@
+Croydon Council Information Sharing Agreement: Template Between Education Directorate London Borough of Croydon And HAF Providers Template Guidance This Template is intended for use as an Information Sharing Agreement between two Data Controllers.
+If you are contracting with a company who is processing information on the Council’s behalf you will need a Contract and Data Processing Agreement (or equivalent).
+An Information Sharing Agreement is part of an information sharing framework.
+It is aimed at ‘operational management/practitioner’ level and it will define the relevant business processes which support information processing/sharing between two or more organisations for a specified purpose.
+This Information Sharing Agreement is appropriate when the information sharing is systematic and routine.
+It is not applicable to one-off decisions about information sharing.
+Generally the Agreement will not provide any form of legal indemnity from action under data protection laws.
+However, should there be a complaint or a data security breach the Information Commissioner may take the Agreement into consideration.
+As such the Agreement will assist in justifying the data sharing and demonstrating mindfulness, in written form, of the various compliance issues inherent with information sharing and provide evidence of how the parties agreed to solve them.
+How to complete this Information Sharing Agreement The Manager/Practitioners creating this Agreement completes Sections 1-18.
+This involves answering each question as fully as possible and then deleting all the blue guidance text so you are left with an ISP.
+The paragraph numbering turns into the clauses, so for example when you complete Question 1, the sentences inserted become 1.1, 1.2, 1.3 etc.
+To assist some clauses have already been drafted for you to include if you wish.
+Send to the Information Team for Comment.
+Also, via a request on the legal services advice request portal send draft Agreement to legal services for comment and approval by the Data Protection Officer.
+Introduction Parties to this Information Sharing Agreement THIS INFORMATION SHARING AGREEMENT is made between: Education Directorate, London Borough of Croydon, Bernard Weatherill House, Croydon CRO 1EA.
+And [Party/Organisation, Company House Number, address] General In order to share appropriate information between partners there must be lawful, defined and justifiable purpose(s) which not only supports the effective delivery of a policy or service that respects people’s expectations about the privacy and confidentiality of their personal information but also considers the consequences of a failure to act.
+This in turn must be supported by robust business processes which includes an Information Sharing Protocol (ISP).
+Parties may use the information disclosed to them under an Information Sharing Agreement only for the specified purpose(s) set out in the Agreement.
+They may not regard shared information as intelligence for the general use of their organisation unless they have defined and agreed this purpose within the Information Sharing Agreement and have informed their respective service users of this use.
+This Agreement is a free-standing document that does not incorporate commercial business terms (such as charges, database rights).
+Any purported breaches of, or other complaints about, this Agreement will be dealt with in accordance with Croydon Council’s Policies and Protocols.
+Definitions Data Controller: The controller determines the purposes and means of processing Personal Data.
+Data Protection Legislation includes Data Protection Act 2018, General Data Protection Regulation and Law Enforcement Directive.
+Council: London Borough of Croydon Shared Personal Information: The personal data [and special category personal data] shared between the parties for the purpose agreed in clause 4.
+HAF: Healthy Activities and Food DfE: Department for Education Privacy Impact Assessment for this activity This meets the Privacy By Design requirements to consider and integrate good Data Protection practices into the activity.
+[Insert date and attach as Annex X] The information to be shared is “Personal Data” under the General Data Protection Regulation.
+Personal data only includes information relating to natural persons who: can be identified or who are identifiable, directly from the information in question; or who can be indirectly identified from that information in combination with other information.
+If your answer to this question is “No”, an Information Sharing Agreement is not necessary.
+[Yes] Nature and purpose of the information sharing 1 The Parties consider this information sharing initiative necessary as it is vital to ensure that Croydon Council can adequately audit providers to ensure that HAF clubs have been accessed by children who require Free School Meals, and that returns to the Department for Education are accurate.
+The aim of the information sharing initiative is to ensure that clubs are being effective for their stated purpose of reaching Free School Meals children, and ensuring that the Department for Education receive returns that accurately reflect the services delivered.
+It will serve to benefit society by ensuring that the HAF service delivered meets the specification of the criteria set by the DfE, which in turn will ensure that grant funding is retained by the council.
+The Parties agree to only process shared personal information for the following purposes: Ensuring a particular child was in receipt of Free School Meals Enabling the local authority to complete the returns set out by the Department for Education for the HAF grant 3 The Parties shall not process shared personal information in a way that is incompatible with the purposes described in this clause.
+Who will the information sharing be about (i.e. type of service users) List all types of individual, for example; Applicants for XX service, applicants carers, school pupils etc.
+Children who have accessed a HAF club during the summer and Christmas period of 2021 Information to be shared, the Shared Personal Information.
+List the items of information to be disclosed and what systems they are derived from.
+Be as detailed as possible.
+If the arrangement involves extracting information from systems en masse, it should be possible to specify the criteria by which the records are selected and which fields from which systems will be used.
+If on the other hand you propose an agreement to make a series of individual disclosures in response to specific requests - it may be necessary to be more general.
+Are there any data quality issues, such as the accuracy, validity, timeliness and relevance of the data?
+If there are, then these should be considered here.
+Child’s Name Child’s Date of Birth Whether or not the provider has recorded them as being in receipt of Free School Meals Whether or not the provider has recorded them having a Special Educational Need or Disability (SEND) The days they attended the HAF provision Is any of the information to be shared Special Category Personal Data or Criminal Offence Data?
+Special Category Data is personal data which the General Data Protection Regulation says is more sensitive, and so needs more protection.
+Such as a person’s racial or ethnic origin, political opinion, religion or philosophical beliefs, trade union membership, biometric data, genetic data, data concerning health or health status or sex life or sexual orientation.
+Criminal Offence Data is personal data which the GDPR says is more sensitive, and so needs more protection.
+[If Yes, give details of the information.
+Preferably include which condition (listed in Article 9(2) of the General Data Protection Regulation) is being relied on for the sharing.
+Also bear in mind that this information needs more protection. ) No The relevant Statutory Service being provided Do you have the power to share?
+Under what legislative function is the information sharing taking place?
+If no statutory service, why is the sharing necessary?
+To meet the grant terms as set out by the DfE Consent Are you normally going to rely on consent for the information sharing?
+Or part of the sharing?
+If so, how will you ensure informed consent is gained?
+How long will consent be valid for?
+Will it be renewed and by whom?
+If consent is normally required to share information for this purpose, provide detail on any specific circumstances where this consent is not required.
+Information will only be shared if parents have consented to this, if there is no consent, we will ask for age, and initials of the child only.
+What we are telling Service Users about this information sharing.
+Detail the “fair processing notice” (under the General Data Protection Regulation)) that individuals are given about data sharing under this agreement.
+Also outline how and when this notification is provided to individuals.
+If applicable, outline the circumstances where the Service User will not be told about the information sharing.
+If the consent is due to last for a lengthy period of time, detail at what points/how often an individual will be reminded of the fair processing information and given a subsequent chance to “opt out” having previously given consent.
+Service users will have signed a consent form at the start of the HAF programme asking for this information, or will have signed one later on.
+If no consent is given or obtainable, the information provided should be the initials and age of the child only.
+[10.1 If a party processes Shared Personal Information for the purposes of direct marketing, each party shall ensure that: The appropriate level consent has been obtained from the data subject to allow the shared personal information to be used for the purposes of direct marketing in compliance with Data Protection Legislation.
+Effective procedures are in place to allow the data subject to ‘opt-out’ from having their information used for such direct marketing purposes. ] [NB this is standard wording prescribed by the European Commissions Standard contract clauses controller to controller] How and when information will be shared Give specific details of the method by which information will be shared – remember this must be done securely.
+How will the information be transferred securely to the organisation?
+For regular flows of information give detail on the process for requesting the information and the roles of the people involved in the information sharing.
+Personal data shall only be shared between the parties using secure methods as agreed and set out in [ANNEX 1) 2 The Parties undertake to have in place appropriate technical and organisational security measures to (a) prevent unauthorised or unlawful processing, or accidental loss or destruction of the shared personal information and (b) ensure a level of security appropriate to the harm that might result and the nature of the information to be protected.
+There will be a one off drop of information for each HAF provider which will list the children, and their attendance details.
+How shared information will be recorded and held What measures will be taken to ensure a record is kept of the information shared?
+(by the Data Controller and Data Processor) How will the information be stored by the originating and receiving partner and what are the physical and technical security arrangements they have in place to protect the personal data?
+The information will be recorded on a spreadsheet and held on our secure sharepoint site while the returns are processed and auditing takes place.
+Following the end of the audit and return process, the information will be destroyed.
+Who can access the shared information Access should be limited to a need to know basis.
+Specify if any internal or external parties have access to the information.
+For internal staff specify any vetting arrangements in place.
+Specify if recipients of personal data under this Agreement can disclose that information for further purposes, and on what basis the further disclosure is made.
+The Shared Personal Information will be accessible by only the HAF team at the Council.
+It will be held securely on Sharepoint.
+The Shared Personal Information will be accessible by only [INSERT your name] at [INSERT your organisation].
+It will be held securely on a password protected document on a password protected computer.
+The officers who have access to Shared Personal Information will be adequately training and made aware of this Agreement.
+No other officers will access the Shared Personal Information unless required under the law.
+There will be no further disclosures of the Shared Personal Information.
+Retention and deletion The nature of the information to be shared will have a bearing on how long it should be held.
+Specify in this section how long the shared information will be held.
+Refer to your organisations record retention schedule or prevailing legislation for further guidance and discuss with the organisation(s) that is going to be providing the information.
+Personal data must be securely disposed of in line with the requirements of the General Data Protection Regulation.
+[Insert your organisation name] will not retain shared personal information for longer than is necessary to carry out the agreed purpose, clause 4.2.
+2 [Insert your organisation name] shall ensure that any shared personal information is returned to the Council or destroyed upon the termination of this Agreement, the expiry of this agreement or once process is no longer necessary for the purposes it was originally shared.
+Handling formal information requests from third parties 1 The Parties agree to provide such assistance as is reasonably required to enable the each other to comply with (a) requests from Data Subjects to exercise their legal rights and (b) Freedom of Information Act requests.
+Requests involving shared personal information will be coordinated by [INSERT contact details if the Council SAR@croydon.gov.uk] 3 Freedom of Information request responses will be coordinated by [INSERT contact details, if the Council FOI@croydon.gov.uk] Information breach 1 The Parties undertake to have in place the appropriate technical and organisational security measures to: A) prevent the unauthorised or unlawful processing of the Shared Personal Information and the accidental loss or destruction of, or damage to the Shared Personal Information.
+ensure a level of security appropriate to the nature of the Shared Personal Information and the harm that may result from unauthorised or unlawful processing, accidental loss, destruction or damage.
+The Parties shall each comply with its obligations to report a personal data breach to the Information Commissioner when appropriate and shall inform the other party of any personal data breach involving shared information irrespective of whether there is a requirement to notify the Information Commissioner.
+The Council should be contacted at data.breach@croydon.gov.uk.
+[PARTY] should be contacted at [Insert your contact details here] 3 The Parties agree to provide reasonable assistance as is necessary to each other to facilitate the handling of any personal data breach in an expeditious and compliant manner.
+Review and performance monitoring of this agreement 1 The Parties agree that [INSERT ORGANISATION] shall lead a review this agreement when appropriate and at least every 3 years.
+The review of the effectiveness of the Information Sharing Agreement will involve: Assessing whether the purposes remain accurate.
+Assessing whether the shared personal information is still as listed.
+Assessing whether the legal framework governing data quality, retention and data subjects rights are still being complied with; and Assessing whether data breaches involving shared personal information has been handled in accordance with this Agreement and the applicable legal framework.
+The Council reserves the right, upon reasonable notice, to check the other Parties compliance with this Agreement.
+Termination of this agreement On termination of this Agreement, what will happen to the data shared under it?
+Will this data be retained for a period (e.g. 2 years) for audit purposes or will it be returned securely to the originating organisation?
+Data should be destroyed by both parties following its processing for the purpose of the DfE return, as it has no further use.
+Croydon Council Information Sharing Agreement With regards to: [Insert title of agreement] Declaration of Acceptance and Participation By signing this document the parties agree to accept and implement this Information Sharing Agreement and to adopt the statements and procedures contained within it.
+Any communication in connection with this Agreement shall use these contact details.
+Once complete a scanned copy should be emailed to dpo@croydon.gov.uk and information.management@croydon.gov.uk Croydon Council Information Sharing Agreement With regards to: [Insert title of agreement] Organisations Privy to this Agreement Annex 1 Secure Methods of Sharing Personal Information All information regarding this arrangement should be shared by Secure email (such as Egress, which is free to use - https://switch.egress.com/ui/registration/accountcreate.aspx ) to the HAF inbox only (HAFprogramme@croydon.gov.uk ) Organisation Name of Organisation who information is going to be shared with
+Name Organisation Contact for Information Sharing under this agreement Job Title Job title of individual who is accepting the content of this agreement Contact Details Address Telephone Number Email Address Signature Date Confirmation of registration with the ICO Name Shelley Davies Job Title Director for Education and Youth Engagement Contact Details Croydon Council employee contact details Address 4th Floor, Zone B | Bernard Weatherill House Telephone Number Email Address Shelley.davies@croydon.gov.uk Signature Date
+Date and Signature Partnership Member Contact – Name and Job Title Contact Details Information Sharing Agreement - Template Page 10 of 12

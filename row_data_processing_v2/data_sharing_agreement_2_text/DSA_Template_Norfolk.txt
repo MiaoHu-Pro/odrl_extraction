@@ -1,0 +1,394 @@
+Norfolk Overarching Information Sharing Protocol
+Version 4.0 dated April 2021
+Page 1 of 12
+NORFOLK
+OVERARCHING INFORMATION
+SHARING PROTOCOL
+
+Norfolk Overarching Information Sharing Protocol
+Version 4.0 dated April 2021
+Page 2 of 12
+1.0 Introduction
+1.1 This document is the Norfolk Overarching Information Sharing Protocol (the Protocol). Its
+purpose is to ensure that the sharing of personal information between parties for a range of
+purposes including the provision of services is lawful, proportionate and necessary.
+1.2 Laws relating to data handling, including but not limited to the General Data Protection
+Regulation (GDPR) Data Protection Act 2018 (the DPA), the Freedom of Information Act
+2000 (the FOIA) and the Human Rights Act 1998, are available to view online at
+www.legislation.gov.uk in detail. The aim of this Protocol is to summarise the obligations
+and provide practical advice on compliance.
+2.0 Aims and Objectives
+2.1 The aim of this Protocol is to remove any potential barriers to and uncertainty regarding the
+sharing of personal information at both operational and managerial levels by ensuring
+requirements and ethical standards are satisfied. But for sake of clarity, this Protocol does
+not give licence to unrestricted access to the personal information held by the parties to the
+Protocol but sets out the boundaries for safe and secure sharing.
+2.2 These aims include:
+• To guide the Parties on how to share personal information lawfully
+• To establish the principles for information sharing
+• To increase awareness and understanding of the key issues
+• To emphasise the need to develop and use Information Sharing Agreements (ISAs) in
+accordance with this Protocol
+• To encourage flows of data and support processes which will monitor and review data
+sharing
+2.3 The principles for the sharing of personal information between the Parties are set out in this
+Protocol. The objectives are also incorporated into the exemplar template ISA which is
+attached at Appendix A to this Protocol. The template ISA should be used whenever
+relevant Parties engage in specific agreed data sharing activities.
+2.4 By signing this Protocol, the Parties agree to:
+• comply with the terms and conditions of this Protocol
+• comply with all relevant legislation
+• apply the Information Commissioner’s Data Sharing Code of Practice
+• apply NHS and social care confidentiality standards where required by law (including those
+recommended by the Caldicott reports and the Department of Health ‘Striking the Balance’
+guidance) and strive to adopt them as good practice where not required by law
+• enter into local ISAs using the ISA template
+• train staff in information sharing and publish/update guidelines on intranet sites and/or other
+appropriate formats.
+
+Norfolk Overarching Information Sharing Protocol
+Version 4.0 dated April 2021
+Page 3 of 12
+3.0 Data covered by this Protocol
+3.1 This Protocol applies to personal data as defined by Article 4 (1) of the GDPR as.
+“any information relating to an identified or identifiable natural person (‘data subject’); an
+identifiable natural person is one who can be identified, directly or indirectly, in particular by
+reference to an identifier such as a name, an identification number, location data, an online
+identifier or to one or more factors specific to the physical, physiological, genetic, mental,
+economic, cultural or social identity of that natural person””.
+In addition to electronic and paper records, this can include audio and video recording
+3.2 The Protocol also applies special category data as defined by Article 9 (1) of GDPR as:
+Processing of personal data revealing racial or ethnic origin, political opinions, religious or
+philosophical beliefs, or trade union membership, and the processing of genetic data,
+biometric data for the purpose of uniquely identifying a natural person, data concerning
+health or data concerning a natural person’s sex life or sexual orientation
+4.0 Terms and Conditions
+4.1 The Parties agree to comply with the terms and conditions of this Protocol.
+4.2 The Parties must only share personal information if:
+• One or more of the requirements set out in Article 6 of the GDPR (for ordinary personal
+data), and, if appropriate, one or more of the requirements set out in Article 9 (for special
+categories of data) and Schedule 1 Parts 1, 2 and 3 of the DPA for personal information
+relating to criminal convictions/offences is met and
+• this is reflected in the Parties’ privacy notices or
+• there is a relevant legal exemption under the DPA enabling the sharing of information
+4.3 The Parties must be responsible for maintaining the accuracy of the data. The Party
+sharing the information must therefore ensure that the data is accurate and up to date
+before the data is disclosed. If any party becomes aware of any inaccuracies in shared
+data, they should inform the other party immediately for the data to be corrected or recalled.
+4.4 The information shared by the Parties must be retained for only as long as is necessary
+and in accordance with its internal retention policies. The information must then be
+destroyed in a secure and confidential manner and the parties will notify each other when
+this is done.
+4.5 The Parties must ensure appropriate security levels for personal information and handle the
+information accordingly. The information will be transferred securely between parties by
+whatever method chosen. The Parties will mark information according to whichever
+classification scheme it falls under and keep it securely, e.g. in a locked cabinet or secure
+shared areas.
+4.6 The Parties must adopt good internal data management practice in respect of specific
+information sharing arrangements. The ISA for these arrangements will include the
+following expectations of the Parties to the ISA
+
+Norfolk Overarching Information Sharing Protocol
+Version 4.0 dated April 2021
+Page 4 of 12
+5.0 Subject Access Requests
+5.1 The Parties will provide access to individual’s personal information under Article 15 of
+GDPR and the DPA in accordance with the subject access request procedures of the
+Parties and specifically the Party to whom a request has been made.
+6.0 FOIA Requests
+6.1 The Parties acknowledge that their dealings may become the subject of FOIA requests and
+recognise that the legal time limit for providing information is 20 working days. The Parties
+will work together in dealing with any requests they receive by notifying the other Parties as
+soon as they receive a request and providing all necessary assistance, cooperation and
+information to handle the request. Where the Party receiving the request is not the party
+that should respond, they shall not respond directly to the request unless authorised to do
+so.
+7.0 Breaches of confidentiality/security
+7.1 The relevant Parties must report all breaches of confidentiality/information security to the
+information governance leads of the Parties. Examples of breaches include:
+• Unauthorised disclosure of personal information
+• Inadequate security arrangements and/or the inappropriate use of such arrangements
+• Data loss
+7.2 Each breach must be investigated in line with the relevant Party’s incident/data breach
+management policy/procedure.
+7.3 The breaching Party must inform the information governance leads of the other relevant
+Parties of the progress of the investigation and the outcome.
+8.0 Complaints
+8.1 All complaints and the nature of the complaint must be reported to the appropriate
+representative of the relevant Parties. The Party receiving the complaint should deal with it
+in accordance with its complaints policy/procedure. The Party subject to a complaint will
+inform other relevant Parties of the progress of the investigation and the outcome of the
+complaint.
+8.2.1 In respect of a complaint to more than one Party, the relevant Parties must agree a joint
+process for handling the complaints including arrangements and timescales.
+9.0 Other Requirements
+9.1 Where appropriate, the Parties must ensure that their staff observe the relevant statutory
+and professional codes of conduct
+9.2 The Parties must ensure that only staff who need to have access to the information will
+have access to it.
+
+Norfolk Overarching Information Sharing Protocol
+Version 4.0 dated April 2021
+Page 5 of 12
+9.3 All staff of the Parties who have access to the personal information must maintain the
+security and confidentiality of the information and these obligations should be incorporated
+into their contracts of employment, so that any breach would have disciplinary
+consequences.
+9.4 All staff employed by the Parties with access to the information must:
+• uphold the general principles of confidentiality
+• follow this Protocol and seek advice when necessary
+• share information in accordance with the relevant ISA
+• take responsibility for safekeeping any information they handle
+• know how to handle information safely and securely including requesting proof of identity or
+taking steps to validate the authorisation of another before disclosing any information
+• understand that any breach of privacy or confidentiality is unlawful and a disciplinary matter
+that could lead to their dismissal and, in certain cases, criminal proceedings
+9.5 The Parties must enter into formal ISAs for specific information sharing arrangement setting
+out the terms of the arrangements in accordance with Appendix A of this Protocol
+9.6 No sharing of personal information should go ahead without an ISA in place, unless there
+are exceptional circumstances that prevent this and the requirements of the ISA are met.
+9.7 The Parties agree that a record and copies of ISAs should be maintained by the Norfolk
+and Suffolk Health and Care Partnership (NWHCP) Information Governance Group where
+the Parties to the ISA agree to this.
+10.0 Legal Status
+10.1 This Protocol is not intended to be legally binding between the parties.
+11. Review Arrangements
+11.1 The NWHCP IG Group shall maintain a channel of liaison with Norfolk wide personal
+information sharing initiatives and any NHS and local authority national initiatives.
+11.2 The Parties may request an extraordinary review of the Protocol at any time where a joint
+discussion or decision is necessary to address local service developments.
+11.3 No variation, waiver or modification of any of the terms of this Protocol shall be valid
+unless in writing and signed by or on behalf of the authorised representatives of the
+Parties
+11.4 Where a new iteration of this Protocol is issued after review, all signatories will
+automatically novate to the new version.
+12.0 Signatories to and data of the Agreement
+12.1 The Parties may enter into this Protocol by signing the Protocol below at Paragraph 12.4 or
+by email with electronic signature from the signatory to the Protocol to the Chair of the
+NWHCP IG Group stating:
+• The title and version number and date of this Protocol
+• The appointment held by the signatory
+
+Norfolk Overarching Information Sharing Protocol
+Version 4.0 dated April 2021
+Page 6 of 12
+• Their address (postal and email) and telephone numbers
+• They are duly authorised to enter into this Protocol on behalf of their organisation
+• The organisation agrees to implement the terms of this Protocol
+• The date that compliance with the Protocol will commence
+12.2 The undersigned agree to implement the terms of this Protocol and each person signing
+this Protocol represents and warrants that he or she is duly authorised to sign and deliver
+this Protocol:
+12.3 A list of all signatories will be published on the Norfolk County Council website.
+12.4 Details of Signatory
+Party/
+Organisation
+Name and Role of
+signatory
+Signature Date
+13.0 Date of Issue, Version Number and Amendments
+13.1 The Protocol is dated 1 April 2021.
+13.2 This is version 4.0 of the Protocol.
+13.3 All amendments are shown in the table below. They are also are identified in the left
+margin.
+Para Page Rationale for Change
+All All Grammatical and formatting errors amended
+All All Paragraph numbering updated. Wording remains unchanged unless
+otherwise stated.
+2.3 2 In second sentence added: exemplar, to the reference to the the template
+inferring that it may be modified as necessary between parties.
+3.1 3 Amended to use the definition of personal data from GDPR
+3.2 3 Amended to use the definition of special category data from GDPR
+4.2 3 The example of consent was removed. Reworded to only require meeting
+conditions
+9.7 5 Change to reflect current name of IG Group
+11.1 5 Change to reflect current name of IG Group
+11.4 5 New paragraph added to allow the automatic novation to newer versions
+
+Norfolk Overarching Information Sharing Protocol
+Version 4.0 dated April 2021
+Page 7 of 12
+12.1 5 Change to reflect current name of IG Group
+12.3 6 New paragraph self-explanatory added
+App A 7 In the title added: exemplar, to the reference to the the template inferring
+that it may be modified as necessary between parties.
+
+Norfolk Overarching Information Sharing Protocol
+Version 4.0 dated April 2021
+Page 8 of 12
+Appendix A
+Exemplar Template Information Sharing Agreement
+1 Introduction
+1.1 This Information Sharing Agreement (ISA) facilitates the lawful, safe and secure sharing of
+information in accordance with the General Data Protection Regulation (GDPR), Data Protection
+Act 2018 (the DPA), the Freedom of Information Act 2000 (the FOIA) and the Human Rights Act
+1998 . For the purposes of this Agreement, [name the party] shall own the data and act as Data
+Controller(s).
+1.2 The parties to this ISA are the parties set out in paragraph 2 below (the Parties)
+1.3 This ISA sets out the roles and responsibilities of the Parties in relation to the information that
+is to be shared.
+2 Parties to the Agreement
+Organisation Address Contact Name and Details
+Norfolk County
+Council
+County Hall, Martineau
+Lane, Norwich, Norfolk,
+NR1 2DH
+(The Discloser/Recipient)
+[They might be both i.e. both
+parties are imparting data ]
+(The Discloser/Recipient)
+3 Purpose of the Agreement
+3.1 The ISA is necessary to:
+[List – examples are set out below:
+• improve the life circumstances and outcomes of children, young people and their family
+members;
+• reduce the number of children and young people whose life circumstances and experience
+make them at risk of harm;
+• reduce anti-social behaviour and crime.
+• increase school attendance
+3.2 The risk(s) of not sharing this information is/are:
+[List - examples are set out below:]
+• Failure to detect or prevent a crime;
+• Failure to provide adequate health, education or social work services with the
+consequences of this for individuals
+4 Agreement
+4.1 The Parties agree to the terms of this ISA.
+4.2 This ISA incorporates the terms of the Norfolk Information Sharing Protocol dated [ ]
+(the Protocol) including the arrangements for subject access requests, freedom of information
+requests, complaints and data breaches.
+
+Norfolk Overarching Information Sharing Protocol
+Version 4.0 dated April 2021
+Page 9 of 12
+4.3 For the sake of clarity, if the ISA and the Protocol are not compatible or contradict each
+other in any way, this ISA will take precedence over the Protocol.
+5 Information to be shared
+5.1 The personal data to be shared by the Discloser to the Recipient will be as follows
+• [List personal data items to be shared, e.g. name, dob, service details, etc]
+5.2 The personal data will include special categories of personal data as follows:
+• [List]
+5.3 The personal data will include criminal convictions personal data as follows:
+• [List]
+5.4 The personal data listed at paragraphs 5.1, 5.2 and 5.3 above will be referred to as “the
+Information.”
+6 Lawful basis for sharing
+6.1 The sharing of the Information meets one of the conditions for processing under the GDPR and
+DPA as follows:
+6.1.1 For ordinary personal data the relevant lawful processing condition under Article 6 of the
+GDPR is: [set out the condition]
+If Art 6 (1) (e) is being used - i.e. necessary for the performance of a task carried out in the public
+interest or in the exercise of official authority vested in the controller – set out the relevant statuto
+functions of the parties below
+Party Statutory Function
+6.1.1
+6.1.2
+6.1.2 For special category data the relevant lawful processing condition under Article 9 of the GD
+is: [set out the condition]
+If Article 9(1) (g) GDPR and s10 and Sched 1 and part 2 DPA is being used –i.e. necessary for
+exercise of a function conferred by an enactment or rule of law and necessary for reasons of
+substantial public interest set out the relevant statutory functions of the parties below or refer to th
+functions above
+6.1.3 For criminal convictions data set out one or more conditions under Schedule 1 Part 3 of the
+DPA.
+If paragraph 36 is being used –i.e. necessary for exercise of a function conferred by an enactmen
+or rule of law and necessary for reasons of substantial public interest set out the relevant statutor
+functions of the parties below or refer to the functions above
+6.2The Information will be relevant to the stated purpose(s) of this agreement and the minimum
+necessary to achieve the purpose(s).
+6.3 In all other respects the Discloser has concluded that the sharing of the Information is fair and
+lawful. In assessing this, the Discloser has considered the GDPR, the DPA, the common law duty of
+confidentiality and the Human Rights Act 1998. [NB The Discloser must set out these considerations
+writing in a separate internal note to show a documented trail of decision-making if challenged]
+7 Process for sharing
+7.1 The Information will be shared in accordance with the following process:
+
+Norfolk Overarching Information Sharing Protocol
+Version 4.0 dated April 2021
+Page 10 of 12
+[set out the how the sharing will take place if necessary]
+8 Information security
+8.1 Each Party must ensure that they have appropriate security arrangements in place and take all
+reasonable steps to adequately protect the Information from both a technological and physical point
+view
+8.2 The Information will be transferred securely by the [Discloser to the Recipient by way of [e.g. pos
+email, electronic transfer, etc] including taking measures where necessary to ensure that only the
+intended recipient can view it, either through personal signing for post or encryption technology
+8.3 The Recipient will mark the Information according to whichever classification scheme it falls unde
+and as confidential and keep it securely in [e.g. locked cabinets, secure shared areas, etc]
+8.4 [Restrictions on making of copies of the Information]
+8.5 The Information or any part of it will not be transferred to a country or territory outside the Europe
+Economic Area unless that country or territory ensures an adequate level of protection for the rights
+and freedoms of data subjects in relation to the processing of personal data. Should any Party(ies) w
+to transfer information to a country outside the EEA they must liaise with their Data Protection
+Officer/Information Compliance Manager who will consult with the other Party(ies) prior to the release o
+any information provided by those Party(ies). In order to facilitate this, information should be clearly labe
+to identify the source Party
+9. Access to personal information
+9.1 The Recipient will ensure that only the following staff will have access to the Information:
+[List of roles that will have access to the shared information and include levels of access .]
+9.2 Each Party will ensure that all individuals likely to come in contact with the Information are trai
+in the terms of this ISA and their obligations under the GDPR and DPA
+10 Information accuracy, use, retention and deletion
+10.1 The accuracy of the Information will be the responsibility of the Discloser. The Discloser will
+therefore ensure that the Information is accurate and up to date before the data is disclosed. If
+the Discloser becomes aware of any inaccuracies in the Information, it should inform the other
+Party or Parties immediately in order for the data to be corrected or recalled.
+10.2 The Recipient must only use the Information for the purposes set out in the Agreement at
+paragraph 3.1 above.
+10.3 The Recipient must not share the Information with any third party without the written consent
+of the Discloser and subject to entering into an Information Sharing Agreement the terms of
+which must be approved by the Discloser.
+10.4 The Information will be retained by the Recipient for [set of the timescales that this
+information will be required for OR in accordance with retention schedules]. The information will
+then be destroyed by the Recipient in a secure and confidential manner and the Recipient will
+notify the Discloser that this has been done.
+11 FOIA Requests/Breaches/Complaints/Subject Access Requests
+11.1 For the sake of clarity this Agreement incorporates paragraph 9 of the Protocol in relation to:
+• Subject access requests
+
+Norfolk Overarching Information Sharing Protocol
+Version 4.0 dated April 2021
+Page 11 of 12
+• FOIA requests
+• Data breaches
+• Complaints
+12 Status
+12.1 The Parties acknowledge that to the extent it shares with or receives Information from other
+Parties and either does not adhere to the terms of this ISA and the Act in the way it shares,
+receives or subsequently processes such personal data then the other Parties may incur liability
+[It is assumed that the ISA will not be legally binding but, in the exceptional cases where the
+parties agree that the ISA will be binding (because, for example, because of the sensitivity of the
+information and/or the amount of information to be shared), the following clauses may be used:
+• This ISA is intended to be legally binding between the Parties
+• To the extent any Party (“the Indemnified Party”) incurs legal liability to a third party
+because a Party (“the Indemnifying Party”) has not complied with the terms of this ISA,
+the GDPR or the DPA, the Indemnifying Party will indemnify the Indemnified Party or
+Parties to the extent of the loss incurred, subject to all reasonable steps having been
+undertaken to mitigate that loss
+N.B. To create a legally binding agreement, it must be either by deed or there has to be
+consideration, usually derived from the reciprocal obligations of the parties. It is arguable either
+way whether there is sufficient consideration in this type of agreement, so if the Parties want to
+be sure, this ISA could be made into a deed.]
+13 Review/termination of the agreement
+13.1 This ISA will be reviewed by the Parties on ….
+13.2 This ISA will end on …… or by notice in writing by one party to the other
+13.3 A Party may suspend these arrangements in writing with immediate effect, in order to
+investigate and resolve any serious breach of this ISA
+13.4 The obligations of confidentiality imposed on the Parties by this ISA shall continue in full
+force and effect after the expiry or termination of this ISA
+13.5 [Describe what happens to the information etc. on termination i.e. how it will be destroyed]
+14 Information Governance Leads
+14.1 The Information Governance Leads for the parties will be the governance leads assigned by
+each Party to have oversight of the Protocol.
+15 Signatories to Agreement and Date
+
+Norfolk Overarching Information Sharing Protocol
+Version 4.0 dated April 2021
+Page 12 of 12
+15.1 The undersigned agree to implement the terms of this ISA and each person signing this ISA
+represents and warrants that he or she is duly authorised to sign and deliver this ISA:
+Party Name of
+signatory
+Post Signature
+15.2: This ISA is dated: ………………………….

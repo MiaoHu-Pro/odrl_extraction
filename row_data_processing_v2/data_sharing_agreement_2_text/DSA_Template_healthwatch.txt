@@ -1,0 +1,186 @@
+ICS Information Sharing Agreement between multiple local Healthwatch organisations 
+Parties to the Agreement
+[Healthwatch ‘A’], (charity/company registration number xxxx) , [address] (“Lead Party”).
+[Healthwatch ‘B’], (charity/company registration number xxxx) , [address].
+About
+This information sharing agreement template has been developed to support local Healthwatch who are working in partnership. 
+The agreement is designed for working together in an Integrated Care System but can be adapted for local Healthwatch working together on other issues. 
+How to use this template
+You should customise it to the needs of your group of Healthwatch.  To do this, you’ll need to refer to the ICS collaboration toolkit and the data protection guidance. 
+You’ll need to consider the following: 
+Whether a lead organisation is necessary: this might be needed if funding comes from the ICS for projects. 
+Who is going to deal with safeguarding issues that arise, particularly from joint research or engagement projects?
+Who is going to be responsible for dealing with any data subject access requests for jointly gathered data?
+Who will be responsible for taking action on any data breaches for jointly gathered data?
+How long will the data sharing agreement will run for? You may need to take into account the length of Healthwatch contracts to do this. 
+Where part of the template is highlighted in yellow, you will need to customise the content to the needs of your group of Healthwatch.
+Other actions 
+Do a data protection impact assessment
+Each Healthwatch will need to undertake a Data Protection Impact Assessment for sharing data across an ICS area to consider the impact of doing so, and what mitigations might need to be taken.  See our Data Protection Impact Assessment template and guidance.
+Update your online privacy notice
+Your online privacy notice needs to be updated to include the fact that you’ll be sharing data with Healthwatch across an ICS area, what data you are sharing and with which Healthwatch. You’ll also need to ensure that you include information on data retention periods for shared data and data gathered in joint projects. Our privacy notice template contains a relevant section for you to include.
+Template
+ICS Information Sharing Agreement between multiple local Healthwatch organisations 
+Parties to the Agreement
+[Healthwatch ‘A’], (charity/company registration number xxxx) , [address] (“Lead Party”).
+[Healthwatch ‘B’], (charity/company registration number xxxx) , [address].
+[Healthwatch ‘C’], (charity/company registration number xxxx) , [address].
+This Agreement governs the provision of sharing Personal Data between the Parties to this agreement and explains the purposes and legal basis of the sharing arrangements.
+For the avoidance of doubt, The Parties of the Agreement may also be referred to as ‘Each Party’ and ‘the Parties’. 
+Definitions
+Business day means Monday to Friday from 9.00am to 5:00pm GMT/BST and excludes weekends and UK public holidays; 
+Controller means the natural or legal person, public authority, agency or other body, which alone or jointly with others, determines the purposes and means of the processing of Personal Data as defined under Article 4(7) of the UK General Data Protection Regulation
+Data Subject is as defined by the UK General Data Protection Regulation
+Effective Date means the date of signature by both Parties to this Agreement
+Healthwatch England are a statutory committee of the Care Quality Commission (“CQC”) established under the Health and Social Care Act 2012, 2nd Floor, 2 Redman Place, Stratford, London E20 1JQ (“HWE”).
+Lead Party – this means the Controller who will take the lead in the oversight of this agreement and act as a point of contact for Data Subjects, and oversee any requests from Data Subjects to activate their right of access to information. [Delete if you don’t have a Lead Party.]
+Personal Data means data relating to a living person as defined by Article 4(1) of the UK General Data Protection Regulation
+Privacy Notice means information to be provided to data subjects where personal data are collected from or about the data subjects, as defined within Articles 13 and 14 of the UK General Data Protection Regulation
+Relevant Data Protection means any, law, statutes, decree, directive, legislative legislation enactment, order, ordinance, regulation, rule or other binding restriction which relates to the protection of individual with regards to the processing Personal Data to which the Controller or Processor is subject, including the Data Protection Act 2018, the EU General Data Protection Regulation 2018 (GDPR) as amended and incorporated into UK law under the UK European Union (Withdrawal Act) 2018, and the Privacy and Electronic Communication Regulation 2003 (PECR)	
+UK General Data Protection Legislation means the EU General Data Protection Regulation 2018 (EU GDPR) as amended and incorporated into UK law and known as the UK GDPR.
+Year means a year of operation of this Agreement beginning on the Effective Date or the anniversary thereof and ending 12 months thereafter.
+Purpose of the Agreement
+The Parties have a statutory duty to act as a public champion for health and social care. Under the Health and Care Act 2022, in order to deliver an integrated care system and meet their statutory obligations, personal data must be collected and flow freely between the Parties named in this agreement.
+This overarching data sharing agreement specifies the type of and categories of data which may be shared between parties, the terms under which data may flow, the data standards under which all transfers and processing must take place, and clear guidance on minimum expectations, obligations, and status of relationships between parties. 
+Each Party recognises it will be necessary to share information, including Personal Data, for the effective and efficient operation of this Agreement.
+The Agreement relates to routine sharing of Personal Data and requests from Data Subjects to exercise their individual rights under UK General Data Protection Legislation. Each Healthwatch is responsible for taking action on safeguarding matters identified in their own data which is shared for the purposes of this agreement. [Insert name of organisation] will be responsible for taking action on safeguarding matters identified in joint research projects. They will inform the relevant Party of the action they have taken. 
+Each Party acknowledges that for the purpose of this Agreement, depending on the specific processing activity taking place it may be defined as either a Controller or Processor, as indicated in Schedule 1.
+General principles and data ownership
+The Parties undertake to comply with Relevant Data Protection legislation, and process Personal Data in compliance with the data protection principles. All Parties must be able to consistently demonstrate compliance with Relevant Data Protection legislation during the terms of this Agreement.
+Each Party acknowledges and agrees that it is the Controller for the purposes of its rights and obligations under this Agreement, as defined by Relevant Data Protection legislation, and shall be responsible for the storage, processing, transmission, and protection of any Personal Data that it collects or otherwise acquires in connection with this Agreement.
+Each Party must provide, update and maintain relevant public Privacy Notices including details of data sharing with other Parties named in this agreement, and must ensure that where appropriate, due-diligence is performed on all data processors and data processing agreements are issued, information sharing agreements must be in place with third parties.
+Each Party must also ensure that if consent is being relied upon as the lawful basis of processing, that the consent mechanism meets the requirements of relevant data protection legislation, including providing the option to withdraw consent, that consent is recorded, maintained and evidence can be provided. If data is shared with third parties under the lawful basis of consent, those third parties must be named in the consent statement.
+Each Party will retain Personal Data for the periods specified in its own retention schedule. Each Party will also consult with the other Party when retention periods are set in relation to any shared information, to avoid discrepancies which could be detrimental. HWE’s retention schedule is publicly available.
+[Insert one of the following two paragraphs, depending on your set up:]
+[Where there is a Lead Healthwatch]
+Where a Party receives any request from a Data Subject wishing to exercise their individual rights as defined under Relevant Data Protection legislation, and that personal data has been shared with other Parties, the Lead Party should be advised. For subject access requests they shall collate and manage the request centrally, for all other requests they shall ensure all parties are informed to maintain the integrity of data held by each Party. This obligation relates only to Personal Data that falls within the scope of this Agreement.
+[Where there is no lead Healthwatch]
+Where a Party receives any request from a Data Subject wishing to exercise their individual rights as defined under Relevant Data Protection legislation, and that personal data has been shared with other Parties, they should advise all parties. Each Party should deal with requests from the area that they cover. This obligation relates only to Personal Data that falls within the scope of this Agreement.
+This Agreement and Schedule 1 relate to all routine sharing of Personal Data between the Parties. It is agreed the Parties will only collect, process and share the minimum amount of Personal Data necessary to achieve the aim of the sharing need. Please refer to Healthwatch England guide to data sharing.
+No Personal Data will be shared between the Parties which has not been identified to the Data Subjects by Privacy Notices or similar, unless the sharing is justified by relevant Data Protection Legislation, relevant legislation, or required by law. 
+Personal Data that is shared must be adequate (sufficient for the stated purpose), relevant (directly linked to the stated purpose) and limited to what is necessary for the purposes of the sharing between the Parties. 
+Use, disclosure and publication
+Subject to the absence of any separate arrangements or statutory functions, Personal Data will only be processed and shared for the purposes outlined in Schedule 1 and only to achieve the provisions of this Agreement. 
+Personal Data shall not at any time be copied, disclosed, broadcast or disseminated to any unauthorised third party, except in accordance with this Agreement.
+No Party to this agreement will share Personal Data with any unauthorised third party without the permission of other relevant Parties.
+The restrictions on the use or disclosure of Personal Data set out in 5.1 - 5.3 above will not apply to any data which is required by law to be disclosed, or is disclosed pursuant to an Order of a Court or equivalent authority, or is disclosed in accordance with another lawful data sharing agreement, or clause 8 below.
+Access to the Personal Data will be restricted to only those employees or agents of each Party that require it to meet the purpose of Schedule 1.
+Unless otherwise agreed, Personal Data shared as part of this Agreement must be stored/recorded by each Party in a secure, structured, commonly used and widely accessible format.
+Each Party must inform the other of any outcome where the data has been amended, as a result of any Data Subject exercising their rights under Relevant Data Protection legislation.
+Each Party agrees to implement appropriate technical and organisational measures to protect the processing of Personal Data. Reasonable security must be in place at all times, to protect against unauthorised access, unlawful processing, loss, destruction, damage, alteration or disclosure, whether by accidental or deliberate actions. Where possible personal data should be stored in an encrypted, fully anonymised or pseudonymised format.
+Method of transfers of Personal Data between the Parties, and data storage
+Personal Data will be transferred for the purpose outlined in Schedule 1 by appropriate secure methods, Personal Data should, wherever possible, be stored and processed within the UK, or within the European Economic Area (EEA), it must not be transferred to, or accessed by any organisation or individual outside of the UK or EAA. Particularly, the Parties will ensure that they have done everything reasonable to put in place measures to:
+reduce the likelihood of unauthorised interception of the data, 
+deter deliberate or opportunist attacks, 
+promote discretion in order to avoid unauthorised access, 
+maintain the integrity of the data, 
+and otherwise guard against any compromising of the confidentiality, integrity, and availability of the data. 
+The method of transfer for any sharing of Personal Data between the Parties will be set out in Schedule 1.  Healthwatch must ensure that they follow Healthwatch England’s guidance on data protection in relation to data security 
+Data breach Incident notification
+Any security incidents, data breaches or newly identified vulnerabilities must be communicated between the Parties at the earliest opportunity, and in any event within 48 hours.
+The Party making the discovery of any event above will, without delay
+Inform the other Parties of the details
+Take steps to investigate the cause and follow the HWE breach reporting guidelines
+Minimise any harm to data subjects
+Identify any opportunities for improvement and train staff in lessons learnt
+Take appropriate steps, where possible, to mitigate any impact against data subjects and organisations involved.
+The Parties will assess the potential implications of any data security incidents and, if necessary, will:
+Inform the Data Subject(s) concerned
+Advise the Data Subjects(s) of their rights
+Provide the Data Subject(s) with appropriate support
+Where required by Relevant Data Protection legislation a breach will be reported to the Information Commissioner’s Office by the Controller within 72 hours of the Controller discovering or being notified of the breach.
+Data subject rights
+In accordance with the statutory obligations under Relevant Data Protection legislation each Party shall notify the other and give reasonable assistance as is necessary to the other to enable the Party to:
+Comply with requests from Data Subject(s) to exercise their rights under Relevant Data Protection legislation including, but not limited to, Data Subject Access requests; 
+Comply with requests from individuals made under the Freedom of Information Act 2000 or the Environment Information Regulations 2004;
+Respond to actions and penalties served upon them by the Information Commissioner;
+Respond to complaints from Data Subjects;
+Investigate any breach or alleged breach of the Relevant Data Protection legislation.
+Under Relevant Data Protection legislation, Data Subjects have a right of access (as well as other rights) to Personal Data held about them. The receipt by one Party of any Data Subject requests for access to Personal Data covered by this Agreement must be reported at the earliest opportunity to the relevant Information Compliance Officer of the Lead Party, or other such nominated officer representing the other Parties.
+It is the responsibility of each Controller to arrange the relevant response to that request however, it is preferable that the Lead Party collate information from all parties and provide the Data Subject of the results.
+This Agreement also acts in fulfilment of part of the responsibilities of a Controller as defined by Relevant Data Protection legislation. 
+Responsibilities of the Parties to Healthwatch England
+Any actual or potential personal data breach, investigation or communication from the information Commissioners Office (ICO) must be advised to Healthwatch England by the Controller party to the breach, or in correspondence with the ICO at the earliest opportunity and at the latest within 48 hours.
+Parties to this agreement must have in place and maintain a valid Healthwatch England trademark licence.
+Review and Termination
+This Agreement shall run [insert period for which it will run], it must be reviewed annually from the data of signing, when the processing or purposes of the shared Information change, in the event of a change of Healthwatch contract holder or the Healthwatch trademark licence is withdrawn.
+Indemnity
+The parties will indemnify each other and hold each other harmless from any cost, charge, damages, expense or loss which they cause each other as a result of their breach of any of the provisions of these clauses. Indemnification hereunder is contingent upon:
+the parties to be indemnified (the “indemnified parties”) promptly notifying the other parties (the “indemnifying parties”) of a claim, 
+the indemnifying parties having sole control of the defence and settlement of any such claim, and
+the indemnified parties providing reasonable cooperation and assistance to the indemnifying parties in defence of such claim. 
+Dispute resolution and variation
+Any disputes arising will be referred first to the operational contacts of the Parties and if not resolved within 10 working days, will then be escalated to the signatories to this Agreement.  The parties note the terms of Clause 6.2 below.  
+No variation of this Agreement shall be effective unless it is in writing and signed by authorised signatories of all Parties.
+Withdrawal and termination
+Any Party shall be entitled to withdraw from this agreement by giving not less than 30 calendar days written notice.
+All Parties shall be entitled to terminate this agreement by mutual agreement.
+Within 30 calendar days following withdrawal of this Agreement by any Party, the withdrawing Party shall destroy all Personal Data shared under this agreement which remains within its possession or control of another Party, unless prohibited from doing so by any applicable law, and confirm in writing to each Party that it has done so.
+The expiry or termination of this Agreement for whatsoever reason shall not affect such of the provisions of it as are expressed to operate or have effect after its termination and shall be without prejudice to any right of action already accrued to either Party in respect of any breach by the other Party of the terms and conditions set out in this Agreement. 
+Governing law 
+This Agreement shall be governed by and construed in accordance with English law.
+IN WITNESS WHEREOF these presents typewritten on this and the preceding pages are executed as follows:-
+We freely enter into this information sharing agreement, and specifically the processing and data transfer activities outlined in Schedule 1.
+Signatories:
+SCHEDULE 1
+Healthwatch Information Sharing Agreement within an ICS
+Collection and sharing of data by [insert names of Healthwatch/legal entities] within [name of ICS] ICS area
+Healthwatch England 
+National Customer Service Centre
+Citygate
+Gallowgate
+Newcastle upon Tyne
+NE1 4PA
+www.healthwatch.co.uk 
+t: 03000 683 000
+e: enquiries@healthwatch.co.uk
+ @HealthwatchE
+ Facebook.com/HealthwatchE
+Data sharing agreement template
+June 2022 	Data sharing agreement template
+June 2022 
+HEALTHWATCH ‘A’	HEALTHWATCH ‘A’		
+Name:			
+Signature:			
+Date:			
+Party	Name	Signature	Date
+Healthwatch ‘A’			
+Healthwatch ‘B’			
+Healthwatch ‘C’			
+Healthwatch ‘D’			
+Status of the Parties	Each party shall be deemed to be a Controller for personal data within their care.
+Nature of the processing:	Sharing of standard and special category data between named Healthwatch Parties to collaborate within an integrated care system (ICS) to fulfil their statutory duty to share insights and recommendations with people and organisations that commission, provide, manage or scrutinise local care services.
+Purpose of the processing: 
+	The Parties have a statutory duty to act as a public champion for health and social care. 
+Purpose(s) of the data transfer and further processing:	Under section 221 (2) (d) of the Local Government and Public Involvement Health Act 2007, Healthwatch are required to make local people’s views known, publish reports and make recommendations to persons responsible for commissioning, providing, managing or scrutinising local care services. The Health and Care Act 2022 requires NHS England to set up Integrated Care Boards to work with local authorities, the NHS and other partners to provide integrated care across a defined area.  To meet their statutory obligations and influence, Healthwatch must collect personal data which flow freely between the Parties named in this agreement.
+Standard category of personal data: 
+	The main categories of personal data shared for the purpose of this Agreement include, but are not limited to, the following:
+Name (User, patient, family member, friend, HCP)
+Contact details (Address, email, phone numbers)
+Age/Date of birth
+Gender
+Special categories of personal data:	Health information
+Sexuality or sexual orientation
+Actual or alleged criminal activity/offences
+Religion/Beliefs
+Ethnicity
+Controller/Processor designation: 
+	All parties are deemed to be Controllers in their own right for the data held within their care. 
+Legal Basis for standard category data:
+	UK GDPR Article 6(1)(e) – necessary in the exercise of official authority vested in the controller
+
+Legal basis for Special Category data:
+	(2)(h) – necessary for the management of health or social care systems on the basis of UK law and subject to a duty of confidentiality under the rule of law1.
+The frequency of the transfer:	As agreed between the parties to fulfil their legal obligations.
+The period for which the personal data will be retained, or, if that is not possible, the criteria used to determine that period	For records passed for research purposes the information can be retained Indefinitely as will be fully or partly anonymised.
+For those records transferred with the data subject’s consent the retention period of the exporting party must be observed.
+
+Security of transfers	Each Party shall be responsible for the security of data leaving their organisation prior to its arrival with the other party. Appropriate technical and organisational measures are specified within Healthwatch England’s guidance on data protection [insert link] should be followed at all times.
+Details of transfers to processors/sub-processors:	[detail if data is being shared with any processors, for example, shared third party software]
+Data protection supervisory authority:	Information Commissioner’s Office
+Data sharing agreement template
+1
+Data sharing agreement template
+1
+Data sharing agreement template
+1

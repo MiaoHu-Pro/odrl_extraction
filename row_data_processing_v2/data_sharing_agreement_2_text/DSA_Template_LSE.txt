@@ -1,0 +1,247 @@
+Page 1 of 8
+Data Sharing Agreement dated
+This data sharing Agreement has been agreed between the following parties:
+1) The London School of Economics and Political Science, Houghton Street, London, WC2A 2AE
+(‘LSE’)
+And
+2) Future Finance Loan Corporation Limited, having its registered office at 10 Earlsfort Terrace,
+Dublin D02 T380 (“Future Finance”)
+Background
+Future Finance is a student loan company in Europe, whose activities are regulated in the UK by the
+FCA (Firm Reference Number 719436) and its permitted activities include entering into regulated
+credit agreements as lender, and exercising, or having the right to exercise, Future Finance's rights and
+duties under a regulated credit agreement and debt administration. LSE is a provider of educational
+courses to students and has the necessary powers to award degree and professional level qualifications.
+For the purpose of carrying out due diligence checks on its customers and paying tuition fees directly
+to LSE, Future Finance seeks to verify and confirm certain data fields with LSE (as set out in clause 10
+of this Agreement) and LSE has agreed to these acts pertaining to LSE students for a period of two
+academic years, the 2020/2021 and 2021/2022 academic years (the “Term”). If a student decides to
+take a loan with Future Finance they will enter into a separate regulated credit agreement with Future
+Finance.
+This Agreement outlines the terms and conditions agreed between the parties in relation to the Personal
+Data which will be shared in compliance with the Data Protection Act 2018 and the EU General Data
+Protection Regulation (GDPR) (EU) 2016/679 during the Term that has been agreed for the purpose of
+this Agreement. For the avoidance of doubt both parties will act as Controllers.
+1. Definitions
+‘’Data Protection Legislation’’ means the General Data Protection Regulation (GDPR), the Data
+Protection Act 2018 and any other relevant acts and regulations.
+‘’Data Protection Authority’’ means the relevant Data Protection authority in the territories where the
+parties to this Agreement are established. In the U.K., it is the Information Commissioner’s Office (ICO).
+In Ireland, it is the Irish Data Protection Commissioner (DCP).
+‘’DPA’’ Data Protection Act 2018
+Data Protection Impact Assessment: an assessment by the Controller of the impact of the envisaged
+processing on the protection of Personal Data;
+“Data Loss Event” Any event that results, or may result, in unauthorised access to Personal Data held
+by the parties under this Agreement, and/or actual or potential loss and/or destruction of Personal Data
+in breach of this Agreement , including any Personal Data breach.
+
+Page 2 of 8
+‘’ Enquiry’’ means any request, complaint, investigation, notice or communication from a Data Subject
+or the ICO
+‘’GDPR’’ means the General Data Protection Regulation (GDPR) (EU) 2016/679
+“Personal Data” Has the meaning given to that term in the Data Protection Act 2018 and the General
+Data Protection Regulation (GDPR) (EU) 2016/679).
+‘’Personal Data breach’’ shall have the meaning as set out in Article 4 of the GDPR.
+‘’Protective Measures’’ appropriate technical and organisational measures which may include:
+pseudonymising and encrypting Personal Data, ensuring confidentiality, integrity, availability and
+resilience of systems and services, ensuring that availability of and access to Personal Data can be
+restored in a timely manner after an incident, and regularly assessing and evaluating the effectiveness of
+the such measures adopted by it;
+The terms ‘’Data Subject’’, ‘’Personal Data’’, ‘’processing’’, ‘’processor’’ and ‘’Controller’’ (and their
+derivatives) shall have the meaning set out in the applicable data protection legislation.
+2. Purpose
+2.1 Both parties agree that they will process the Personal Data independently as Controllers.
+2.2 When processing Personal Data, both Parties shall (and shall ensure that any of their personnel
+involved in connection with the activities under this Agreement shall) at all times:
+a) Comply with all obligations and provisions imposed on them by the Data Protection
+legislation when processing any Personal Data and in connection with this Agreement.
+b) Not do, cause or permit anything to be done which may result in a data loss or a breach of
+the Data Protection legislation.
+3. Data Protection obligations
+3.1 Each party shall ensure that it has in place all necessary notices and consents to enable the fair
+and lawful processing of Personal Data in accordance with this Agreement.
+3.2 Each Party shall implement and maintain adequate and appropriate protective measures
+including technical and organisational security measures in order to protect Personal Data
+against unauthorised and unlawful processing, and against accidental loss, destruction or
+damage. The number of staff who can access Personal Data should be restricted to those for
+whom access is strictly necessary for the relevant processing.
+3.3 Notwithstanding any of the provisions of this Agreement, each Party acknowledges that it is
+responsible for its own compliance with Data Protection legislation.
+
+Page 3 of 8
+3.4 Each Party shall (and shall ensure that its Personnel shall) co-operate with the other Party and
+provide such information and assistance as the other Party may reasonably require to enable
+the other Party:
+a) To comply with its obligations under the Data Protection Legislation in respect of
+Personal Data
+b) To deal with and respond to any enquiry relating to the Personal Data
+3.5 If a Party receives an Enquiry which relates directly or indirectly to its sharing of Personal
+Data in accordance with this Agreement, or in relation to its compliance with Data Protection
+legislation, it shall notify the other Party as soon as is reasonably practicable.
+3.6 Each Party shall, after discovering the Personal Data has been subject to a Personal Data
+breach or data loss event, promptly within 1 business day notify the other Party of the same,
+and at its own expense, shall use its reasonable endeavours to:
+a) Minimise the impact of the breach and prevent such breach recurring; and
+b) Provide all reasonable assistance to the other Party as may be required in accordance with
+Data Protection legislation.
+3.7 Subject to paragraph 3.6, above, neither Party shall take any action in relation to any Enquiry
+or Personal Data breach where it relates to the other Party’s processing of Personal Data as a
+‘’controller’’ without prior written notice to the other Party and providing the other Party with
+a reasonable opportunity to contribute to the response to mitigate the impact of the action on
+the other Party.
+3.8 Each Party shall maintain records of all processing operations under its responsibility in
+accordance with Data Protection legislation.
+3.9 Neither Party will share Personal Data with a third party without the express written
+permission of that Party.
+4. Data Subjects’ Rights
+4.1 Data Subjects have the right to obtain certain information about the processing of their
+Personal Data through a Subject Access Request. Data Subjects may also request rectification,
+erasure or blocking of their Personal Data.
+4.2 The Parties shall maintain a record of Subject Access Requests, the decisions made and any
+information that was exchanged. Records must include copies of the request for information,
+details of the data accessed and shared and where relevant, notes of any meeting,
+correspondence or phone calls relating to the request.
+
+Page 4 of 8
+4.3 The Parties agree that the responsibility for complying with a Subject Access Request falls to
+the Party receiving the Subject Access Request in respect of the Personal Data held by that
+Party.
+4.4 The Parties agree to provide reasonable and prompt assistance (within 5 Business Days of
+such a request for assistance) as is necessary to each other to enable them to comply with
+Subject Access Requests and to respond to any other queries or complaints from Data
+Subjects.
+4.5 For the avoidance of doubt, in relation to the Data Subject’s Rights of access, rectification,
+deletion and objection, the GDPR stipulates an exemption where personal information is being
+used for the purposes of Research and as long as appropriate safeguards are in place. As such,
+these rights will not apply to the extent that they would prevent or seriously impair the
+achievement of those purposes.
+5. Data Retention
+Each party is responsible for complying with the Data Protection Legislation in relation to the
+retention of Personal Data in an identifiable form for as long as necessary for the purposes for which
+it was collected. For the avoidance of doubt, there is an exemption from the ordinary rules relating
+to retention if the Personal Data is to be used for research purposes and appropriate safeguards are
+in place.
+6. Data Sharing
+The Purpose of sharing the Personal Data and the specific categories of Personal Data that will be
+shared are set out in clause 10 of this Agreement.
+7. Indemnity
+Each Party (the “Indemnitor”) agrees to indemnify the other Party (the “Indemnitee”) in full with
+respect to any claims it may receive from the Indemnitee relating to all reasonable direct liabilities,
+costs, monetary penalties, expenses (including legal expenses), damages or any other claims (the
+losses) imposed on the Indemnitee from the Data Protection Authority (or such successor
+organisation or regulator thereof ) as a result of Indemnitor’s breach (this includes any act or an
+omission by the company, its employees or agents ) of Data Protection legislation and/or any other
+obligations set out under this Agreement. The total liability under this Agreement shall be capped at
+£1 million in the aggregate.
+8. Resolution of disputes with Data Subjects or The Data Protection Authority
+8.1 In the event of a dispute or claim brought by a Data subject or the Data Protection Authority
+concerning the processing of shared Personal Data against either or both parties, the Parties
+will inform each other about any such disputes or claims, and will co-operate with a view to
+settling them amicably in a timely fashion.
+
+Page 5 of 8
+8.2 The parties agree to respond to any generally available non-binding mediation procedure
+initiated by the Data Subject or by The Data Protection Authority. If they do participate in the
+proceedings, the Parties may elect to do so remotely (such as by telephone or other electronic
+means). The Parties also agree to consider participating in any other arbitration, mediation or
+other dispute resolution proceedings developed for data protection disputes.
+9. Termination
+This Agreement will automatically terminate following the completion of the Term unless it is
+agreed between the parties that LSE will continue to signpost students on their website to Future
+Finance’s online student loan product. If either Party materially breaches the obligations set out in
+this Agreement and is unable to remedy such breach (if remediable) within 30 days of notice of
+breach, then the other Party shall be entitled to terminate the Agreement upon immediate effect. In
+the event that either Party terminates the Agreement due to the other’s breach, then the breaching
+Party will be expected to securely provide the other Party with a complete and up-to-date extract of
+the Personal Data or any other data subjects which it holds and shall irretrievably delete all Personal
+Data to the extent permissible by applicable law, following the confirmed secure delivery of the
+extract.
+10. Personal Data Information
+The Personal Data collected and to be shared between the Future Finance and LSE includes:
+A. Personal Data
+1 Name Yes
+2 Date of birth (age) Yes
+3 Address history No
+4 Proof of Identity (e.g. passport) No
+5 Contact Info (Address, Phone, Email etc.) No
+6 Nationality / Place of Birth / Domicile No
+7 UKVI Confirmation for Acceptance to Study/Visa/Biometric Residence Permits No
+8 Academic Technology Approval Scheme No
+9 Date of Entry to the UK No
+10 English / Literacy /Numeracy proficiency No
+11 Qualification Information (provided by you and external bodies) No
+12 Marks / Awards / Course No
+13 Information about career aspirations and work experience No
+
+Page 6 of 8
+14 Programme Yes
+15 Fees/ Payment Info/ Student Funding/ Finance information and sponsor details Yes
+16 Next of kin / guardian / family etc. data No
+17 Reference / Referee data No
+18 Statutory checks No
+19 Photograph No
+20 Parental Information No
+B. Sensitive or Special Category
+1 Ethnicity No
+2 Occupational Health No
+3 Overseas police check No
+4 Trade union membership No
+5 Geodemographic Information No
+6 Disability No
+7 Criminal conviction No
+8 Religious or other similar beliefs No
+9 Sexuality or Sexual orientation No
+10 Image and likeness, including as captured in photographs taken No
+In fulfillment of the GDPR and DPA 2018, both parties are required to be explicit on the legal basis
+upon which the parties process a Data Subject’s personal information.
+C. Legal Basis
+1 Art. 6 (1) GDPR Lawfulness of
+processing
+(a) Data subject has consented to Future Finance
+confirming enrolmentwith LSE.
+(b) The Processing /confirmation of enrolment is
+necessary for legitimate interests
+N/A
+
+Page 7 of 8
+2 Art. 9 GDPR Processing of special
+categories of personal data
+D. Additional purpose where applicable
+3 The processing of Personal Data for purposes other than those for
+which the Personal Data were initially collected
+No
+4 Processing of Personal Data relating to criminal convictions and
+offences
+No
+5 Processing which do not or do no longer require the identification of
+a data subject by the controller
+No
+6 No Personal Data will be process throughout the lifespan of the
+contract
+No
+E. Retention period
+When will the information retained by either Party or on the processing system be destroyed or deleted:
+7 At the end of the Term of the Agreement or termination of
+the contract/project for whatever reason
+Choose an item.
+8 Once processing of the shared Personal Data is no longer
+necessary for the purposes it were originally shared for
+Choose an item.
+9 Some years after the end of contract/project for legal claim
+or as per statutory requirements
+Yes
+10 Information will be anonymised or pseudonymised
+wherever possible
+Choose an item.
+11 Exempt from retention requirement as Personal Information
+is related to research
+Choose an item.
+
+Signed by
+________________________
+Future Finance Loan Corporation Limited
+Signed by
+________________________
+The London School of Economics and Political Science
+
+Page 8 of 8

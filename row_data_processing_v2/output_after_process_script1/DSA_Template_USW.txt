@@ -1,0 +1,27 @@
+Personal Information Sharing Agreement Introduction 1 This Information Sharing Agreement (“Protocol”) sets out the terms of the sharing of Personal Information as defined under Data Protection Legislation.
+“Data Protection Legislation” means the Data Protection Act 2018, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and, to the extent that it deals with data protection, the E-Commerce Directive 2000/31/EC together with any legislation, regulations or codes of practice made there under.
+Where relevant, each organisation should seek the agreement of their nominated Data Protection Officer before signing this Protocol.
+This Protocol will be reviewed annually and routinely reviewed following changes in Data Protection Legislation.
+The information to be shared between signatory organisations is: Data Controller(s) 1 The Data Controller for the information to be shared is listed above along with the role (owner) which has operational responsibility for the data.
+The registration number and named contacts for each Data Controller organisation are: 2 The personal Information must only be used for the purposes stated in paragraph 4.1 of this Protocol.
+The prior written agreement of the Data Controller must be sought before using shared information for any other purpose.
+The partner organisations receiving shared personal information must review the need to continue to hold it after ..........(Period or date) and must destroy it after .......
+The outcome of review or destruction must be notified to the relevant Data Controller.
+Partner organisations receiving shared Personal Information are responsible for applying relevant quality assurance before using the Personal Information.
+If Personal Information is found to be inaccurate, it is the responsibility of the partner organisation discovering the inaccuracy to notify the Data Controller.
+The Data Controller will ensure that the source data is corrected and will notify all recipients, who will be responsible for updating the Personal Information they hold.
+The frequency with which the information will be shared is: Daily/Weekly/Monthly/Where necessary Information security and confidentiality 1 Methods of transfer (Detail specific agreed methods of secure transfer, including: electronic methods of transfer, such as secure portals, encryption, non electronic methods of transfer such as recorded delivery etc).
+No information provided by partners to these procedures will be released to any third party without the permission of the owning organisation.
+Organisations receiving shared information will: 4.1 ensure that their employees are able to access only the shared information necessary for their role; 4.2 ensure that their employees are appropriately trained so that they understand their responsibilities for confidentiality and privacy; and 4.3 protect the physical security of the shared information.
+Consent to share personal information 1 It is generally good practice to seek the consent of service users.
+However, organisations agree that disclosure without consent is lawful if certain conditions are met.
+For example, Personal Information may be shared when anonymised or another lawful basis applies to the sharing.
+Occasionally, an individual may refuse to give consent to share information.
+Where it is lawful to share such in spite of the refusal, the Data Controller must record the refusal of consent and the reasons for overriding that refusal.
+The Data Controller is responsible for ensuring that data subjects are advised that their information is being or may be shared.
+Complaints 1 The organisations will use their standard organisational procedures to deal with complaints from the public arising from information sharing under this Protocol.
+If the complaint affects more than one organisation it should be brought to the attention of the appropriate complaints officers who should liaise to investigate the complaint.
+Personal Information Sharing Agreement 1 Each Organisation undertakes to implement and adhere to this Protocol.
+Each organisation undertakes to ensure that its organisational procedures are consistent with this Protocol.
+A copy of this Protocol must be shared with the Data Protection Officer of each organisation.
+Personal Information Sharing Agreements are intended for use when personal data is to be shared in a two way flow between two or more Data Controllers to another for a specific purpose.

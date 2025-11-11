@@ -1,0 +1,12 @@
+Sample Data-Sharing and Usage Agreement Rhode Island Department of Health and the Providence Plan This agreement establishes the terms and conditions under which the Rhode Island Department of Health (RIDOH) and The Providence Plan (TPP) can acquire and use data from the other party.
+Either party may be a provider of data to the other, or a recipient of data from the other.
+The data recipient will not release the names of individuals, or information that could be linked to an individual, nor will the recipient present the results of data analysis (including maps) in any manner that would reveal the identity of individuals.
+The data recipient will not release individual addresses, nor will the recipient present the results of data analysis (including maps) in any manner that would reveal individual addresses.
+Both parties shall comply with all Federal and State laws and regulations governing the confidentiality of the information that is the subject of this Agreement.
+The data recipient will not release data to a third party without prior approval from the data provider.
+The data recipient will not share, publish, or otherwise release any findings or conclusions derived from analysis of data obtained from the data provider without prior approval from the data provider.
+Data transferred pursuant to the terms of this Agreement shall be utilized solely for the purposes set forth in the “Partnership Agreement”.
+All data transferred to TPP by RIDOH shall remain the property of RIDOH and shall be returned to RIDOH upon termination of the Agreements.
+Any third party granted access to data, as permitted under condition #2, above, shall be subject to the terms and conditions of this agreement.
+Acceptance of these terms must be provided in writing by the third party before data will be released.
+IN WITNESS WHEREOF, both the Rhode Island Department of Health, through its duly authorized representative, and The Providence Plan, through its duly authorized representative, have hereunto executed this Data Sharing Agreement as of the last date below written.

@@ -1,0 +1,294 @@
+Gloucestershire Specific Information Sharing Agreement
+
+1: Purpose
+The organisations involved have signed up to the overarching principles set out in the Gloucestershire Information Sharing Partnership Agreement and these principles must be adhered to. Once information is shared with another organisation they become the data controller of the shared copy of the information and are responsible and accountable for the use and protection of it.  
+This specific information sharing agreement:
+sets out the legislative basis for the legitimate sharing of personal information in specific circumstances between two or more data controllers. 
+will be supplemented by relevant procedures and standards 
+is to be completed by Information Asset Owners (or their delegate), project, process or service managers or an Information Governance Specialist.
+can only be signed by a Caldicott Guardian or Director (or equivalent).
+
+This specific information sharing agreement is not appropriate in circumstances where:
+one organisation engages another to undertake work on its behalf; in these cases information governance must be detailed within a contract; or
+one-off sharing is needed.
+2: Liability 
+
+Each Party shall accept responsibility for its own acts and omissions. 
+Nothing in this agreement shall limit liability for death or personal injury resulting from negligence or for fraud. 
+3: Parties to the agreement
+(add more rows as required)
+4: Why is this sharing required?
+Detail the reasons for sharing and teams involved, such as helps provision of service, meets statutory obligation etc.
+5: What information is to be shared?
+
+ Personal Data
+ Special Categories of Personal Data (see definitions)
+Please select all that apply and then describe the information below, e.g. name, date of birth, address, health details etc.
+Description of the information to be shared:
+6: Frequency
+How often will the sharing take place? Please delete as appropriate
+Daily / weekly / fortnightly / monthly / quarterly / annually / ad hoc / other
+If ad hoc or other, please detail the circumstances when sharing will be appropriate:
+7: Lawful basis
+Please select all that apply and provide the name of the relevant piece(s) of legislation below.
+For information on the most appropriate lawful basis, see ICO guidance for identifying the lawful basis for processing 
+ Information is being processed to fulfil a legal obligation
+ Information is being processed to carry out a public task
+ Information is being processed to carry out a contract
+ Information is being processed with the consent of the individual
+ Information is being processed to protect an individual’s vital interests
+ Information is being processed for legitimate interests
+Details of the relevant legislation:      
+Data Protection Schedules (You must identify the specific condition(s) that are being met, not insert a full list of all of the conditions).
+Specific Article 6 GDPR Condition(s) satisfied:      
+Specific Article 9 GDPR Condition(s) satisfied:      
+Specific Schedule 1 Data Protection Act 2018 Condition(s) satisfied:      
+(Only complete the Article 9 / Schedule 1 Conditions if you will be sharing special categories of personal data or criminal conviction data).
+8: How the Principles will be met
+Each Party will need to detail how the requirements below will be achieved. Links should be provided to relevant procedures. (Links to the organisations intranets will only be accessible to those with access).
+(Add more columns for each party as required. You may also need to change the orientation of the document to landscape)
+
+9: International Transfers
+Personal data may only be transferred outside of the EU in compliance with the conditions for transfer set out in Chapter V of the GDPR.  
+Transfers outside of the EU may be made where:
+the Commission has decided that a third country, a territory or one or more specific sectors in the third country, or an international organisation ensures an adequate level of protection.  
+the organisation receiving the personal data has provided adequate safeguards. Individuals’ rights must be enforceable and effective legal remedies for individuals must be available following the transfer.
+Data shall not be transferred to countries other than those in the European Union and those countries in Europe identified in the European Commission’s list of countries or territories providing adequate protection for the rights and freedoms of individuals in connection with the processing of personal data.
+10: Rights
+The right to be informed
+The point of contact for this agreement will ensure that a privacy policy is in place so that individuals are informed about the use of their personal data.
+The right of access
+The point of contact for this agreement will ensure that procedures are in place to manage Subject Access Requests. 
+Link to procedures/form: 
+If information supplied by another party is captured by a request for information, reasonable endeavours should be made to consult with that party regarding the release.
+The right to rectification
+Concerns from individuals about the accuracy of their personal information need to be referred to the originating organisation. They will in turn investigate and inform any recipients of the information, if it is concluded to be incorrect, so it can be corrected.
+The right to erasure
+Requests from individuals regarding the erasure of their personal information need to be referred to the originating organisation. They will in turn consider the request and inform any recipients of the information so that it can be erased.
+The right to restrict processing
+Requests from individuals regarding the restriction of processing of their personal information need to be referred to the originating organisation. They will in turn consider the request and inform any recipients of the information so that its processing can be restricted.
+The right to data portability
+The point of contact for this agreement will ensure that procedures are in place to manage requests for portability of data.
+The right to object
+If an objection to processing is received, the point of contact for this agreement will assess whether it is appropriate to inform the other parties to this agreement.
+Rights in relation to automated decision making and profiling
+The point of contact for this agreement will ensure that the reasons for any automated decision-making are made clear to individuals and they are informed of their right of appeal.
+11: Review
+This sharing agreement will be reviewed every 3 years or earlier if a significant change occurs.
+If the Constabulary are party to this agreement to satisfy MOPI requirements it will be reviewed annually.
+12: Supplementary documents
+This agreement is to be supplemented by appropriate supporting documents, which may include:
+Information Transfer Procedure, including detailed security arrangements
+Information Risk Assessment
+Data Protection Privacy Impact Assessment
+Retention Schedule
+Information Flow Map
+13: Document information
+14: Point of contact for each party
+15: Signatories 
+(add more rows as required)
+Appendix 1 – Definitions of personal and special category personal data
+Personal data
+Any information relating to an identifiable person who can be directly or indirectly identified in particular by reference to an identifier.
+This definition provides a wide range of personal identifiers to constitute personal data, including name, date of birth, identification number, location data or online identifier, reflecting changes in technology and the way organisations collect information about people.
+You may think information has been anonymised, but the legal definition takes into account other data held by the organisation.  Therefore, if you hold the key to identify people from the anonymised data, then it is still covered by GDPR. This is known as ‘pseudonymised’ personal data.
+Special Categories of Personal Data
+race
+ethnic origin
+politics
+religion
+trade union membership
+genetics
+biometrics (when used for ID purposes)
+health
+sex life 
+sexual orientation
+Appendix 2 – Article 6 GDPR Lawful Processing Conditions
+Processing is only lawful if at least one of the following applies:
+The data subject has given consent to the processing of his / her personal data for one or more specific purposes
+The processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract
+The processing is necessary for compliance with a legal obligation to which the controller is subject
+Processing is necessary in order to protect the vital interests of the data subject or another natural person
+This condition only applies in cases of life or death, such as where an individual’s medical history is disclosed to a hospital’s A&E department treating them after a serious road accident. 
+Processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller
+Processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child
+Appendix 3 – Article 9 GDPR conditions for processing Special Categories 
+If you are processing special category data you must identify a lawful basis for processing in Article 6 (above), AND be able to meet one of the conditions in Article 9. The Data Protection Act 2018 also imposes additional conditions and safeguards when dealing with special category data.
+Article 9(2) GDPR
+the data subject has given explicit consent to the processing 
+processing is necessary for the purposes of employment and social security and social protection law
+processing is necessary to protect the vital interests of the data subject or of another natural person
+processing is carried out in the course of its legitimate activities with appropriate safeguards by a foundation, association or any other not-for-profit body
+processing relates to personal data which are manifestly made public by the data subject;
+processing is necessary for the establishment, exercise or defence of legal claims
+processing is necessary for reasons of substantial public interest
+processing is necessary for the purposes of preventive or occupational medicine, for the assessment of the working capacity of the employee, medical diagnosis, the provision of health or social care or treatment or the management of health or social care systems and services
+processing is necessary for reasons of public interest in the area of public health
+processing is necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
+Appendix 4 – Schedule 1 Data Protection Act 2018
+Schedule 1 Part 1 contains specific conditions for the various employment, health and research purposes under Articles 9(2)(b), (g), (i) and (j) GDPR.
+Schedule 1 Part 2 contains specific ‘substantial public interest’ conditions for Article 9(2)(h) GDPR.
+Schedule 1 Part 1: Conditions relating to employment, health and research
+Employment, social security and social protection
+Health or social care purposes
+Public health
+Research
+Schedule 1 Part 2: Substantial public interest conditions
+Parliamentary, statutory and government purposes
+Equality of opportunity or treatment
+Preventing or detecting unlawful acts
+Protecting the public against dishonesty
+Journalism in connection with unlawful acts and dishonesty
+Preventing fraud
+Suspicion of terrorist financing or money laundering
+Counselling
+Insurance and data concerning health of relatives of insured person
+Third party data processing for group insurance policies / life insurance
+Automatic renewal of insurance
+Occupational pensions
+Political parties
+Elected representatives responding to requests
+Disclosure to elected representatives
+Informing elected representatives about prisoners
+Publication of legal judgments
+Anti-doping in sport
+Standards of behaviour in sport
+	Name and address of organisation
+
+Party 1
+This will be the lead party and the officer completing the agreement will become the agreement owner.
+
+Each party is responsible for ensuring the sharing is documented for their own record of processing.
+
+Where two or more controllers jointly determine the purposes and means of processing, they shall be joint controllers and document within this agreement their respective responsibilities for compliance.
+
+	
+
+
+Party 2 
+	
+
+Requirement
+	Party 1 - 	Party 2-      
+Principle 1 – Lawful, Fair and Transparent Processing
+Each party will ensure that individuals are informed about the use of their personal data and this sharing.	Delete as appropriate:
+Explicit written consent is received.
+Individuals are give a privacy notice at the time of collection.
+Individuals are informed over the telephone at the time of collection.
+Information is available online. Link to privacy notices on website:      
+Posters are displayed in public areas, details:      
+n/a – not the organisation collecting the data
+Other:       	Delete as appropriate:
+Explicit written consent is received.
+Individuals are given a privacy notice at the time of collection.
+Individuals are informed over the telephone at the time of collection.
+Information is available online. Link to privacy notices on website:      
+Posters are displayed in public areas, details:      
+n/a – not the organisation collecting the data
+Other:      
+Principle 2 – Specific, Explicit and Legitimate Purpose
+	The point of contact for this agreement will ensure that the information is only used for the purposes that individuals are informed about, or as required by law.
+
+They will ensure that the organisation has paid a Data Protection Fee and given contact details of the Data Protection Officer (if required) to the Information Commissioner.
+
+Registration Number      , 
+ 
+They will ensure that the organisation’s Data Protection Registration covers this use of personal data.
+
+Information sharing decisions will be documented for audit, monitoring and investigation purposes.	The point of contact for this agreement will ensure that the information is only used for the purposes that individuals are informed about, or as required by law.
+
+They will ensure that the organisation has paid a Data Protection Fee and given contact details of the Data Protection Officer (if required) to the Information Commissioner.
+
+Registration Number      , 
+
+They will ensure that the organisation’s Data Protection Registration covers this use of personal data.
+
+Information sharing decisions will be documented for audit, monitoring and investigation purposes.
+Principle 3 – Adequacy
+	The point of contact for this agreement will review the data being shared every       to ensure that sufficient, but not too much, information is being shared.	The point of contact for this agreement will review the data being shared every       to ensure that sufficient, but not too much, information is being shared.
+Principle 4 – Accuracy
+Each organisation must ensure the accuracy of the information they hold.	Please describe how you ensure data is accurate e.g. Data Quality Strategy, regular data cleansing exercises, controls are in place for data entry, etc.
+     
+Links: 
+If the party notices any errors in the data they will notify the relevant point of contact within       days of becoming aware.
+
+	Please describe how you ensure data is accurate e.g. Data quality strategy, regular data cleansing exercises, controls are in place for data entry, etc.
+     
+Links:      
+
+If the party notices any errors in the data they will notify the relevant point of contact within       days of becoming aware.
+
+Principle 5 – Retention
+Information will be kept in accordance with each party’s retention schedule.	The point of contact for this agreement will ensure that suitable entries are within their organisation’s retention schedule and these are adhered to.
+
+Link to retention schedule:
+	The point of contact for this agreement will ensure that suitable entries are within their organisation’s retention schedule and these are adhered to.
+
+Link to retention schedule:
+     
+Principle 6 – Security
+Personal data must be kept secure at all times; collection; storage; use, sharing, transfer and disposal.	The data will be shared by: (delete/add as appropriate)
+Secure file transfer
+Secure email e.g, Egress, Government White List
+Post
+Encrypted removable media, e.g. memory stick
+Secure access to system, name of system      
+As part of joint working arrangements,      
+
+Delete/add as appropriate:
+The party meets the following information governance assurance standards :
+HSCN
+PSN
+ISO27001
+Cyber Essentials
+
+Specific procedures for the security of personal data are detailed at .
+Approved transfer methods:       (link)
+Approved disposal methods:       (link)
+Add more links to specific guidance as required.
+
+
+The point of contact for this agreement will ensure that suitable information security incident procedures are in place.
+Link:      	The data will be shared by: (delete/add as appropriate)
+Secure file transfer
+Secure email e.g. Egress, Government White List
+Post
+Encrypted removable media, e.g. memory stick
+Secure access to system, name of system      
+ 
+As part of joint working arrangements,      
+
+Delete/add as appropriate:
+The party meets the following information governance assurance standards :
+HSCN
+PSN
+ISO27001
+Cyber Essentials
+
+Specific procedures for the security of personal data are detailed at      .
+
+Approved transfer methods:       (link)
+Approved disposal methods:       (link)
+Add more links to specific guidance as required.
+
+The point of contact for this agreement will ensure that suitable information security incident procedures are in place.
+Link:      
+Document owner:	Named point of contact for Party 1, detailed in section 10.
+Next review date: 	     
+Version:	     
+Summary of changes:	     
+	Name	Role 	Contact Details
+Party 1 -       
+This will be the person who completed the agreement. 
+(This person will be the document owner. They will be responsible for adherence to, review, monitoring and advice in relation to the agreement.)
+	     
+
+	     	     
+
+Party 2 -      	     	     	     
+	Name	Role (Please delete as appropriate)	Signature	Date
+Party 1 -      	     
+	Caldicott Guardian / Director of      
+	
+	     
+Party 2 -      	     	Caldicott Guardian / Director of      		     

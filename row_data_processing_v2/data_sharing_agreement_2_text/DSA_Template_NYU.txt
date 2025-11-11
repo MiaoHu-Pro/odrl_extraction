@@ -1,0 +1,106 @@
+DATA USE AGREEMENT
+This DATA USE AGREEMENT (the “Agreement”) is effective as of ___________, 201_ (the “Agreement Effective Date”) by and between New York University School of Medicine, an administrative unit of New York University, an education corporation, with offices at 550 First Avenue, New York, NY 10016 (“NYU”), and [     ] (“Data User”).
+WHEREAS, NYU, a Covered Entity (as hereinafter defined), possesses Individually Identifiable Health Information that is protected under HIPAA (as hereinafter defined) and the HIPAA Regulations (as hereinafter defined), and is permitted to use or disclose such information only in accordance with HIPAA and the HIPAA Regulations;
+WHEREAS, NYU wishes to disclose a Limited Data Set (as hereinafter defined) to Data User for use by Data User in performance of certain Activities (as hereinafter defined);
+WHEREAS, NYU wishes to ensure that Data User will appropriately safeguard the Limited Data Set in accordance with HIPAA and the HIPAA Regulations; and
+WHEREAS, Data User agrees to use the Limited Data Set solely for the Activities and to protect the privacy of the Limited Data Set in accordance with the terms and conditions of this Agreement, HIPAA and the HIPAA Regulations;
+NOW, THEREFORE, in consideration of the promises and mutual covenants contained herein, the parties agree as follows:
+Definitions. The parties agree that the following terms, when used in this Agreement, shall have the following meanings, provided that the terms set forth below shall be deemed to be modified to reflect any changes made to such terms from time to time as defined in HIPAA and the HIPAA Regulations. Terms used but not otherwise defined in this Agreement shall have the same meaning as those terms have under the HIPAA Regulations.
+“HIPAA” means the Health Insurance Portability and Accountability Act of 1996, Public Law 104-191, as amended by the Health Information Technology for Economic and Clinical Health Act (Title XIII of the American Recovery and Reinvestment Act of 2009, Public Law 111-5).
+“HIPAA Regulations” means the regulations promulgated under HIPAA by the United States Department of Health and Human Services, including, but not limited to, 45 C.F.R. Part 160 and 45 C.F.R. Part 164.
+“Covered Entity” means a health plan (as defined by HIPAA and the HIPAA Regulations), a health care clearinghouse (as defined by HIPAA and the HIPAA Regulations), or a health care provider (as defined by HIPAA and the HIPAA Regulations) who transmits any health information in electronic form in connection with a transaction covered by the HIPAA Regulations.
+“Individually Identifiable Health Information” means information that is a subset of health information, including demographic information collected from an individual, and:
+Is created or received by a health care provider, health plan, employer, or health care clearinghouse; and
+Relates to the past, present, or future physical or mental health or condition of an individual; the provision of health care to an individual; or the past, present, or future payment for the provision of health care to an individual; and
+That identifies the individual; or
+With respect to which there is a reasonable basis to believe the information can be used to identify the individual.
+“Protected Health Information” or “PHI” means Individually Identifiable Health Information that is transmitted by electronic media; maintained in any medium described in the definition of the term electronic media in the HIPAA Regulations; or transmitted or maintained in any other form or medium.  Protected Health Information excludes Individually Identifiable Health Information in education records covered by the Family Educational Right and Privacy Act, as amended, 20 U.S.C. § 1232g; in records described at 20 U.S.C. § 1232g(a)(4)(B)(iv); in employment records held by a Covered Entity in its role an employer; and regarding a person who has been deceased for more than 50 years.
+2.	Obligations of NYU. Upon execution of this Agreement, NYU agrees to disclose to Data User the Protected Health Information set forth on Exhibit A to this Agreement (the “Limited Data Set”) solely for use by Data User in the Activities.  Such Limited Data Set shall not contain any of the following identifiers of the individual who is the subject of the PHI, or of relatives, employers or household members of the individual: names; postal address information, other than town or city, state, and zip code; telephone numbers; fax numbers; electronic mail addresses; social security numbers; medical record numbers; health plan beneficiary numbers; account numbers; certificate/license numbers; vehicle identifiers and serial numbers, including license plate numbers; device identifiers and serial numbers; Web Universal Resource Locators (URLs); Internet Protocol (IP) address numbers; biometric identifiers, including finger and voice prints; and full face photographic images and any comparable images.
+3.	Obligations of Data User
+Consideration. In consideration of NYU’s expenses creating and providing the Limited Data Set to Data User, Data User shall pay to NYU a non-refundable fee of ___________ ($___) due at the time of signing this Agreement. The parties hereto represent and warrant that (i) the compensation provided under the terms of this Agreement is consideration for NYU’s time and effort in the collection, creation, and transfer of the Limited Data Set and the data included therein, and is not compensation primarily for supplying PHI as restricted by the HIPAA Regulations, and that (ii) the compensation provided under the terms of this Agreement is consistent with fair market value in arm’s length transactions, and has not been determined in any manner with regard to, and has not been given in exchange for, any implicit or explicit agreement to provide favorable procurement decisions with regard to the Data User’s products or services, or to the value or volume of any business generated between the parties.
+Performance of Activities. Data User may use and disclose the Limited Data Set received from NYU only in connection with the performance of the [research activities] [public health activities] [health care operations] set forth in Exhibit B to this Agreement (the “Activities”).  Data User shall limit the use or receipt of the Limited Data Set to the individuals or classes of individuals who need the Limited Data Set for the performance of the Activities set forth in Exhibit C to this Agreement.  Neither Data User nor its permitted recipient shall use the Limited Data Set for any purpose other than the Activities. In the event the Limited Data Set is used for any purpose outside the terms of this Agreement or disclosed to any individuals or classes of individuals not listed in Exhibit C, the terms of this Agreement shall immediately terminate.
+Confidentiality and Nondisclosure. Data User shall treat the Limited Data Set as confidential information and refrain from using or further disclosing the Limited Data Set except as permitted or required by this Agreement. [Notwithstanding the foregoing, when the Activities are research activities, nothing in this paragraph shall restrict the right of Data User from publishing, disseminating, or otherwise disclosing data and analysis generated by Data User in the Activities using the Limited Data Set as part of a large data set of data available to Data User; provided, that such publication, dissemination, or disclosures does not allow for the identification of any individual or the identification of NYU as the source of the Limited Data Set without the prior written consent of NYU.]
+Use or Disclosure as if Covered Entity. Data User may not use or disclose the Limited Data Set in any manner that would violate the requirements of HIPAA or the HIPAA Regulations if Data User were a Covered Entity.
+Identification of Individual. Data User may not use the Limited Data Set to identify any individual or contact any individual who is the subject of the PHI from which the Limited Data Set was created.
+Disclosures Required By Law. Data User shall not, without the prior written consent of NYU, disclose the Limited Data Set on the basis that such disclosure is required by law without notifying NYU so that NYU shall have an opportunity to object to the disclosure and to seek appropriate relief.  If NYU objects to such disclosure, Data User shall refrain from disclosing the Limited Data Set until NYU has exhausted all alternatives for relief.
+Safeguards. Data User shall use any and all appropriate safeguards to prevent use or disclosure of the Limited Data Set other than as provided by this Agreement.
+Data User’s Agents. Data User shall not disclose the Limited Data Set to any third party, agent, or subcontractor of Data User except with the prior written consent of NYU.  Data User shall ensure that any agents or subcontractors to whom it provides the Limited Data Set agree in writing to be bound by the same restrictions and conditions set forth herein that apply to Data User with respect to such Limited Data Set.
+Reporting. Data User shall report in writing to NYU’s Office of Compliance using the address in Section 5(a) below within five (5) business days of Data User becoming aware of any use or disclosure of the Limited Data Set in violation of this Agreement or applicable law, and will take all reasonable steps to mitigate the effects of such improper use or disclosure, cooperating with all reasonable requests by NYU towards that end.  Such report shall identify, to the extent possible and later supplemented as necessary, the information that has been or is reasonably believed to have been inappropriately used or disclosed; the date(s) of the inappropriate use or disclosure and its discovery; the steps taken to investigate the inappropriate use or disclosure, mitigate its effects, and prevent future inappropriate uses or disclosures; and any other available information that NYU may need to assess the improper use or disclosure and/or to include in a notification to the individual or to the Secretary as required under the HIPAA Regulations.
+4.	Term; Enforcement, and Material Breach
+Term. This Agreement shall be effective as of the Agreement Effective Date, and shall continue for a term of [     (  ) years] unless the earlier terminated. Either party may terminate this Agreement immediately upon written notice to the other party.
+NYU’s Rights of Access and Inspection. From time to time upon reasonable notice, or upon a reasonable determination by NYU that Data User has breached this Agreement, NYU may inspect the facilities, systems, books and records of Data User to monitor compliance with this Agreement.  The fact that NYU inspects, or fails to inspect, or has the right to inspect, Data User’s facilities, systems and procedures does not relieve Data User of its responsibility to comply with this Agreement, nor does NYU’s (1) failure to detect or (2) detection of, but failure to notify Data User or require Data User’s remediation of, any unsatisfactory practices constitute acceptance of such practice or a waiver of NYU’s enforcement or termination rights under this Agreement. 
+Remedies. If NYU determines that Data User has violated a material term of this Agreement, NYU may, at its option, pursue any and all of the following remedies:
+Exercise any of its rights of access and inspection under Section 4(b) of this Agreement; 
+Take any other reasonable steps that NYU, in its sole discretion, shall deem necessary to cure such breach or end such violation; and/or 
+Terminate this Agreement immediately.
+Knowledge of Non-Compliance. Any non-compliance by Data User with this Agreement or with HIPAA or the HIPAA Regulations automatically will be considered a breach or violation of a material term of this Agreement if Data User knew or reasonably should have known of such non-compliance and failed to immediately take reasonable steps to cure the non-compliance.
+Reporting to United States Department of Health and Human Services. If NYU’s efforts to cure any HIPAA/HIPAA Regulations breach or end any HIPAA/HIPAA Regulations violation are unsuccessful, and if termination of this Agreement is not feasible, NYU shall report Data User’s breach or violation to the Secretary of the United States Department of Health and Human Services, and Data User agrees that it shall not have or make any claim(s), whether at law, in equity, or under this Agreement, against NYU with respect to such report(s).
+Return or Destruction of Records. Upon expiration or termination of this Agreement for any reason, Data User shall return or destroy, as specified by NYU, the Limited Data Set that Data User still maintains in any form, and shall retain no copies of such Limited Data Set.  If NYU, in its sole discretion, requires that Data User destroy the Limited Data Set, Data User shall certify to NYU that the Limited Data Set has been destroyed.  If return or destruction is not feasible, Data User shall inform NYU of the reason it is not feasible and shall continue to extend the protections of this Agreement to such Limited Data Set and limit further use and disclosure of such Limited Data Set to those purposes that make the return or destruction of such Limited Data Set infeasible.
+Injunctions. NYU and Data User agree that any violation of the provisions of this Agreement may cause irreparable harm to NYU.  Accordingly, in addition to any other remedies available to NYU at law, in equity, or under this Agreement, in the event of any violation by Data User of any of the provisions of this Agreement, or any explicit threat thereof, NYU shall be entitled to an injunction or other decree of specific performance with respect to such violation or explicit threat thereof, without any bond or other security being required and without the necessity of demonstrating actual damages.  
+Reimbursement for Costs of Notification. Data User agrees to reimburse NYU for all costs incurred by NYU in providing the notification required by 45 C.F.R. Part 164, Subpart D, including credit or identity protection services for individuals who are the subject of a Breach.  Such reimbursement shall be made within thirty (30) days after NYU’s submission to Data User of an invoice accompanied by supporting documentation.
+Waiver of Warranty. WITH RESPECT TO THE LIMITED DATA SET, NYU DISCLAIMS ALL WARRANTIES OF ANY KIND.  DATA IS PROVIDED ON AN “AS-IS” BASIS.  NYU shall not be liable for any inaccuracy or lack of completeness of the LIMITED DATA SET.
+Indemnification. Data User shall indemnify and hold harmless NYU and its affiliates, and each of their trustees, officers, employees, faculty, staff, students, and agents from and against any and all claims, losses, expenses, and damages, including reasonable attorneys’ and legal fees (collectively, “Claims”) resulting from, or relating to, the acts or omissions of Data User in connection with this Agreement, and its representations, duties and obligations hereunder, and with its use, receipt, handling, storage, transfer, disposal, and other activities relating to the Limited Data Set and/or to the Activities.  All non-monetary settlements of any such Claims that require an admission of fault by or impose obligations upon NYU or any of its personnel are subject to NYU’s prior written consent. 
+Survival. Sections 1, 3(B) through 3(I), 4(B) through 4(J), and 5 shall survive expiration or early termination of the Agreement.
+5.	Miscellaneous
+Notices. Any notice required or permitted hereunder shall be in writing and shall be addressed to the party to receive such notice at the address set forth below, or such other address as is subsequently specified in writing. Notice shall be deemed given as of the date it is (A) delivered by hand, (B) received by Registered or Certified Mail, postage prepaid, return receipt requested, or (C) received by Federal Express or an equivalent overnight delivery service.
+Use of Name. Neither party to this Agreement shall use the name or logo of any other party, nor any of the other party’s affiliates, nor any abbreviations thereof, nor the name of any staff member, employee or student of any other party, in connection with any products, promotion, financing, advertising, or sales literature or for any commercial or promotional purpose without the prior written approval of the other party.
+State Law. Nothing in this Agreement shall be construed to require Data User to use or disclose the Limited Data Set without a written authorization from an individual who is a subject of the PHI from which the Limited Data Set was created, or written authorization from any other person, where such authorization would be required under state law for such use or disclosure.
+Entire Agreement. This Agreement constitutes the entire understanding of the parties with respect to the subject matter hereof.
+Amendment.  This Agreement may only be amended by the mutual written consent of authorized representatives of both parties. NYU and Data User agree that amendment of this Agreement may be required to ensure that NYU and Data User comply with changes in state and federal laws and regulations relating to the privacy, security, and confidentiality of PHI or the Limited Data Set.  In the event of such a change in law or regulation that requires an amendment to this Agreement to ensure NYU’s ongoing compliance with such law or regulation, Data User agrees that NYU may amend this Agreement, in its sole discretion, upon thirty (30) days’ written notice to Data User. 
+Assignment. No party shall have the right to assign this Agreement, or any of the rights or obligations hereunder, without the prior written consent of the other party. Any assignment in violation of this Agreement will be void.
+No Third Party Beneficiaries. Nothing express or implied in this Agreement is intended or shall be deemed to confer upon any person other than NYU and Data User, and their respective successors and assigns, any rights, obligations, remedies or liabilities.
+Severability. If any provision of this Agreement is determined to be invalid or unenforceable, in whole or in part, for any reason, the remaining provisions shall continue in full force and effect.
+Ambiguities. The parties agree that any ambiguity in this Agreement shall be resolved in favor of a meaning that complies and is consistent with applicable law protecting the privacy, security and confidentiality of PHI and the Limited Data Set, including, but not limited to, HIPAA and the HIPAA Regulations.
+Primacy. To the extent that any provisions of this Agreement conflict with the provisions of any other agreement or understanding between the parties, this Agreement shall control with respect to the subject matter of this Agreement.
+Independent Contractors. Nothing in this Agreement shall be deemed to create a partnership or agency or any formal business organization or legal entity among the parties.
+Governing Law; Jurisdiction. This Agreement shall be governed by and construed in accordance with the laws of the State of New York, in which jurisdiction this Agreement is hereby made, without regard to any applicable conflicts of law. The parties agree that jurisdiction over any dispute arising out of this Agreement shall be in the courts of the State of New York, and hereby expressly consent to and submit to the jurisdiction of said courts.
+Counterparts. This Agreement may be executed in counterparts (including by facsimile or PDF), each of which shall be an original and all of which together shall be one document binding on all the parties.
+IN WITNESS WHEREOF, the parties hereto have caused their duly authorized representatives to execute this Agreement as of the date first written above.
+EXHIBIT A
+Description of PHI that Constitutes the Limited Data Set
+[Describe]
+EXHIBIT B
+Activities for which the Limited Data Set May Be Used
+[Describe]
+EXHIBIT C
+Persons Permitted to Use or Receive the Limited Data Set
+[Describe]
+If to NYU:
+
+NYU Langone Health Privacy Officer
+One Park Ave, 3rd Floor,
+New, York, NY 10016
+With a email copy to: baacompliance@nyumc.org 
+
+With a Copy to: 
+
+NYU School of Medicine
+Attn: Senior Director, 
+Sponsored Programs Administration
+One Park Avenue, 6th Floor
+New York, N.Y. 10016
+
+And to:
+
+[                ]	If to Data User:
+
+
+_____________________________
+
+
+
+
+						
+Name:
+Title:
+Date:	NEW YORK UNIVERSITY 
+SCHOOL OF MEDICINE
+
+
+
+						
+Name:
+Title:
+Date:
+		Page 6
+	6

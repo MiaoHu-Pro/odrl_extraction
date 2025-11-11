@@ -1,0 +1,284 @@
+Page 1 of 9
+OFFICIAL
+Data Sharing Agreement Between South Australian
+Government/Non-Government
+This agreement is to facilitate data sharing between one or more South Australian government
+agencies and one or more non-government organisations under the Public Sector (Data Sharing) Act
+2016. It incorporates additional Ministerial approval.
+For South Australian government agencies sharing data with each other or with ODA, or for adding
+an addendum, use the templates found here.
+Agencies and organisations must demonstrate that their data sharing project, program, or activity
+aligns with the trusted access principles for sharing data under the Act. These principles are also
+known as the Five Safes.
+The agency or organisation requesting data completes the majority of this form. Prior to submission,
+we recommend that you:
+1. consult with your data custodian and the data provider
+2. understand roles and responsibilities in relation to the Act and to each other
+3. prepare (and attach) a Project Plan, or Scoping document that provides further detail about
+the data sharing activity.
+4. share and discuss the draft data sharing agreement with ODA to ensure compliance with the
+Act.
+Upon completion, the completed (signed) data sharing agreement must be lodged with ODA in
+order to meet annual reporting requirements under the Act. Upon receiving the agreement, a
+reference number will be issued by ODA.
+For further enquiries, assistance completing this form or to lodge a completed data sharing
+agreement please contact ODA via email at OfficeForDataAnalytics@sa.gov.au
+1. REFERENCE NUMBER – [ODA to complete]
+For official reporting purposes, the Public Sector (Data Sharing) Act 2016 requires ODA to provide a
+reference number for each data sharing agreement. ODA will enter this reference number on
+lodgement of your completed form.
+Reference number for this agreement: Date lodged with ODA:
+Date of final signature:
+2. AGENCY/ORGANISATION STAKEHOLDERS
+Data sharing agreements can cover one way transfer of data and/or bilateral/multilateral exchanges
+where agencies/organisations provide each other with data. List all agencies/organisations and their
+involvement in this agreement.
+1. Agency/Department/Organisation
+Data Custodian
+Phone number
+
+Page 2 of 9
+OFFICIAL
+Email
+Physical address
+Data recipient/data provider/both
+2. Agency/Department/Organisation
+Data Custodian
+Phone number
+Email
+Physical address
+Data recipient/data provider/both
+3. Agency/Department/Organisation
+Data Custodian
+Phone number
+Email
+Physical address
+Data recipient/data provider/both
+3. DATA SHARING PROJECT, PROGRAM OR INITIATIVE
+DETAILS
+Briefly describe the project/program/initiative and its anticipated outcomes. (More detail can be
+attached in a Project Plan or Scoping document.)
+How will the data requested help achieve these outcomes?
+Are there any time constraints surrounding the request (e.g. is data required by a certain time)?
+
+Page 3 of 9
+OFFICIAL
+Does your project/program/initiative require other approvals (e.g. Human Research Ethics Approval,
+legal and/or financial)?
+□
+Yes
+□
+No
+If yes, what stage are you in acquiring these approvals?
+4. RISKS AND BENEFITS
+RISK ASSESSMENT
+What are the risks of not undertaking this project/program/initiative?
+What are the risks of undertaking this project/program/initiative?
+Can these risks be mitigated? Please briefly state strategies for mitigating risks if known.
+PUBLIC BENEFIT
+Briefly quantify any potential savings, improved efficiencies, or other operational benefits of the data
+sharing.
+5. DETAILS OF DATA REQUESTED
+DATA SPECIFICATIONS
+Provide details of the data you require. Consider dates, geographic locations, age groups or
+agency-specific categories. Note – you can request additional data at a future time if necessary.
+
+Page 4 of 9
+OFFICIAL
+Specify the frequency of data transmission requested (e.g., one-off vs. ongoing real-time).
+□
+One-off. Specify when this will occur: __________________________
+□
+Continuous/periodic sharing. Provide details of frequency: e.g. weekly
+Date of transmission (if applicable):
+How is data transfer security and service interruption (e.g. outages or systems offline) handled?
+Include details such as encryption (using an ASD approved method for data classification) and/or
+service levels/outage notification.
+6. TRUSTED ACCESS PRINCIPLES – THE FIVE SAFES
+SAFE PROJECTS – the purpose for which data is to be shared and used must be
+appropriate.
+Select at least one purpose for the data being requested.
+☐
+To enable data analytics work to be carried out on the data to identify issues and solutions
+regarding our agency’s policy making, program management and/or service planning/delivery
+☐
+To enable our agency to facilitate, develop, improve or undertake our agency’s policy making,
+program management and/or service planning/delivery
+☐
+To assist in law enforcement
+☐
+To assist in emergency planning and/or response
+Note: If your request does not fit into one of these categories, data cannot be shared under the framework of the Act.
+Is there a risk of loss, harm or other detrimental impact to the community if the sharing and use of
+the data does not occur?
+□
+Yes
+□
+No
+If Yes, provide details below.
+Has your project/program/initiative been endorsed as “safe’’ by an appropriate authority?
+
+Page 5 of 9
+OFFICIAL
+□
+Yes
+□
+No
+If Yes, specify the authority:
+SAFE PEOPLE – the public sector agency requesting the data must be an appropriate
+agency.
+Do your staff possess the technical requirements (e.g. equipment, software) and knowledge (e.g.
+skills and experience) to effectively use the requested data for the proposed purpose?
+□
+Yes
+□
+No
+Provide specific details below.
+Will your agency restrict access to the requested data to people with appropriate security
+clearances, role descriptions or qualifications? This is particularly relevant to the access needs of
+technology staff.
+□
+Yes
+□
+No
+Provide specific details below.
+How will you enforce these restrictions?
+Will the agency providing the data also provide support to use the data for the proposed purpose?
+□
+Yes
+□
+No
+If Yes, outline the nature of the support below.
+Are all parties invested in the outputs?
+□
+Yes
+□
+No
+If Yes, provide more information below.
+
+Page 6 of 9
+OFFICIAL
+SAFE DATA – data to be shared and used for a purpose must be appropriate for that
+purpose.
+Data containing personal information must be de-identified before it is shared except in specific
+circumstances. Do you require personal information to remain identified?
+□
+Yes
+□
+No
+If Yes, select one or more of the following circumstances:
+☐
+the person to whom the personal information relates has consented to the sharing and use
+☐
+the sharing and use of the personal information is reasonably related to the original purpose for
+which it was collected and there is no reason to think that the person to whom the information
+relates would object to the sharing and use
+☐
+the sharing and use of the personal information is in connection with a criminal investigation or
+criminal proceedings or proceedings for the imposition of a penalty
+☐
+the sharing and use of the personal information is in connection with the wellbeing, welfare or
+protection of a child or children or other vulnerable person
+☐
+the sharing and use of the personal information is reasonably necessary to prevent or lessen a
+threat to the life, health or safety of a person
+☐
+the purpose of the sharing and use of the personal information cannot be achieved through the
+use of de-identified data and it would be impracticable in the circumstances to seek the consent of
+the person to whom the information relates
+Note: If your request does not meet at least one of these criteria, data must be de-identified before it is shared under the
+framework of the Act
+Are there any potential data quality, matching, reconfiguration, interpretation or other issues
+regarding the data being requested?
+□
+Yes
+□
+No
+If Yes, provide specific details below.
+SAFE SETTINGS – the receiving agency’s environment for storing, accessing and using data
+must be appropriate.
+Where will the data be stored and used? Specify physical locations of data, data centres, removable
+media, staff accessing data etc.
+What security and technical safeguards are in place to ensure data remains secure and protected
+from unauthorised access and use (e.g. governance, physical safeguards, personnel and cyber
+security arrangements). Safeguards MUST align with the classification of the information being
+shared - aggregated information may increase classification.
+
+Page 7 of 9
+OFFICIAL
+Based on these safeguards, is the likelihood of accidental disclosure or access low?
+□
+Yes
+□
+No
+Provide specific details below.
+How will the data be dealt with after it has been used for this purpose?
+SAFE OUTPUTS – the publication or other disclosure of the results of data analytics work
+conducted on data must be appropriate.
+Will the results of the data or analytics work conducted on the shared data be published or
+disclosed?
+□
+Yes
+□
+No
+If Yes, specify the nature of the proposed publication or disclosure below.
+Who is the likely audience of the information, publication or disclosure?
+What is the likelihood and the extent to which the publication or disclosure may contribute to the
+unauthorised identification of a person in the data?
+7. INTRA-AGENCY/ORGANISATION COMMENTS
+Data requestor/s – outline additional comments to the data provider/s to support your request
+Name of agency/organisation _____
+Details:
+Name of agency/organisation______
+Details:
+
+Page 8 of 9
+OFFICIAL
+Data provider/s – outline additional requirements for the data requestor/s to follow.
+Name of agency/organisation _______
+Details:
+Name of agency/organisation _______
+Details:
+8. SUPPORTING DOCUMENTATION
+List supporting documents submitted with this form (e.g. Project Scoping document).
+1.
+2.
+3.
+9. SIGNATURES AND APPROVAL
+Please ensure the signatories have appropriate delegation to authorise this request (e.g. data
+custodian, executive/Chief Executive or Minister).
+1. Agency/Department/Organisation
+Data Custodian
+Phone number
+Email
+Physical address
+Data recipient/data provider/both
+Signature
+Date
+2. Agency/Department/Organisation
+Data Custodian
+Phone number
+
+Page 9 of 9
+OFFICIAL
+Email
+Physical address
+Data recipient/data provider/both
+Signature
+Date
+3. Agency/Department/Organisation
+Data Custodian
+Phone number
+Email
+Physical address
+Data recipient/data provider/both
+Signature
+Date
+Minister Hon Kyam Maher MLC
+Minister for Industrial Relations and Public Sector
+Delegate Peter Worthington-Eyre
+Chief Data Officer – Department of the Premier and Cabinet
+Signature
+Date
+The Public Sector (Data Sharing) Act, 2016 requires the preparation of an Annual Report about the
+operation of the Act. Details from all approved data agreements will be included in the report.

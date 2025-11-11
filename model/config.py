@@ -86,14 +86,14 @@ class Config(object):
         base_labels = [
             "O",
             "B-PARTY_ASSIGNEE", "I-PARTY_ASSIGNEE",
-            "B-PARTY_ASSIGNER", "I-PARTY_ASSIGNER",
+            # "B-PARTY_ASSIGNER", "I-PARTY_ASSIGNER",
             "B-ASSET", "I-ASSET",
             "B-ACTION", "I-ACTION",
             "B-RULE_TYPE", "I-RULE_TYPE",
             "B-CONSTRAINT", "I-CONSTRAINT",
-            "B-DUTY", "I-DUTY",
+            # "B-DUTY", "I-DUTY",
             "B-PURPOSE", "I-PURPOSE",
-            "B-CONSEQUENCE", "I-CONSEQUENCE"
+            # "B-CONSEQUENCE", "I-CONSEQUENCE"
         ]
 
         # Whether to include <pad>, <start>, <eos> in the label space as in your previous setup

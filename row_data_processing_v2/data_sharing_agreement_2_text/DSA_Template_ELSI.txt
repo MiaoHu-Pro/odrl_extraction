@@ -1,0 +1,160 @@
+Instructions for use 
+Scope of use:
+This Data Sharing Agreement template (“Template”) has been set up  in conjunction with legal advisors of all Dutch academic hospitals and serves to facilitate and regulate the transfer of/access to personal data that were previously collected by a Dutch University hospital (“Provider”) from patients, participants and/or volunteers for the purpose of scientific research, by an external not-for-profit party (“Recipient”). 
+This transfer/access is only permitted for Recipient’s own investigator-initiated research (single centre). The role of Provider in this Template is solely as provider of data that is already in its possession. Provider does not (co-)initiate the research, nor does the Provider participate in the performance of the research. For transfer of personal data for the purposes of such a joint research project, a collaborative research agreement or another type of agreement with joint data controllership will be the proper document to use. If Provider is asked to actively collect data from subjects instead of providing existing data, a prospective study agreement may be the proper document to use. For such different documents, please contact your institution’s legal advisors. 
+For sake of clarity,  the Template has been set up with the purpose of facilitating transfer among the scientific community; however, any Provider has no obligation to provide data requested by any Recipient. And while Provider shall seek wide implementation of the Template for the interest of scientific research, it also the case that additional requirements may be imposed in light: (i) of circumstances under which the data may have been collected and/or (ii) the limitations considered by scientific committees custodian of data from cohort studies.
+The Template and these instructions for use are provided for informational purposes. Please refer to your institution’s legal advisors for further advice and assistance when considering shipping personal data at the request of a third party. You may find the contact details of your institution’s legal advisors by using the buttons on page <…> of this ELSI Servicedesk.
+Coded data is personal data under the GDPR
+The General Data Protection regulation or GDPR (Dutch: AVG) brings with it the obligation to investigate whether data can be transferred in fully anonymous form as this brings with it the least amount of risk. However, anonymization is not always possible and data may be shipped in coded form. Please note that merely coding personal data, for example by replacing direct identifiers with a number and storing the key in a different location in itself will not result in anonymization under the GDPR. When sharing coded data, person sharing that data should therefore always assume that he/she is transferring personal data unless the local Data Protection Office(r) has explicitly confirmed that the data qualifies as anonymous data. If the latter is the case, a different document should be used, such as a Data Sharing Agreement for anonymous data. For such a document, please contact your institution’s legal advisors. 
+Legal and ethical preconditions
+The shipment of personal data is subject to certain laws and regulations, which include the GDPR. Since the personal data was most likely originally obtained for diagnosis or medical treatment, the articles 457, 458 and 467 of the WGBO (‘Beroepsgeheim’) will also apply.
+Therefore, as stated in more legal detail in the Template, explicit consent from the relevant person to whom the data relates is required, or alternatively –if consent is not present and feasible- a documented assessment has to be made that the provision of data is legitimate, based on the ground that it serves to enable sound scientific research. In all cases, the Institution’s Material and Data ethics committee should be involved and should approve the shipment. In the event that an institution has not installed a Material and Data ethics committee, that institution will have assigned the responsibility to approve shipments of data to another entity or person within its organisation, whose contact details may be found by using the buttons on page <..> of this ELSI Servicedesk.
+Location of Recipient
+Laws on data protection in countries outside the EU/EEA will provide levels of data protection that differ from the GDPR. 
+Therefore, if the Recipient is established outside the EU/EEA territory, supplementary contractual safeguards and provisions may be necessary. In such an event please contact your institution’s legal advisors. For a list of EU and EEA countries, please follow: https://www.netherlandsandyou.nl/documents/frequently-asked-questions/eu-eea-efta-and-schengen-countries.
+Legal name and signatures
+For the correct legal name of your institution and the names of the authorised people to sign the agreement, please contact your institution’s legal advisors.
+AGREEMENT ON THE SHARING OF 
+PSEUDONYMIZED PERSONAL DATA 
+(for academic research)
+This agreement (hereinafter referred to as “Agreement”) is made and entered by and between: 
+<…>, the Netherlands, legally represented by the undersigned, hereinafter referred to as “PROVIDER” 
+and 
+<…>, having its principal office at <…>, <…>, legally represented by the undersigned, hereinafter referred to as “RECIPIENT”. 
+PROVIDER and RECIPIENT hereinafter jointly referred to as “Parties” and individually as “Party”;
+WHEREAS
+PROVIDER has obtained and / or generated DATA as further defined below; 
+RECIPIENT, through <…>, hereinafter referred to as “RECIPIENT SCIENTIST”, has requested PROVIDER, through <…>, hereinafter referred to as “PROVIDER'S SCIENTIST”, to provide RECIPIENT with the DATA for use by RECIPIENT’S SCIENTIST for the purpose of its RECIPIENT’S RESEARCH PLAN;
+The purpose and means of RECIPIENT’S RESEARCH PLAN have been determined by RECIPIENT;
+PROVIDER is willing, subject to the terms and conditions of this Agreement, to provide the DATA to RECIPIENT.
+I Definitions
+DATA: the data being transferred under this Agreement is the data that is further specified in Annex I to this Agreement, provided without directly identifying personal information. The DATA constitutes pseudonymized personal health data under the GDPR.
+RECIPIENT’S RESEARCH PLAN: The research plan specified in Annex II to this Agreement for which the DATA may be used. 
+EFFECTIVE DATE: The date of last signing of this Agreement.
+INVENTION: any invention, discovery , improvement, material, signal, process, formula, know-how or other innovation related to or arising from the use of the DATA and/or CONFIDENTIAL INFORMATION , whether patentable or not and obtained as a result of the 	performance of RECIPIENT’S RESEARCH PLAN.
+CONFIDENTIAL INFORMATION: All information, know-how, grant applications, method of work, techniques, expertise of PROVIDER regarding the DATA, its characteristics and PROVIDER’s research concerning the DATA, whether of a scientific, technical, engineering, operational, or economic nature, supplied to or obtained by RECIPIENT in written form, in the form of drawings or in the recording of oral conversation, or samples. 
+GDPR: the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal 	data and on the free movement of such data (General Data Protection Regulation)
+APPLICABLE DATA PROTECTION LAW: the GDPR and any additional locally applicable data protection legislation.
+SUBJECT(S): shall mean the patient or other person from whom the DATA was obtained.
+II. Terms and Conditions of this Agreement:
+The DATA and any other information provided is made available as a service to the research community and no ownership rights in the DATA and any other information shall be obtained by RECIPIENT under this Agreement.
+DATA shall be provided by PROVIDER in a sufficiently secure manner and Parties shall handle all DATA in accordance with the APPLICABLE DATA PROTECTION LAW and shall keep such DATA confidential without any of the exclusions contained in Article 11 below.
+With respect to the DATA, RECIPIENT shall be considered to be a separate data controller under the APPLICABLE DATA PROTECTION LAW for the processing of the DATA for RECIPIENT’S RESEARCH PLAN. 
+RECIPIENT shall implement appropriate technical and organizational measures to meet the requirements for data controllers of the APPLICABLE DATA PROTECTION LAW.
+If RECIPIENT becomes aware of a personal data breach, RECIPIENT shall promptly notify PROVIDER. In such a case Parties will fully cooperate with each other to remedy the personal data breach, fulfill the statutory notification obligations timely and cure any damages. The term ‘personal data breach’ refers to articles 33 and 34 of GDPR.
+In the event that SUBJECT withdraws his/her permission for the use thereof, PROVIDER shall supply RECIPIENT with sufficient information and RECIPIENT shall immediately cease all use of the relevant DATA and shall delete all copies of the relevant DATA. Upon request from PROVIDER, RECIPIENT shall confirm in writing the complete deletion of such DATA.
+PROVIDER shall be data controller of the DATA under the GDPR up until the moment the DATA is provided to RECIPIENT.
+The Parties’ contact details for inquiries regarding handling and protection of DATA are as follows:
+For RECIPIENT, to: 
+Name: 
+Address: 
+Tel: +
+Fax: +
+e-mail: 
+For PROVIDER, to: 
+Name: 
+Address: 
+e-mail:
+RECIPIENT shall not carry out any procedures with the DATA, such as linking, comparison, processing, with which the identity of the Subject could be derived.. The RECIPIENT and the RECIPIENT SCIENTIST agree that the DATA: (a) is to be used only for the academic purposes as described in RECIPIENT’S RESEARCH PLAN; (b) will not be used for other, including commercial purposes. Furthermore, in carrying out the RECIPIENT’S RESEARCH PLAN, RECIPIENT shall not allow third parties that are not expressly mentioned in the Annexes to access or otherwise process the DATA without prior written approval of PROVIDER. However, as an exception to the foregoing, such prior approval shall not be required for service providers in the context of the standard business operations of RECIPIENT, such as parties who supply ICT infrastructure maintenance. RECIPIENT will safeguard that any data processors who have access to the DATA are instructed by a binding agreement to process the personal data in accordance with the requirements stated in the GDPR.
+[OPTION: Notwithstanding the restrictions on transfer given directly above, RECIPIENT may transfer the DATA to academic third parties solely for the purpose of replication of the RECIPIENT’S RESEARCH PROJECT, in conformance with the data and replication policies of a journal that published the results of RECIPIENT’S RESEARCH PROJECT. Such transfers shall only be made by RECIPIENT after the conclusion of a written agreement with terms at least as strict as the terms of this Agreement and without any further right of transfer.]
+Upon request, RECIPIENT’S SCIENTIST shall keep PROVIDER’S SCIENTIST informed of the results arising from RECIPIENT’S RESEARCH PLAN. 
+RECIPIENT will report any INVENTIONS to PROVIDER and PROVIDER’S SCIENTIST. RECIPIENT shall promptly provide PROVIDER with a detailed written description of the INVENTION and indicate the role, if any, of any of RECIPIENT’s employees in creating the INVENTION. Ownership of INVENTIONS will follow inventorship. Where ownership of any INVENTIONS vests in RECIPIENT, PROVIDER shall have a perpetual nonexclusive royalty free license to use such inventions for its internal research and teaching purposes. In the event the INVENTION is a joint INVENTION, both Parties shall make appropriate mutual arrangements concerning the protection and exploitation of such joint INVENTION. Until such agreement is effective, each Party shall be entitled to use the joint INVENTION for research purposes, but neither Party shall be entitled to exploit, disclose, license or transfer its rights in connection with the joint INVENTION.
+Except as provided in this Agreement, no express or implied licenses or other rights are provided to the RECIPIENT under any Intellectual Property (IP) rights of PROVIDER.
+The DATA will be provided at no cost or with an optional transmittal fee solely to reimburse PROVIDER for the collection and/or preparation of the DATA. If a fee is requested, the amount will be indicated here:	<…>. RECIPIENT will pay the transmittal fee within forty five (45) days from the date of receipt of a valid invoice thereto. Payment will be made to a bank account in the name of the PROVIDER, as set out in the invoice.
+DATA will be provided to the RECIPIENT by PROVIDER’s SCIENTIST in a sufficiently secure manner and in a format to be agreed upon by the RECIPIENT SCIENTIST and the PROVIDER’s SCIENTIST. 
+PROVIDER warrants a) that it has verified that there is an appropriate legal ground for the provision of the DATA to RECIPIENT in accordance with the GDPR (such as Article 6 and/or 5.1 sub b GDPR) b) that there is a valid exception to the prohibition for processing personal health data (Article 9 GDPR) and c) that it shall be provided under approval from the relevant ethics committee to the extent required. Apart from this, it is expressly understood that PROVIDER does not make any warranties regarding the DATA and specifically does not warrant or guarantee that the DATA will be accurate, be merchantable or useful for any particular purpose. PROVIDER cannot and shall not be held liable for any claims or damages by RECIPIENT or any third party, in connection with or as a result of the use of DATA by RECIPIENT. Unless and to the extent caused by PROVIDER’s gross negligence or willful misconduct, RECIPIENT undertakes to hold harmless PROVIDER at all times against all of such damages or claims. 
+In regards to the DATA and personal data breaches, RECIPIENT shall be responsible and liable for any damages, losses and fines resulting from its own actions or failures to adhere to the terms of this Agreement and APPLICABLE DATA PROTECTION LAW and RECIPIENT shall indemnify and hold harmless PROVIDER for any of such damages. For the purposes of this sub clause, actions or omissions of data processors contracted by RECIPIENT, shall be attributed to RECIPIENT.
+RECIPIENT agrees in its use of the DATA to comply with all applicable international and national laws, statutes, regulations and guidelines. 
+RECIPIENT shall treat all CONFIDENTIAL INFORMATION as confidential for the duration of this Agreement including any extension thereof and thereafter for a period of five (5) years following termination or expiry of this Agreement. Excluded from this obligation of confidentiality shall be any CONFIDENTIAL INFORMATION of which the RECIPIENT can reasonably demonstrate that it (a) was previously known to RECIPIENT, or (b) is, and/or becomes, publicly available during said five (5) year period through no fault of RECIPIENT, or (c) is independently and lawfully developed by the RECIPIENT, or (d) was published or otherwise disseminated in accordance with the publication procedure set out below in article 12. However, the foregoing exceptions shall not apply to: (a) CONFIDENTIAL INFORMATION contained within more general information that may fall within one or more of the exceptions, or (b) any combination of features or items of CONFIDENTIAL INFORMATION where one or more of the relevant individual features or items (but not the combination itself) may fall within one or more of the exceptions. The obligation of confidentiality shall not apply to any disclosure required by law, provided that RECIPIENT shall notify PROVIDER of any disclosure required by law in sufficient time so that PROVIDER may contest such requirement, if PROVIDER so chooses.
+Parties acknowledge the importance of disseminating the results of the RECIPIENT’S RESEARCH PROJECT. Therefore, RECIPIENT shall endeavor to publish or otherwise publicly disclose information, any data, results or information generated using the DATA (“Disclosure(s)”), after review by PROVIDER. The following shall apply to Disclosures: 
+Authorship of any publications shall follow the principles set out in the ICMJE recommendations ‘Defining the Role of Authors and Contributors’ as can be found on http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html .
+At least thirty (30) days before RECIPIENT submits a paper or abstract for Disclosure, RECIPIENT shall provide such paper or abstract to PROVIDER, who will have thirty (30) days to review proposed manuscripts and fifteen (15) days to review proposed abstracts to assure that its CONFIDENTIAL INFORMATION is protected. It is agreed that RECIPIENT will fully comply with any reasonable written request by PROVIDER to omit specified CONFIDENTIAL INFORMATION of PROVIDER from such paper, abstract, press release or other disclosure prior to Disclosure.
+In every Disclosure by RECIPIENT based upon results obtained from the 	research through the help of the received DATA provided by PROVIDER, RECIPIENT shall appropriately acknowledge PROVIDER and PROVIDER’S SCIENTIST as contributor of the DATA. 	 
+This Agreement will become effective on the EFFECTIVE DATE and will terminate […] years after the EFFECTIVE DATE, unless mutually extended in writing by both Parties. Any clauses which will be expected or intended by its nature to survive the termination or the expiration of this Agreement, shall survive the termination or the expiration of this Agreement. 
+Upon expiration or termination of this Agreement, the right to use the DATA and CONFIDENTIAL INFORMATION will automatically end. [OPTION 1: After expiration or termination of this Agreement, RECIPIENT will destroy all DATA received from PROVIDER. Upon request from PROVIDER, RECIPIENT shall confirm in writing the complete deletion of such DATA and CONFIDENTIAL INFORMATION.] [OPTION 2: However, RECIPIENT may retain one copy of the DATA solely to comply with DATA transfer requests that third party academic institutions may make for replication of the RECIPIENT’S RESEARCH PROJECT, as described in Article 3 above]
+This Agreement will be construed, governed, interpreted and enforced according to the laws of the Netherlands. Parties will first strive to settle any disputes amicably before taking legal action. All disputes arising out of or in relation to this Agreement that cannot be settled amicably will be brought before the competent court in the Netherlands, in the district in which the Provider resides. 
+This Agreement will be binding upon and inure to the benefit of the respective successors and assignees of the Parties hereto. However, RECIPIENT may not assign this Agreement in whole or in part without the prior written consent of the PROVIDER.
+This Agreement may only be altered or amended by an instrument in writing signed by all of the Parties. 
+If any portion of this Agreement is in violation of any applicable regulation, or is unenforceable or void for any reason whatsoever, such portion will be inoperative and the remainder of this Agreement will be binding upon the Parties. 
+Both Parties acknowledge that the signatories to this Agreement are authorized representatives of each of the Parties and legally authorized to sign this Agreement. 
+If the lawful performance of any part of this Agreement by a Party is rendered impossible by or as a result of any cause beyond such Party's reasonable control, such Party will not be considered in breach hereof as a result of failing so to perform.
+IN WITNESS WHEREOF, the Parties have executed this Agreement, in duplicate originals or as a signed PDF, as of the Effective Date.
+ANNEX I
+Description of the DATA, methods of transfer and storage, allowed processors
+	ANNEX II
+Recipient’s research plan 
+------------------------------
+For the PROVIDER
+
+
+By:___ ________________
+Name: 
+Title
+Date:__________________
+
+By:___________________ 
+Name: 
+Title
+Date:__________________
+
+
+
+
+
+READ AND ACKNOWLEDGED:
+
+
+________________________________________
+PROVIDER’S SCIENTIST	For RECIPIENT,
+ 
+
+By:___________________
+Name: 
+Title
+Date:__________________
+
+By:____________________
+Name: 
+Title
+Date:__________________
+
+
+
+
+
+READ AND ACKNOWLEDGED:
+
+
+________________________________________
+RECIPIENT’S SCIENTIST
+Data subjects
+The personal data transferred concern the following categories of data subjects:
+	
+Purpose of the transfer(s)
+The transfer is made for the following purpose:
+	See Annex II
+Categories of data
+The personal data transferred concern the following categories (types) of data:
+	
+
+NB: All health information qualifies as sensitive data as meant in the field below
+Sensitive data (if appropriate)
+e.g.: 
+•racial or ethnic origin,
+•political opinions,
+•religious or philosophical beliefs,
+•trade union membership,
+•genetic data, biometric data,
+•health data,
+•sex life and sexual orientation	
+ Method of transfer
+e.g.: Soft- or hardware encrypted USB drive, database entry such as in Castor, etc. 
+
+	
+Method of data storage and security measures (e.g. method of encoding)
+	
+Authorized processors, if applicable, as indicated in clause 3 of the Agreement
+	
+NFU Template DSA - January 2020 		
+		1/1
+		2/2

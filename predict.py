@@ -1,7 +1,7 @@
 # predict.py
 import os
 from typing import Optional, List, Tuple
-from hybrid_rules import apply_rules_to_predictions
+# from hybrid_rules import apply_rules_to_predictions
 import torch
 import pandas as pd
 from tqdm import tqdm
@@ -62,22 +62,22 @@ def run_test(
     # Map back to string labels (cuts to <start>...<eos>)
     pred_label, gold_label = recover_label(preds, golds, cfg.l2i, cfg.i2l)
 
-    # using hybrid rules only
-    if test_features is not None:
-        pred_label = apply_rules_to_predictions(pred_label, test_features)
+    # # using hybrid rules only
+    # if test_features is not None:
+    #     pred_label = apply_rules_to_predictions(pred_label, test_features)
 
 
     base_labels = [
         "O",
         "B-PARTY_ASSIGNEE", "I-PARTY_ASSIGNEE",
-        "B-PARTY_ASSIGNER", "I-PARTY_ASSIGNER",
+        # "B-PARTY_ASSIGNER", "I-PARTY_ASSIGNER",
         "B-ASSET", "I-ASSET",
         "B-ACTION", "I-ACTION",
         "B-RULE_TYPE", "I-RULE_TYPE",
         "B-CONSTRAINT", "I-CONSTRAINT",
-        "B-DUTY", "I-DUTY",
+        # "B-DUTY", "I-DUTY",
         "B-PURPOSE", "I-PURPOSE",
-        "B-CONSEQUENCE", "I-CONSEQUENCE"
+        # "B-CONSEQUENCE", "I-CONSEQUENCE"
     ]
 
     # pred_label, gold_label = recover_label(...)

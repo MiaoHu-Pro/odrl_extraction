@@ -1,0 +1,101 @@
+Information Sharing Agreement In relation to: Noise Insulation Works data relating to residents in the London Borough of Camden administrative area.
+This individual Agreement is made between: High Speed Two (HS2) Limited (Company No. 06791686) registered office at Two Snowhill, Snow Hill Queensway, Birmingham B4 6GA (“HS2”) and The Mayor and Burgesses of the London Borough of Camden of Town Hall, Judd Street, London WC1H 9LP (“the Council”) 1 Introduction 1 Background This Data Sharing Agreement [DSA] documents how the parties to this agreement will share data.
+HS2 is undertaking, as part of the High Speed Two Project, Noise Insulation works on properties in the London Borough of Camden (LBC) administrative area.
+It has been identified that a limited data share between HS2 and LBC would be beneficial to ensure a collaborative approach to completion of these works.
+This agreement is in relation to noise insulation (NI).
+The parties to this Agreement are registered Data Controllers under the Data Protection Act.
+Both parties confirm that they comply with data protection legislation by: having a lawful basis for processing and sharing personal data.
+ensuring data quality.
+storing and sharing information securely, with access management controls.
+having policies and procedures for compliance with data protection legislation including for managing data subject rights & complaints, identifying and managing data breaches/incidents and retention & disposal.
+ensuring that mandatory training is undertaken regularly by their employees to ensure they are clear and up to date on their responsibilities.
+Every individual must uphold the principles of this agreement and overarching confidentiality, and seek advice from the relevant Data Protection Officer when necessary.
+undertaking appropriate data protection due diligence checks with any contractors/data processors they employ, and ensuring that a written agreement is in place with each data processor, and that all data processors will be bound by this agreement.
+having written processes for the processing of data to ensure employees use and share personal data in line with data protection law, the data protection principles, and this agreement.
+Purpose for the sharing The data sharing will allow the Sender (HS2) to provide assurance to the Recipient (LBC) regarding completion of Noise Insulation works to Camden owned properties provisionally, thereby improving project outcomes.
+Information relating to the individual outcomes in relation to the NI outcomes is held by contractors CSJV and more recently SCS and MDJV, because they are responsible for undertaking the installations.
+Although Camden has its own data from conversations with residents.
+HS2 and Camden have agreed to bring the data that both parties hold together and that Camden will conduct an engagement exercise with its residents later this year to close out the NI programme.
+As a result, HS2 is sharing the data it has accumulated whilst conducting the NI programme, with Camden.
+This includes the handover packs and its database (NI Master Tracker which is updated and provided to Camden on a monthly basis), including correspondence and consents/refusals.
+Specifically BORIS Reports or the agreed equivalent documentation are issued with a handover pack or linked to them in relation to installs.
+Whilst the majority of the handover packs relate to the actual installation of NI fixtures, resident acceptance/sign off or decline letter etc. there may be DPA rights based on communications between CSjv and the resident of properties where Camden are not the landlord/freeholder, hence this agreement.
+However, cooperation via this DSA is necessary because Camden officers need the full information concerning an individual and their circumstances to be available to them.
+Works carried out should be transparent, auditable and recorded in a format easy to access for all relevant parties as set out in the recommendations as part of the Golden Thread of information in the Hackitt report.
+Redacted information would make it difficult to understand the handover packs and mean that we start capturing the information from scratch.
+This will improve project outcomes by ensuring that everyone eligible for NI has been contacted, that the installs have been safely fitted in accordance with Camden and fire safety requirements and any associated risk are identified and mitigated.
+Other benefits include: a) Up to date information allowing a faster follow up and closing of the project b) A record of quality assurance to indemnify Camden as a landlord.
+Allows for further analysis and learning from the past evidence e.g. uncontactable residents d) gives confidence in the transparency of the NI process This Agreement has been developed to: a) Define the specific purposes for which the signatory agencies have agreed to share information.
+To indemnify Camden and satisfy fire/ safety liabilities: The handover packs will include a form of Boris report or a link to such, for every Camden owned property that has noise insulation installed, for all the fixtures.
+The report will clearly evidence in the handover packs that all works and fire stopping has been carried out in accordance with the requirements of a 3rd party accredited company e.g. Exova BM TRADA Q-Mark Fire Stopping Installation Scheme1.
+The Boris report will also include the before and after installation photos and clearly show warning labels confirming the fire stopping and for these not to be disturbed.
+In order to assist Camden when residents dispute NI information, HS2 is to provide background evidence of contact with Camden residents via its officers and contractors.
+In addition, a record of resident decision making in relation to NI installation such as signed copies of letters refusing NI etc. This will facilitate informed conversations between Camden and its residents.
+The data relating to all 3 fixtures (secondary glazing, mechanical ventilation and solar blinds or film) would be inputted and their individual status noted.
+This information will also serve to indemnify Camden against claims for compensation/prosecution if the fixtures fail or cause accident/incident/ fire spread and satisfy the legal requirements and regulations placed on Camden.
+The data should evidence that “all works carried out should not worsen fire safety conditions or prejudice LBC under the Regulatory reform Fire Safety Order (Article 10 Principles of Prevention).
+Set out how the parties will meet their data protection obligations as it will: 1 The Exova BM TRADA Q-Mark fire stopping installation scheme is designed to allow installers to demonstrate that they are competent to assemble and install fire stopping products and ensure that installations have been conducted appropriately in accordance with UKAS (or equivalent nationally accredited body which is covered by the ILAC agreement) accredited test evidence and/or the manufacturer’s instructions and / or the manufacturer’s scope of certification.
+Outline the Personal and Special Category Data to be shared.
+Set out the lawful basis conditions under UK GDPR and Data Protection Act 2018 through which the information is shared.
+Stipulate the roles and procedure that will support the processing.
+Describe how the rights of the data subject(s) will be protected as stipulated under the data protection legislation.
+Describe the security procedures necessary to ensure compliance with responsibilities under data protection legislation and agency-specific security requirements.
+Describe how this arrangement will be monitored and reviewed.
+Legal Requirements HS2 has been designated by the Secretary of State to be the ‘nominated undertaker’, a function conferred on HS2 under the s.45 High Speed Rail (London - West Midlands) Act 2017 and s.41 High Speed Rail (West Midlands - Crewe) Act 2021.
+Lawful Basis For personal data the legal basis is UK GDPR Article 6(1)(e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller Use of this article requires that the Data Protection Act section 8 be satisfied.
+This is met by the High Speed Rail (London - West Midlands) Act 2017 and High Speed Rail (West Midlands - Crewe) Act 2021 for HS2 and the Localism Act 2011 for the Council.
+For special category data the legal basis is UK GDPR Article 9(2)(g): The processing is necessary for reasons of substantial public interest, on the basis of domestic law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject.
+The DPA 2018 Schedule 1, Part 2 condition met is para. 6 (statutory purposes).
+The processing is in the substantial public interest and necessary for the purposes of a function conferred on a person by enactment or rule of law.
+This sharing can be considered to be necessary for the purposes of constructing the railway, a function which has been conferred on HS2 under the High Speed Rail (London - West Midlands) Act 2017 and High Speed Rail (West Midlands - Crewe) Act 2021.
+In order to undertake these functions, HS2 must work in partnership with relevant stakeholders in order to achieve the required outcomes.
+This partnership working includes the limited sharing of personal data where required and necessary to achieve specific objectives.
+The requirement is met by the Localism Act 2011 for the Council.
+Length of agreement and review The HS2 Programme Lead or delegated authority will monitor and review the data being shared from time to time.
+This agreement will commence at midnight on the date hereof.
+This agreement will remain in place until all relevant work on the Project has been completed within the LBC area or until 01/01/2030, whichever is the sooner, or until terminated by either party upon one month’s written notice, save in the event of a data breach where either party shall be entitled to terminate in writing upon no notice.
+A review of this information sharing agreement will take place after an initial six months and yearly thereafter, unless otherwise agreed by the organisations’ Data Protection Officers.
+The aim of the review will be to ensure the purposes are still relevant, the scope has not slipped, the benefits to the data subjects and organisations are being realised, and the procedures followed for information security are effective.
+Key Contacts HS2 Limited Noise Insulation Project Manager EWC South Programme Manager Data Protection Officer (HS2DataProtection@hs2.org.uk) London Borough of Camden Katy Mann - Head of HS2 Programme Delivery (katy.mann@camden.gov.uk) HS2 Housing Manager Data Protection Officer – (DPO@camden.gov.uk) Other roles – community liaison team/ HS2 Community Liaison Manager and HS2 Programme Manager 2 Information Sharing 1 Type of information that may be shared Name, Address, Phone number, Email Ethnic origin/ religion where relevant for access Info relating to vulnerabilities e.g health/illness, 1st language isn’t English, night worker, age etc Cautions noted e.g. aggressive, hoarder etc Details of works including problems/issues with installs or contractors, handover packs etc Communications for booking installations Letter/ email sent/received - or any signed statement from the resident and/or their representative/advocate, HS2 officer or its contractor Complaints and outcomes E23 outcomes
+Any HS2/CSJV/SCS or their sub-contractors decision making around inability to install NI Images in photographs, film or CCTV Handover information including: o Handover cover sheet o Location Plan o Property details and offer o Customer Agreement Signoff o Survey information o Manufacturing survey info o Sub-contractor job sheet o Drawings o Pre installation photos o QA Site Check sheet o Post Installation photos o NI Install Signoff o Acknowledge Rejection form o Snags list o Snag sign off o O&M manual – window o O&M manual – blinds o Window Guarantee o Blind Guarantee 2 How the information will be shared Transfer: will occur by a secure method appropriate to the sensitivity of the data e.g., secured, and encrypted file, secure file transfer mechanism, secured direct system access (e.g., eB), etc., as appropriate.
+Frequency: ad-hoc as required, but not less than quarterly.
+The terms of this agreement remain binding on any information shared and retained throughout its lifecycle, irrespective of whether the party remains a current signatory to this agreement.
+Information will be shared on a strict need to know basis only and the data will only be processed by staff in order for them to perform their duties in accordance with one or more of the defined purposes.
+Under no circumstances should personal data be processed in any way that is unsecure or left unattended or in such a way that it could get into a 3rd parties’ hands.
+It is the responsibility of the sender to ensure that the method is secure and that they have the correct contact details for the receiver.
+Recipients and other organisations that the information may be shared with Contractors and partners of HS2 Limited: SCS and SCSJV – Skansa Costain Strasburg & Skansa Costain Strasburg Joint Venture MDJV – Mace Dragados Joint Venture CSJV – Costain Skansa Joint Venture Sub-contractors/ Installers: Selectaglaze Granada Everest Adept Exterior Plas London Borough of Camden 4 Data Quality Each partner is responsible for ensuring the accuracy and relevance of the personal data that it processes and shares and must have clear processes in place for managing data quality.
+Any party learning of the inaccuracy of personal data is responsible for informing the parties with whom that data has been shared.
+The data will be quality checked at regular intervals no greater than every 3 months.
+Retention and destruction Noise insulation works information should be securely deleted after a period of five years following the works being finalised and closed in accordance with each organisation’s procedures.
+Information must not be retained for longer than necessary for the purpose for which it was obtained.
+Disposal or deletion of personal data once it is no longer required, must be done securely with appropriate safeguards, in accordance with that organisation’s disposal policies.
+Data subject rights Where a data subject approaches the Recipient or the Sender, seeking to exercise their rights under data protection legislation, the recipient organisation will respond in accordance with relevant legislation.
+The Recipient agrees to notify the Sender of the receipt of any such approach relating to information falling with the scope of this agreement and permit HS2 to make comment regarding possible disclosure.
+Where a data subject approaches a Contractor, the Contractor agrees to pass that request to HS2’s data protection team (HS2DataProtection@hs2.org.uk ) within how long?
+Organisations agree that they will adhere to the transparency requirements of the UKGDPR and will issue appropriate privacy notices, which inform the data subject that the information will be shared with the parties under this agreement.
+Data Security All parties agree and confirm that they have appropriate technical and organisational measures in place to protect the information under this agreement against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data in a manner appropriate to its sensitivity.
+All personal data held by partner organisations electronically will be stored in a secure network area with password protected entry and appropriate back-up functionality.
+The systems will be auditable so that it is possible for any auditor to establish who has accessed the system.
+All laptops, computers, and any other portable devices will be encrypted.
+Any individual no longer required to have access will promptly have such access revoked by the line manager and Human Resources related to the relevant employer.
+Information shared via a secured file will be protected by a strong password (i.e., consisting of no few than 8 characters and including a combination of numbers, symbols and, upper and lower case characters).
+Outside UK processing Parties are responsible for ensuring that if information is processed or shared outside the UK, that appropriate safeguards are in place and on condition that enforceable data subject rights and effective legal remedies for data subjects are available.
+These are for example, a legally binding and enforceable instrument between public authorities or bodies, binding corporate rules, and/or standard data protection contractual clauses.
+Data breaches/incidents All parties must have a clear policy and procedure regarding the reporting and handling of data protection breaches or data loss incidents.
+This must include assessing the level of risk to the data subject(s), as well as to make a decision on notifying the ICO within the statutory time frame of 72 hours.
+This complies with Articles 33 and 34 of UK GDPR.
+If the incident may impact the processing of another party to this agreement, all relevant parties should be informed and appropriate coordination of the incident must take place.
+The decision to report the incident will lie with the data controller(s) of the information concerned.
+The parties agree to provide all reasonable and necessary assistance at their own expense to each other to facilitate the handling of any personal data breach in an expeditious and compliant manner.
+It is confirmed that security breaches (including misuse or unauthorised disclosure) are covered by the partner’s internal disciplinary procedures.
+If misuse is found there should be a mechanism to facilitate an investigation, including initiating criminal proceedings where necessary.
+General Obligations 1 Obligations to an individual party The Recipient agrees that it will not share information falling under the scope of this agreement with any other organisation without first seeking the prior written consent of the Sender, unless required to do so by law.
+Review of Agreement The agreement will be reviewed on an annual basis starting from the date of the agreement comes into force or following a data breach or incident involving data falling under the scope of this agreement.
+Failure to comply with the terms of this agreement may result in immediate termination of the sharing of data.
+This agreement will remain in force irrespective of whether the agreement has been officially reviewed until a notice of termination is served.
+Freedom of Information and Transparency The Freedom of Information Act 2000 and Environmental Information Regulations 2004 gives all individuals the right to access official information held by the council.
+The council will seek opinion from HS2 where there is concern about information being released and any impact it is likely to have.
+The final decision to disclose or not will lie with the Council.
+In order to ensure that the Council is able to respond within the statutory deadline, any request for assistance or information made to HS2 under FOI/EIR should be made promptly, and any opinion provided to the Council within 10 working days.
+The Council will proactively publish this document, with personal data redacted.
+Signed for and on behalf of High Speed Two (HS2) Limited, Two Snow Hill, Snowhill Queensway, Birmingham B4 6GA Tel: 08081434434 Name: Tom Venner Position: Managing Director, The Euston Partnership Signature: Date: 15/06/2022 ICO Registration No. Z1711200 Date of expiry: 29 April 2022 Signed for and on behalf of Camden Council, 5 Pancras Sq, London N1C 4AG Name: Katy Mann Position: Head of HS2 Programme Delivery Signature: Date: 22/06/22 ICO Registration No. Z5948361 Date of expiry: 24/10/22

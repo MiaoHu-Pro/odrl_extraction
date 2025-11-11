@@ -1,0 +1,157 @@
+In collaboration with the Open Data Institute
+
+About this checklist and resources
+This checklist provides a step by step guideandtoolstohelplawtechstartupsandscaleupsworkwithdata
+holders, like a corporation or a law firm, to accessdata.
+It is designed to support direct,mutuallybeneficialdatasharingbetweenalawtechandadataholder,which
+enables the lawtech to access data to trainamodeland/orimprovetheirproductand,inturn,suchproduct
+helps a data holder solve a specific problem orrealiseamarketopportunity.Anadditionalscenarioiswhere
+a data holder shares data to benefit society, consumers, or their sector as a whole, from which the data
+holder might gain an indirect and non-immediate benefit.
+For lawtechs participating in the Lawtech Sandbox, LawtechUK can help facilitate theprocess,forexample
+by identifying data holders, educating a data holder about thebenefitsofopeninnovationanddatasharing,
+makingintroductions,orprovidingguidance.Regardlessofwhoissupporting,itisforthelawtechtoleadthe
+activities at each step of the checklist.
+1. Create a data wishlist.
+2. Understand the potential data holder’s needs and howto sell.
+3. Identify who you need to speak to within the dataholder organisation.
+4. Assess and mitigate any legal, ethical and businessrisks associated
+with data sharing.
+5. Understand the data holder’s business priorities andchallenges and
+how you can help.
+6. Who can act as your internal champion?
+7. Investigate what data is available.
+8. Set objectives and a timeline.
+9. Agree commitments from each side.
+Before an introduction to a data holder.
+These steps will help you define your value proposition andhelpstructureanyconversationyouhavewitha
+data holder.
+1. Create a data wishlist.
+List all the types of data you would like to access, and list it per sector and/or type of organisation or
+1
+
+category you need to build your solution. You can use this template. Be as specific as you can to make it
+easier for a data holder to respond to your request.
+2. Understand the potential data holder’s needs and how to sell.
+Which organisations are likely to hold the data onyourdatawishlist,whatchallengesdotheyface,andhow
+could you persuade them to release data to you? Someof the most convincing approaches are:
+a. Data insights.Does the data holder need insightsfrom its or its clients’ data?
+b. Resource and overhead reduction. Does the data holder lack the internal resource and/or skills to
+utilise their data? Could you help them reduce theiroverheads by, for example, structuring their data?
+c. Client need. If you’re approaching a law firm, can your solution help them better serve their own
+client’s needs?
+d. Increased efficiency. Can your solution improve internal operations for the data holder, and what is
+the measurable value?
+e. Reputational benefits. Could a partnership lead to positive press coverage for the data holder from
+either an innovation or pro bono angle?
+3. Identify who you need to speak to within the data holder organisation.
+The key is to understand who is the custodian of the data, who makes the decisions, and who can
+champion your solution internally. At a law firm, itmightbetheHeadofInnovation,CIOorCTO,orapartner
+in charge of the practice area related to your datarequest.Atalargecorporation,itwilllikelybetheGeneral
+Counsel or a Legal Operations lead. Do your research, ask for helpfromindustrycontacts,makeenquiries
+directly.
+To help you identify who you need to talk to, consider:
+a. Who are the people most affected by the problem you’retrying to solve?
+b. Do they have an existing process for working withlawtechs or vendors and for sharing data?
+c. Who is already using the data, internally and externally,and how are they using it?
+4. Assess and mitigate any legal, ethical and business risks associated with
+data sharing.
+Anticipate what risks (perceived or otherwise) the data holder associates with sharing data and prepare a
+mitigation strategy. Common concerns include: confidentiality, legal privilege, reputational risk, losing a
+competitive advantage, and understanding who “owns”the data.
+To help you address these concerns, consider:
+a. What data will you get access to, and for how long?
+b. How will you use and take care of it?
+c. Will the data be anonymised or pseudonymised?
+d. How will you access the data? Where can you work onit?
+e. Who owns the intellectual property rights in the outcomeof a data sharing process?
+f. What will you offer in return for access to the data - for example, free access to your product for a
+certain length of time?
+2
+
+g. Existing relevant codes, frameworks and principles, such as Information Commissioner's Data Sharing
+Code of Practice,theSolicitors Regulation Authoritycode of conductandMicrosoft’s AI principles
+Now you’ve identified a list of organisations and individuals you’d like to approach and have a strategy for
+that. If you’re part of aprogrammeliketheLawtechSandbox,thenyou’llhaveaccesstowarmintroductions
+with data holders already interested in open innovationand data sharing.
+If you don’t have access to a direct introduction,Step3shouldhelpyoutoidentifywhowithinthecompany
+you should reach out to. You will need to be clear,persistent and bold.
+In the first conversation.
+Duringthisstage,spendtimedivingdeeperintoadataholder’schallenges,explorewhatdatatheyhold,and
+identify who can act as an internal champion for yourrequest and/or product.
+5. Understand the data holder’s business priorities and challenges and how
+you can help.
+Lead with the data holder’s challenges, rather thansellingyoursolutionorthedataaccessrequest.Doyour
+homework up front, and use the meetings to dive deeper, and test your assumptions about how your
+solution or proposed pilot meets those challenges.Explore:
+a. What might their motivation to share data be? Are they looking to reduce costs, increase efficiencies,
+generate better outcomes for clients or do more probono work?
+b. What, if any, concerns do they have around data sharing? Is it general risk aversion, a lack of
+knowledge on data sharing or something specific? Are there blockers that can’t be resolved in a
+timeframe that works for you?
+If there isn’t a potential mutual benefit, be prepared to moveonquickly.Dataholdersinthelegalsectorcan
+be hesitant to disclose what challenges they face,or to share data - it is worth going where the energyis.
+6. Who can act as your internal champion?
+Multiplepeoplemayneedtobeinvolvedinthedecisiontosharedata,atalegal,technicalandstrategiclevel.
+An internal champion can help you navigate internal teams and requirements, and help you communicate
+your solution’s potential value in a way that is tailoredto the data holder.
+At a law firm, an innovation manager or passionate practitioner could help guideyourproposalthroughany
+investment committee and/or get it approved. In acorporation,itmightbethelegaloperationslead,general
+counsel or advocate in the department relevant tothe product e.g. customer services, finance or sales.
+3
+
+7. Investigate what data is available.
+An organisation may not have a clear picture about what data they hold, where it’s held, what data
+processing resources are required, or what they can legally share. You can explore this with them and
+suggest an approach. The data holder also might beable to suggest data you hadn’t thought of.
+You may find it valuable to request a data sample, so you can identify potential issues, and gain a better
+understanding of what resources are required to processthe data.
+Once the data holder is engaged.
+Onceadataholderhas,inprinciple,agreedtosharedataandworktogether,thesearethestepstoconsider
+when you’re negotiating the partnership and accessto data.
+8. Set objectives and a timeline.
+Set attainable, scheduled and measurable objectives. Be flexible, as data in large organisations is often
+scattered across different internal systems and departments, or managed by a third-party vendor and may
+take time for them to gather the required data for sharing, if there is not an established process in place.
+Consider the following when setting objectives.
+a. What are the assumptions and expectations for thedata sharing?
+b. Is this a proof-of-concept, pilot or a partnership?
+c. How confident are you both that you will be able toachievethedesiredoutcomes-doyouneedtobe
+agile and iterative or do you both have a clear ideaabout the result you are going to achieve?
+d. Can you support the data holder to prepare the dataor reduce their overheads in other ways?
+9. Agree commitments from each side.
+Follow up with an email setting out the key terms to your agreement to share data. It is sensible to put in
+place a formal agreement and it is likely that the datasourcewillrequirethisbeforeanydataisshared. Any
+agreement should cover both the legal and technical aspects of sharing data. You can use this template
+agreementhere, which has been developed by LawtechUKin collaboration with the ODI.
+Finally, be prepared tosourceandspeaktomultipledataholdersandtootherswhomayhelpyou
+connect with them. As you do, learn as you go, and continue to revisit the steps to iterate what
+you’re offering and asking for.
+4
+
+Additional resources
+Understanding a data holder’s needs
+● Lawtech Adoption Report - 2019 report from the Law Society on the motivations and barriers to
+lawtech adoption among legal practitioners
+● How to know everything about your customer - a guide from Tech Nation on how to understand
+your customer and develop user personae
+Data protection and ethics
+● Data protection guidance - a library of guides and resources from the ICO on data protection
+obligations and how to comply, including the UK GeneralData Protection Regulation (GDPR)
+● Data Protection Impact Assessment (DPIA) template - a process to help you identify and minimise
+the data protection risksofaproject.Usingthistooldemonstratesthatyouhaveconsideredtherisksrelated
+to your intended data processing and you have metyour broader data protection obligation
+● Data Ethics Canvas - this tool helps identify andmanageethicalissuesatthestartofaprojectthat
+uses data, and throughout. Data ethics relates to good practice around how data is collected, used and
+shared
+Data discovery
+● How to create a data inventory - a guide on creating a data inventory (a list of datasets with
+metadata that describes their contents, source, licensing and other useful information), which could be a
+useful tool to help a data holder map multiple typesand sources of data
+● Data Ecosystem Mapping tool - when creating a data wishlist, this tool can help identify relevant
+stakeholders and data flows, and help to understand opportunities to create value with data within an
+organisation or sector
+Data sharing agreement
+● Data sharing agreement template - a template data sharing agreement for two-way sharing
+relationships, where one party shares data in returnfor a service or other commercial arrangement
+5

@@ -1,0 +1,853 @@
+Page 1 of 23
+TfL RESTRICTED
+Information Sharing Agreement relating to the
+validation of applications for the 18-25 Care
+Leavers Bus & Tram Discount Travel Concession
+Scheme
+Between
+Transport for London
+and
+The London Boroughs & City of London (LAs)
+and
+London Councils/ London Innovation &
+Improvement Alliance (LIIA)
+
+Page 2 of 23
+TfL RESTRICTED
+Contents
+DEFINITIONS ..................................................................................................... 3
+INTRODUCTION ................................................................................................ 6
+EFFECTIVE DATE ............................................................................................. 6
+DESIGNATED POINTS OF CONTACT ............................................................. 6
+PURPOSE AND BENEFITS .............................................................................. 7
+DESCRIPTION OF INFORMATION TO BE SHARED ....................................... 9
+LEGAL BASIS FOR INFORMATION SHARING ............................................. 10
+MEANS OF TRANSFER OR ACCESS ............................................................ 13
+SECURITY AND INFORMATION HANDLING ARRANGMENTS ................... 15
+LOSS OR UNAUTHORISED DISCLOSURES OF INFORMATION ................ 19
+OTHER CONDITIONS ..................................................................................... 19
+FREEDOM OF INFORMATION ....................................................................... 20
+COMPLAINTS .................................................................................................. 20
+DATA SUBJECT RIGHTS ............................................................................... 21
+REVIEW AND AUDIT ...................................................................................... 21
+TERMINATION ................................................................................................ 22
+SIGNATORIES ................................................................................................. 23
+
+Page 3 of 23
+TfL RESTRICTED
+DEFINITIONS
+Term Acronym Description
+Anonymised Information Information in a form that cannot identify individuals
+and where any subsequent identification through its
+combination with other information is not likely to
+take place
+Association of London
+Directors of Children
+Services
+ALDCS A pan-London body representing all of London's
+statutory Directors of Children's Services. It provides
+strategic leadership which promotes and improves
+the work boroughs do to offer all children and young
+people the best start in life and opportunities and
+support to achieve their full potential.
+Care Leavers Young people who fall within the definition of ‘care
+leaver’ contained in section 2(7) of the Children and
+Social Work Act 2017.
+18-25 Care Leavers Bus &
+Tram Discount Concession
+Scheme
+18-25 CL
+Discount
+scheme
+An Oyster photocard travel concession operated by
+TfL for eligible Care Leavers aged 18-25 who reside
+in London, which offers half price bus and tram
+fares.
+(Data) Controller Has the same meaning as defined in Data
+Protection Legislation, that is, the person who
+determines the manner in which and purposes for
+which Personal Data is or is to be processed either
+alone, jointly or in common with other persons
+(Data) Processor Has the same meaning as defined in Data
+Protection Legislation, that is, any person who
+processes data on behalf of the Data Controller
+(other than an employee)
+Data Protection Act 2018 DPA
+2018
+Includes all codes of practice and subordinate
+legislation made under the DPA 2018 from time to
+time
+Data Protection Impact
+Assessment
+DPIA A tool that can be used to identify and reduce the
+privacy risks of any activity where personal data is
+processed (including Information Sharing)
+Data Protection Legislation (a) any legislation in force from time to time in the
+United Kingdom relating to privacy and/or the
+Processing of Personal Data, including but not limited
+to the Data Protection Act 2018 and the UK GDPR;
+(b) any statutory codes of practice issued by the
+Information Commissioner in relation to such
+legislation; and
+
+Page 4 of 23
+TfL RESTRICTED
+(c) the Privacy and Electronic Communications (EC
+Directive) Regulations 2003;
+Data Subject Has the same meaning as defined in the Data
+Protection Legislation, being an individual who is the
+subject of Personal Data
+Freedom of Information Act
+2000
+FOIA Includes the Environmental Information Regulations
+2004 and any other subordinate legislation made
+under the Freedom of Information Act 2000 from
+time to time as well as all associated statutory codes
+of practice
+Human Rights Act 1998 HRA Includes all subordinate legislation made under the
+HRA from time to time
+Information Commissioner’s
+Office
+ICO The office of the Information Commissioner, the
+independent regulator appointed by the Crown who
+is responsible for enforcing the provisions of Data
+Protection Legislation and FOIA
+Information Sharing The disclosure, exchange or transfer of Information
+by TfL to LIIA or vice versa
+London Boroughs LA The 32 Local Authorities for London plus the City of
+London Corporation (“CoL”)
+London Councils A collective body which represents, and enables
+collaboration between, the 32 London Boroughs and
+the City of London Corporation. London Councils is
+the host body for the LIIA.
+London Innovation and
+Improvement Alliance
+LIIA A regional body founded upon a Memorandum of
+Understanding agreed between all of London’s local
+authorities and hosted by London Councils.
+LIIA facilitates collaboration to benefit children and
+young people - tackling London-wide priorities set
+through the Association of London Directors of
+Children’s Services. LIIA will have the day-to-day
+relationship with TfL in terms of information sharing
+and reporting.
+Personal Data Has the same meaning as defined in Data
+Protection Legislation, that is, data which relates to
+a living individual, who can be identified from it, or
+data that can be put together with other information
+to identify an individual and includes expressions of
+opinion and intentions. It covers data held in any
+format
+Process/Processed/
+Processing
+Have the same meaning as defined in Data
+Protection Legislation and includes collecting,
+recording, storing, retrieving, amending or altering,
+
+Page 5 of 23
+TfL RESTRICTED
+disclosing, deleting, archiving and destroying
+Personal Data
+Pseudonymised Information Information where a unique identifier is used to
+replace/substitute any Personal Data, so as not to
+reveal an individual’s ‘real world’ identity.
+Responsible Borough
+The London borough a young Londoner lives in, or is
+assigned to, when becoming involved with the care
+system. A Responsible Borough will always remain
+the same and does not transfer.
+Special Category Personal
+Data
+The special categories of Personal Data specified in
+Data Protection Legislation; and
+Information relating to criminal offences and
+convictions.
+Transport for London TfL Transport for London and its wholly owned
+subsidiaries, including but not limited to: London
+Underground Limited; Docklands Light Railway
+Limited; Rail for London Limited; Tramtrack Croydon
+Limited; London Buses Limited; London River
+Services Limited; Victoria Coach Station Limited and
+London Transport Museum Limited
+UK General Data Protection
+Regulation
+UK
+GDPR
+The UK version of the European Union General
+Data Protection Regulation 2016/679; adopted into
+domestic law following the UK’s exit from the EU.
+
+Page 6 of 23
+TfL RESTRICTED
+INTRODUCTION
+1. This is a purpose specific Information Sharing Agreement (ISA) made
+between Transport for London (TfL), London Boroughs & City of London
+(LAs) and London Councils, which hosts the London Innovation and
+Improvement Alliance (LIIA).
+2. This ISA describes how the partners to this agreement, will share personal
+data for the purpose of validating individual applications for the 18-25 Care
+Leavers Bus & Tram Discount travel concession scheme (the “18-25 CL
+Discount scheme”).
+3. This ISA:
+● Defines the specific purposes for which the parties have agreed to share
+information.
+● Outlines the categories of personal information to be shared.
+● Sets out the lawful basis conditions under UK GDPR and Data Protection
+Act 2018 through which the information is shared, including, where
+relevant, reference to the Human Rights Act 1998 and the Common Law
+Duty of Confidentiality.
+● Sets out how the information sharing complies with the principles
+contained within Article 5 of the UK GDPR.
+● Stipulates the roles and procedures that will support the
+processing/sharing of information between the partners.
+● Describes how the rights of the data subject(s) will be protected as
+stipulated under data protection legislation.
+● Describes the security procedures necessary to ensure that compliance
+with responsibilities under data protection legislation as well as any
+specific security requirements required by the parties to this ISA.
+● Describes the process for managing unauthorised disclosures or loss or
+damage to Information.
+● Describes how this arrangement will be monitored and reviewed.
+EFFECTIVE DATE
+4. This ISA will become effective on the date of signature.
+DESIGNATED POINTS OF CONTACT
+5. For TfL, the day-to-day points of contact for this ISA shall be:
+• Product Manager, T&D Payments
+• Nominated deputy for Product Manager, T&D Payments
+6. For LIIA, London Boroughs & CoL, the day-to-day points of contact shall be:
+
+Page 7 of 23
+TfL RESTRICTED
+• LIIA Strategic Intelligence Lead
+• LIIA Strategic Lead
+• The LAs data lead/ single point of contact (SPOC)
+PURPOSE AND BENEFITS
+Purpose
+7. The London Innovation and Improvement Alliance (LIIA) and the 33 London
+Local Authorities (LAs) are working for the benefit of vulnerable children in
+London under the direction of the Association of London Directors of
+Children’s Services (ALDCS) and the LIIA steering board. One of the priority
+areas for the ALDCS and LIIA is services for care experienced young people
+(referred to in statutory guidance as ‘Care Leavers’).
+8. The Pan London Care Leavers’ Compact was established in 2022 to deliver
+consistent, high quality support for Care Leavers across London. It covers
+seven key themes, including transport.
+9. The London Mayor made a commitment that part of this support to Care
+Leavers would include a discounted travel offering; and asked TfL to
+develop a new travel concession. This takes the form of the 18-25 Care
+Leavers’ Bus & Tram Discount travel scheme, which will be available to
+eligible Care Leavers residing in London and offer half price fares on
+London’s buses and trams.
+10. It is estimated that 16,000 Care Leavers will be eligible for the 18-25 CL
+Discount scheme at launch, with between 50-100 newly eligible applications
+expected each month. These figures may fluctuate over time.
+11. As with TfL’s existing concessionary travel schemes, the application
+process will be online, and applicants will be required to demonstrate that
+they meet the eligibility requirements and can verify their identity.
+12. However, it has been identified that this group of young people may not
+always have the necessary identity documents to achieve this, and as a
+result TfL is working in partnership with LIIA to provide a mechanism to
+verify applicant’s identity.
+13. By working in partnership with the individual LAs, London Councils (through
+LIIA) has access to the fields of data required to verify an application to the
+18-25 CL Discount scheme (eg the applicant’s name, date of birth, and
+name of their Responsible Borough). LIIA will collate this information on
+behalf of the individual LAs and then share this with TfL.
+14. In turn, this data sharing will allow TfL to verify applications for the 18-25 CL
+Discount scheme and issue the travel concession to eligible applicants
+without them having to provide identification documents during the
+application process such as a passport or birth certificate.
+
+Page 8 of 23
+TfL RESTRICTED
+15. LIIA will be able to access and export a TfL report that confirms whether an
+eligible individual has received the concession. This will be used to remove
+that individual’s details from the next upload of data to TfL.
+16. This ISA therefore describes the data protection, governance and practical
+arrangements that will support this process.
+Benefits
+17. As described in the Purpose section, one of the priority areas for the ALDCS
+and LIIA is providing improving services for care experienced young people
+(referred to in statutory guidance as ‘Care Leavers’). Additionally, the aim is
+to do this in a consistent way across the whole of London, through the Pan
+London Care Leavers Compact. This concession is one part of that Compact.
+In the words of the Mayor, the concession is being provided because;
+“Many Care Leavers lack the appropriate resources to continue training or
+gain meaningful employment once leaving care, which can, in turn, lead to
+both financial and emotional hardship.” and to; “ …. give these young people
+a helping hand to thrive in this next stage of their lives, building a better, fairer
+and more prosperous London for everyone.”
+18. For TfL:
+• It will enable TfL to run the concessionary travel scheme economically and
+obtain the best value for public money.
+• It will help in preventing fraudulent applications and misuse of a travel
+concession by those who have no right to obtain it.
+19. For London Councils, LIIA (and the LAs):
+• It will enable a key element of the Pan London Care Leavers’ Compact to
+be delivered in a timely, consistent and efficient way.
+20. For applicants and other stakeholders:
+• The arrangement will reduce the burden in making an application and the
+need to source individual identity verification documents.
+• Concessionary travel will enable eligible Care Leavers with half price travel
+on London buses and trams. In turn this will support the inclusion of young
+people leaving care into society and to live independently.
+Reliance on personal information and proportionality
+21. Issuing travel concessions to individuals and ensuring an individual’s
+eligibility necessarily involves personal data; therefore, the objectives of the
+ISA cannot be achieved without sharing personal data.
+22. In order to share data in compliance with the requirements found in the UK
+GDPR, DPA 2018 and the Human Rights Act 1998, partners will ensure that
+all personal information shared will be both proportionate and the minimum
+
+Page 9 of 23
+TfL RESTRICTED
+necessary to achieve the purposes of this ISA (and the statutory and public
+task functions it supports).
+DESCRIPTION OF INFORMATION TO BE SHARED
+Categories of information
+23. LIIA will upload the following fields of personal data to TfL’s concessions
+application system, which will enable individual applications to be verified:
+• Care Leaver name
+• Care Leaver date of birth
+• Name of the Care Leaver’s Responsible Borough
+• Care Leaver ID number
+24. TfL will provide the following information to LIIA (via reports that LIIA will be
+able to run/access from the concessions application system):
+• a report that confirms whether an eligible individual has made an
+application and received the concession; and
+• a report (by date range) showing number of successful applications
+by Responsible Borough and number of rejected applications by
+Responsible Borough. This report will provide data at an aggregated
+level and will not include any personal data.
+25. In the event TfL withdraws the 18-25 CL Discount from an individual due
+to misuse, TfL will share the details of this on a case-by-case basis with
+the Responsible Borough, via LIIA
+Source(s) of the information
+26. The Responsible Borough for each Care Leaver holds the data fields
+required to verify an applicant’s identity/eligibility for the 18-25 CL Discount
+scheme.
+27. LIIA has a dedicated team that will collate applicants’ eligibility data from
+across the 33 LAs. In turn they will share that data with TfL.
+28. Data about individual Care Leavers data will only be included in the upload
+from LIIA to TfL in the following circumstances:
+• They are a Care Leaver (as defined by section 2(7) of the Children
+and Social Work Act 2017) (or will become one in the next three
+months or were a Care Leaver and the responsibility of a London LA)
+and are or were the responsibility of a London LA
+• They meet the defined age criteria.
+• They live in London at the time of application.
+
+Page 10 of 23
+TfL RESTRICTED
+• They have communicated to a worker in their Responsible Borough
+that they want to apply for the 18-25 CL Discount scheme.
+• They have been made aware and understand that their data will be
+shared with TfL for the purpose of verifying their entitlement to the
+18-25 CL Discount scheme.
+Frequency
+29. Data will be collected as agreed by the scheme participants (London
+Boroughs, TfL, LIIA), initially every week or fortnight. The frequency is a
+compromise that enables the young person to access the Discount as soon
+as possible while acknowledging the administrative and staff burden placed
+on each LA in providing/sharing the data to enable the scheme to function.
+Each new dataset uploaded to TfL by LIIA will overwrite the
+existing/previous one.
+30. LIIA will be able to access the two reports that TfL provides on ad hoc basis
+as required. The date ranges for the reports can be specified by LIIA on
+each occasion.
+LEGAL BASIS FOR INFORMATION SHARING
+Legal powers to share or receive the Information
+For TfL:
+31. TfL is a statutory body created by the Greater London Authority (GLA) Act
+1999 (‘the Act’). This Act gives the Mayor of London a general duty to
+develop and apply policies to promote and encourage safe, integrated,
+efficient and economic transport facilities and services to, from and within
+London. The Act also states that we have a duty to help the Mayor complete
+his duties and implement the Mayor’s Transport Strategy.
+32. The Mayor has a general power in section 30(1) of the Act to do anything
+he considers will further one or more of the Greater London Authority’s
+principal purposes of promoting economic development and wealth
+creation, promoting social development, and promoting the improvement of
+the environment in Greater London. The Mayor is also under a duty under
+sections 174(1) and 155(1) to direct TfL as to the general level and structure
+of fares to be charged on TfL public passenger services.
+33. In order that TfL can implement and operate the 18-25 CL Discount scheme,
+a formal Direction has been issued by the Mayor as well as a formal
+Delegation of his powers under section 30 (1) of the Act.
+For London LAs and London Councils (LIIA):
+34. The legal powers to share and receive information under this ISA derives
+from the statutory responsibilities of the individual LAs represented by
+
+Page 11 of 23
+TfL RESTRICTED
+London Councils/LIIA. These responsibilities are found in the following
+legislation:
+35. Section 17 of the Children’s Act 1989, which outlines a local authority’s duty
+to safeguard and promote the welfare of children within their area who are
+in need;
+36. Section 1 of the Children and Social Work Act 2017 which states that, “A
+local authority in England must, in carrying out functions in relation to the
+children and young people mentioned in subsection (2)*, have regard to the
+need -
+(a) to act in the best interests, and promote the physical and mental health
+and well-being, of those children and young people;
+(b) to encourage those children and young people to express their views,
+wishes and feelings;
+(c) to take into account the views, wishes and feelings of those children and
+young people;
+(d) to help those children and young people gain access to, and make the
+best use of, services provided by the local authority and its relevant
+partners;
+(e) to promote high aspirations, and seek to secure the best outcomes, for
+those children and young people;
+(f) for those children and young people to be safe, and for stability in their
+home lives, relationships and education or work;
+(g) to prepare those children and young people for adulthood and
+independent living.”
+*Subsection 2 is as follows;
+(2) The children and young people mentioned in this subsection are—
+(a) children who are looked after by a local authority, within the meaning
+given by section 22(1) of the Children Act 1989;
+(b) relevant children within the meaning given by section 23 A (2) of that Act;
+(c) persons aged under 25 who are former relevant children within the
+meaning given by section 23 C (1) of that Act
+Privacy Notices
+37. The Responsible Borough for an individual Care Leaver who expresses an
+interest in the travel concession will make them aware that some limited
+personal information will be shared with TfL as part of the application
+process – and that the purpose of this is in order to verify their
+identity/confirm eligibility for the 18-25 CL Discount scheme.
+
+Page 12 of 23
+TfL RESTRICTED
+38. TfL will provide all 18-25 CL Discount scheme applicants with a privacy
+notice as part of the online application process. The privacy notice will also
+be published on a dedicated page on TfL’s website: www.tfl.gov.uk/privacy
+Statutory data processing conditions (UK GDPR)
+39. For both partners, the processing condition found in Article 6(1)(e) of the
+GDPR will apply, as the information sharing is:
+• Necessary for the performance of a task carried out in the public interest
+or in the exercise of official authority vested in the controller.
+40. The Responsible Borough will work with individual Care Leavers to inform
+them about the 18-25 CL Discount scheme and how they can apply. The
+Responsible Borough will inform the Care Leaver that, if they proceed with
+an application, the Responsible Borough will need to share data (via LIIA)
+with TfL in order to validate the application and ask the Care Leaver to agree
+to this data sharing.
+41. However, it is recognised that this is different to using consent (Article 6 (a)
+of the UK GDPR) as the relevant processing condition under this ISA. This
+is because the application for the 18-25 CL Discount scheme cannot
+proceed if the individual does not agree to the data sharing; it is the only
+means of validating an application. As such, the exercise of obtaining
+‘agreement’ from the Care Leaver, is more one of fair processing and
+transparency that data sharing will take place as part of the application, as
+opposed to freely given consent.
+42. Neither partner will be sharing any special category data nor any information
+in relation to criminal convictions or offences, and so there is no requirement
+to comply with an Article 9 or Article 10 condition from the UK GDPR or a
+condition contained within Schedule 1 of the DPA 2018.
+43. It is recognised that although this data sharing does not include any special
+category Personal Data, the travel concession is for Care Leavers so by
+implication having the concession identifies young people as being a Care
+Leaver or (for those aged 25) as having been a Care Leaver.
+Data Controller status of the receiving party
+44. All partners recognise that on receipt of any personal data under this ISA, the
+recipient shall become the data controller of that data, and only use that data
+for the purpose for which it was shared. The partner originally supplying the
+data shall retain and continue to process the data for their own purposes.
+Compatibility with original purpose for which Personal Data was captured
+45. The personal data processed under this ISA will have been captured for this
+specific purpose of administering the 18-25 CL Discount scheme. Therefore
+no compatibility risks arise.
+
+Page 13 of 23
+TfL RESTRICTED
+46. The data shared under this ISA will be consistent with the privacy notices
+provided to data subjects by any of the Responsible Borough, London
+Councils (LIIA) and TfL from time to time.
+Human Rights Act 1998 – The right to respect for private and family life
+47. There shall be no interference by a public authority with the exercise of this
+right except such as in accordance with the law and is necessary in a
+democratic society in the interests of national security, public safety or the
+economic well-being of the country, for the prevention of disorder or crime,
+for the protection of health or morals or for the protection of the rights and
+freedoms of others.
+48. The sharing under this ISA will satisfy Article 8 as it is:
+• In pursuit of a legitimate aim: the data sharing with TfL is for the purpose
+of preventing fraudulent applications for the 18-25 CL Bus & Tram
+Discount concessionary travel scheme and therefore will also help to
+make best use of public funds.
+• Proportionate: In each case, the information shared will be
+proportionate for the purpose - the minimum information necessary for
+the purpose will be transferred and no more.
+• Appropriate and necessary to a democratic society: Preventing and
+detecting fraud and protecting public funds is an activity necessary to
+a democratic society. The purpose of the data sharing is specifically
+designed to benefit individuals, and, in any event, the sharing is only
+undertaken with the individual’s full knowledge and understanding that
+it is part of the application process.
+Common law Duty of Confidentiality
+49. All applicants for the 18-25 CL Discount scheme will be aware of the data
+sharing arrangements via their Responsible Borough.
+50. As such there can be no expectation or circumstance that would create an
+expectation of confidentiality on the part of any identifiable individuals
+whose data is shared between the partners for the agreed purposes.
+Section 17 Crime and Disorder Act 1998
+51. Consideration of this legislation is not required for this specific ISA.
+MEANS OF TRANSFER OR ACCESS
+
+Page 14 of 23
+TfL RESTRICTED
+52. Once a Care Leaver has confirmed to their Responsible Borough that they
+wish to apply for the 18-25 CL Discount scheme, that borough will pass
+their data to LIIA.
+Intended long-term process
+53. Each LA uploads their data, into a private, borough-specific folder on the
+secure London Data Platform. This is hosted by Social Finance on behalf
+of LIIA and has been created for the purpose of secure data sharing
+between the London Boroughs and LIIA to support the ALDCS priorities.
+54. Scripts provided by the LIIA team then processes this data on the secure
+data platform in a number of ways:
+a. Preparation of single Borough’s data for collation or collection
+b. Assessment of data quality (missing values, logically inconsistent
+values, incorrect formatting)
+c. Transformation of data into a single pan-London csv file
+d. Loading the prepared data for all LAs into a pan-London secure
+folder specifically created for this use case, combining the data with
+the data from the other 32 London Local Authorities and accessible
+only by members of the LIIA d&i team
+Short-term process (when not all LAs are set up with access to the London
+Data Platform)
+55. The 18-25 CL Discount scheme is scheduled to begin in 2024 and is
+currently targeted for January with the possibility of a trialling/testing during
+December 2023.
+56. Because the access to the London Data Platform may take a while to
+establish in some London LAs, as a back-up process, to ensure that Care
+Leavers can access the Discount and are not inconvenienced by internal
+system issues, LIIA will ask LAs to send the necessary data in a password
+protected excel workbook to a named analyst in the LIIA d&i team by
+secure government email.
+57. The data in the workbook will then be checked for formatting & data
+consistency, then placed in a secure SharePoint folder within the London
+Councils environment, where it will be combined with the data from the
+other London LAs into a single pan-London csv file.
+58. This is only intended to be a short-term measure, if it is needed at all, until
+any issues with the secure data platform and individual London LAs
+connecting to it are resolved.
+59. LIIA will then include the details of that Care Leaver (name, date of birth,
+name of Responsible Borough and Care Leaver ID) in the next upload of
+data to TfL – in anticipation of the Care Leaver making their application via
+the TfL website.
+
+Page 15 of 23
+TfL RESTRICTED
+60. The City of London IT team have created a virtual machine (VM) for
+London Councils, sited on the London Councils Azure Data platform,
+which has a static IP address. This VM has been set-up for the sole
+purpose of connecting securely to the TfL concessions system (InNovator)
+in order to submit the data about Care Leavers who are planning to apply
+for the 18-25 CL Discount scheme into the secure folder created for the
+sole purpose of receiving this data.
+61. It can also connect securely to the LIIA folder on the London Data Platform
+so that the data can be transferred securely from the London Data Platform
+via the VM to the TfL system. The VM can only be used by named
+members of the LIIA d&i team and can only be used to connect to the TfL
+system. The secure SharePoint folder sits in the same London Councils
+Azure Data Platform so the means of sharing will be the same.
+62. Designated members of the LIIA d&i team will securely upload the data
+fields in CSV format directly to TfL’s Concessions database, which is
+managed by a third-party service provider, through the VM on the London
+Councils Azure Data platform on the agreed frequency.
+63. This will then be converted into a data table; simple data matching rules
+will then be used to check whether the data an applicant provides
+matches against the data provided by LIIA. If a positive match is made,
+the concessionary Oyster photocard will be issued.
+64. LIIA will be able to access and export a report that confirms whether an
+eligible individual has made an application and received the concession.
+This will then be used to remove that individual’s details from the next
+upload of Care Leaver data, reducing the amount of data held (and
+therefore supporting the principle of data minimisation).
+65. LIIA will also be able to access and export a further report showing number
+of successful applications by Responsible Borough and number of rejected
+applications by Responsible Borough (by date range).
+SECURITY AND INFORMATION HANDLING ARRANGMENTS
+Access to the Information or systems
+66. On the secure London Data Platform, only named individuals in each LA
+will have access to that LA’s folder. This will be managed by each
+individual LA according to their own requirements and in compliance with
+their own data protection protocols.
+67. The Sharing folder in which the pan-London csv will be deposited on the
+London Data Platform can only be accessed by named members of the
+LIIA d&i team and system administrators.
+
+Page 16 of 23
+TfL RESTRICTED
+68. The SharePoint folder on the London Councils Azure data platform can
+only be accessed by named members of the LIIA d&i team and system
+administrators.
+69. The Virtual Machine for transferring data to the TfL Concessions
+Application System can only be used by named members of the LIIA d&i
+team and system administrators.
+70. In respect of TfL’s third-party service provider (who is TfL’s data processor),
+only the processor’s employees specifically authorised to undertake work
+relating to delivery of the TfL contracted services will have access to the
+data processed under this ISA.
+71. Authorised employees of TfL or LIIA may also have access to the data
+where a legitimate business need to do so has been identified by the
+relevant partner.
+72. TfL’s T&D’s Data Control team (within its Tech and Data Directorate) will
+grant approved LIIA personnel with role -based access to a new scheme
+specific area in the Concessions application System (‘InNovator’).
+73. LIIA will be responsible for creating and implementing a robust
+‘mover/leavers/joiners’ process to ensure that only authorised personnel
+have access to the TfL Concessions application system at any time.
+74. LIIA will be responsible for informing TfL as soon as possible where any LIIA
+personnel no longer requires access to the Concessions application system,
+and TfL will update/revoke access permissions accordingly.
+75. TfL reserves the right to remove or suspend access rights to the
+Concessions application system of any LIIA personnel where any
+unauthorised activity is suspected, detected or is being investigated.
+76. TfL will additionally conduct quarterly reviews of third-party access
+permissions to the Concessions Application system.
+77. In order for LIIA to secure access to TfL systems, it will also be required to
+comply with the relevant technical security standards as defined by TfL
+Cyber Security department from time to time.
+78. LIIA personnel will be prohibited from viewing any other data held in relation
+to other concessionary Oyster Schemes or perform any actions other than
+the upload of data and accessing the two pre-defined reports.
+Confidentiality, vetting and training
+79. All partners will take steps to ensure that all staff (including staff of any data
+processors) are adequately trained and are aware of their responsibilities
+under Data Protection Legislation and any relevant company policies in
+relation to the personal data processed under this ISA.
+
+Page 17 of 23
+TfL RESTRICTED
+80. All partners must have appropriate written contracts with employees, who
+will have access to the personal data. These will include requirements to
+ensure compliance with policies which include confidentiality and data
+protection.
+81. All Partners must ensure that suitable vetting of individuals who will access
+to the data, has taken place. This will be through standard pre-employee
+checks and/or where relevant, Disclosure & Barring Service (DBS) checks.
+82. All partners will instruct staff to contact their respective data protection
+Officer or Information Governance Team if they are unsure at any point in
+the processing and/or sharing of personal data.
+Regular or routine onward disclosures by the recipient of the Information
+83. In accordance with its transparency obligations as a public authority, TfL
+may publish general information about the numbers of successful or
+rejected applications for the 18-25 CL Discount scheme. Such information
+will not contain any personal data.
+84. No other regular or routine onward disclosures to any third parties are
+intended by TfL.
+85. LIIA may share the information provided by TfL via the reporting tools as
+follows:
+• Reports on whether an eligible individual has made an application and
+received the concession may be shared with the Responsible Borough for
+that Care Leaver;
+• Reports (by date range) showing the number of successful and rejected
+applications by Responsible Borough may be shared with any of the
+London boroughs (This report does not contain personal information).
+• LIIA may also share (with the relevant Responsible Borough) information
+provided on a case-by-case basis by TfL in the event TfL removes the 18-
+25 CL Discount scheme from an individual Care Leaver due to misuse.
+Unplanned or ad hoc onward disclosures of the Information
+86. Each partner will only be required to notify the original source of the
+Information where a secondary disclosure has been made to a third party
+for a purpose unconnected to those provided for in this ISA.
+Retention period(s)
+87. The partners agree that information will not be kept for longer than is
+necessary for the purposes set out in this ISA. Once the information is no
+longer relevant for those purposes it will be securely destroyed.
+
+Page 18 of 23
+TfL RESTRICTED
+88. In order to manage the process and minimise the data that is passed to TfL,
+TfL will pass back the same details of the successful applicants to the LIIA
+d&i team. The LIIA d&i team will maintain a cumulative list of these young
+people in a secure folder on the London Councils network in order to carry
+out the secondary minimisation removing successful applicants from the
+data provided to TfL. When a young person turns 26 their information will
+be deleted from this list since they will no longer be eligible for the 18-25 CL
+Discount. This means that a young person’s name, age, responsible
+Borough and child ID could be retained by LIIA for up to 8 years and three
+months before being deleted.
+89. TfL’s standard retention period for personal data held for concessionary
+applications is three years from the date the concession expires. For this
+scheme, the travel concession will expire the day before a concession
+holder’s 26th birthday.
+Secure storage and destruction of the Information
+90. The data on Care Leavers will be overwritten by subsequent files provided
+by LAs each fortnight. This will happen on the London Data Platform and
+will be a function of the processing script. This will also happen to the data
+file submitted by the LIIA d&i team on to the TfL Concessions Application
+system.
+91. The LIIA d&i team will also delete the data provided by each LA under the
+short-term process (described in detail in the Data Processor Agreement in
+place between the LAs and London Councils) by overwriting the data in the
+SharePoint folder with each new upload provided by the LA.
+92. The applicant information shared by LIIA to TfL will be automatically
+(permanently) overwritten on each occasion that it is refreshed/updated,
+which will be fortnightly.
+93. All partners will keep information securely in accordance with the handling
+rules associated with the information security classification or protective
+marking applied to the data – as well its own data retention and disposal
+schedules.
+94. For TfL, the data processed for the 18-25 CL Discount scheme will be
+classified as ‘TfL Restricted’.
+Notification and rectification of errors in the Information
+95. Information shared by London LAs, LIIA and TfL is subject to procedures
+and validations intended to ensure data quality at the point it is originally
+input/entered into their own systems. Any inaccuracies should be notified
+as soon as they are identified to the designated points of contact for this
+ISA.
+
+Page 19 of 23
+TfL RESTRICTED
+96. Should the need arise, London LAs, LIIA and TfL will rectify any identified
+errors as soon as possible, taking into account the nature of the error(s) and
+the specific data involved in each case.
+Transferring the Information outside the UK or the European Economic
+Area (EEA)
+97. No transfers of personal data outside the UK will take place.
+LOSS OR UNAUTHORISED DISCLOSURES OF INFORMATION
+98. Examples of loss or unauthorised disclosure may include:
+• Accidental loss or damage to personal data.
+• Damage or loss of information by means of malicious software/hacking.
+• Deliberate or knowing disclosure of Information to a person not entitled
+to receive it.
+• Unauthorised access by someone not (or no longer) entitled to access
+it.
+• Unauthorised re-identification of anonymised or pseudonymised
+information.
+99. The designated points of contact are responsible for notifying the other party
+in the event of loss or unauthorised disclosures of data within 24 hours of
+becoming aware of the event.
+100. The designated points of contact will also be responsible for notifying other
+relevant internal departments. In the case of TfL, this will be the Privacy
+and Data Protection Team, and for LIIA and London LAs it will be the LIIA
+Data & Intelligence (d&i) team.
+101. The designated points of contact will discuss and agree the next steps
+relating to the incident, taking specialist advice where appropriate.
+102. Such arrangements will include (but will not be limited to) containment of
+the incident and mitigation of any ongoing risk, recovery of the data, and
+assessing whether the Information Commissioner and/or the data subjects
+will be notified. The arrangements may vary in each case, depending on
+the sensitivity of the data and the nature of the loss, damage or unauthorised
+disclosure.
+OTHER CONDITIONS
+Data Protection Impact Assessments
+
+Page 20 of 23
+TfL RESTRICTED
+103. All partners have completed (or contributed to) a DPIA covering privacy and
+data protection risks and compliance prior to the launch of the 18-25 CL
+Discount scheme and the information sharing associated with it.
+104. All partners agree that they will revise their existing DPIAs or complete a
+new one in the event any processing requirements substantially change for
+the 18-25 CL Discount scheme.
+105. All partners agree that they will provide reasonable assistance to the other
+in the event it is required for the purpose of completing or revising a DPIA.
+Accountability and record keeping
+106. In accordance with Article 30 of the UK GDPR, all partners agree that they
+will maintain appropriate records of processing that relate to this ISA.
+107. TfL, London LAs and LIIA will each ensure that they have a designated Data
+Protection Officer or equivalent senior responsible individual for their
+organisation.
+Reidentification
+108. Where any anonymised or pseudonymised Information the recipient of that
+Information will not attempt to re-identify any individual by analysing or
+combining it with other information which is in its possession at the time of
+receipt or subsequently comes into its possession.
+FREEDOM OF INFORMATION
+109. TfL, the London LAs and LIIA (by virtue of being part of London Councils)
+are all public authorities for the purposes of the FOIA. This means that any
+information held by TfL and its subsidiary companies, the LAs and by LIIA
+is accessible by the public on written request, subject to certain limited
+exemptions.
+110. TfL, the LAs and LIIA shall demonstrate a commitment to openness and
+transparency regarding information sharing arrangements under this ISA
+subject to any limitations posed by security or confidentiality requirements.
+111. In the event that an information access request relating to Information
+Sharing activities under this ISA is received and information is identified that
+may be subject to an exemption, all partners shall endeavour to consult with
+each other in accordance with the Code of Practice as implemented by
+section 45 of FOIA before reaching its conclusion.
+COMPLAINTS
+
+Page 21 of 23
+TfL RESTRICTED
+112. Complaints about the use of Personal Data in relation to this ISA should be
+dealt with under the relevant complaints procedure of the organisation
+whose actions are the subject of complaint.
+113. TfL, London LAs and LIIA shall respond to any notices from the ICO that
+require the cessation or change in the way Personal Data is Processed in
+relation to this ISA.
+114. TfL, London LAs and LIIA agree to cooperate with other partners in the
+investigation of any complaint or other investigation about the use of
+personal information if they hold Information that may be relevant.
+115. The outcome/resolution of any complaint will be notified to all other partners
+to this ISA.
+DATA SUBJECT RIGHTS
+116. TfL shall respond to requests from data subjects exercising their right of
+access and/or their right to object to processing, restrict processing and/or
+erasure, or rectification of their Personal Data - in accordance with the
+requirements of Data Protection Legislation.
+117. Responsible Boroughs shall respond to requests from individual Care
+Leavers wishing to exercise their right of access and/or their right to object
+to processing, restrict processing and/or erasure, or rectification of their
+Personal Data - in accordance with the requirements of Data Protection
+Legislation. Where relevant/appropriate LIIA can signpost individuals to this
+information as required.
+118. TfL publishes details of how individuals can exercise their information rights
+on its website: Your Information Rights
+119. Each Responsible Borough publishes details of how individuals can
+exercise their information rights on their website; where
+appropriate/relevant, LIIA can signpost individuals to this information as
+required.
+REVIEW AND AUDIT
+120. This ISA will be reviewed annually from the date of the signing and annually
+thereafter.
+121. An earlier, or exceptional review may take place in the following
+circumstances:
+122. In the event of new or revised legislation or national guidance;
+• Where there has been significant complaint;
+• Where there has been a security/data breach incident
+
+Page 22 of 23
+TfL RESTRICTED
+123. The review process will focus on:
+• Confirming whether the ISA includes the correct contact details for key
+personnel;
+• Whether the ISA is still useful and fit for purpose;
+• Whether the existing arrangements should be extended, amended or
+terminated.
+124. A record of the review will be created and retained by each partner.
+TERMINATION
+125. It is intended that this ISA will continue for as long as required by all
+partners.
+In the event of termination of this ISA each partner may continue to hold
+information originating from another partner for which they are Controller
+– for the purposes for which the information was originally
+collected/received/shared.
+
+Page 23 of 23
+TfL RESTRICTED
+SIGNATORIES
+This ISA is signed on behalf of:
+TRANSPORT FOR LONDON
+Signature: ________________________________
+Print name: ________________________________
+Position: ________________________________
+Date: ________________________________
+LONDON COUNCILS (AS HOST FOR THE LONDON INNOVATION AND
+IMPROVEMENT ALLIANCE)
+Signature: ________________________________
+Print name: ________________________________
+Position: ________________________________
+Date: ________________________________
+LONDON BOROUGH
+Signature: ________________________________
+Print name: ________________________________
+Position: ________________________________
+Date: ________________________________

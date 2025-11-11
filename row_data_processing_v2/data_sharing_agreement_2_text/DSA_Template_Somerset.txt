@@ -1,0 +1,577 @@
+Safeguarding Data 
+Sharing Agreement
+(DSA)
+For agencies and organisations 
+safeguarding children and families
+Template Document
+This Template document should be read and used in conjunction with the
+Safeguarding Data Sharing Agreement (DSA) Guidance Document
+Contents 
+Introduction
+Safeguarding Data Sharing Agreement (title page)
+1 Administration
+2 Purpose and benefits
+3 Data Controller(s) / Joint Controller(s)
+4 Processor(s)
+5 Data shared between partners
+6 Lawfulness – UK GDPR lawful basis and Article 9 condition
+6A Lawfulness – Data Protection Act 2018
+6B Lawfulness – legal powers and gateways
+7 Non-interference – Common law duty of confidentiality
+7A Non-interference – Human Rights Act 1998, Article 8
+8 Transparency
+9 Individual’s rights
+10 How data sharing will be carried out
+11 Processing outside of the UK 
+12 Accuracy of data before sharing
+13 Rectification of data that has been shared
+14 Retention and disposal
+15 Breach management
+16 IG contacts
+17 Review
+18 Variation
+19 Ending the agreement
+20 End date
+21 Signatories
+22 Abbreviations and glossary
+Introduction
+Completing the Data Sharing Agreement Template
+This Data Sharing Agreement (DSA) template has been developed to support agencies and organisations and their relevant partners when sharing personal information for safeguarding, prevention and well-being purposes. It forms part of a set of documents set out as guidance and templates. 
+Different terminology can be used to describe a data sharing agreement (data sharing protocol or contract, personal data or information sharing agreement). The term Data Sharing Agreement will be used throughout this document and can be understood as an agreement of roles and responsibilities, data flows, justification for processing and compliance with the current UK data protection legislation and its principles. This Data Sharing Agreement template should therefore be read and used alongside the guidance document. Each section of this DSA template is accompanied by relevant examples of completed DSAs, example scenarios, tips and guidance for considerations when completing the template, Data Protection Officer advice and templates for relevant appendices which can be used as part of the DSA template. 
+In practice the template and guidance can be used for new or existing sharing initiatives. If reviewing existing documentation, maybe as part of an annual scheduled review or because of significant changes to the sharing project, the template and corresponding guidance can be used to inform decision making and check for gaps or update requirements. If used for new initiatives it will help to go through the relevant process but also provide essential guidance on questions around the data protection lawful basis (including the consideration of consent in data protection terms), controllership, purpose for processing and other relevant topics. 
+Use this template:
+To inform the review of existing sharing arrangements around safeguarding children and families, and Information Governance considerations and documentation.
+To draw up your Data Sharing Agreement for new sharing initiatives around safeguarding children and families.
+To learn more about data sharing and how to do it safely.
+Safeguarding Data Sharing Agreement (DSA)
+[add name of sharing initiative]
+between
+[add names of sharing partners]
+1 Administration
+The organisations below are signatories to this Data Sharing Agreement:
+General:
+Version control:
+2 Purpose and benefits
+* See guidance section for how to set out purposes and benefits below.
+3 Data Controller(s) / Joint Controller(s)
+Please add all organisations which are controllers and are party to this Sharing Arrangement. 
+Please provide specific details in the 'Status' column about the organisations' involvement as a Controller, such as 'contributing data as a controller', 'viewing data only as a controller', 'performing the following processing functions: <list>' and 'determined the purposes and means of processing for <activity> jointly with (if applicable) <name organisation>'.
+Add additional rows as required
+A list of controller responsibilities is available in Appendix xx. (Please note this appendix is correct at the time of issue and subject to change in agreement with all parties affected by a proposed change).
+Joint Controller responsibilities
+Where organisations are joint controllers, they have shared responsibilities for complying with data protection laws, however they must agree how to attribute obligations between them in compliance with Article 26 of the UK GDPR.  This template is set out to determine the obligations attributed to each joint controller (this may need to be completed more than once if there is more than one joint controller arrangement). This would be completed with assistance from Data Protection Officer(s). If the sharing includes some controllers who are not joint, then their compliance requirements are set out throughout the DSA (single controller responsibilities, if no joint controller arrangement, are also set out throughout the DSA). 
+Add additional rows as required
+4 Processor(s)
+Add further rows as required
+5 Data shared between partners
+Document all types of data you plan to share here. List the detail of each type and your justification. Ensure that sharing is limited to what is necessary, do not share more than you need for the purpose defined in this agreement and consider what level of identification is required. If the data sharing this agreement supports is a formal multi-agency committee or informal collaborative working group that meets to discuss individuals, then set out the categories of data that are shared in the conversations that happen in the meeting.  If the agreement is supporting a more structured/procedural exchange of data or a collaborative activity supported by an information system then this section will be more detailed, although the detail on data items may be included in an appendix.
+This will help you especially (depending on the level of detail required) for bigger sharing initiatives or sharing with several partners. Make reference to the Data Protection Impact Assessment (see Toolkit 3). Use the help available listed below.
+The detail of the data to be shared between partner organisations is available in Appendix xx (please note this appendix is correct at the time of issue and subject to change in agreement with all parties affected by a proposed change).
+6 Lawfulness – UK GDPR lawful basis and Article 9 conditions
+Your DPO will help you identify the most appropriate lawful basis and Article 9 condition that applies to the data sharing. This will already have happened if you completed a DPIA. You are always required to establish a lawful basis under Article 6 for data processing. Additionally, you will need to identify the most appropriate condition under Article 9 for processing of special category data. 
+Use the guidance available under 6a – 6d, especially the Lawful Basis Interactive Guidance tool to help you understand the options. It is unlikely that consent is the most appropriate lawful basis for the processing or sharing of information by public sector organisations like local authorities. Read Toolkit 5 to understand more about the use of consent. Certain Data Protection lawful bases and conditions under the UK GDPR require you to satisfy other provisions under the Data Protection Act 2018 and might require you further to establish other legal gateways. Therefore, please ensure completion of 6A (DPA 18) and 6B (legal powers and gateways) of this template.  
+Add further organisations if required
+Add further organisations if required
+6A Lawfulness - Data Protection Act 2018
+Your DPO will help you to identify the appropriate condition(s) under the Data Protection Act 2018. Document the relevant sections under the DPA 2018 here once you have assessed what the most appropriate lawful basis is under the UK GDPR. Use the guidance available on the right.
+It is unlikely that consent is the most appropriate lawful basis for the processing of information for safeguarding reasons. 
+Add more organisations as and if required.
+Add further organisations if required
+Add further organisations if required
+6B Lawfulness – legal powers and gateways
+Data protection law requires data sharing to be lawful. An organisation needs to have a power to share data which may lie either in statute or in common law. The functions of a public sector organisation are set out in legislation, often referred to as 'legal powers and gateways'. Effective performance of those functions often requires the sharing of relevant personal and special category data. For some organisations the power to share data lies solely in common law although this is unlikely for public sector organisations. Knowing the legislation and common law duty or power that links to the relevant functions of safeguarding will provide a framework to enable the sharing of data to safeguard and protect children. 
+The detail of the relevant legislative powers may affect how we meet a data subject’s rights. For example, where there is a duty to perform a function and that can't be performed without relevant personal data, a data subject objecting to the processing may be told there are compelling legitimate reasons why their objection cannot be upheld. For example, if a data subject requested that notes are not taken and shared of a case conference meeting.
+Below is a list of legislation relevant for the processing/sharing of Safeguarding information between local authorities and their partners. This is not a full list of all relevant legislation but the most commonly used ones for sharing scenarios involving local authorities. It is important that the correct legal gateway is identified to establish grounds for processing/data sharing depending on the particular circumstances. Delete the Legislation not relevant for your sharing initiative and add any additional legislation applicable.
+7 Non-Interference – Common law duty of confidentiality
+Non-interference with the common law duty of confidentiality describes the duty we have, to keep personal information confidential under case law (not written out in a document (e.g., an Act) but based on previous court cases decided by judges). The law is applied by reference to those previous cases, so common law is also said to be based on precedent. The general position is that if information is given in circumstances where it is expected that a duty of confidence applies, that information cannot normally be disclosed unless is  lawful because 1) the individual has given consent, 2) where it is necessary to safeguard the individual, or others, or it is in the wider public interest, 3) where there is a legal duty to do so.
+* Please note that consent under the common law is not the same as consent under data protection law.  Consent under data protection law must be freely given, specific, and involve an affirmative action (UK GDPR Article 7 compliance).  Consent under common law is satisfied if the individual(s) are aware and not objecting.  This is 'implied' consent.  Data Protection legislation requires individuals to be informed (see section 8) and allows them the opportunity to object (see section 9). 
+7A Non-Interference – Human Rights Act 1998, Article 8
+Non-interference with Article 8 of the Human Rights Act 1998 guarantees the protection of individuals right to respect for private and family life, home and correspondence.
+8 Transparency
+Being open and honest with individuals whose data is shared/processed is a key requirement under current UK data protection legislation and one of the rights an individual is entitled to under the UK GDPR. Transparency gives individuals greater control of the data organisations hold on them and it is an essential exercise sharing partners must consider and comply with.
+Add further organisations if required.
+Add further organisations if required
+Add further organisations if required
+9 Individuals’ rights
+The UK data protection legislation provides a number of rights to individuals whose data is being processed/shared. Organisations are legally obliged to assure those rights are supported. 
+ How data sharing will be carried out
+This section should detail the approaches used to share data, which may be manual/procedural, potentially supported by technical solutions e.g., data will be shared 'face to face' at a multi-disciplinary meeting, where each partner brings their relevant records, such meetings may also be supported by technical solutions (e.g. manual upload of documents to shared space (cloud-based fileserver/MS Teams etc.), by automated data transfer from system to system, via email or other). 
+It should also be documented:
+How data is protected during transit e.g., SFTP (Secure File Transfer Protocol), upload/download to/from https or network accessed through VPN, encrypted email, etc. For the DSA this may be a brief overview, with detail in the Data Protection Impact Assessment (DPIA).
+The organisation(s) responsible for ensuring security i.e., one organisation may have developed/implemented a web application, a cloud-based fileserver, etc, for multiple organisations to use to share data.
+The frequency of sharing i.e., daily, once a week, once a month, etc, and extent of data shared each time i.e., new data, updates/changes since last data share.
+11 Processing outside of the UK 
+(Compliance with Article 45 of the UK GDPR)
+Transferring personal data outside the UK comes with the responsibility of following the relevant rules and safeguards to facilitate such transfers. Please refer to the available ICO guidance and checklist here. Please state below if any personal data will be transferred outside the UK. Advice from the DPO will be required for any potential transfers. 
+If outside the European Economic Area (EEA) please complete section 3 below.
+12 Accuracy of data before sharing
+Each sharing partner is responsible for ensuring the accuracy of the personal data that it shares and must have robust processes in place for managing data quality. Describe the processes for ensuring that information/data held and shared is accurate and relevant (e.g., testing, quality checks, removal of duplicates, review and testing of algorithms, data validation in data fields and exchanges etc.).  The DSA should give an overview of this element, detail as required can be included in any related Data Protection Impact Assessment (DPIA).
+This is key for any sharing that is facilitated by a data system/application, but also important for data sharing that is manual/procedural (such as via a multidisciplinary team (MDT)), although in such cases often reliant on organisational operational processes for the accurate recording of data.
+13 Rectification of data that has been shared
+Specify here any procedures in place, or to be put in place, for rectifying the sharing of inaccurate data. Explain how any updates will be shared with all recipients of the data.
+Note: Any party learning of the inaccuracy of personal data is responsible for informing the parties with whom that data has been shared. If a rectification request comes directly from a data subject, please refer to section 9 Individuals’ Rights in this template. 
+14 Retention and disposal
+Organisations are required by law to not retain information/data for longer than necessary for the purpose(s) for which it was collected. Partners must follow their organisational policies and procedures whilst adhering to statutory requirements. The deletion and disposal of information/data must be done securely with the appropriate safeguards in place. Consultation with Records Management or the Information Governance Team is advised. 
+Where organisations are sharing data into a shared repository then they will likely need to consider if there is any difference in retention periods and decide which will apply.  Where data is exchanged, i.e., copies of data passed between organisations, then the recipient of the copy is responsible for managing their retention of it (as agreed between the relevant parties).
+15 Breach management
+All relevant parties must have clear policies, procedures, and processes in place to manage Data Protection Incidents and Breaches in compliance with the current UK data protection legislation. If any incidents occur, then they will initially be managed by the incident management policy of the party identifying the breach. If they are joint controllers these procedures must be set out in the joint controller responsibility section of this template as per Article 26 of the UK GDPR (see under 3). If there is a controller-processor relationship this must be set out in the contract as per Article 28 of the UK GDPR (see under 4). 
+The first stage of investigation is to identify which organisation appears to be responsible for the circumstances leading to the breach. In many cases this can be established quickly and where this is not the organisation that has identified the breach, then the organisation(s) that appears responsible will take over the investigation.  
+Where the responsible organisation is not the original controller of the data that has been breached, then the responsible organisation will contact each and every controller whose data appears to be part of the breach to keep them informed of the investigation and all parties will collaborate as needed to support the investigation and any required remedial and safeguarding actions.
+This includes assessing the need to report, where required, to the supervisory authority (ICO notification must be done within 72 hours of becoming aware of the breach, where feasible) and, where required, the affected data subjects.
+16 IG Contacts
+List the relevant Information Governance Contacts here including the Caldicott Guardian, Data Protection Officer and Senior Information Risk Owner (SIRO) as appropriate.
+17 Review
+It is important to build in regular reviews at appropriate intervals to assure any relevant changes have been considered within the document.
+ 
+18 Variation
+19 Ending the agreement
+State how a party can end their participation in the agreement, and how data shared by the exiting party will be managed.  Where data is shared into a system/application, the data feed will likely be turned off and a decision on previously shared data needs to be made, both from a legal perspective but also a risk/safety perspective. If data has been shared between parties as an exchange, then it needs to be agreed what will happen. 
+20 End date
+You may have a planned date to stop sharing, especially if there is a finite project. If the sharing is expected to be ongoing, you can state this. 
+21 Signatories
+If this Data Sharing Agreement is published to a system that manages signatures/agreement, then this section can be removed. 
+
+Each organisation must sign here. Give the name and position of the signatory based on the sharing required. For example: DPO, SIRO, CG, CEO, Head of Service.
+By signing this DSA, all signatories acknowledge and accept the requirements placed upon them and others within their organisations by the DSA and their responsibilities under data protection legislation. Decision needs to be made if the signatory is a list of organisations all signing one document in turn, or if a single organisational signature is collected per copy of the DSA, with a central point of collection and maintained list of signatories.
+Add additional sections as required
+22 Abbreviations and glossary
+In order to continuously improve this Data Sharing Agreement template and accompanying guidance, we are keen to receive your feedback. Please take 5 minutes of your time to let us know your thoughts. Click here to access the survey. Thank you.
+Organisation	Address	ICO registration number	Contact person	Contact details
+Date DSA comes into force:	
+Last review:	
+Date for review of DSA:	
+DSA Owner (Organisation):	
+DSA Author(s):	
+Version	Date	Author	Edit/Update
+Describe your sharing initiative/project (summary):
+Clearly set out your purpose(s) and benefits for sharing (include a description of the nature, scope and context):
+Name of Organisation(s):	Status:
+Area of responsibility:	Joint Controller A:	Joint Controller B:	Joint Controller C:
+Conduct DPIA on the data processing.  			
+Individuals are informed about the use of their data (unless an exemption applies): Develop privacy information.			
+Data is processed lawfully: Define the shared purposes for use of the data via this agreement.			
+Data is used for limited purposes: Establish agreed purposes and if necessary, a process to identify, assess and agree other uses with the controllers.			
+The minimum data is used: Ensure the minimum necessary data is used by staff.			
+Data is accurate: Ensure processes to link and/or display data do not compromise accuracy.			
+Data retained only as long as necessary: Ensure data is not kept for longer than appropriate periods.			
+Define and implement appropriate security controls for the relevant exchange of data.  Where a system is used - security control definition: Identify risks and design appropriate control measures to secure the system.			
+Define and implement appropriate security controls for the relevant exchange of data.  Where a system is used - system security management: Application of any requirements when setting up users.			
+Encryption and pseudonymisation: Determination of applicability as risk controls and implementation where possible.			
+Resilience and restoration: Determination of applicability as risk controls and implementation where possible.			
+Security audits are undertaken: Security controls as defined in the Data Protection Impact Assessment are audited to assure effectiveness.			
+Usage audits are undertaken.			
+All access is by authorised users only: Process to ensure all access is authorised.			
+Maintaining records of processing (ROPA): Hold records of all data contributions and access controls.			
+Breach notification: Notify any breaches to all affected partners and agree co-ordinated response.			
+Maintain any changes or additional processing.			
+Audit risk control measures.			
+Support data subject rights: Agree and maintain joint processes to support any requests related to shared data.			
+Name of processor 	Status	Status	Status
+Name of processor 	Controller(s) that Processor is processing data on behalf of.	Details of the data being processed or to be processed (what data, how is it being processed and why?).	Is an agreement (as per UK GDPR Article 28) in place between the Controller and Processor that covers the processing detailed above?
+DPIA reference:	
+
+One way, two way or multi-party sharing:	
+
+Personal identifiable data:	
+
+Special category data:	
+
+Criminal offence data:	
+Highlight your lawful basis(s) under Article 6 of the UK GDPR for processing of personal data:
+Organisation 1:
+6(1)(a) Consent:
+6(1)(b) Contract:
+6(1)(c) Legal obligation:
+6(1)(d) Vital interests:
+6(1)(e) Public task:
+6(1)(f) Legitimate interests:
+Organisation 2:
+6(1)(a) Consent:
+6(1)(b) Contract:
+6(1)(c) Legal obligation:
+6(1)(d) Vital interests:
+6(1)(e) Public Task:
+6(1)(f) Legitimate interests:
+
+Highlight your processing condition(s) under Article 9 of the UK GDPR for processing of special category data:
+Organisation 1:
+9(2)(a) Explicit Consent:
+9(2)(b) Employment, Social Security, Social Protection l (if authorised by law)*:
+9(2)(c) Vital interest:
+9(2)(d) Not-for-profit body:
+9(2)(e) Made public by the data subject:
+9(2)(f) Legal claims or judicial acts:
+9(2)(g) Reasons of substantial public interest *: 
+9(2)(h) Health or Social Care: 
+9(2)(i) Public Health: 
+9(2)(j) Archiving, Research or Statistical Purposes: 
+Organisation 2:
+9(2)(a) Explicit Consent:
+9(2)(b) Employment, Social Security, Social Protection l (if authorised by law)*:
+9(2)(c) Vital interest:
+9(2)(d) Not-for-profit body:
+9(2)(e) Made public by the data subject:
+9(2)(f) Legal claims or judicial acts:
+9(2)(g) Reasons of substantial public interest *: 
+9(2)(h) Health or Social Care: 
+9(2)(i) Public Health: 
+9(2)(j) Archiving, Research or Statistical Purposes:
+
+* An Appropriate Policy Document (APD) might be required as per DPA18 (see details under 6A Lawfulness – Data Protection Act 2018)
+
+Identify the appropriate condition(s) in UK law, set out in Schedule 1, parts 1, 2 & 3 of the DPA 2018
+Organisation 1:
+DPA 18, Schedule 1, Part 1 – Conditions relating to employment, health and research etc:
+
+DPA 18, Schedule 1, Part 2 – Substantial public interest conditions:
+
+DPA 18, Schedule 1, Part 3 – Additional conditions relating to criminal convictions etc:
+
+Organisation 2:
+
+DPA 18, Schedule 1, Part 1 – Conditions relating to employment, health and research etc:
+
+DPA 18, Schedule 1, Part 2 – Substantial public interest conditions:
+
+DPA 18, Schedule 1, Part 3 – Additional conditions relating to criminal convictions etc:
+
+Please note that an Appropriate Police Document (APD) is required for specific conditions under Schedule 1, Part 1, 2 and 3. Please refer to the guidance document to learn more about the APD and check the DPA18, Schedule 1 to establish if one is required. 
+
+Complete the below if this activity includes processing for a law enforcement purpose 
+Law enforcement purposes are the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.
+Organisation 1:
+
+Law Enforcement processing as per DPA18, Section 30(1) is carried out by:
+a competent authority (as per DPA18, Schedule 7), or
+any other organisation with a statutory law enforcement function 
+(highlight which is appropriate)
+
+and 
+
+the data subject has given their consent for the processing, or
+the processing is necessary for a law enforcement purpose
+(highlight which is appropriate)
+
+
+Law Enforcement processing of sensitive data (processing of special category data under law enforcement processing) as per DPA18, Part 3, Section 35(2) can be carried out where:
+
+the data subject has given their consent for the processing, or 
+the processing is strictly necessary for a law enforcement purpose 
+and for both cases an appropriate policy document (APD) is in place
+
+if 2. strictly necessary for a law enforcement purpose
+
+The sensitive processing meets a legitimising condition in Schedule 8 of the DPA18 (highlight from the below)
+Statutory purpose
+Administration of justice
+Vital interests
+Safeguarding children and adults at risk
+Data made public
+Legal claims
+Judicial acts
+Preventing fraud
+Archiving
+
+Organisation 2:
+Law Enforcement processing as per DPA18, Section 30(1) is carried out by:
+a competent authority (as per DPA18, Schedule 7), or
+any other organisation with a statutory law enforcement function 
+(highlight which is appropriate)
+
+and 
+
+the data subject has given their consent for the processing, or
+the processing is necessary for a law enforcement purpose(highlight which is appropriate)
+(highlight which is appropriate)
+
+
+Law Enforcement processing of sensitive data (processing of special category data under law enforcement processing) as per DPA18, Part 3, Section 35(2) can be carried out where:
+
+the data subject has given their consent for the processing, or 
+the processing is strictly necessary for a law enforcement purpose 
+and for both cases an appropriate policy document (APD) is in place
+
+if 2. strictly necessary for a law enforcement purpose
+
+The sensitive processing meets a legitimising condition in Schedule 8 of the DPA18 (highlight from the below)
+Statutory purpose
+Administration of justice
+Vital interests
+Safeguarding children and adults at risk
+Data made public
+Legal claims
+Judicial acts
+Preventing fraud
+Archiving
+
+Relevant Act	Relevant Section 	Content	Partners the Legislation is relevant for
+Care Act 2014	Section 1	Duty on Local Authorities to promote an individual’s well-being including:
+
+(a)personal dignity (including treatment of the individual with respect);
+(b)physical and mental health and emotional well-being;
+(c)protection from abuse and neglect;
+(d)control by the individual over day-to-day life (including over care and support, or support, provided to the individual and the way in which it is provided);
+(e)participation in work, education, training or recreation;
+(f)social and economic well-being;
+(g)domestic, family and personal relationships;
+(h)suitability of living accommodation;
+(i)the individual’s contribution to society.
+
+with regard to a number of matters including
+(d)the need to ensure that decisions about the individual are made having regard to all the individual’s circumstances (and are not based only on the individual’s age or appearance or any condition of the individual’s or aspect of the individual’s behaviour which might lead others to make unjustified assumptions about the individual’s well-being);	Local Authority
+Care Act 2014	Section 2	The Local Authority must prevent needs for care and support by arranging for the provision of services, facilities or resources, or take other steps.	Local Authority
+Childcare Act 2006	Section 1	General duties of local authority in relation to well-being of young children including the improvement of well-being of young children in the local authority area, and reduce inequalities between young children in their area in relation to the matters as follows:
+
+(a)physical and mental health and emotional well-being;
+(b)protection from harm and neglect;
+(c)education, training and recreation;
+(d)the contribution made by them to society;
+(e)social and economic well-being.	Local Authority
+Crime and Disorder Act 1998	Section 115	Disclosure of information.
+(1)Any person (educational settings) who, apart from this subsection (e.g. LA & Police), would not have power to disclose information—
+(a)to a relevant authority; or
+(b)to a person acting on behalf of such an authority, shall have power to do so in any case where the disclosure is necessary or expedient for the purposes of any provision of this Act.	Educational Setting
+Crime and Disorder Act 1998	Section 17	Duty on authorities to consider crime and disorder implications by doing what it reasonably can to prevent:
+
+(a)crime and disorder in its area (including anti-social and other behaviour adversely affecting the local environment); and
+(b)the misuse of drugs, alcohol and other substances in its area; and
+(c)re-offending in its area]	Police, Local Authority
+Crime and Disorder Act 1998	Section 37	37Aim of the youth justice system.
+(1)It shall be the principal aim of the youth justice system to prevent offending by children and young persons.
+(2)In addition to any other duty to which they are subject, it shall be the duty of all persons and bodies carrying out functions in relation to the youth justice system to have regard to that aim.	Police, Local Authority
+Criminal Justice Act 2003	Section 325	The responsible authority for each area must establish arrangements for the purpose of assessing and managing the risks posed in that area by—
+(a)relevant sexual and violent offenders, and
+(b)other persons who, by reason of offences committed by them (wherever committed), are considered by the responsible authority to be persons who may cause serious harm to the public.
+(3)In establishing those arrangements, the responsible authority must act in co-operation with the persons specified in subsection (6); and it is the duty of those persons to co-operate in the establishment by the responsible authority of those arrangements, to the extent that such co-operation is compatible with the exercise by those persons of their relevant functions.
+(4)Co-operation under subsection (3) may include the exchange of information.	Police, Local Authority
+Education Act 2002	Section 175	Duties in relation to welfare of children
+(1)A [F2local authority] shall make arrangements for ensuring that [F3their education functions] are exercised with a view to safeguarding and promoting the welfare of children.
+(2)The governing body of a maintained school shall make arrangements for ensuring that their functions relating to the conduct of the school are exercised with a view to safeguarding and promoting the welfare of children who are pupils at the school.
+(3)The governing body of an institution within the further education sector shall make arrangements for ensuring that their functions relating to the conduct of the institution are exercised with a view to safeguarding and promoting the welfare of children receiving education or training at the institution.
+
+The safeguarding duties” are—
+(a)a duty to make arrangements to ensure that the proprietor's functions relating to the conduct of the institution are exercised with a view to safeguarding and promoting the welfare of children receiving education or training at the institution.	Educational Settings, Local Authorities
+Education Act 2002	Section 157	Independent schools only, including academies and CTCs)
+
+(1)For the purposes of this Chapter, regulations shall prescribe standards about the following matters—
+(a)the quality of education provided at independent schools;
+(b)the spiritual, moral, social and cultural development of pupils at independent schools;
+(c)the welfare, health and safety of pupils at independent schools;
+(d)the suitability of proprietors of and staff at independent schools;
+(e)the premises of and accommodation at independent schools;
+(f)the provision of information by independent schools;
+(g)the manner in which independent schools handle complaints.	Educational Settings
+The Education (Independent Schools Standards) (England) Regulations 2003	Schedule 'The Independent Schools Standards, Section 3	Independent schools only, including academies and CTCs)
+
+Welfare, health and safety of pupils
+3.—(1) The welfare, health and safety of pupils at the school meets the standard if the requirements in sub-paragraphs (2) to (9) are met.
+
+(2) The school shall draw up and implement effectively a written policy to—
+
+(b)safeguard and promote the welfare of children who are pupils at the school, which complies with DfES Circular 10/95 “Protecting Children from Abuse: the Role of the Education Service”;
+(c)safeguard and promote the health and safety of pupils on activities outside the school, which has regard to DfES Guidance “Health and Safety of Pupils on Educational Visits(8)”; and...	Educational Settings, Local Authorities through DfES (guidance only)
+The Children Act 2004	Section 10	Each local authority must make arrangements to promote co-operation between partners (including the CCG, Police, Schools and other) to improve the well-being of children including:
+(a)physical and mental health and emotional well-being;
+(b)protection from harm and neglect;
+(c)education, training and recreation;
+(d)the contribution made by them to society;
+(e)social and economic well-being.	Local Authority
+The Children Act 2004	Section 11	Arrangements to safeguard and promote welfare (this section applies to partners including the CCG, Police and Schools). 	Local Authority
+Welfare Reform Act 2012	Section 131	Information -sharing in relation to welfare services (including the Local Authority and Schools) and for proscribed purposes relating to welfare services. 
+
+Section 131 restores and widens powers for the DWP to share information with local authorities in relation to welfare services and section 134 allows for longer term data sharing powers between DWP, their service providers and local authorities in particular to those working with troubled families and their in work and out of work benefits. 	Local Authority, Educational Setting
+Education and Skills Act 2008	Section 68	Providian of support services by local authorities to support for participation in education or training, young adult with learning difficulties and young people in England.	Local Authority, Educational Setting
+Domestic Abuse Statutory Guidance July 2022	Section 248	Police notify schools about all domestic abuse incidents before the start of the next school day.	Police, Local Authority, Educational Settings
+Domestic Abuse Statutory Guidance July 2022	Section 439	Everyone who works with children has a responsibility for keeping them safe and that multi-agency working, and information sharing is essential to ensure that children and families receive the right help at the right time.	Police, Local Authority, Educational Settings
+Domestic Abuse Statutory Guidance July 2022	Section 443	For multi-agency working to be effective, all agencies must work with a clear and
+common focus. For this to be achieved partnerships should:
+…
+Share information in a way that is timely, proportionate, legal, and safe.	Police, Local Authority, Educational Settings
+Domestic Abuse Statutory Guidance July 2022	Section 445	Effective and meaningful multi-agency work relies heavily on timely and appropriate, while lawful, information sharing, ensuring all agencies have the necessary information to participate materially in meetings and make informed decisions.	Police, Local Authority, Educational Settings
+Childcare Act 2006	Section 3	Describes specific duties of local authority in relation to early childhood services.
+The authority must make arrangements to secure that early childhood services in their area are provided in an integrated manner which is calculated to-
+(a) Facilitate access to those services, and (b) maximise the benefit of those services to parents, prospective parents and young children.	Police, Local Authority
+Children (Leaving Care) Act 2000	 	The main purpose of the Children (Leaving Care) Act is to improve the life prospects of young people who are looked after by Health and Social Care Trusts as they make the transition to independent living.	Local Authority
+Localism Act 2011	 	The Localism Act includes a ‘general power of competence’. It gives local
+authorities the legal capacity to do anything that an individual can do that is
+not specifically prohibited. The new, general power gives councils more freedom to work together with others in new ways to drive down costs. It gives them increased
+confidence to do creative, innovative things to meet local people’s needs.
+Councils have asked for this power because it will help them get on with the
+job. The general power of competence does not remove any duties from local
+authorities - just like individuals they will continue to need to comply with
+duties placed on them.	Local Authority
+The Children Act 1989	Part 3	Each local authority has a duty to "safeguard and promote the welfare" of children who are assessed as being in need. A child is deemed as "in need" if they are disabled or unlikely to achieve a reasonable standard of health or development unless services are provided.
+
+s17 (General duty of local authority to safeguard and promote welfare of children in their area who are in need)
+
+s27 (local authority ability to request help and assistance in complying with the s17 duty from other authorities and   corresponding duty to comply with such a request)
+
+s47 (Local authority duty to investigate where there is reasonable cause to suspect that a child who lives, or is found, in their area is suffering, or is likely to suffer, significant harm) 
+
+s1(1) of Schedule 2 (Duty of local authority to take reasonable steps to identify the extent to which there are children in need within their area) 	Local Authority
+Digital Economy Act 2017	Part 5, Section 35	Part 5 of the Digital Economy Act 2017 comprises seven ‘Chapters’, designed to improve the sharing of publicly held information for specific purposes. Specified bodies (which includes private bodies who provide a service to a public authority) are enabled to share personal data for objectives which are set out in regulations. One such objective is ‘addressing multiple disadvantages’. Guidance is set out in the underpinning Code of Practice (https://www.gov.uk/government/publications/digital-economy-act-2017-part-5-codes-of-practice/code-of-practice-for-public-authorities-disclosing-information-under-chapters-1-3-and-4-public-service-delivery-debt-and-fraud-of-part-5-of-the-di). Specified persons include are: Local Authorities, Schools, Jobcentre Plus, Police, Fire, HM Revenue and Customs, DWP and Service Providers. 	Local Authority, Schools, Police (non-Health)
+Local Government Act 2000	Section 2	This gives local authorities ‘a power to do anything which they consider is likely to achieve any one or more of the following objectives’:
+(a) The promotion or improvement of the economic well-being of their area
+(b) The promotion or improvement of the social well-being of their area
+(c) The promotion or improvement of the environmental well-being of their area
+Section 3 is clear that local authorities are unable to do anything (including sharing data) for the purposes of the well-being of people – including children and young people – where they are restricted or prevented from doing so on the face of any relevant legislation, for example, the Human Rights Act, the Data Protection Act or by the common law duty of confidentiality.	Local Authority
+Children and Family Act 2014	Section 23 & 25	The Children and Families Act 2014 makes provision to reform the law relating to care and support for children with special educational needs or a disability.
+
+Section 23 places a duty on health bodies to bring certain children to local authority’s attention, where the health body has formed the opinion that the child has (or probably has) special educational needs or a disability. Section 25 places a duty on a local authority to exercise its functions with a view to ensuring the integration of educational provision, training provision with health care provision and social care provision where it thinks that this would – 
+
+promote the well-being of children or young people in its area who have special education needs or a disability, or 
+
+improve the quality of special educational provision in its area or outside its area for children it is responsible for who have special educational needs.	Health bodies and local authorities
+Health and Social Care (Quality & Safety) Act 2015	Section 3	Section 3 (1),(2)(a)(b):
+(1) This section applies in relation to information about an individual that is held by a relevant health or adult social care commissioner or provider (“the relevant person”).
+(2) The relevant person must ensure that the information is disclosed to (a)persons working for the relevant person, and (b)any other relevant health or adult social care commissioner or provider with whom the relevant person communicates about the individual.	All commissioners and providers of health and care services to adults.
+Health & Social Care Act 2012	Section 195	Section 195:
+(contains guidance about) specific duties of co-operation, including creating a Health and Wellbeing Board, which must, for the purpose of advancing the health and wellbeing of the people in its area, encourage persons who arrange for the provision of any health or social care services in that area to work in an integrated manner.	All commissioners and providers of health and care services.
+National Health Service Act 1977	Section 22	Co-operation between health authorities and local authorities.
+(1) In exercising their respective functions NHS bodies (on the one hand) and local authorities (on the other) shall co-operate with one another in order to secure and advance the health and welfare of the people of England and Wales.
+In this section “NHS body” means—
+(za) a Strategic Health Authority;
+(a) a Health Authority;
+(b) a Special Health Authority;
+(d) an NHS trust.]	Health bodies and local authorities
+National Health Service Act 2006	Section 82	Places a duty on NHS bodies and local authorities to co-operate with one another in order to secure and advance the health and welfare of the people of England and Wales.	Health bodies and local authorities as commissioners and providers of health and care and services, and those commissioned to provide those services
+Management of Police Information (MoPI) statutory Code of Practice 	 	The Management of Police Information (MoPI) statutory Code of Practice provides a framework for the processing of police information (including intelligence and personal data obtained and recorded for police purposes).  Policing purposes are: 
+a) protecting life and property, 
+b) preserving order, 
+c) preventing the commission of offences, 
+d) bringing offenders to justice, and 
+e) any duty or responsibility of the police arising from common or statute law. 	Police
+Children and Social Care Work Act 2017	Part 1, Chapter 2, 19	Information
+(1)Any of the safeguarding partners for a local authority area in England may, for the purpose of enabling or assisting the performance of functions conferred by section 16E or 16F, request a person or body to provide information specified in the request to—
+(a)the safeguarding partner or any other safeguarding partner for the area,
+(b)any of the relevant agencies for the area,
+(c)a reviewer, or
+(d)another person or body specified in the request.
+(2)The person or body to whom a request under this section is made must comply with the request.
+(3)The safeguarding partner that made the request may enforce the duty under subsection (2) against the person or body by making an application to the High Court or the county court for an injunction.
+(4)The information may be used by the person or body to whom it is provided only for the purpose mentioned in subsection (1).”	Local Authority and Safeguarding Partners
+Please state here and explain how you will be satisfying Confidentiality:
+1) Consent*:   
+
+2) Substantial Public Interest:    
+
+3) Legal duty:    
+
+Please state here if there is any interference with the Human Rights Act 1998, Article 8
+Yes:     
+(Local Authorities might be able to interfere with the right if the action is lawful, necessary and proportionate in order to:
+protect national security
+protect public safety
+protect the economy
+protect health or morals
+prevent disorder or crime, or
+protect the rights and freedoms of other people)
+(if yes, why is it necessary and proportionate to share/process data)
+No:    
+Have Privacy Notices been updated to reflect the details around the sharing initiative (add more organisations as/if required)?
+Organisation 1:
+
+Organisation 2:
+
+Is privacy information shared in a timely manner?
+Include when data is collected directly form the individual & if contained from source other than individual.
+Organisation 1:
+
+Organisation 2:
+
+What other tools are in place to comply with transparency?
+Organisation 1:
+
+Organisation 2:
+
+State below what processes the relevant partner organisations have in place to enable data subjects to exercise their information rights:
+The right of access:   
+The right of rectification:   
+The right to restrict processing:    
+The right to object:    
+Rights in relation to automated decision making and profiling:   
+The right to be informed is covered under ‘8 Transparency’ of this DSA.
+Some rights may not apply depending on the lawful basis information/data is processed under. When processing/sharing information for reasons of safeguarding, it is likely that organisations will do so under the 'legal obligation' or 'public task' basis. The following rights will therefore not apply: right to erasure, right to portability, right to object (applies for public task but not for legal obligation).
+
+Some of the rights may not be applicable where data is processed for a law enforcement purpose.
+
+Please note and consider that private or third sector organisations (e.g., charities) are likely to use the ‘legitimate interest’ basis where the relevance of individual rights will differ).
+The approach or mechanism/method by which data will be shared:
+Protection of data in transit:
+Organisation(s) responsible for the security of data:
+Frequency and extent of sharing:
+If data is being transferred outside the UK:
+See 11
+1. Will any of the personal data be transferred outside of the UK?
+No:
+Yes:
+2. If yes, please state where the data will be transferred to:
+3. If yes, please give details and explain how it is ensured that appropriate safeguards are in place:
+Explain how any updates will be shared with all recipients of the data:
+State each relevant organisation’s retention periods relating to the data processed/shared under this DSA:
+State how each organisation complies with the required safeguards when deleting/disposing of the data processed/shared under this DSA:
+Document any specific arrangements here (if applicable):
+Organisation	Name	Role	Contact details
+State when the agreement will be reviewed, the role of the person who will conduct the review and how it is planned to be undertaken, noting any consultation requirements such as with stakeholders, data subjects and the wider public.
+State here if the any party can vary the terms of this agreement. Describe how this will be done and how agreement on variation will be reached.  If not required this section does not need to be included:
+State how a party can end their participation in the agreement, and how data shared by the exiting party will be managed:
+State the date the agreement ends and how data will be managed:
+1. Signed on behalf of:
+By (name, position, signature):
+Date signed:
+1. Signed on behalf of:
+By (name, position, signature):
+Date signed:
+3. Signed on behalf of:
+By (name, position, signature):
+Date signed:
+Term	Definition
+Ad-hoc data sharing	Information sharing outside a formal meeting or system, often on a one-off basis.
+Appropriate Policy Document (APD)	An appropriate policy document is a short document outlining your compliance measures and retention policies. It is required under the Data Protection Act 2018 for some of the conditions documented in Schedule 1 (Part 1, 2 and 3). 
+Caldicott Guardian	A senior person responsible for protecting the confidentiality of people's health and care information and making sure it is used properly. All NHS organisations and local authorities which provide social services must have a Caldicott Guardian. Further, guidance has been issued under the Health and Social Care (National Data Guardian) Act 2018 that recommends "other organisations providing services as part of the publicly funded health service, adult social care, or adult carer support" should have a Caldicott Guardian by 30/06/2023: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1013756/Caldicott_Guardian_guidance_v1.0_27.08.21.pdf
+Commissioning Support Unit (CSU)	CSUs are organisations whose primary purpose is to provide Integrated Care Boards with external support, specialist skills and knowledge to support them in their role as commissioners. They were established following the changes brought about by the Health and Social Care Act 2012, to support Clinical Commissioning Groups (now ICBs) after Primary Care Trusts were retired.  However, CSUs have evolved to provide a much wider array of services, with a broad portfolio, such as supporting national programmes and providers of all types.
+Common law duty of confidentiality	The common law duty of confidentiality is not codified; it is based on previous judgements in court.  Whilst various interpretations of the common law may be possible it is widely accepted that, where information which identifies individual service users is provided and held in confidence, disclosure may only be justified in one of three ways:
+1. the service user has given consent for their information to be used;
+2. the balance of public and private interest favours public interest disclosure; or
+3. a statutory basis exists which permits or requires disclosure.
+(source: Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016, Explanatory Note, Common Law Duty of Confidentiality)
+Consent	Refer to Toolkit item 5
+Criminal Offence Data	Includes personal data relating to the alleged commission of offences by the data subject, or proceedings for an offence committed or alleged to have been committed by the data subject or the disposal of such proceedings, including sentencing.
+Data	The use of data in this document must be understood as information which may refer to non-identifiable or identifiable data. It will be specified if it refers to personal data.
+Data Controller / Joint Controller	The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.
+Data Protection Act (DPA) 2018	The DPA 2018 sits alongside and supplements the UK GDPR.
+Data Protection Impact Assessment (DPIA)	A process to help you identify and minimise the data protection risks related to processing of personal data. A DPIA is legally required in some circumstances. 
+Data Protection Officer (DPO)	The primary role of the data protection officer (DPO) is to ensure that their organisation processes the personal data of its staff, customers, providers or any other individuals (also referred to as data subjects) in compliance with the applicable data protection rules.
+Data Subject	The individual to whom the data being processed relates and is identified/identifiable by that data.
+Data Sharing	Data sharing as used within this document can be understood as sharing of personal data. 
+Data Sharing Agreement (DSA)	Terminology can vary (Data Sharing Protocol, Data Sharing Contract, Personal Data Sharing Agreement) but can be used interchangeably in the guidance. A DSA can be used between sharing partners (Controllers) to help demonstrate compliance with the UK General Data Protection Regulation (UK GDPR), the Data Protection Act 2018, the common law duty of confidentiality and other relevant laws. It should help you justify your data sharing, clarify responsibilities of the sharing partners and set agreed parameters for the use of data.
+Department for Work and Pensions (DWP)	The DWP is responsible for welfare, pensions and child maintenance policy.
+Department of Education (DoE)	The Department for Education is responsible for children’s services and education, including early years, schools, higher and further education policy, apprenticeships, and wider skills in England.
+Digital Economy Act 2017	See Toolkit item 4
+European Economic Area (EEA)	The EEA includes EU countries and Iceland, Liechtenstein, and Norway.  The UK has adequacy regulations in place about these countries (expected to last until 27 June 2025).
+ICO Registration Number	Number attributed to an organisation that meets the legal requirement to register with the ICO.
+Information 	The use of information in this document must be understood as organised data providing context which may refer to non-identifiable or identifiable data. It will be specified if it refers to personal data.
+Information Commissioner’s Office (ICO)	The UK's independent body set up to uphold information rights.
+Law Enforcement Processing	Processing (including sharing) of personal data by competent authorities (for definition click here) for a Law Enforcement Purpose.
+Law Enforcement Purposes	As defined by Section 31 Data Protection Act 2018 - the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security (for details click here).
+Legal gateway	Legislation and common law that establishes justifiable grounds for the processing of personal data.
+Local Authority (LA)	An LA is a local government organisation responsible for the administration of government policy at a local level.
+Means [of processing]	Actions taken in the processing of data to achieve the purpose(s) for its processing i.e. how the data is processed but can also be considered to extend to what data is used to achieve the purpose(s).
+Modelling	The application of structured analysis, or use, of data.
+Multi-Agency Safeguarding Hub (MASH)	The Multi-Agency Safeguarding Hub (MASH) brings key professionals together to facilitate early, better quality information sharing, analysis, and decision-making, to safeguard vulnerable children and young people more effectively.
+Personal data	Data that relates to a living identified or identifiable individual.
+Processor	A natural or legal person, public authority, agency, or other body which processes personal data on behalf of the controller.
+Purpose(s) [of processing]	Reasons to process personal data.
+Risk Scoring	The application of a value/score based on a set of relevant risk factors and calculations/algorithms
+Role-based access control (RBAC)	A model for controlling access to resources (i.e., data) where permitted actions on resources are identified with roles. (e.g., an employee with a health/care professional role may access full service user health/care records, whilst a health/care service administrator may only access limited details from service user health/care records).
+Secure File Transfer Protocol (SFTP)	A protocol for securely accessing and transferring large files across the web.
+Senior Information Risk Owner (SIRO)	The SIRO is responsible for managing information risks. In small organisations, this might be part of a combined role. If the organisation appoints an IG Lead who is not part of the senior management team or board, then there should be a SIRO who they report to at the highest level of the organisation. Organisations operating under the standard NHS contract are required to assign the role of SIRO.
+Special Category Data 	Data pertaining to an identified or identifiable individual that reveals their racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation. 
+Supporting Families	Supporting Families is part of a national programme that helps thousands of families across England to get the help they need to address multiple disadvantages through a whole-family approach, delivered by keyworkers, working for local authorities and their partners.
+UK Data Protection Legislation	For the purpose of this template/guidance the UK data protection legislation means the UK GDPR and the DPA 2018 and regulations made under the DPA 2018 which apply to a party relating to the use of personal data.
+UK General Data Protection Regulation (GDPR)	Legislation that determines lawful and unlawful use of individuals' data, and places requirements on those processing data, to ensure appropriate use and adequate protections.
+Safeguarding Data Sharing Agreement
+Safeguarding Data Sharing Agreement
+Safeguarding Data Sharing Agreement
+Safeguarding Data Sharing Agreement
+Safeguarding Data Sharing Agreement

@@ -1,0 +1,363 @@
+P B COULDREY
+PCIG CONSULTING LIMITED 7 Westacre Drive, Quarry Bank, Dudley, West Midlands. DY5 2EE
+PCN DATA SHARING
+AGREEMENT TEMPLATE V1
+
+Introduction and purpose
+This sharing agreement for the Dorset Primary Care Network is to provide guidance in regard to data
+sharing only, and it to be read in conjunction with the NHS England Network Contract Directed
+Enhanced Service Mandatory Network Agreement (First published: April 2019 Updated version
+published: May 2019).
+The objective of primary care networks is for group practices together to create more collaborative
+workforces which ease the pressure of GP’s, leaving them better able to focus on patient care. The
+aim is that by July 2019, all areas within England will be covered by a PCN.
+Primary care networks form a key building block of the NHS long-term plan. Bringing general
+practices together to work at scale has been a policy priority for some years for a range of reasons,
+including improving the ability of practices to recruit and retain staff; to manage financial and estates
+pressures; to provide a wider range of services to patients and to more easily integrate with the wider
+health and care system.
+All GP practices are expected to come together in geographical networks covering populations of
+approximately 30–50,000 patients by June 2019 if they are to take advantage of additional funding
+attached to the GP contract. This size is consistent with the size of the primary care homes, which
+exist in many places in the country, but much smaller than most GP Federations.
+To establish this Agreement for the appropriate and lawful sharing of patient information, it is
+necessary for all co-signees of this Agreement to understand the underlying purposes, the
+approaches and processes and the mechanisms for its execution. It is critical that sufficient checks
+are in place to ensure patient data remains protected from inappropriate access, misuse and
+unintended breaches, wherever possible.
+The central basis for the Agreement is to ensure that at a minimum, the practices can effectively
+operate as a single, seamless data-sharing body, enabling patients to benefit from timely data sharing
+to support provision of care and informed clinical decision making. This ranges from viewing records
+in remote and specialist clinics, enabling the advancement of care through integrating 3rd party patient
+data sources as well as supporting key directives such as Extended Hours.
+The Agreement, by its definition, will also give the PCN Practices the ability to undertake detailed
+population health investigations and research at scale, which could be used to determine trends in
+treatment and outcomes, inform the location and provision of services and contribute to developing
+and promoting patient information that is regionally relevant and contextualized.
+Information Governance Requirements
+All sharing of Personal data is governed by the General Data Protection Regulation 2016, the UK
+Data Protection Act 2018, The NHS Caldicott Principles and NHS codes of practice for confidentiality
+and data sharing.
+The following definitions are used in this Agreement:
+ Patient Confidential information - health or care records relating to an identifiable
+individual (i.e. the patient).
+ DPA18 - the Data Protection Act 2018.
+ GDPR- the General Data Protection Regulation 2016
+ Staff - all persons working for or on behalf of any Party (whether permanent, agency,
+honorary, contractor or volunteer) who access or otherwise use the patient
+identifiable information as part of their role.
+ Healthcare purposes - the use of patient identifiable information to support the
+provision of Healthcare to an individual patient, or the management of healthcare
+service and systems
+
+Every GP Practice is identified as a “Data Controller” and each employee who has access to patient
+information is identified as having a responsibility for assuring data protection. In addition, each GP
+Practice has a nominated Caldicott Guardian who, as a senior member of staff, is responsible for
+protecting the confidentiality of patient and service-user information and enabling appropriate
+information sharing.
+Under new GDPR legislation, Practices have identified a Data Protection Officer (DPO), who is an
+expert in data protection and provides independent advice on all matters relating to data protection.
+Paul Couldrey
+PCIG Consulting Limited
+7 Westacre Drive
+Quarry Bank
+Dudley
+West Midlands
+DY5 2EE
+This Agreement will be delivered locally by Practice Managers and Caldicott Guardians (where they
+are separate individuals) DPO managing oversight of all matters, processes, procedures and issues
+relating to it.
+The Legal Basis
+The Legal Basis ensures that all data sharing across the Dorset PCN Practices geographical footprint
+is handled lawfully, fairly and in a transparent manner. The Legal Basis, using guidance provided by
+the ICO*, incorporates the following:
+ Consent: that patients have provided consent for their personal information to be accessed
+for clinical purposes that support their care or contribute to research activities which benefit
+general practice
+ Contract: which supports the ability of Health Care Professionals to provide ongoing care and
+support outside of clinical appointments as required
+ Legal obligation: as guardians for patient information on behalf of the Secretary of State,
+patient information is shared to support safe and effective clinical care as required by clinical
+care pathways and processes
+ Vital interests: where the patient information may be required in an Out of Hours Clinic to
+provide urgent care to a patient
+ Public tasks: where the information is shared for the purpose of conducting necessary day-
+to-day general practice activities, such as remote booking of appointments
+Appropriate patient details attending the PCN practices and additional information can be
+shared if certain criteria is met and this will be considered on a case by case basis, as
+appropriate. This agreement covers the exchange of personal data as defined under
+Article 4 of the General Data Protection Regulation (GDPR 2016). However, it is
+anticipated the same conditions will be followed before sharing de-personalised data.
+This agreement has been developed bearing in mind the Data Protection Act 2018, GDPR
+2016 and applied data protection legislation, the Human Rights Act 1998 and the Freedom
+of Information Act 2000.
+
+Purpose of sharing
+ Patient identifiable information is shared for the direct care of individual patients to whom
+each Party has a legitimate relationship (i.e. the sharing is healthcare purposes).
+ Processing for non-healthcare purposes is under the requirements to perform public task in
+the public interest.
+This Information Sharing Agreement is entered for the purpose of the parties sharing information as
+required or permitted under the data protection legislation and any other relevant legislation which
+shall include (but not limited to):
+Data Protection Act 2018 (DPA)
+General Data Protection Regulation 2016
+Freedom of Information Act 2000
+Human Rights Act 1998
+Mental Health Act 1983
+Health and Social Care Act 2012
+Health and Social Care (Safety and Quality) Act
+2015
+Mental Capacity Act 2005
+HSCIC Guide to Confidentiality
+Information Governance/Caldicott 2 Review: To
+Share or Not to Share
+Records Management NHS Code of Practice
+NHS England Safe haven Procedure
+NHS Constitution
+Information Security Management: Code of
+Practice
+Data Sharing Code of Practice
+Privacy Notices Code of Practice
+Any other relevant legislation, standards or
+guidance
+The Parties acknowledge and agree that they will not be bound by the terms of this Information
+Sharing Agreement in the event either or both of them are prohibited to share information by any
+legislation.
+Powers to share
+Under the Health and Social Care (Safety and Quality) Act 2015, the Parties have a legal duty to
+share information with each other for the care of a patient. This means that unless an individual
+object, patient identifiable information must be shared between health or adult social care
+commissioners or providers in order to provide health services or social care that are in an individual's
+best interests.
+For Healthcare Purposes
+GDPR 2016 Article 9 Processing of special categories of personal data states that processing of
+personal data revealing racial or ethnic origin. religious beliefs, and the processing of genetic data,
+biometric data for the purpose of uniquely identifying a natural person, data concerning health or
+data concerning a natural person's sex life or sexual orientation shall be prohibited unless: -
+(2h) processing is necessary for the purposes of preventive or occupational medicine, for the
+assessment of the working capacity of the employee, medical diagnosis, the provision of health or
+social care or treatment or the management of health or social care systems and services on
+the basis of Union or Member State law or pursuant to contract with a health professional and subject
+to the conditions and safeguards
+Sharing patient identifiable information supports the health and care services for which PCN Practices
+is authorised as a provider of healthcare services to NHS patients.By signing this Agreement, each
+
+Party asserts that it also has a lawful basis to obtain patient identifiable information in relation to the
+provision of health and care services.
+Use case allowances and data
+In order for the DPO, Practice Managers, Caldicott Guardians and other senior staff to have
+assurances of the valid and appropriate application of this Agreement within Dorset PCN as well as
+with external providers and care organisations, a set of pre-determined scenarios when data sharing
+is likely to occur have be considered. These are defined below and present the scope of the sharing
+agreement.
+It should be noted that whilst this agreement need only be reviewed in its entirety on an annual basis,
+preferably in sync with annual practice Data Security and Protections Toolkit reviews.
+For each use case presented below, it is important for each practice to identify and confirm which
+patient data will be made available for sharing purposes. Thus, the tables below provide the
+framework for the use cases and the datasets available for sharing; the Caldicott Guardian sign-off
+pages, provided within this document, will have been personalised by each site Guardian at the time
+of signing.
+Information sharing scenarios Use Case description Access term
+Remote electronic consultation
+When a patient requests a remote
+electronic consultation, the clinician-on-
+call will access the patient record from
+within their local PAS
+For duration of
+the appointment
+booking
+Extended clinic appointment
+A patient attending an early morning/late
+evening appointment when their own
+Practice is closed; the clinician can see
+their medical history and add a new
+journal entry resulting from the
+appointment.
+For duration of
+the appointment
+booking
+Inter-site appointment booking
+When a clinic is being run at another
+Practice, receptionist can book patient
+appointment slots remotely
+Duration of the
+Agreement
+Clinical project monitoring
+Database search queries to check the
+quality and consistency of data being
+collected in patient records for patients
+involved in a clinical study
+Duration of the
+project
+Multi-disciplinary meetings
+Collective, remote review of patient
+records to enable expert clinical review
+and decision making
+For duration of
+the appointment
+booking
+Specialist, ad hoc clinic
+Conducting regional, specialist clinics,
+e.g. immunisation, where records from
+multiple practices will be accessed and
+updated
+For duration of
+the appointment
+booking
+MIU access
+Accessing and then updating patient
+records with observations and outcomes
+following an MIU episode
+For duration of
+the appointment
+booking
+Remote care sites
+Accessing and then updating patient
+records where they are based in a
+hospice or care home
+For duration of
+the appointment
+booking
+
+Digital health products
+Appending information collected through
+peripheral devices (digital cameras) to a
+patient’s record
+For duration of
+the appointment
+booking
+3rd party referrals
+Sharing relevant data between a practice
+and an approved service provider, e.g.
+Allied Healthcare Professional (AHP)
+podiatry service
+Duration of the
+Agreement
+Research studies
+Conducting regional queries to generate
+report-level datasets for clinical research
+to enable intrinsic service provision
+improvements as well as support
+academic study
+Case-by-case
+basis
+Roles and responsibilities
+Every member of staff should understand what “shared access of records” means, for their duties, for
+supporting colleagues as well as for discussing with patients and carers. Some staff members will
+have specific areas of responsibility and ownership. The proposed breakdown is as follows:
+For each role, the Agreement identifies across a range of key aspects, whether that role has direct
+responsibility or accountability and whether they should be engaged in any decisions, or simply kept
+informed.
+GDPR and National Data Opt Out (NDOO)
+On May 25th 2018, GDPR was launched across the UK. In association with this NHS Digital will launch
+a service for the public to register their desire to limit the use of their data for medical care only.
+The national Opt out program and access to it is referred in all PCN practices Privacy Notices.
+Privacy Notice
+The sharing agreement for the PCN is referred in all PCN practices Privacy Notice which is displayed
+on their individual websites.
+Data Protection Impact Assessment
+PCN Practices DPIA provides an assessment of the data handling responsibilities of all the PCN
+Practices Data Controllers. The Assessment has been conducted in line with the Data Protection Act
+Principles and as an associated document to be reviewed alongside this Agreement.
+Incident reporting
+Where any Party identifies a security event related to patient identifiable information, it shall be
+reported to PCN Practices and to any other relevant Parties as needed.
+Incidents graded at severity level 2 shall be reported to the Information Commissioner, the
+Department of Health and NHS England by the Party responsible for the breach using the IG Incident
+Reporting Tool, available on the IG Toolkit website.
+13. Keeping information secure
+The following security measures will be in place:
+
+ All paper documents will be held in locked cabinets when not in use
+ Fax only to be sent to safe havens
+ All staff to follow safe haven processes
+ Email confidential information should be sent by NHS email to NHS email
+ All information to be encrypted if NHS email is not available, confidential information must be
+attached to the email as password documents and passwords to follow by text or phone
+ Electronic patient records will be accessed by smart card
+ Each smartcard is unique to the user for audit purposes
+ The information shared between the Parties must not be disclosed to any third party
+ Each Party shall ensure that access to information provided by the other Party under this
+Information Sharing Agreement will only be granted to those staff who ‘need to know’ the
+information
+ Any services provided by PCN Practices will have arrangements for recording and
+investigating serious untoward incidents and near misses, and the processes they have in
+place for learning from these incidents in collaboration with the GP practice. Each practice will
+use their local investigation methods and with this agreement share any findings with York
+North Locality Practices.
+ The Parties shall comply with the requirements of the current Information Governance Toolkit
+in handling the shared information securely
+Responsibility for data exchanging and ensuring data accuracy
+ Caldicott Guardians within each practice who have signed the Information Sharing Agreement
+as having overall responsibility within their own organisation have the duty for ensuring the
+organisation has the necessary powers to share the information requested
+ Any information shared must only be used for the purpose as requested
+ The Parties in discharging their obligations under this Information Sharing Agreement shall
+comply with the eight Data Protection Principles
+ The Parties shall ensure that the information shared is relevant and proportionate to the
+purpose for which it is shared and comply with the Data Protection Principles
+ Information will not be passed to any third party other than allowed by law
+ Retention for the intelligence purposes shall be allowed but only in line with the Data
+Protection Principles.
+All Parties involved have agreed that the service users (data subjects) need to be informed of the
+following:
+ What information is going to be shared
+ In what format is the data going to be exchanged
+ Who the information is going to be shared with
+ For what purposes it will be used
+Unless by doing so would risk harm to self or others or hinder any investigation or legal proceedings.
+It is the responsibility of each Data controller (GP Practice) to inform their patients about the
+information listed above.
+Each Party must appoint a single point of contact who must work together to ensure the processes of
+the agreement are fully adhered to.
+
+Breach of Confidentiality
+Any information breaches e.g. theft, loss, damage or inappropriate disclosure of information must be
+reported in accordance with PCN Practices Information Security Policy.
+No data should be stored on the hard drive and if so, it should be securely removed and transferred
+as soon as possible.
+Co-signees
+In the following section the Agreement sign-off sheets for your practice is provided. Please fill in the
+use case table for your practice, signing it as appropriate and sending a scanned copy of the page to
+the Agreement Manager.
+
+Practice Name Barton House Medical Practice Practice ID J81074
+Practice Manager Sarah White Caldicott Guardian Dr T W Robinson
+As Caldicott Guardian for the above referenced Practice, I authorise the sharing of our patient
+information for the purpose of medical care provided by ourselves as well as other Practices in the
+Primary Care Collaborative. In addition, information may be shared with approved 3rd party entities
+to whom care referrals are made for the provision of specialist care services.
+As Caldicott Guardian for the above referenced Practice, and along with/as the Practice Manager,
+we will uphold the guidance set out in this Agreement, ensuring PAS configuration settings enables
+appropriate data sharing, that all staff and patients are adequately informed on the breadth of the
+Agreement’s application and that information governance diligence is applied to monitor data
+sharing and mitigate the risk of data breaches and/or inappropriate access and misuse.
+As Caldicott Guardian for the above referenced Practice, I agree to the principle of sharing patient
+information for the purposes of research either to directly support and benefit patients registered at
+this practice, but also to support the aims of the Dorset PCN and the CCG to provide the best
+quality and appropriate care. In addition, if access is requested for research to support other
+purposes, these will be individually assessed and reviewed by all Caldicott Guardians, PCN
+Practices the Data Protection Officer prior to any permission being provided.
+As Caldicott Guardian for the above referenced practice, I permit the sharing of the following data
+types for the associated purposes. This table is to be completed by the Caldicott Guardian at the
+time of signing.
+Information sharing use case
+Demographic
+data
+Personal
+Identification
+Patient-
+sensitive data
+Remote consultation arranged online Y Y Y
+Extended clinic appointment Y Y Y
+Inter-site appointment booking Y Y Y
+Clinical project monitoring Y Y Y
+Multi-disciplinary meetings Y Y Y
+Specialist, ad hoc clinic Y Y Y
+MIU access Y Y Y
+Remote care sites Y Y Y
+Digital health products Y Y Y
+3rd party referrals Y Y Y
+Research studies Y N N
+Signed Dr T W Robinson Date 4th September 2019

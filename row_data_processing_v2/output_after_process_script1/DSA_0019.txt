@@ -1,0 +1,357 @@
+Data/Information Sharing Agreement – Adult Safeguarding Contents 2 1.
+Introduction to the Data Sharing Agreement This Data Sharing Agreement [DSA] documents how the parties to this agreement will share information to help safeguard adults at risk of harm, both in cases of actual and suspected abuse, and to prevent such abuse from occurring .
+The key agencies are listed in Appendix A, and the agreement is to be signed by all relevant parties, including local partners, voluntary sector, and any specialist organisations.
+Local partners who share data irregularly will not be required to sign the DSA but if attending meetings where such information is being shared will be asked to agree necessary confidence through a verbal statement or a written agreement where the sharing Party considers this is necessary.
+By signing this Agreement, the named agencies agree to accept the conditions set out in this document, according to their statutory and professional responsibilities, and agree to adhere to the procedures described.
+This Agreement has been developed to: Define the specific purposes for which the signatory agencies have agreed to share information.
+Outline the Personal, Special Category and Criminal Data to be shared.
+Set out the lawful basis conditions under UK GDPR and Data Protection Act 2018 through which the information is shared, including reference to the Human Rights Act 1998 and the Common Law Duty of Confidentiality.
+Stipulate the roles and procedure that will support the processing/sharing of information between agencies.
+Describe how the rights of the data subject(s) will be protected as stipulated under the data protection legislation.
+Describe the security procedures necessary to ensure compliance with responsibilities under data protection legislation and agency-specific security requirements.
+Describe how this arrangement will be monitored and reviewed.
+To illustrate the flow of information from referral through processing and outcome.
+Parties to this agreement cannot amend or add appendices unless agreed as part of a formal review.
+It is expected that each party will have procedures, processes and policies sitting underneath this agreement, for their respective organisations.
+These will, for example, describe the specific processes for secure transfer of data.
+Ownership of this agreement This agreement was drafted by a working group of representatives of the police, health, local authorities, probation service and London Councils.
+These professionals were specialists in adult social care and safeguarding, police procedures, information governance and law.
+The local authority representatives worked under the banner of the Information Governance for London Group (IGfL), to draft one agreement that would work for all boroughs, CCGs and police BCUs across London.
+The aim is to reduce the number of versions of sharing agreements that historically differed between boroughs, partly to reduce the burden on pan-London organisations that must have agreements with multiple boroughs.
+IGfL, a group of information and security professionals at London boroughs, assisted with coordination of this agreement, but the responsibilities within it, and compliance with data protection legislation, remain with the listed data controllers.
+Responsibilities of parties involved The parties are registered Data Controllers under the Data Protection Act.
+A list of expected types of signatories is at Appendix A.
+Apart from health bodies who will sign locally, signatories are those who have signed this agreement on the Information Sharing Gateway.
+Each signatory to the agreement is a Data Controller in own right.
+All parties confirm that they comply with data protection legislation by: having a lawful basis for processing and sharing personal data.
+ensuring data quality.
+storing and sharing information securely, with access management controls.
+These should be documented in the organisation’s information security policies and procedures.
+having policies and procedures for compliance with data protection legislation including for managing data subject rights & complaints, identifying and managing data breaches/incidents and retention & disposal.
+ensuring that mandatory training is undertaken regularly by their employees to ensure they are clear and up to date on their responsibilities.
+Every individual must uphold the principles of this agreement and overarching confidentiality, and seek advice from the relevant Data Protection Officer when necessary.
+undertaking appropriate data protection due diligence checks with any contractors/data processors they employ, and ensuring that a written agreement is in place with each data processor, and that all data processors will be bound by this agreement.
+having written processes for the processing of data to ensure employees use and share personal data in line with data protection law, the data protection principles, and this agreement.
+The parties recognise that any one of them may share data with non-core agencies where relevant to the individual case, and that such sharing is outside the scope of this Agreement.
+Organisations and their staff must consult the organisation’s Data Protection Officer/Information Governance Manager and/or Caldicott Guardian if they are unsure at any point in the processing and sharing of personal data.
+Confidentiality and vetting Each Partner must ensure that there are appropriate written contracts or agreements with employees, agency staff, volunteers etc. These must include requirements to ensure compliance with policies which include confidentiality.
+Each Partner must ensure that suitable vetting has taken place.
+This may be through standard employee checks (BPSS or equivalent), DBS, Security Vetting or Counter Terrorist Check [CTC].
+Assessment and review A review of this information sharing agreement will take place after six months and yearly thereafter , unless otherwise agreed by the organisations’ Data Protection Officers.
+The aim of the review will be to ensure the purposes are still relevant, the scope has not slipped, the benefits to the data subjects and organisations are being realised, and the procedures followed for information security are effective.
+Changes in legislation and developments in the areas of public sector data sharing will be considered as and when they arise, as will any changes to the signatory parties.
+The working group who drafted this agreement strongly recommends that a working group approach is used for any reviews, as this was a successful way to achieve pan-London and cross-specialism consensus to one sharing agreement.
+Termination of agreement In the event of termination of this agreement each party may continue to hold information originating from other parties for which they are the Data Controller.
+Outside of this agreement There are multiple other information sharing arrangements that form part of the duties of the parties and involve similar data for often similar overall purposes, like safeguarding and preventing crime.
+A nonexclusive list is below.
+These are either live or in draft, and apart from Residual Crime are pan-London.
+Area of work Description ASB The sharing of data regarding anti-social behaviour and related enforcement MAPPA - Multi-Agency Public Protection Arrangements.
+Information sharing between probation, police, councils and other agencies as mandated under MAPPA for the most serious risk posing offenders Prevent/Channel Panel The PREVENT strategy and Channel Panel are aimed at reducing the risk of radicalisation of young persons Rescue & Response (County Lines) The exploitation of persons to sell and move drugs between areas, commonly known as “county lines” is a major element of modern exploitation of young persons and in some cases, modern slavery.
+IOM Integrated Offender Management (IOM) tackles the most prolific reoffenders and those who commit offences deemed to have the most significant impact on the local community.
+MAS/MASH The multi-agency safeguarding DSA covers children’s safeguarding, well-being, and MACE sharing.
+Licensing This covers sharing for all licensing including alcohol, gambling, special treatments and sexual entertainment venues, and various other areas such as pet shops and highways licenses Gangs/Serious Youth Violence (SYV) The gang and serious youth violence projects are part of specific police-led initiatives.
+There are 2 agreements: one councils/police, and one council to council.
+Residual crime A local BCU signed DSA to cover lower-level crime not covered in other DSAs such as caution registers, nuisance, and other criminal issues.
+Area of work Description Domestic Abuse Multi-Agency Risk Assessment Conference (MARAC) Domestic abuse and violence against women and girls have complex roots, and as such commonly involve police, social care, health, voluntary and faith organisations in case management.
+Youth Offending Collaborative approaches to preventing offending and reoffending by children.
+Troubled Families/Supporting Families Troubled families was an early intervention programme created by central government to support families to reduce anti-social and criminal behaviour.
+CCTV The sharing between councils and police of CCTV footage, whether live feed or recorded, and from any type of device including cameras, drones and vehicle CCTV Environmental Crime There are two agreements, one between councils and the Environment Agency covering crime that the EA handles, the other is between councils for a wider range of environmental related crime such as fly-tipping, dog fouling etc Trading Standards This covers information sharing between the police and National Trading Standards London Region, and between the police and local councils for the whole range of trading standards related activity such as scams, rogue traders etc People affected by an emergency Sharing between agencies including councils, police, and London Ambulance and London Fire and Civil Defence Authority to handle the immediate and longer term response to emergencies such as floods, civil disturbances, attacks etc Purpose and Benefits 1.
+Purpose This DSA is a means of establishing a standard for sharing sensitive and confidential information for safeguarding purposes and for ensuring those making decisions about adults who may be at risk of abuse or neglect are conducted within statute and regulatory guidance.
+This may include information about adults who are at risk, service providers or those that may pose a risk to others.
+The purpose of the DSA is to provide a framework for the secure and confidential sharing of information between organisations to: Ensure there is a consistent and effective response to safeguarding concerns and allegations or disclosures of abuse or neglect.
+Enable early interventions to prevent the escalation of risk.
+Work efficiently together to conduct safeguarding enquiries and support other reviews, such as Safeguarding Adults Reviews (SARs).
+Safeguarding means protecting an adult’s right to live in safety, free from abuse and neglect.
+It is about working together to support people to make decisions about the risks they face in their own lives and protecting those who lack the mental capacity to make those decisions.
+Adults who may be at risk of abuse or neglect include those with care and support needs, for example relating to a person’s age, physical or learning disability, mental health needs or other illness.
+Safeguarding interventions may also be needed in response to people who experience homelessness, domestic abuse, sexual exploitation, anti-social behaviour, modern slavery and cuckooing.
+Safeguarding adults at risk is a complex area of work that involves a number of professional organisations working together with the common purpose of preventing or reducing the risk of significant harm to adults at risk from abuse or other types of exploitation, whilst supporting individuals to maintain control over their lives.
+This includes being able to make choices without coercion.
+To achieve this, the sharing of information amongst professional organisations who work with vulnerable adults is essential.
+Early sharing of information is the key to providing an effective response where there are emerging concerns.
+Sometimes it is only once information from a range of sources is coordinated that an adult is identified as being at risk.
+It is better that information is shared rather than withheld if this may prevent a vulnerable adult from suffering harm.
+To deliver the best safeguarding decisions that ensure timely, necessary and proportionate interventions, decision makers need the full information picture concerning an individual and their circumstances to be available to them.
+Information viewed alone or in silos may not give the full picture or identify the true risk.
+All the information from various agencies needs to be available and accessible in one place; to keep local residents and other stakeholders safe and assist signatories to this Agreement in discharging their obligations under the Act and other legislation.
+Information may be shared with and via the Safeguarding Adults Board or other inter-agency groups that focus on specific safeguarding issues as well as on a one-off basis between relevant partners.
+It is noted that there are likely to be links to Trading Standards DSA where vulnerable adults are at risk of financial abuse.
+Sharing for statutory safeguarding purposes section 42 of the Care Act 2014 Sections 42 to 47 of the Care Act 2014 set out the legal responsibilities in relation to adult safeguarding.
+The legal framework for the Care Act 2014 is supported by the Care and Support Statutory Guidance which provides information about how the Care Act should operate in practice.
+Section 42 of the Care Act 2014 says that the duty to undertake a safeguarding adults enquiry arises where a Council has reasonable cause to suspect that an adult in its area (whether or not ordinarily resident there) has needs for care and support (whether or not the authority is meeting any of those needs); is experiencing, or is at risk of, abuse or neglect; and as a result of those needs is unable to protect himself or herself against the abuse or neglect or the risk of it.
+The Care Act 2014 guidance states that early sharing of information is the key to providing an effective response where there are emerging concerns for an Adult at Risk, and no professional should assume that someone else will pass on information which they think may be critical to the safety and wellbeing of the adult.
+If concerns are raised about the adult's welfare, whether this be the belief that they are suffering or likely to suffer abuse or neglect, and/or are a risk to themselves or another, information should be shared with the local authority and/or the police if the professional/Signatory Organisation believes or suspects that a crime has been committed or that the individual is immediately at risk.
+Adults have a legal right to make their own decisions, even if they are unwise, as long as they have the capacity to make those decisions and are free from coercion and control or undue influence.
+In situations when the individual, about whom the data relates to, does not have capacity to give consent to the sharing of information, in situations where consent is the lawful basis for sharing, then a best interests decision should be made in line with the principles of the Mental Capacity Act 2005.
+Sharing for non-statutory safeguarding purposes - purposes of section 1 of the Care Act 2014 and other purposes.
+There is no legal obligation on the Local Authority to undertake non-statutory safeguarding enquiries.
+Ordinarily, such adults would be signposted to sources of support instead.
+However, there is scope for the local authority to undertake a non-statutory safeguarding enquiry if agreed.
+An example would be where the adult does not meet the ‘three part test’ but it is agreed that the risks are too high not to continue to take action.
+There is no exhaustive list of non-statutory safeguarding purposes under this agreement as every case will have unique features.
+Whilst the sharing under this section is not statutory under the Care Act 2014, it is noted that in some cases other statutory duties may apply to one or more parties taking action, investigating, and sharing information for those purposes.
+In some cases, the matters may be criminal offences.
+Examples of where this could be applicable are when there are high risk issues pertaining to domestic abuse, self-neglect, substance misuse and refusal for health interventions.
+Indicative types of purpose would be: investigating and resolving individual cases of rough sleeping coordinating solutions to cases of entrenched rough sleeping homeless persons who are at risk of harm from being homeless persons vulnerable due to hoarding by themselves or others persons vulnerable due to significant fire risks in their property Self-neglect which is having a significant effect on the individual’s ability to manage their personal care and hygiene, home environment, activities of daily living, health conditions, finances and similar.
+Adults who are, have been or who are at risk of being victims of cuckooing Adults who are, have been, or who are at risk of being victims of physical abuse, sexual abuse, psychological abuse, financial or material abuse, and/or discriminatory abuse (which includes hate crimes) Adults aged 18-25 who, when aged under 18, were at risk from or receiving support for reasons related to MACE - Multi-Agency Child Exploitation, issues concerning the sexual and/or criminal exploitation of children, including ‘County Lines’ and missing children.
+where a staff member has had an allegation made against them of harming or abusing a vulnerable person, often to the police, and a safeguarding or disciplinary investigation is required for the employer or others to take appropriate action 1.3 Safeguarding Adults Board Under the Care Act 2014 all local authorities must establish a Safeguarding Adults Board (SAB).
+The overarching purpose of an SAB is to help and safeguard adults with care and support needs.
+It leads adult safeguarding arrangements across its locality and oversees and coordinates the effectiveness of the safeguarding work of its member and partner agencies.
+One of the Board’s core duties under Section 44 of the Care Act is to commission Safeguarding Adult Reviews (SARs) for any cases which meet the relevant criteria, and to ensure learning takes place for such cases in which adults die or are seriously harmed from abuse or neglect.
+For such reviews, the Board has the power under s45 of the Care Act 2014 to require any body to provide information that meets the criteria in the section.
+This reflects that information sharing is essential to improve outcomes for all and to ensure issues for wider public protection as well as risk to individuals are detected.
+Benefits The benefits of this DSA are to: Cover the sharing of information for adult safeguarding purposes.
+Enable early intervention and remove barriers to effective information sharing.
+Sets parameters for sharing personal data and clearly identifies the responsibilities of organisations.
+Identify the correct lawful basis to share personal information.
+Ensure information is shared whenever there is a requirement to do so.
+Enables authorities to share data on performance, quality assurance, learning and impact analysis.
+Raises awareness amongst all agencies of the key issues relating to information sharing and gives confidence in the process of sharing information with others.
+Greater efficiencies in processes and resources.
+Preventing and detecting crime.
+Allowing employers to deal effectively when safeguarding related allegations are made about a member of staff particularly in regulated activity when it is important to protect the public Partner Agencies and Society Support increased mutual understanding of safeguarding issues and the use of risk assessment techniques as well as increasing partners’ knowledge of the success of different types of intervention strategies.
+Faster, more coordinated and consistent response to safeguarding concerns.
+A more accurate assessment of the risk and need, and the ability to modify plans in the light of information shared.
+A more thorough and focused management of all cases.
+Improving outcomes for adults at risk.
+Better understanding between professionals.
+Avoiding the duplication of effort in respect of service provision and record taking and creating greater efficiencies in processes and use of resources.
+Preventing and detecting crime that impacts individuals and society.
+By sharing their understanding of risk in particular situations, agencies are in a better position to integrate risk assessment into their daily practice.
+Provide reassurance to practitioners on the parameters for sharing and the methods for sharing securely.
+To improve the referral processes around the provision of services for adults at risk.
+To improve the referral processes around interventions to prevent harm by organisations.
+Individuals Timely action taken to reduce the risk of harm and increase the safety, health and wellbeing of adults at risk.
+A person-centred approach designed to support individuals and deliver comprehensive risk identification and safety planning based on a full account of the facts and circumstances of each individual’s situation.
+Adults aged 18-25 who, when aged under 18, were at risk from or receiving support for reasons related to MACE - Multi-Agency Child Exploitation, issues concerning the sexual and/or criminal exploitation of children, including ‘County Lines’ and missing children.
+The right sort and combination of advice, support and advocacy to be offered at the right time, based on a full and accurate account of the individual’s needs and history, including other service contact and use.
+To avoid the added distress for individuals of having to repeat details of their history or experience and other circumstances each time they encounter a different service.
+Safeguard adults in a way that supports them in making choices and having control about how they want to live Promote an approach that concentrates on improving life for the adults concerned Ensure that appropriate risk based decisions are made in respect of staff about whom safeguarding allegations have been made,and to safeguard those who may have been or will be in contact with that person 3.
+Principles of information sharing Effective information sharing is a vital element of both early intervention and safeguarding of adults at risk of harm or neglect.
+Organisations can hold different pieces of information which need to be placed together to enable a thorough assessment and plan to be made.
+To share information, a lawful basis for doing so must be identified.
+This may come from legislation or from statutory guidance such as care and support statutory guidance or the Care Act 2014, which places duties on the local authority and its partners to cooperate in the exercise of their functions relevant to care and support, including those to protect adults.
+The sharing of personal data must comply with both the UK GDPR Principles and the Caldicott Principles, listed at Appendix B.
+Together, those principles lead to a series of questions and considerations to be answered before sharing takes place.
+These are listed as an Information Sharing Checklist in Appendix D: Information Sharing Checklist.
+Lawful Basis The sharing of information must comply with the law relating to confidentiality, data protection and human rights.
+Having a legitimate purpose for sharing information is an important part of meeting those legal requirements.
+This is a complex area and each Partner must take their own decisions and seek advice from their organisation’s Data Protection Officer/Information Governance Manager and/or Caldicott Guardian.
+For purposes other than law enforcement by competent authorities Articles 6, 9 and 10 of the UK GDPR, and section 8 of the DPA 2018 set out the acceptable conditions for the processing and sharing of personal, special category, and criminal data.
+The conditions relevant in the UK GDPR to data processed under this agreement are below.
+For Local Authorities and the London Ambulance Service Article 6 (1) – Personal Data Processing: (c) processing is necessary for compliance with a legal obligation to which the controller is subject.
+For providing information to the Safeguarding Adults Board for Safeguarding Adult Reviews there is a legal requirement to supply certain information upon request in s45 Care Act 2014.
+In respect of other sharing, there are a range of laws as specified in appendix C which will apply to different non-law enforcement parties in different circumstances (d) processing is necessary in order to protect the vital interests of the data subject or of another natural person (e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
+Use of this article requires that the Data Protection Act section 8 be satisfied.
+The laws given at Appendix C – Applicable legislation provide for each party a legal basis under section 8 – the specifics are noted in the appendix.
+For local authorities the Care Act 2014 may be the most common Article 9 (2) – Special Category Personal Data Processing (b) social protection law - processing is necessary for the purposes of carrying out the obligations and exercising specific rights of the controller or of the data subject in the field of employment and social security and social protection law.
+Use of this article requires DPA18 S 10(2) be satisfied which needs a condition Schedule 1, Part 1 to be met.
+For this agreement these are: Employment, social security and social protection under Para 1(1)(2)(3).
+This requires an appropriate policy document, and this document will form part of the policy for such processing, although competent authorities will need to satisfy themselves that their own internal policy documents fully cover such use.
+The underpinning laws are set out in Appendix C (c) processing is necessary to protect the vital interests of the data subject or of another natural person where the data subject is physically or legally incapable of giving consent; (h) provision of health or social care - processing is necessary for the purposes of preventive or occupational medicine, for the assessment of the working capacity of the employee, medical diagnosis, the provision of health or social care or treatment or the management of health or social care systems and services.
+This requires DPA 10(2) be satisfied which needs a condition in Schedule 1, Part 1 and for this agreement these are: Health or Social Care Purposes under Para 2 with appropriate safeguards as required by section 11(1) of the act and Article 9(3) of the UK GDPR Art. 10 UK GDPR : Processing of personal data relating to criminal convictions and offences
+Processing of personal data relating to criminal convictions and offences or related security measures based on Article 6(1) shall be carried out only under the control of official authority or when the processing is authorised by Union or Member State law providing for appropriate safeguards for the rights and freedoms of data subjects.
+The article 6 conditions are given above, and the DPA18 Schedule 1, Part 1 conditions met are para 2(1) Health or social care purposes, and Part 2 conditions are paras 6 Statutory etc and government purposes, 10 Preventing or detecting unlawful acts, and 18 Safeguarding children and individuals at risk.
+For Voluntary sectors: It is the responsibility of all data controllers to ensure that their Record Of Processing Activities accurately reflect their exact legal basis for their processing.
+Article 6(1): (a) - Legal duty- Where the voluntary sector is subject to requirements over safeguarding this may apply.
+Vital Interests -may apply in rare cases (e) - Public task- where the organisation is providing services for a local authority this legal basis may well apply (a ) - Consent- may apply in some cases although it is noted that in many cases consent may be inappropriate even for the voluntary sector (f)- legitimate interests- the legitimate interests of the voluntary sector organisation, and those of the data controller to whom it will share the data, may apply, although a balance must be undertaken of the data subject’s rights and freedoms against the organisation's legitimate interests Article 9 (b) health and social protection law in respect of their employees and volunteers as Local Authorities above (h) provision of health or social care -as Local authorities above (c) vital interests- in rare cases, as above Art. 10 UK GDPR : Processing of personal data relating to criminal convictions and offences Same as for Local Authorities and the London Ambulance Service.
+It is noted that criminal offence data includes allegations and not just actual convictions.
+Voluntary agencies are likely to process allegations around safeguarding which may amount to criminal offences.
+For the purposes of law enforcement by competent authorities (Metropolitan Police and the Probation Service) The “competent authorities” are defined in Section 30 of the DPA which refers to Schedule 7.
+The competent authorities under this agreement are generally (but not exclusively) police, probation services, youth offending teams and government departments.
+The “law enforcement” purposes are defined in Section 31 of the DPA as “prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security”.
+There are additional safeguards required for “sensitive processing”.
+This is defined in Section 35(8) as: a) the processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; b) the processing of genetic data, or of biometric data, for the purpose of uniquely identifying an individual; c) the processing of data concerning health;  d) the processing of data concerning an individual’s sex life or sexual orientation.
+The additional requirements are given in Section 35(4) and (5).
+Both require an appropriate policy document, and this document will form part of the policy for such processing, although competent authorities will need to satisfy themselves their own internal policy documents fully cover such use.
+Section 35(4) requires the consent of the data subject, 35(5) requires that the processing be strictly necessary for the law enforcement purposes, and meets a condition in Schedule 8.
+Part 3 of the DPA 2018 relates to the processing of personal data by a competent authority (as defined in Section 30(1) and Schedule 7 of the DPA 2018) for law enforcement purposes.
+“Law enforcement purposes” are defined in Section 31 of the DPA 2018 to mean “the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security”.
+The powers to share such information are set out in Section 2.4 above.
+This regime will be applicable to processing undertaken by competent authorities (e.g. the police) that are processing data for law enforcement purposes.
+This will apply where, for example, the police wish to contact a partner body to establish the location of a specific individual who is (or may be) a victim, witness or suspect connected to a criminal act.
+It is possible that the police may not have a name for the person or people that they are seeking, but are only able to identify an individual using a description of his/her physical appearance.
+In such cases the police may provide details of the individual which would amount to sensitive processing within the definition of Section 35(3) of the DPA 2018.
+In order for competent authorities to carry out and share sensitive personal data with partners: that processing must be strictly necessary; and at least one condition specific in Schedule 8 of the DPA be satisfied: Strict necessity Although it is difficult to anticipate all the circumstances in which sharing under this agreement may be necessary, in general competent authorities do not consider that there are any other less intrusive means of obtaining personal data held by partners.
+Schedule 8 conditions The following conditions set out in Schedule 8 of the DPA 2018 are likely to be satisfied, depending on the precise context of the data processing: Paragraph 1: Statutory etc purposes This condition is met if the processing— (a) is necessary for the exercise of a function conferred on a person by an enactment or rule of law, and (b) is necessary for reasons of substantial public interest.
+The processing of the data is carried out in the exercise of the legal powers and duties of the MPS.
+It is plainly in the substantial public interest that for example witness, victims and potential suspects are located as soon as reasonably practicable by the police.
+Paragraph 3: Protecting individual's vital interests This condition is met if the processing is necessary to protect the vital interests of the data subject or of another individual.
+This condition is met in cases where there is a risk to the life of the of the data subject or where the data subject poses a threat to the life of either his or herself or the life of others.
+This may be the case where the police consider that a victim faces an ongoing risk of harm.
+Paragraph 4: Safeguarding of children and of individuals at risk (1) This condition is met if— (a) the processing is necessary for the purposes of— i. protecting an individual from neglect or physical, mental or emotional harm, or ii. protecting the physical, mental or emotional well-being of an individual, (b) the individual is—i. aged under 18, or ii. aged 18 or over and at risk, (c) the processing is carried out without the consent of the data subject for one of the reasons listed in sub-paragraph (2), and (d) the processing is necessary for reasons of substantial public interest.
+The reasons mentioned in sub-paragraph (1)(c) are— (a) in the circumstances, consent to the processing cannot be given by the data subject; (b) in the circumstances, the controller cannot reasonably be expected to obtain the consent of the data subject to the processing; (c) the processing must be carried out without the consent of the data subject because obtaining the consent of the data subject would prejudice the provision of the protection mentioned in sub-paragraph (1)(a).
+For the purposes of this paragraph, an individual aged 18 or over is "at risk" if the controller has reasonable cause to suspect that the individual— (a) has needs for care and support (b) is experiencing, or at risk of, neglect or physical, mental or emotional harm, and (c) as a result of those needs is unable to protect himself or herself against the neglect or harm or the risk of it.
+In sub-paragraph (1)(a), the reference to the protection of an individual or of the well-being of an individual includes both protection relating to a particular individual and protection relating to a type of individual.
+This condition is met where the child or vulnerable adult is at risk of harm (whether physical or mental), and the police or probation are unable to obtain consent for any of the reasons listed in para 4(2).
+This condition will be met in most cases given the serious risk of harm posed to missing children or vulnerable adults in the aftermath of a major incident.
+The terms of this agreement address the requirements for data sharing pursuant to Part 3 of the DPA.
+The applicable legislation that provides the lawful basis is listed in more detail in Appendix C – Applicable legislation.
+Consent The parties will often work collaboratively with data subjects and aim for agreement with them on the actions to be taken.
+However, it is recognised that this is different to using consent (Article 6 (a)) or explicit consent (Article 9 (a)) as the lawful basis conditions used for processing under this agreement.
+Consent is not generally the lawful basis the public sector organisations use for processing information shared under this agreement.
+It is noted that where consent is not the lawful basis for processing, consent does not need to be sought to share, and thus the concept of “overriding consent” is a misconception.
+It is possible that the other parties, such as voluntary groups, may use consent as a lawful basis for some personal data processing.
+Each party is responsible for managing consent where they use consent as the lawful basis condition.
+Proportionality and necessity Proportionality and necessity are factors to be taken into consideration when deciding whether to share personal information.
+In making the decision, employees must weigh up what might happen as a result of the information being shared against what might happen if it is not, and apply their professional judgement.
+Although sharing of information can impact on a practitioner’s relationship with an individual/family, keeping the adult at risk safe must always be the first consideration.
+Safeguarding is a “special purpose” under the Data Protection Act and as such information ought to be shared if the sharing is necessary for protection of an individual who might be at risk from neglect or physical, mental or emotional harm.
+Data Controllers are expected to justify that they believed sharing was necessary for one of the following criteria: necessary for the purposes of preventing or detecting crime required or authorised by an enactment, by a rule of law or by the order of a court or tribunal in the particular circumstances, was justified as being in the public interest.
+Or that they acted in the reasonable belief that: the person had a legal right to do the obtaining, disclosing, procuring or retaining the person would have had the consent of the controller if the controller had known about the obtaining, disclosing, procuring or retaining and the circumstances of it Only the personal data necessary for the stated purpose or request at hand should be shared.
+Sharing must not be excessive.
+This may mean sharing less personal data than has been requested.
+Other relevant legislation The actual disclosure of any personal data to achieve these objectives must also be conducted within the framework of the Human Rights Act 1998 (HRA) and the Common Law Duty of Confidence.
+Caldicott Principles also apply to all information sharing and they are listed in Appendix B: Data Protection & Caldicott Principles.
+Common Law Duty of Confidence Much of the police information to be shared will not have been obtained under a duty of confidence as it is legitimately assumed that data subjects will understand that police will act appropriately with regards to the information for the purposes of preventing harm and safeguarding adults at risk.
+However, for the police, as a safeguard before any information is passed on, it will undergo an assessment check against criteria (included in MPS MASH Resource Guide) by the Public Protection Desk (PPD).
+Whilst still applying proportionality and necessity to the decision, the protection of adults or other persons at risk would clearly fulfil a public interest test when passing the information to a partner agency whose work with the police would facilitate this aim.
+Information held by other agencies that may have been gathered where a duty of confidence is owed.
+Duty of confidence is not an absolute bar to disclosure as information can be shared where consent has been provided or where there is a strong enough public interest to do so.
+When overriding the duty of confidentiality, the parties may seek the views of the organisation who hold the duty of confidentiality and consider their views in relation to breaching confidentiality.
+The organisation may wish to seek legal advice if time permits.
+Freedom of Information The Freedom of Information Act 2000 gives all individuals the right to access official information held by a public authority (the Environmental Information Regulations 2004 also allow access to data.
+For ease of drafting, FOI is used to cover both legislation).
+Limited exemptions may apply and all public authorities must ensure they have recognised procedures in place for administering requests of this nature.
+All requests for FOI will be directed through the relevant organisations’ FOI processes.
+Each party will seek advice/opinion from the other parties where there is concern about that information being released and any impact it is likely to have.
+The final decision to disclose or not will lie with the party who received the request as the legal duty lies with them.
+It is encouraged that all parties proactively publish this document.
+It may also be disclosed to the public under FOI.
+Individuals Organisations processing personal data are required to begin with the ethos of Data Protection by Design and Default (also known as Privacy by Design (PbD)).
+This means that we must consider and uphold the privacy of an individual’s data before we begin and throughout the processing taking place.
+Each party agrees that they have undertaken a DPIA (Data Protection Impact Assessment), where they feel the processing meets the legislative criteria for a DPIA.
+Right to be informed – Privacy notices Where personal data is created or received by one of the parties, they are responsible, as required by law, for making the data subject(s) aware within a reasonable time frame that the organisation holds the data, what they will do with it, how long they will keep it, and who they will share it with (such as under this DSA).
+This is normally done through a privacy notice, whether written or verbal.
+Organisations agree that they will adhere to the transparency requirements of the UK GDPR and will issue appropriate notices which inform the data subject that the information will be shared with the parties under this agreement.
+In some cases, it may not be appropriate to let a person know that information about them is being processed and shared.
+Consideration should be given to whether notifying the individual may place someone at risk or prejudice a police or safeguarding investigation.
+In these circumstances, the parties need not inform individuals that the information is being processed/shared; but should record their reasons for sharing information without making the individual aware.
+Data subject rights requests and complaints Each organisation must have in place appropriate policies and processes to handle data subject requests made in line with data protection law, to ensure they are responded to within the deadline and in an appropriate manner.
+Requests include; right of access, right to rectification, right to erasure, right to restrict processing, right to data portability, right to object and rights related to automated decision making including profiling.
+If an individual successfully requests the erasure or limitation of use of their data (right to erasure, right to rectification, right to restrict processing, right to object), the party that has been informed by the data subject will communicate this to the other parties where relevant and appropriate.
+In each case each party is responsible for securely disposing of such information or limiting its processing.
+Each party must have clear, fair and objective complaint procedures.
+Any complaints from individuals about how their data is being processed or shared will be handled under the policy and processes of the organisation concerned.
+Data subjects There is a breadth of data subjects whose data is shared under this agreement.
+The data subjects include the following: Adults at risk due to their physical or mental health or capacity, or due to their social situation, or due to their status for example as a victim of crime or vulnerability to being a victim of crime family members, carers and other persons whose presence and/or relationship with the adult, is relevant to identifying and assessing the risks to that adult victims actual or suspected perpetrators professional adviser or consultant (eg doctor, lawyer) professional opinions of employees eg social workers and police officers witnesses people captured on CCTV or similar, noting that this is covered under the CCTV DSA Many of the data subjects are vulnerable.
+Parties to this agreement are in positions of power over data subjects and data subjects have little or no control over why and how their data is processed.
+Data The personal data and its processing involved in these workstreams is extensive, highly sensitive and at times intrusive.
+There is a high volume of data and data subjects.
+Anonymisation or pseudonymisation will rarely be possible because of the way the work focuses on individuals, although any statutory returns, workforce planning and management reports should be anonymised if possible.
+Information will include: Personal, special category and criminal data to enable the swift and effective safeguarding of adults at risk and improved safeguarding provision in the borough Personal, special category and criminal data for law enforcement purposes, including data defined as sensitive data for the competent authorities for law enforcement purposes Aggregated (anonymised or pseudonymised) data reporting to enable the partnership to further understand the safeguarding priorities.
+Aggregated (anonymised or pseudonymised) and personal data regarding employees in relation to serious case reviews, investigations into allegations against staff, learning review and workforce development.
+Personal and anonymised data required for statutory returns.
+The data to be shared Due to the complexity of the work involved in the subject of this DSA, providing a prescriptive list of data fields to be shared is difficult.
+Not all the above information will be shared in every case; only relevant information will be shared on a case-by-case basis where an organisation has a ‘need-to-know’ the information.
+Data that will be shared includes: details of safeguarding concerns that may include: o how safeguarding concerns re potential/actual abuse/neglect came to light o impact on the data subject o setting/occasion(s) where/when it took place o immediate action taken in response to the concern being raised (any use of emergency services, Crime number, any immediate safeguarding plan) o In repsect of adults aged 18-25, details regarding their sexual and/or criminal exploitation, including ‘County Lines’ and missing children data for when they were under 18 and at risk from or receiving support for reasons related to MACE - Multi-Agency Child Exploitation.
+name and contact details (including address, telephone number, email address) age/date of birth language gender, ethnic origin, religion and other equalities information criminal information on allegations and convictions, police information and intelligence, information from the London Fire Brigade, anti-social behaviour (ASB) data school and educational information health records including NHS number, GP, London Ambulance Service, Mental Health services and other health services information, which are not already available to the parties through systems such as Child Health Information System (CHIS), CP-IS, HiE or HealtheIntent and similar.
+information on sex life and sexual orientation housing information social services information, referrals and assessments, including child protection and adoption records where appropriate financial information, including benefits records and housing rent records images in photographs, film or CCTV, noting that the CCTV DSA comprehensively covers the sharing of CCTV footage and should be referred to employment information relationship of data subject/s to subject of the safeguarding (if not the subject themselves) Details of current ongoing criminal investigation against a staff member and relevant information to aid organisation investigation whilst not jeopardising the criminal investigation 2.
+Deceased persons It is noted that the sharing may involve data of deceased persons.
+This data will not be covered by data protection legislation but will still require due regard to the common law duty of confidentiality and the Human Rights Act.
+Confidential information In this agreement, we refer to personal data, as defined by data protection legislation.
+However, the word ’confidential’ may be used by individuals and practitioners to describe information and can mean different things to different people.
+Confidential can mean: Personal and special category data as defined by data protection legislation Patient Identifiable Information (PII) or ‘personal confidential information’; both terms most commonly used in health settings Information which is not already lawfully in the public domain or readily available from another public source Information that has been provided in circumstances where the person giving the information could reasonably expect that it would not be shared with others.
+Storing and handling information securely Information must be stored and shared lawfully and securely.
+Special category data may need a higher level of security.
+The employee/organisation sharing the information must choose the most appropriate secure method of transfer and be responsible for its safe delivery.
+Electronic records: Organisations may have different electronic methods for storing and sharing information securely.
+Some have local restrictions which block access to information shared using specific tools.
+Parties must make sure the chosen method is suitably secure and that access is only provided to those who need it, and only to the data needed.
+Unencrypted email (i.e. sent in plain text over the public internet) must not be used to share information under this DSA.
+Sharing methods that may be appropriate include: Email encryption tools where the email and attachments are encrypted from named sender to named recipient (e.g. Microsoft 365 Message Encryption; Egress Protect) Encryption via Transport Layer Security (TLS) where the email and attachments are encrypted in transit over the internet.
+Both the sender and recipient email domains must have TLS enabled.
+This can be checked using https://www.checktls.com/ Secure corporately managed data repository and sharing platforms (e.g. MS Teams; Google Docs) Secure group email services (e.g. CJSM: https://cjsm.justice.gov.uk/index.html) Secure File Transfer Protocols Virtual Private Networks The above are examples: get advice from your organisation’s information security or IT teams on secure methods of sharing available at your organisation and document these in the organisation’s process documents.
+Phone/virtual meetings/face-to-face meetings: Information may be shared over the phone, in a virtual meeting, or at face to face meetings.
+Meeting attendance and distribution of content, e.g. meeting minutes or recordings, must be limited to those with a need to know.
+Sharing by telephone should be avoided unless the requirement is urgent and email is not practicable.
+Individuals should be aware of their surroundings and the presence of other individuals or voice recognition or ‘Internet of Things’ devices (e.g. virtual assistant apps like Alexa, Cortana, SIRI) to ensure they aren’t overheard by those that should not have access to the information discussed.
+Paper records: Printed paper records must always be kept to a minimum and kept secure whether in the office, home or during transit.
+Organisations must adopt an appropriate policy surrounding the use and transfer of paper records.
+Appropriate security methods must be applied when storing or disposing of paper records.
+Access controls and security All parties will ensure that they have appropriate technical and organisational security measures in place to guard against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data.
+All personal data held by partner organisations electronically will be stored in a secure network area with password protected entry and appropriate back-up functionality.
+The systems will be auditable so that it is possible for any auditor to establish who has accessed the system.
+All laptops, computers, and any other portable devices will be encrypted.
+Any individual no longer required to have access will promptly have such access revoked by the line manager and Human Resources related to the relevant employer.
+There is an expectation that partner organisations will either be working toward ISO 27001, the International Standard for Information Security Management, or a similar standard of security such as NHS Digital’s Data Security and Protection Toolkit (DSPT[HH1] ) and Cyber Essentials or Cyber Essentials Plus.
+Outside UK processing Parties are responsible for ensuring that if information is processed or shared outside the UK, that appropriate safeguards are in place and on condition that enforceable data subject rights and effective legal remedies for data subjects are available.
+These are for example, a legally binding and enforceable instrument between public authorities or bodies, binding corporate rules, and/or standard data protection contractual clauses.
+Data quality Each partner is responsible for ensuring the accuracy and relevance of the personal data that it processes and shares and must have clear processes in place for managing data quality.
+Any party learning of the inaccuracy of personal data is responsible for informing the parties with whom that data has been shared.
+Data breaches/incidents All parties must have a clear policy and procedure regarding the reporting and handling of data protection breaches or data loss incidents.
+This must include assessing the level of risk to the data subject(s), as well as to make a decision on notifying the ICO within the statutory time frame of 72 hours.
+This complies with Articles 33 and 34 of UK GDPR, and Section 67 and 68 of the DPA 2018 for personal data processed for law enforcement purposes.
+If the incident may impact the processing of another party to this agreement, all relevant parties should be informed, usually within 24 hours of the breach being identified, and appropriate coordination of the incident must take place.
+The decision to report the incident will lie with the data controller(s) of the information concerned.
+The parties agree to provide all reasonable and necessary assistance at their own expense to each other to facilitate the handling of any personal data breach in an expeditious and compliant manner.
+It is confirmed that security breaches (including misuse or unauthorised disclosure) are covered by the partner’s internal disciplinary procedures.
+If misuse is found there should be a mechanism to facilitate an investigation, including initiating criminal proceedings where necessary.
+Retention and Disposal Organisations are required by data protection legislation to document processing activities for personal data, such as what personal data is held, where it came from and with whom it has been shared.
+This Record of Processing Activity (ROPA) must include the retention period for the data.
+Information must not be retained for longer than necessary for the purpose for which it was obtained.
+Disposal or deletion of personal data once it is no longer required, must be done securely with appropriate safeguards, in accordance with that organisation’s disposal policies.
+Signatures Parties other than the Metropolitan Police will sign on the Information Sharing Gateway This agreement is signed on behalf of: The Metropolitan Police .................................
+Date Version control Document production date March 2022 Document currency Draft V0.4 Appendix A – Parties to this agreement Organisation Duties London Borough Council ● considering any safeguarding concerns raised about adults with care and support needs leading and coordinating safeguarding enquiries into abuse and neglect, or causing another organisation to undertake the enquiry.
+Metropolitan Police Service ● Law enforcement responsibilities in connection with safeguarding concerns raised about adults with care and support needs Law enforcement responsibilities to investigative allegations relating to safeguarding and share data in accordance with this DSA in furtherance to those enquiries or causing another organisation to undertake enquires / support activity in support of the individual concerned.
+Organisation Duties Probation Service ● Co-ordinates, gathers, processes, risk assesses and shares Probation information relevant to adult offenders Supports assessments of risk & vulnerability Writes reports for Court London Ambulance Service NHS Trust Co-ordinates, gathers, processes safeguarding concerns with relevant safeguarding partners support LA and SAB safeguarding investigations ALMOs (housing management for council housing) Management of council owned housing stock through Arms length Management London Fire Brigade Fire and civil defence authority Service users’/patients’ organisations These will vary by council and will be signed up locally via soft or hard copies of the DSA, local records kept of parties and shared with IGfL for central record Carers’ organisations These will vary by council and will be signed up locally via soft or hard copies of the DSA, local records kept of parties and shared with IGfL for central record Advocacy providers inc Healthwatch These will vary by council and will be signed up locally via soft or hard copies of the DSA, local records kept of parties and shared with IGfL for central record Care Home and Domiciliary Care providers/associations These will vary by council and will be signed up locally via soft or hard copies of the DSA, local records kept of parties and shared with IGfL for central record Supporting People providers These will vary by council and will be signed up locally via soft or hard copies of the DSA, local records kept of parties and shared with IGfL for central record Victim support services e.g.
+Victim Support, Rape Crisis, Women’s Aid These will vary by council and will be signed up locally via soft or hard copies of the DSA, local records kept of parties and shared with IGfL for central record Voluntary sector service providers e.g. Age Concern, Help the Aged, MIND, People First, MENCAP, SCOPE These will vary by council and will be signed up locally via soft or hard copies of the DSA, local records kept of parties and shared with IGfL for central record Voluntary sector groups working against abuse of adults e.g. ACT, Action on Elder Abuse, PAVA, POPAN.
+These will vary by council and will be signed up locally via soft or hard copies of the DSA, local records kept of parties and shared with IGfL for central record Housing Associations/Trusts These will vary by council and will be signed up locally via soft or hard copies of the DSA, local records kept of parties and shared with IGfL for central record
+Appendix B: Data Protection & Caldicott Principles The Principles as described in Article 5 of the General Data Protection Regulation.
+Appendix C – Applicable legislation Note that all legislation can be found at www.legislation.gov.uk Legislation Main purpose of Legislation The Mental Health Act 1983 and the Mental Health Act Code of Practice The Code of Practice provides statutory guidance to registered medical practitioners, approved clinicians, managers and staff of providers, and approved mental health professionals on how they should carry out functions under the Mental Health Act in practice.
+It specifically excludes learning disability, alcohol or drug dependence.
+Covers offences such as ill treatment or neglect of mentally disordered patients within hospital or nursing homes or otherwise in persons custody or care and unlawful sexual intercourse with patients/residents suffering mental disorder.
+Modern Slavery Act 2015 Provisions around tafficking and modern slavery The Localism Act 2011 Councils have power to act as an individual for any purpose, with specific goals to promote economic, social and environmental well-being within their boundaries.
+However, as a general power it can be challenged, and an additional legal basis is preferred.
+The Criminal Justice Act This act amended a wide range of provisions in the PACE act and provided new regulations on offence management, disclosure and trials.
+The Police and Criminal Evidence Act 1984 Makes specific provision for the secretary of state to issue codes of practice to police with statutory effects.
+It provides the basis for many of the police actions relating to safeguarding and other matters.
+The Mental Capacity Act Promotes a person-centred approach which promotes autonomy, and for those who may lack mental capacity, ensures that decisions made on their behalf are made in their best interests and with the least possible restriction of freedoms.
+Creates an offence of ill-treatment or wilful neglect of a person lacking capacity by anyone responsible for that person’s care.
+The Health and Social Care Act 2012 Provides for the delivery of Health and Social Care, providing a legal basis for many of the services delivered by parties to this agreement.
+In particular, section 251B places a duty to share health and adult social care related data unless the data subject has specifically objected.
+The Crime and Disorder Act Each LA in England & Wales has the responsibility to formulate a strategy to reduce crime and disorder in their area and to work with police authorities to do this.
+Care Act 2014 and the Care and support statutory guidance Sets out a clear legal framework for how local authorities and other parts of the health and care system should protect adults at risk of abuse or neglect so that key organisations and individuals with responsibilities for adult safeguarding can agree on how they work together to keep adults at risk safe.
+The statutory guidance can be found at NHS England » Safeguarding Adults: a guide for health care staff
+Legislation Main purpose of Legislation Domestic Abuse Act 2021 Provides protections to those who experience domestic abuse, and strengthens measures to tackle perpetrators.
+It provides a legal definition of domestic abuse which incorporates a range of abuses beyond physical violence, including emotional, coercive or controlling behaviour, and economic abuse.
+Public Health Act 1936 Provides councils various powers over premises or their contents which are ‘filthy or verminous’ Prevention of Damage by Pests Act 1949 Legislation covering the control of pests in domestic premises Domestic Violence, Crime and Victims Act 2004 Criminal offence to physically or sexually abuse, harm or cause deliberate cruelty by neglect of a child or an adult.
+This legislation was introduced, in part, to emphasise the crime of abuse between partners within the home.
+Offences Against The Persons Act 1861 Various offences of physical assault Medicines Act 1968 Offences relating to unlawfully administering medication, injuriously affecting the composition of medicinal products Sexual Offences Act 2003 Various offences relating to sexual assaults Public Order Act 1986 Various offences including affray, fear or provocation of violence, intentional harassment, alarm or distress, and harassment/alarm or distress Protection from Harassment Act 1977 Tenancy related issues including course of conduct amounting to harassment, injunctions against harassment, and course of conduct that causes another to fear.
+Theft Act 1968 Offences including dishonest appropriation of property, robbery, burglary and blackmail Criminal Justice and Courts Act 2015 sec 20-25 Offences involving ill treatment or wilful neglect Offender Management Act 2007 (s14) Disclosure for Offender Management Purposes Section 14 sets out the powers of certain bodies to share data for specified purposes which include .
+The probation purposes (section one Offender Management Act 2007) The performance of the functions relating to prisons or prisoners (inc young offender institutions and secure training centres, together with those persons detained within them); Any other purpose connected with the management of offenders (including the development or assessment of policies relating to matters connected with the management of offenders) Other Laws Not providing a lawful basis for sharing data but referred to in the DSA Data Protection Act 2018 UK data protection law.
+Human Rights Act 1998 Framework of human rights for all and the ways in which they can be lawfully limited
+Legislation Main purpose of Legislation Freedom of Information Act Provides public right to access to recorded information held by public authorities Appendix D – Useful definitions and references: Definition of adult at risk of harm: Care Act 2014 The Care Act 2014, part 2, section 42 includes a definition of an adult at risk of abuse or neglect that may need safeguarding (bold added for emphasis): Safeguarding adults at risk of abuse or neglect 42 Enquiry by local authority (1)This section applies where a local authority has reasonable cause to suspect that an adult in its area (whether or not ordinarily resident there)— (a)has needs for care and support (whether or not the authority is meeting any of those needs), (b)is experiencing, or is at risk of, abuse or neglect, and (c)as a result of those needs is unable to protect himself or herself against the abuse or neglect or the risk of it.
+The local authority must make (or cause to be made) whatever enquiries it thinks necessary to enable it to decide whether any action should be taken in the adult’s case (whether under this Part or otherwise) and, if so, what and by whom.
+“Abuse” includes financial abuse; and for that purpose “financial abuse” includes— (a)having money or other property stolen, (b)being defrauded, (c)being put under pressure in relation to money or other property, and (d)having money or other property misused.
+Description of categories of abuse: NHS England – Safeguarding Adults guidance The NHS England Safeguarding Adults guidance NHS England » Safeguarding Adults: a guide for health care staff includes descriptions of categories of abuse that may require safeguarding referrals and interventions: Abuse includes: Physical abuse: including assault, hitting, slapping, pushing, misuse of medication, restraint or inappropriate physical sanctions.
+Sexual abuse: including rape and sexual assault or sexual acts to which the adult has not consented or was pressured into “consenting”.
+Psychological abuse: including emotional abuse, threats of harm or abandonment, deprivation of contact, humiliation, blaming, controlling, intimidation, coercion, harassment, verbal abuse, isolation or unreasonable and unjustified withdrawal of services or supportive networks.
+Modern Slavery: human trafficking and slavery Financial or material abuse: including theft, fraud, exploitation, coercion in relation to an adult’s financial affairs or arrangements, including in connection with wills, property, inheritance or financial transactions, or the misuse or misappropriation of property, possessions or benefits.
+Neglect and acts of omission: including ignoring medical or physical care needs, failure to provide access to appropriate health, care and support or educational services, the withholding of the necessities of life, such as medication, adequate nutrition and heating.
+Self -Neglect: this covers a wide range of behaviour neglecting to care for one’s personal hygiene, health or surrounding and includes behaviour such as hoarding.
+It is important to consider capacity when self-neglect is suspected.
+Also consider how it may impact on other family members and whether this gives rise to a safeguarding concern.
+Domestic Violence see below Discriminatory abuse: discrimination on grounds of race, gender and gender identity, disability, sexual orientation, religion, and other forms of harassment, slurs or similar treatment.
+Organisational abuse: including neglect and poor care practice within an institution or specific care setting (eg hospital or care home), may range from isolated incidents to continuing illtreatment.
+Definition of domestic abuse – Domestic Abuse Act 2021 The Domestic Abuse Act 2021, Part 1, section 1 includes a definition of domestic abuse: Definition of “domestic abuse” (1)This section defines “domestic abuse” for the purposes of this Act.
+Behaviour of a person (“A”) towards another person (“B”) is “domestic abuse” if— (a)A and B are each aged 16 or over and are personally connected to each other, and (b)the behaviour is abusive.
+Behaviour is “abusive” if it consists of any of the following— (a)physical or sexual abuse; (b)violent or threatening behaviour; (c)controlling or coercive behaviour; (d)economic abuse (see subsection (4)); (e)psychological, emotional or other abuse; and it does not matter whether the behaviour consists of a single incident or a course of conduct.
+“Economic abuse” means any behaviour that has a substantial adverse effect on B’s ability to— (a)acquire, use or maintain money or other property, or (b)obtain goods or services.
+For the purposes of this Act A’s behaviour may be behaviour “towards” B despite the fact that it consists of conduct directed at another person (for example, B’s child).
+Appendix E: Information Sharing Checklist The following questions must be considered when deciding whether to share information.
+Whose information is this?
+Is there a lawful basis to share the information?
+Justify the purpose and identify relevant legislation that applies.
+Can information be pseudonymised or anonymised ahead of sharing?
+How have individuals been informed that the information will be shared eg via a privacy notice?
+Will they have the expectation that their information will be shared?
+Consider whether notifying the individual of the sharing may place someone at risk or prejudice a police or safeguarding investigation.
+Have any requests not to share been received and considered?
+How much information is it necessary to share in this situation?
+Is the information accurate and up to date?
+Has the difference between fact and opinion been stated?
+Is access to the information limited to only those who need it?
+Is it being given to the right person?
+Is the information being shared in a secure way?
+Has the decision to share or not share, and the rationale for the decision, been recorded?

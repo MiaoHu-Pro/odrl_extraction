@@ -1,0 +1,471 @@
+﻿
+
+
+
+INFORMATION SHARING AGREEMENT 
+
+[INSERT PURPOSE]
+
+
+BETWEEN THE FOLLOWING
+
+[XXXX], [XXXX], [XXXX]
+
+
+
+
+
+[Delete/add organisational logos as appropriate]
+CONTENTS PAGE
+
+
+SUMMARY SHEET	1
+1. INTRODUCTION	2
+2. POLICY STATEMENTS AND PURPOSE	2
+3. PARTNERS	3
+4. BASIS FOR SHARING	3
+5. PROCESS	4
+6. SIGNATURE	10
+Appendix 1: Partners, signatories and leads	12
+Appendix 2: Cambridgeshire Information Sharing Framework - Reference Documents	12
+
+
+
+
+
+
+
+
+SUMMARY SHEET
+
+Title of Agreement
+
+
+Agreement Reference
+
+
+Purpose
+
+To facilitate the sharing of xxxx information between the organisations listed below. 
+
+The purpose of the information sharing is to xxxx. 
+
+
+Partners
+
+  
+
+
+Date agreement comes into force
+
+
+Date of agreement review
+
+
+
+Agreement owner
+
+
+
+Agreement drawn up by:
+
+
+Location of agreement in force
+
+
+
+Protective marking
+
+
+
+
+
+VERSION RECORD
+
+Version Number
+Amendments Made
+Authorisation
+0.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  1. INTRODUCTION
+
+These green boxes provide guidance text to help you to complete your information sharing agreement.
+
+Delete the green boxes when you have completed the sections, to make the agreement shorter and easier to read.
+
+If you have any questions about how to complete this agreement, contact your organisation’s Information Sharing lead.
+
+For the wider context on information sharing, you can also consult the Cambridgeshire Information Sharing Framework and the associated Information Sharing Guidance.
+
+The numbered paragraphs provide examples of content. You can use this to accelerate the process of writing the agreement. These paragraphs can be changed, added to or deleted.
+
+        1.1 This information sharing agreement has been drawn up under the umbrella of the Cambridgeshire Information Sharing Framework, which sets out the core information sharing principles which have been agreed by its signatory organisations.
+ 
+        1.2 [Outline overall objectives and any specific legislation you are working under such as the Crime and Disorder Act 1998/Local Government Act 2000 and so on.] 
+
+        1.3 In order to meet this objective it is necessary for partners to share selected information. 
+
+
+2. POLICY STATEMENTS AND PURPOSE
+
+Explain why the proposed data sharing is necessary, the aims you have and the benefits this will bring to the participating organisations, to individuals or to society more widely. This should be documented in precise terms so that all parties are clear as to the purposes for which data may be shared and shared data may be used.
+
+        2.1 The purpose of this agreement is to enable information to be shared between the below-named organisations in support of the following objective(s): 
+    • [Objective]
+    • [Objective]
+
+        2.2 [What are the benefits?] 
+
+        2.3 [What are the limits? What is not covered? Are there any agreements in related areas that will operate in parallel?] 
+
+
+3. PARTNERS
+
+Your agreement should identify clearly all the organisations that will be involved in the data sharing and include contact details for both a lead officer in the area concerned and the organisation’s information sharing lead. It should also contain procedures for including additional organisations in the data sharing arrangement and for dealing with cases where an organisation needs to be excluded from the sharing.
+
+        3.1 This agreement is between the partners listed in Appendix 1, from the following organisations:
+    • [Organisation 1]
+    • [Organisation 2]
+
+        3.2 If a new partner joins the agreement, a new version of the information sharing agreement will be issued as soon as possible, certainly within one month, and circulated to all participating parties.
+
+        3.3 If a partner leaves the agreement, a new version of the information sharing agreement will be issued as soon as possible, certainly within one month, to all participating parties. Partners must refer to section 5.9 regarding retention and deletion of information that has been shared.
+
+
+4. BASIS FOR SHARING
+
+You need to explain your basis for sharing data. If you are a public sector body, you may be under a legal duty to share certain types of personal data. Even if you are not under any legal requirement to share data, you should explain the legal power you have which allows you to share. If you are a private or third sector organisation then you may not need a specific legal power to disclose personal data, but your agreement should still explain how the disclosures will be consistent with the Data Protection Act. 
+
+If consent is to be a basis for disclosure, then your agreement could also provide a model consent form. It should also address issues surrounding the withholding or retraction of consent.
+
+Remember that even if your sharing has a consent basis, you must still ensure that you comply with the Data Protection Act’s requirements for ensuring accurate and up to date information and destroying in a timely manner. 
+
+4.1	This agreement fulfils the requirements of the following [delete/add as appropriate]:
+    • The Data Protection Act 1998 (sections 29(3) & 35(2)).
+    • The Data Protection Act 1998 (Principle 1) Schedules 2 and 3
+    • The Data Protection (Processing of Sensitive Personal Data) Order 2000/417
+    • The Human Rights Act 1998 (article 8);
+    • The Freedom of Information Act 2000
+    • The Crime and Disorder Act 1998 (section 115);
+    • Civil Contingencies Act 2000
+    • Common Law Duty of Confidentiality
+    • Local Government Act
+    • The Children Act 1989
+    • The Children Act 2004
+
+        4.2 Any information shared and the processes used to share such information will be compliant with the relevant Human Rights legislation. 
+5. PROCESS
+
+5.1 	This agreement has been formulated to facilitate the exchange of xxxx information between the signatories. It is, however, incumbent on all partners to recognise that any information shared must be justified on the merits of the agreement. The balance, between an individual’s Human Rights and the need to disclose information, must be assessed to ensure the information shared between agencies is proportionate to the purpose.  Anyone in doubt should consult their Information Sharing Lead before proceeding.
+
+        5.2 INFORMATION TO BE SHARED
+
+Say how you determined which information would be shared. Then specify the information to be shared - which documents or data and in which circumstances?
+
+Are all items to be shared between all participants or are there more restricted information flows?
+
+Is information shared as and when needed via individual conscious decisions, or is there ongoing shared access to a common data platform or pool?
+
+This section needs the most detailed thinking.
+
+    • Information providers: It would be useful to ask each participating organisation to identify the information they would potentially share under the agreement.
+    • Information receivers: Then work together to review which organisations should receive what information. 
+    • Scope of information to be shared: Then consider, for each set of information that is in scope, whether all or part of it should be provided. The Data Protection Act requires that the information shared should be relevant and not excessive. Therefore, where datasets are being shared, it may be necessary to identify which specific fields will be shared (e.g. Name, Date of Birth, Address (not Email), Religion, Sexual Orientation). Where case file information is being shared, it may be necessary to identify the circumstances which mean a case is in scope for sharing. Is there anything that should specifically not be shared?
+
+If you wish, set out this detailed sharing information in an Appendix to this agreement. This information needs to be clear and easy to understand – it will be a key reference point for individuals making sharing decisions.
+
+            5.2.1 [How did you work out what data would be shared?]
+
+            5.2.2 [What will this data be shared?]
+
+            5.2.3 [What happens if information not specified here needs to be shared to achieve the aims set out – on a one-off basis?]  If there is a need to share additional information on a one-off-basis, the parties concerned should consider whether the sharing is necessary to the agreement and document their considerations/findings, including any additional consents sought (and if not sought, an explanation as to why).
+
+            5.2.4 [What happens if information not specified here needs to be shared to achieve the aims set out – on a continued basis?] If additional information is required on a repeated basis over and above what is defined in this agreement, to enable the agreement to achieve its aims, the lead officers should agree an addition to the sharing agreement, ensuring that the new information meets the same legislative or consent basis as the original. This addition should be added to the agreement and all parties should sign up to it. 
+
+
+        5.3 CONSENT [only include if personal data is involved]
+
+If relevant, confirm how the consent of data subjects has been/will be secured for the proposed sharing and use of the information that is in scope.  
+
+There are two key exceptions to the need to obtain consent: (1) where there is a legislative mandate to share the information without consent (e.g. with the DWP) or (2) where needing to obtain consent may place an individual at risk of harm. Sharing can happen in these circumstances without consent. You can state this in the paragraphs below if this is useful to establish the context behind your actions.
+
+Where consent is needed, there must be some form of active communication when information is collected where individuals knowingly indicate consent for the intended use of their data. Have the data subjects given their consent to their information being shared, or do they have access to fair processing notices covering this. There may be different arrangements for each partner or a joint arrangement.
+
+Privacy notices or fair processing notices are often used to secure consent, in which case, check that they are sufficient for the planned use and provide links to them below. Notices may need to be revised to cover the planned data use or specific consent may need to be obtained relating to the planned activities.  If in doubt, refer to the ICO’s Privacy Notices code of practice and consult your Information Sharing Lead.
+
+You must make provision to deal with individuals withdrawing or not providing their consent for the use of their data which is anticipated by the sharing agreement. 
+
+In certain defined circumstances, sharing can proceed without consent. Specify here if this is likely to apply.
+
+            5.3.1 [How has consent been obtained/how will it be obtained?]
+
+            5.3.2 [Arrangements for each partner.]
+
+            5.3.3 [Arrangements if consent for sharing is denied by an individual.]
+
+            5.3.4 [Arrangements if consent for sharing is withdrawn by an individual.]
+
+            5.3.5 [Notes re: the likelihood of need to share without consent if relevant.]
+
+
+        5.4 RIGHT TO SHARE NON-PERSONAL INFORMATION [delete if not relevant]
+
+Some non-personal information is subject to a sharing agreement to control its circulation as it is protected by copyright or licensing arrangements.  If this is relevant to you, indicate here what the constraint is, what restricted sharing is allowed and on what basis. 
+
+Are notifications needed e.g. to a copyright holder, that the information sharing is taking place?
+
+Is this conditional e.g. on all parties having a current licence to a given software platform or dataset? If so, what are the arrangements if this ceases to be the case?
+
+            5.4.1 [Set out any special basis for restricting the information shared.]
+ 
+            5.4.2 [Any conditions that need to be met, notifications made, etc.]
+
+            5.4.3 [Arrangements if conditions are no longer met.]
+
+
+        5.5 RIGHT TO SHARE ANONYMISED AND PSEUDONYMISED INFORMATION [delete if not relevant]
+
+Personal information can be altered so that it is no longer person-specific through aggregation, anonymisation or pseudonymisation. While this type of data is no longer person-identifiable in theory, there is sometimes a risk that parts of a dataset could be deanonymised, depending on the size of the involved population and how different datasets are combined.  This means that care still needs to be taken in the treatment and management of these datasets to protect the privacy of individuals. 
+
+If data is e.g. aggregated, so that the situation of an individual could not be extracted, then individuals could not ask for their information to be removed. If, however, individuals are still represented as lines in the data, although anonymised or pseudonymised, then they could withdraw consent. Paragraphs here will be informed by the materials to be shared. Consult your Information Sharing Lead for further information.
+
+            5.5.1 [Set out any special basis for restricting the information shared.]
+
+            5.5.2 [Any conditions that need to be met, notifications made, etc.]
+
+
+        5.6 HAS A PRIVACY IMPACT ASSESSMENT / RISK ASSESSMENT BEEN DONE?
+
+If the data sharing includes personal data, a Privacy Impact Assessment (PIA) may be warranted. This is a process for determining the privacy, confidentiality and security risks associated with the collection, use and disclosure of personal data. It is valuable where a new process or system could poses significant risks to the privacy of individuals.
+
+For the sharing of other types of information, a more generic risk assessment may be done. 
+
+Include details of any assessments which have been done and how their findings have influenced the design of the sharing arrangement. Identify any risks which need to be kept under review during the lifetime of the agreement.
+
+            5.6.1 [Was a privacy impact assessment relevant? If so, details. What changed as a result?] 
+
+            5.6.2 [How will risks be kept under review?]
+
+            5.6.3 [Was a risk assessment relevant? If so, details. What changed as a result?]
+
+            5.6.4 [How will risks be kept under review?]
+
+
+        5.7 HOW WILL THE INFORMATION BE TRANSFERRED
+
+Indicate how electronic and hard copy information which is shared under this agreement will be transferred between participating organisations/individuals. If sent electronically, also indicate whether the information will be encrypted? Ask your information sharing lead for advice here.
+If relevant, also indicate any means of transit which are not acceptable under the agreement.
+
+You do not need to reiterate aspects of common security standards which are in the Cambridgeshire Information Sharing Framework, unless specific requirements or standards are not covered.
+
+Confirm that decisions to share information must be documented and state how/where this is to be done.
+
+Confirm what protective marking will you use to ensure that the sensitivity of information is understood. We recommend that you use the Government hierarchy set out in the Framework, where the relevant levels are: Not protectively marked, protect (for sensitive information), restrict (for the most sensitive information).
+
+            5.7.1 The Cambridgeshire Information Sharing Framework provides details of the overall security standards required of participating organisations to manage the information they receive from other parties under this agreement. These must be respected by all signatories.
+
+            5.7.2 [Set out requirements specific to this sharing arrangement. What transit mechanisms are acceptable?] 
+
+            5.7.3 [What transit mechanisms are not acceptable?]
+
+            5.7.4 [Active decision making and audit trail for the information shared – specify what is expected.] There must be a record made of each decision to share information. This is to be recorded as follows:
+    • [Organisation 1 – file location or approach.]
+    • [Organisation 2 – file location or approach.] 
+
+            5.7.5 [Ensuring level of sensitivity is understood – protective marking. If different organisations have different standards, identify them here.] Before being shared, information should be protectively marked as follows:
+    • [Mark 1]
+    • [Mark 2]
+
+            5.7.6 [Ensuring ownership is understood.] Information that is shared should be labelled with the name of its originator, so that obligations around withdrawal of consent, updating to maintain accurate records and reporting any breaches etc can be fulfilled.
+
+
+        5.8 ENSURING DATA QUALITY
+
+Who is responsible for data quality?
+
+What is the process for ensuring that the data shared is accurate?
+
+How will you ensure that the meaning of data is understood so that it is not inadvertently misused once shared?
+
+How will you ensure that datasets that have been shared will be kept updated?
+
+What will the process be for responding to any complaints about accuracy of personal data? 
+
+            5.8.1 [Responsibility.] Everyone sharing data under this agreement is responsible for the quality of the data they are sharing.
+
+            5.8.2 [Accuracy.] Before sharing data, officers will check that the information being shared is accurate and up to date to the best of their knowledge. If sensitive data is being shared which could harm the data subject if it was inaccurate, then particular care must be taken.  
+
+            5.8.3 [Ensuring meaning is understood.] Where a ‘dataset’ is being shared (i.e. structured data), it will be accompanied by a table providing definitions of the data fields.
+
+            5.8.4 [Ensuring out of date data is not used once shared.] If personal data has been held for longer than […time period…], an updated version must be obtained before […action…]
+
+            5.8.5 [Complaints.] If a complaint is received about the accuracy of personal data which affects datasets shared with partners in this agreement, an updated replacement dataset will be communicated to the partners.  The partners will replace the out of date data with the revised data. 
+
+
+        5.9 INFORMATION USE, REVIEW, RETENTION AND DELETION
+
+Confirm that information should only be used for the purposes that the agreement was designed to enable.
+
+Confirm which organisation is the primary record keeper for the information shared.
+
+The information that is shared should not be kept indefinitely. Instead, a retention schedule needs to be defined for it, setting out how long it should be kept before being deleted. The retention schedule for the master copy of information held by the originating organisation may be different from the retention schedule applied to the copies of that information that have been shared for the purposes of this sharing agreement. 
+
+What happens to the information that has been shared when the agreement ends e.g. because a project finishes or there is a policy change?
+
+What happens to the information that has been shared if a partner leaves the agreement?
+
+            5.9.1 Partners to this agreement undertake that information shared under the agreement will only be used for the specific purpose for which it was shared, in line with this agreement. It must not be shared for any other purpose outside of this agreement.
+
+            5.9.2 [Record ownership – adapt as appropriate.] In each case, the originating organisation remains the primary information owner and record keeper for the information that is shared. Where information is edited by the receiver, they must make it clear this is an altered copy. 
+
+            5.9.3 [Retention period – different subsets of information may need to be kept for different lengths of time. If this is the case, draw up a table. If you have an Appendix of information to be shared, add the retention periods to this for ease of reference.] The retention period for the information shared is xxxx from the date of xxxx. 
+
+            5.9.4 The recipient will not release the information to any third party without obtaining the express written authority of the partner who provided the information.
+
+            5.9.5 [Destruction – cover paper and electronic files if appropriate.] The following destruction process will be used when the information is no longer required:
+    • [paper]
+    • [electronic]
+
+            5.9.6 If a partner leaves the agreement, decisions must be taken and followed through on what happens to :
+    • The information that has already been shared with the signatories by the departing organisation. 
+    • The information that has already been shared with the departing organisation by the other signatories.
+
+
+        5.10 ROLES AND RESPONSIBILITIES UNDER THIS AGREEMENT
+
+Who can share information under this agreement? If it is a finite number of individuals, roles or teams, list them.
+
+What information needs to be recorded, if any, about the sharing that takes place to provide an audit trail? Consider whether a template should be set up straightaway to log sharing.
+
+Can shared information be passed on by the receiver to a third party?
+
+            5.10.1 The [people/roles/teams] who will have access to information provided under this Agreement are: 
+
+Organisation 1
+    • [Name, role, team] 
+    • [Name, role, team] 
+
+Organisation 2
+    • [Name, role, team] 
+    • [Name, role, team]	
+
+            5.10.2 All partners to this agreement must appoint Specific Points of Contact (SPOC) – see Appendix 1.
+
+            5.10.3 [Responsibility of the SPOC] The SPOC’s within each organisation will be the first port of call for questions about the agreement. If there is a problem such as a potential information security breach, relevant SPOCs must be contacted.
+
+            5.10.4 It is the responsibility of everyone sharing information and accessing and using the information that has been shared to take appropriate decisions, then hold the information securely, in accordance with the standards set out in the overall Framework and this agreement.  Any person who is not sure of the requirements on them should read the Framework and this Agreement, then, if necessary, contact their SPOC.
+
+            5.10.5 [Indicate limits on who can share information under this agreement.] Only appropriate and properly authorised persons will have access to the information specified in this Agreement. If in doubt, a person intending to share or access information should contact their SPOC.
+
+5.10.6	Information shared between partners must not be disclosed to any third party without the written consent of the partner that provided the information.  For the purposes of this Agreement, approval for such sharing lies with the SPOC of the originating organisation. 
+
+
+5.11 	REVIEW OF THE INFORMATION SHARING AGREEMENT
+
+Confirm when the Information Sharing Agreement will be reviewed and who is responsible for initiating this.  What happens if that person leaves their role?
+
+            5.11.1 [Review.] This Information Sharing Agreement will be reviewed xxxx months after its launch and xxxx thereafter. The person responsible for initiating this process is: xxxx.  
+
+            5.11.2 [Exceptional review.] If a significant change takes place which means that the agreement becomes an unreliable reference point, then the agreement will be updated as needed and a new version circulated to replace the old.
+
+            5.11.3 [Ongoing ownership.] If the lead person departs their role, an alternative lead must be nominated as soon as possible.
+
+5.12 	INDEMNITY
+
+            5.12.1 xxxx, xxxx and xxxx as receivers of information covered under this Agreement will accept total liability for a breach of this Information Sharing Agreement should legal proceedings be served in relation to the breach.
+
+6. SIGNATURES
+
+        6.1 By signing this agreement, all signatories accept responsibility for its execution and agree to ensure that staff are trained so that requests for information and the process of sharing itself are sufficient to meet the purpose of this agreement.
+
+        6.2 Signatories must also ensure that they comply with all relevant legislation and with the provisions set out in the Cambridgeshire Information Sharing Framework.
+
+
+Signed on behalf of xxxx:
+…………………………………………………………………………………………………………………
+
+Title:……………………………………………………………………………………………………………
+
+Rank/ Position:……………………………………………………………………………………………….
+
+Date:…………………………………………………………………………………………………………..
+
+
+
+
+Signed on behalf of xxxx:
+…………………………………………………………………………………………………………………
+
+Title:……………………………………………………………………………………………………………
+
+Rank/ Position:……………………………………………………………………………………………….
+
+Date:…………………………………………………………………………………………………………..
+
+
+Appendix 1: Partners, signatories and leads
+
+Organisation
+Member of the Cambs Information Sharing Framework?
+Department(s)
+Lead Signatory 
+NB: indicate if Specific Point of Contact (SPOC)
+Information Sharing Lead
+NB: Indicate if Specific Point of Contact (SPOC)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix 2: Cambridgeshire Information Sharing Framework - Reference Documents 
+Cambs Information Sharing…
+Purpose
+Hyperlink
+    • Framework
+The umbrella agreement signed up to by the leaders of participating organisations. Sets out the standards that participating organisations will adhere to when sharing information.
+http://data.cambridgeshire.gov.uk/data/information-management/info-sharing-framework/cambs-information-sharing-framework.pdf
+    • Guidance 
+
+Advice on how to identify when an activity is information sharing, and guidance on how the Framework can help with those activities. Good practice.
+http://data.cambridgeshire.gov.uk/data/information-management/info-sharing-framework/cambs-information-sharing-guidance.pdf
+    • Agreement Template
+Template for information sharing agreements under the umbrella of the wider Cambridgeshire Information Sharing Framework. Setting the parameters for specific information sharing activities between particular groups of organisations.
+http://data.cambridgeshire.gov.uk/data/information-management/info-sharing-framework/cambs-information-sharing-agreement-template.doc
+    • Contacts
+The lead information sharing officers in each participating organisation. Available to advise on the application of the framework and on information sharing more generally.
+http://data.cambridgeshire.gov.uk/data/information-management/info-sharing-framework/cambs-information-sharing-contacts.doc
+    • Charter
+A leaflet informing the public about Cambridgeshire’s Information Sharing Framework and the benefits to them.
+
+http://data.cambridgeshire.gov.uk/data/information-management/info-sharing-framework/cambs-information-sharing-charter.pdf
+
