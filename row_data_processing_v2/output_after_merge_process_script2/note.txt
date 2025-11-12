@@ -1,0 +1,27 @@
+Total number of lines (sentences): 21202
+Average token count per line: 31.99
+Maximum token count in a line: 877
+Minimum token count in a line: 2
+
+
+here’s what I verified:
+
+files exist and are readable:
+
+odrl_simodrl.jsonl
+
+odrl_simodrl_labelled.jsonl
+
+class distribution in odrl_simodrl.jsonl (as intended):
+
+ODRL: 1,116
+
+'/mnt/data/odrl.jsonl', 1116,
+'/mnt/data/sim-odrl.jsonl', 3719)
+
+('/mnt/data/non-odrl.jsonl', 16367)
+
+
+
+odrl_simodrl_spans.jsonl --> v1
+

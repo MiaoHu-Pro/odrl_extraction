@@ -51,7 +51,7 @@ class Config(object):
         print("self.word_embedding_model_path:", self.word_embedding_model_path)
 
         # Load tokenizer/config generically so you can swap models later (BERT/Roberta/DeBERTa/etc.)
-        self.tokenizer = AutoTokenizer.from_pretrained(self.word_embedding_model_path, use_fast=True, add_prefix_space=True )
+        self.tokenizer = AutoTokenizer.from_pretrained(self.word_embedding_model_path, use_fast=True)
         self.hf_config = AutoConfig.from_pretrained(self.word_embedding_model_path)
 
         # Hidden size fallback for unusual models (T5 uses d_model)
@@ -83,17 +83,18 @@ class Config(object):
 
         # ---- Labels / tag mapping ----
         # Your policy/contract BIO tag set
+        # ---- Labels / tag mapping ----
+        # Final BIO tag set used in your generated data (v2, fixed):
         base_labels = [
             "O",
-            "B-PARTY_ASSIGNEE", "I-PARTY_ASSIGNEE",
-            # "B-PARTY_ASSIGNER", "I-PARTY_ASSIGNER",
-            "B-ASSET", "I-ASSET",
+            "B-ASSIGNEE", "I-ASSIGNEE",
             "B-ACTION", "I-ACTION",
-            "B-RULE_TYPE", "I-RULE_TYPE",
+            "B-ASSET", "I-ASSET",
+            "B-TULE_TYPE-PERMISSION", "I-TULE_TYPE-PERMISSION",
+            "B-TULE_TYPE-OBLIGATION", "I-TULE_TYPE-OBLIGATION",
+            "B-TULE_TYPE-PROHIBITION", "I-TULE_TYPE-PROHIBITION",
             "B-CONSTRAINT", "I-CONSTRAINT",
-            # "B-DUTY", "I-DUTY",
             "B-PURPOSE", "I-PURPOSE",
-            # "B-CONSEQUENCE", "I-CONSEQUENCE"
         ]
 
         # Whether to include <pad>, <start>, <eos> in the label space as in your previous setup

@@ -89,11 +89,8 @@ For further details on the National Opt-Out pleased see: https://digital.nhs.uk/
 Ensure that local mechanisms exist to address data quality issues, including: o The identification of local staff with responsibility for the quality of shared data; o The provision within local Data Sharing Agreements (Tier Two) to ensure senders of data are compliant with the Principles of GDPR with regard to the accuracy of the data and the integrity of the data.
 Other Matters Defining purposes for which information may be shared The following list sets out an overall summary for the receipt and disclosure of service user information between the partner organisations: To support the delivery and co-ordination of health and social care as an integrated service and supporting the implementation of an integrated care record.
 Ensuring and improving the quality of health and/or social care and treatment as an integrated service.
-Protecting public health.
-Managing and planning services.
 Performance management and audit of system user’s access.
 Research and audit (N.B. research may need to go through appropriate Research and Ethics Committee for approval).
-Risk management.
 Supporting national initiatives on multi-agency working and information sharing.
 Protecting people, communities, staff and management.
 Any other purpose or purposes agreed to in consultation by parties to this agreement.
@@ -201,8 +198,6 @@ Data Security and Protection Toolkit Health and Social Care organisations are re
 The toolkit brings together in one place information and activities to support the provision of high quality care.
 It promotes the effective and appropriate use of information with an increased importance of data sharing and partnerships.
 The Laming Report 2003 Every Child Matters (2003) highlights the importance of safeguarding all children by effective communication highlighting the areas of: Multi-agency partnerships and information sharing.
-A common assessment framework.
-Accountability.
 Detailed guidance regarding information sharing for the purposes of safeguarding and promoting the welfare of children is available in ‘What to do if you’re worried a child is being abused’ (DOH 2003).
 The Thomas-Walport Report 2008 The report outlines our personal information is important to all of us.
 We want to be able to shop online and have goods delivered to our door or workplace.

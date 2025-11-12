@@ -362,11 +362,6 @@ patients/service users, what services they receive, and their level of need.
 Category 1 UK Health Security Agency (HSA) To identify and follow up public health care on people who may have been exposed to infectious diseases, hazardous substances and other health threats.
 Category 1 London Ambulance Service To share information about people they have treated with other organisations for the purpose of offering support services.
 Category 1 Metropolitan Police Service To collate and share information appropriately to assist with: Survivors, Casualties, Deceased, Witnesses, Victims or Suspects involved or affected by an incident.
-Criminal investigations, or intelligence gathering.
-Safeguarding.
-Protection of life and property.
-Prevent the commission of offences.
-Maintain the Queen’s Peace.
 Category 1 British Transport Police As Metropolitan Police Service Category 1 City of London Police As Metropolitan Police Service Category 1 London Fire Brigade To share personal information about those involved in, or affected by, fire or other eventualities where doing so improves the safety, health or wellbeing outcomes for those people.
 Category 2 Thames Water ●To share information about vulnerable customers with other organisations for the purpose of offering support services.
 To offer support services to vulnerable customers.

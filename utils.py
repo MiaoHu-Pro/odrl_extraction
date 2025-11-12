@@ -301,23 +301,149 @@ class InputFeatures(object):
         self.label_id = label_id
         self.input_mask = input_mask
 
+# ---------- SPAN → BIO conversion helpers ----------
 
-def _read_jsonl(path):
-    """Read a JSON-lines file: each line has keys 'text' (string) and 'label' (list of str)."""
+LABEL_PRIORITY = [
+    # Highest priority first (later labels overwrite earlier char mask positions)
+    "ASSET",
+    "ACTION",
+    "TULE_TYPE-PROHIBITION",
+    "TULE_TYPE-OBLIGATION",
+    "TULE_TYPE-PERMISSION",
+    "ASSIGNEE",
+    "CONSTRAINT",
+    "PURPOSE",
+]
+_PRIO = {lab: i for i, lab in enumerate(LABEL_PRIORITY)}
+
+def _word_pretok_with_offsets(text, tokenizer):
+    """
+    Produce (words, spans) pairs using the SAME logic as _words_from_text(),
+    but also return the character (start, end) offsets for each word.
+
+    We try tokenizer pretokenizer if available; otherwise fallback to whitespace (\S+).
+    """
+    # 1) fast tokenizer backend pre-tokenizer
+    if getattr(tokenizer, "is_fast", False) and hasattr(tokenizer, "backend_tokenizer") and tokenizer.backend_tokenizer is not None:
+        pre = tokenizer.backend_tokenizer.pre_tokenizer
+        if pre is not None:
+            pairs = pre.pre_tokenize_str(text)  # [(token, (start,end)), ...]
+            words = [tok for tok, _ in pairs]
+            spans = [span for _, span in pairs]
+            return words, spans
+
+    # 2) basic_tokenizer (slow) — offsets are not given, so we fall back to regex to recover spans
+    if hasattr(tokenizer, "basic_tokenizer") and tokenizer.basic_tokenizer is not None:
+        # reproduce same tokens
+        toks = tokenizer.basic_tokenizer.tokenize(text, never_split=getattr(tokenizer, "all_special_tokens", []))
+        # recover spans with a scan
+        spans = []
+        idx = 0
+        for tok in toks:
+            pos = text.find(tok, idx)
+            if pos == -1:
+                # fallback: skip, mark as zero-length (won't be labeled)
+                spans.append((idx, idx))
+            else:
+                spans.append((pos, pos + len(tok)))
+                idx = pos + len(tok)
+        return toks, spans
+
+    # 3) fallback: whitespace (\S+) tokens with offsets
+    import re as _re
+    words = []
+    spans = []
+    for m in _re.finditer(r"\S+", text):
+        words.append(m.group(0))
+        spans.append((m.start(), m.end()))
+    return words, spans
+
+def _build_char_mask(text, entities):
+    """
+    Build a char-wise label mask from span entities.
+    Overlaps resolved deterministically by LABEL_PRIORITY (later in list wins).
+    """
+    char = ["O"] * len(text)
+    # sort entities so higher priority writes last (overwrite)
+    ents = sorted(entities, key=lambda e: _PRIO.get(e["label"], 999))
+    for ent in ents:
+        s = max(0, min(int(ent["start"]), len(text)))
+        e = max(0, min(int(ent["end"]),   len(text)))
+        lab = ent["label"]
+        for i in range(s, e):
+            char[i] = lab
+    return char
+
+def spans_to_bio_over_words(text, entities, tokenizer):
+    """
+    Convert span entities → BIO per WORD (your training format),
+    using tokenizer pretokenization (or whitespace) as word boundaries.
+    Returns: words, labels (same length)
+    """
+    words, word_spans = _word_pretok_with_offsets(text, tokenizer)
+    char_mask = _build_char_mask(text, entities)
+
+    labels = []
+    prev_lab = "O"
+    for (ws, we) in word_spans:
+        lab = "O"
+        # inspect any char inside this word span
+        for j in range(ws, we):
+            if 0 <= j < len(char_mask) and char_mask[j] != "O":
+                lab = char_mask[j]
+                break
+        if lab == "O":
+            labels.append("O")
+            prev_lab = "O"
+        else:
+            prefix = "B-" if prev_lab != lab else "I-"
+            labels.append(prefix + lab)
+            prev_lab = lab
+    return words, labels
+
+
+def _read_jsonl(path, tokenizer=None):
+    """
+    Read a JSONL file and return a list of (text, label_seq).
+    Accepts two formats:
+      A) {"text": "...", "label": [...]}  # token-aligned BIO (existing)
+      B) {"text": "...", "entities": [{"start":..,"end":..,"label":"..."}]}  # span format
+         -> will be converted to BIO aligned to your pre-tokenization.
+    """
     samples = []
     with open(path, "r", encoding="utf-8") as f:
         for ln, line in enumerate(f, 1):
             line = line.strip()
             if not line:
                 continue
-            try:
-                obj = json.loads(line)
-            except json.JSONDecodeError as e:
-                raise ValueError(f"JSON decode error in {path} line {ln}: {e}")
-            if "text" not in obj or "label" not in obj:
-                raise ValueError(f"Expected keys 'text' and 'label' in {path} line {ln}")
-            samples.append((obj["text"], obj["label"]))
+            obj = json.loads(line)
+
+            if "label" in obj:
+                # already token-aligned
+                samples.append((obj["text"], obj["label"]))
+                continue
+
+            if "entities" in obj:
+                if tokenizer is None:
+                    raise ValueError(
+                        f"{path} line {ln}: found 'entities' but no tokenizer was provided to _read_jsonl."
+                    )
+                text = obj["text"]
+                ents = obj.get("entities", [])
+                # validate entity keys
+                for e in ents:
+                    if not all(k in e for k in ("start", "end", "label")):
+                        raise ValueError(f"{path} line {ln}: malformed entity {e}")
+                # convert
+                words, bio = spans_to_bio_over_words(text, ents, tokenizer)
+                # We return (text, labels). Downstream will re-tokenize words again;
+                # since spans_to_bio used the same pretokenization, the length will match.
+                samples.append((text, bio))
+                continue
+
+            raise ValueError(f"{path} line {ln}: expected 'label' or 'entities' keys.")
     return samples
+
 
 
 # def _words_from_text(text):
@@ -491,7 +617,7 @@ def _encode_sample(words, labels, tokenizer, l2i, max_length, cls_id, sep_id, pa
 
 def _build_features(jsonl_path, tokenizer, l2i, max_length):
     """Read a JSONL file and convert to a list of InputFeatures."""
-    samples = _read_jsonl(jsonl_path)
+    samples = _read_jsonl(jsonl_path, tokenizer=tokenizer)
 
     # Resolve special token ids with safe fallbacks
     cls_id = tokenizer.cls_token_id if tokenizer.cls_token_id is not None else (
