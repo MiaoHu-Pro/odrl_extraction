@@ -7,6 +7,7 @@ from transformers import AutoTokenizer, AutoConfig
 from model.bert_idcnn_crf import BERT_IDCNN_CRF
 from model.bert_lstm_crf import BERT_LSTM_CRF
 from model.deberta_crf import DeBERTa_CRF
+from model.hf_lstm_crf import HF_LSTM_CRF
 
 
 class Config(object):
@@ -16,7 +17,7 @@ class Config(object):
     """
     def __init__(self, args):
         # ---- Required / core ----
-        self.flag = args.model                              # "bert-idcnn-crf" | "bert-lstm-crf"
+        self.flag = args.model.lower()                       # normalize names like "Deberta-LSTM-CRF"
         self.model_name = getattr(args, "model_name", self.flag)
 
         # Data
@@ -41,6 +42,7 @@ class Config(object):
         # Device
         self.device = torch.device(getattr(args, "device", ("cuda" if torch.cuda.is_available() else "cpu")))
         self.use_cuda = (str(self.device).startswith("cuda"))
+        self.trust_remote_code = getattr(args, "trust_remote_code", False)
 
 
 
@@ -51,8 +53,15 @@ class Config(object):
         print("self.word_embedding_model_path:", self.word_embedding_model_path)
 
         # Load tokenizer/config generically so you can swap models later (BERT/Roberta/DeBERTa/etc.)
-        self.tokenizer = AutoTokenizer.from_pretrained(self.word_embedding_model_path, use_fast=True)
-        self.hf_config = AutoConfig.from_pretrained(self.word_embedding_model_path)
+        self.tokenizer = AutoTokenizer.from_pretrained(
+            self.word_embedding_model_path,
+            use_fast=True,
+            trust_remote_code=self.trust_remote_code,
+        )
+        self.hf_config = AutoConfig.from_pretrained(
+            self.word_embedding_model_path,
+            trust_remote_code=self.trust_remote_code,
+        )
 
         # Hidden size fallback for unusual models (T5 uses d_model)
         self.hidden_size = getattr(self.hf_config, "hidden_size", getattr(self.hf_config, "d_model", 768))
@@ -167,27 +176,46 @@ class Config(object):
             )
 
         elif self.flag == "deberta-crf":
-
-
             model = DeBERTa_CRF(
                 deberta_model_name_or_path=self.word_embedding_model_path,
                 tagset_size=self.tagset_size,
                 use_cuda= self.use_cuda,
             )
+        elif self.flag.endswith("-lstm-crf"):
+            model = HF_LSTM_CRF(
+                encoder_name_or_path=self.word_embedding_model_path,
+                tagset_size=self.tagset_size,
+                hidden_dim=self.lstm_hidden_dim,
+                rnn_layers=self.rnn_layers,
+                dropout_ratio=self.rnn_dropout,
+                proj_dropout=self.proj_dropout,
+                use_cuda=self.use_cuda,
+                trust_remote_code=self.trust_remote_code,
+            )
         else:
-            raise ValueError(f"Unknown model flag: {self.flag}. Use 'bert-idcnn-crf' or 'bert-lstm-crf'.")
+            raise ValueError(
+                f"Unknown model flag: {self.flag}. "
+                "Supported: 'bert-idcnn-crf', 'bert-lstm-crf', 'deberta-crf', or any '<name>-lstm-crf' combination."
+            )
 
         # Put on device
         model.to(self.device)
 
-        # If special tokens changed vocab size, make sure the BERT embeddings match tokenizer size
-        if hasattr(model, "bert"):
+        backbone = self._get_backbone_module(model)
+        if backbone is not None and hasattr(backbone, "get_input_embeddings"):
             try:
-                current = model.bert.get_input_embeddings().num_embeddings
-                needed  = len(self.tokenizer)
+                current = backbone.get_input_embeddings().num_embeddings
+                needed = len(self.tokenizer)
                 if current != needed:
-                    model.bert.resize_token_embeddings(needed)
+                    backbone.resize_token_embeddings(needed)
             except Exception:
                 pass
 
         return model
+
+    @staticmethod
+    def _get_backbone_module(model):
+        for attr in ("bert", "word_embeds", "deberta", "encoder"):
+            if hasattr(model, attr):
+                return getattr(model, attr)
+        return None

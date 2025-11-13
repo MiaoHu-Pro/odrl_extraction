@@ -30,12 +30,18 @@ def _split_param_groups(model, bert_lr, head_lr, weight_decay=0.01):
     no_decay = ("bias", "LayerNorm.weight", "layer_norm.weight")
 
     bert_decay, bert_nodecay, head_params = [], [], []
+    backbone_prefixes = getattr(
+        model,
+        "backbone_param_prefixes",
+        ("bert.", "word_embeds.", "deberta.", "encoder."),
+    )
+
     for name, param in model.named_parameters():
         if not param.requires_grad:
             continue
 
-        is_bert = name.startswith("bert.") or name.startswith("word_embeds.")
-        if is_bert:
+        is_backbone = any(name.startswith(prefix) for prefix in backbone_prefixes)
+        if is_backbone:
             (bert_nodecay if any(nd in name for nd in no_decay) else bert_decay).append(param)
         else:
             head_params.append(param)

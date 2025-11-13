@@ -20,6 +20,7 @@ class BERT_LSTM_CRF(nn.Module):
         super(BERT_LSTM_CRF, self).__init__()
         # BERT backbone
         self.word_embeds = BertModel.from_pretrained(bert_config)
+        self.backbone_param_prefixes = ("word_embeds.",)
         bert_hidden = self.word_embeds.config.hidden_size  # e.g., 768 for bert-base
 
         # Model dims

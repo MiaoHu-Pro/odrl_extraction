@@ -22,6 +22,7 @@ class DeBERTa_CRF(nn.Module):
 
         # Load DeBERTa backbone
         self.deberta = DebertaModel.from_pretrained(deberta_model_name_or_path, ignore_mismatched_sizes=True)
+        self.backbone_param_prefixes = ("deberta.",)
         hidden_size = self.deberta.config.hidden_size
 
         self.dropout = nn.Dropout(dropout_rate)

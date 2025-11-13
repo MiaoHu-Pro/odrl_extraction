@@ -18,10 +18,13 @@ def main():
     parser = argparse.ArgumentParser()
 
     # Required
-    parser.add_argument("--model", choices=["bert-idcnn-crf", "bert-lstm-crf", "deberta-crf"], required=True)
+    parser.add_argument("--model", required=True,
+                        help="Model identifier, e.g. 'bert-lstm-crf', 'deberta-crf', or 'deberta-lstm-crf'.")
     parser.add_argument("--data_path", required=True, default="./data/")
     parser.add_argument("--save_dir", required=True, default="./save_models/")
     parser.add_argument("--word_embedding_model_path", required=True)  # e.g., "/home/.../bert-base-cased"
+    parser.add_argument("--trust_remote_code", action="store_true",
+                        help="Pass to HuggingFace loaders when using custom community checkpoints.")
 
     # Training settings
     parser.add_argument("--num_epochs", type=int, default=10)

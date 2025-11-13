@@ -24,6 +24,7 @@ class BERT_IDCNN_CRF(nn.Module):
         self.tagset_size = tagset_size
         self.num_filters = num_filters
         self.use_cuda = use_cuda
+        self.backbone_param_prefixes = ("bert.",)
 
         # 1) BERT as contextual embedding
         self.bert = BertModel.from_pretrained(bert_model_name_or_path)

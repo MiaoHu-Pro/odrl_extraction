@@ -161,12 +161,11 @@ def fun(text):
     parser = argparse.ArgumentParser()
 
     # Required
-    parser.add_argument("--model", choices=["bert-idcnn-crf", "bert-lstm-crf", "deberta-crf"], required=True)
+    parser.add_argument("--model", required=True)
     parser.add_argument("--data_path", required=True, default="./data/")
     parser.add_argument("--save_dir", required=True, default="./save_models/")
-    parser.add_argument("--word_embedding_model_path", required=True,
-                        choices=["/home/mh1f25/scratch/llms_model/bert-base-cased",
-                        "/home/mh1f25/scratch/llms_model/deberta-base"])  # e.g., "/home/.../bert-base-cased"
+    parser.add_argument("--word_embedding_model_path", required=True)  # e.g., "/home/.../bert-base-cased"
+    parser.add_argument("--trust_remote_code", action="store_true")
 
     # Training settings
     parser.add_argument("--num_epochs", type=int, default=2)
