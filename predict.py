@@ -69,16 +69,18 @@ def run_test(
 
     base_labels = [
         "O",
-        "B-PARTY_ASSIGNEE", "I-PARTY_ASSIGNEE",
-        # "B-PARTY_ASSIGNER", "I-PARTY_ASSIGNER",
-        "B-ASSET", "I-ASSET",
+        "B-ASSIGNEE", "I-ASSIGNEE",
         "B-ACTION", "I-ACTION",
-        "B-RULE_TYPE", "I-RULE_TYPE",
+        "B-ASSET", "I-ASSET",
+        "B-TULE_TYPE-PERMISSION", "I-TULE_TYPE-PERMISSION",
+        "B-TULE_TYPE-OBLIGATION", "I-TULE_TYPE-OBLIGATION",
+        "B-TULE_TYPE-PROHIBITION", "I-TULE_TYPE-PROHIBITION",
         "B-CONSTRAINT", "I-CONSTRAINT",
-        # "B-DUTY", "I-DUTY",
         "B-PURPOSE", "I-PURPOSE",
-        # "B-CONSEQUENCE", "I-CONSEQUENCE"
     ]
+
+
+
 
     # pred_label, gold_label = recover_label(...)
 

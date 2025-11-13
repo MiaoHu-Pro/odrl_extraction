@@ -21,9 +21,7 @@ def main():
     parser.add_argument("--model", choices=["bert-idcnn-crf", "bert-lstm-crf", "deberta-crf"], required=True)
     parser.add_argument("--data_path", required=True, default="./data/")
     parser.add_argument("--save_dir", required=True, default="./save_models/")
-    parser.add_argument("--word_embedding_model_path", required=True,
-                        choices=["/home/mh1f25/scratch/llms_model/bert-base-cased",
-                        "/home/mh1f25/scratch/llms_model/deberta-base"])  # e.g., "/home/.../bert-base-cased"
+    parser.add_argument("--word_embedding_model_path", required=True)  # e.g., "/home/.../bert-base-cased"
 
     # Training settings
     parser.add_argument("--num_epochs", type=int, default=10)
@@ -42,7 +40,7 @@ def main():
 
     # LSTM hyperparams
     parser.add_argument("--hidden_dim", type=int, default=768)
-    parser.add_argument("--rnn_layers", type=int, default=2)
+    parser.add_argument("--rnn_layers", type=int, default=1)
     parser.add_argument("--rnn_dropout", type=float, default=0.1)
     parser.add_argument("--proj_dropout", type=float, default=0.4)
 

@@ -150,6 +150,9 @@ def run_train(model, cfg, train_dataloader, dev_dataloader, dev_features):
       - Saves best_f1.pth and last_model.pth
     """
     device = _device_from_cfg(cfg)
+
+    print ("device: ", device)
+
     model.to(device)
     model.train()
 
