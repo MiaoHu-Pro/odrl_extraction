@@ -128,14 +128,14 @@ class Config(object):
 
         if self.flag == "bert-idcnn-crf":
             self.save_path = os.path.join(self.save_dir,
-                                          f"{self.model_name}_ep{self.num_epochs}_bz{self.batch_size}_max_len{self.max_length}_kernel{self.kernel_size}_num_block{self.num_block}")
+                                          f"{self.model_name}_ep{self.num_epochs}_bz{self.batch_size}_max_len{self.max_length}_lr{self.learning_rate}_kernel{self.kernel_size}_num_block{self.num_block}")
         elif self.flag == "bert-lstm-crf":
             self.save_path = os.path.join(self.save_dir,
-                                          f"{self.model_name}_ep{self.num_epochs}_bz{self.batch_size}_max_len{self.max_length}_num_layers{self.rnn_layers}")
+                                          f"{self.model_name}_ep{self.num_epochs}_bz{self.batch_size}_max_len{self.max_length}_lr{self.learning_rate}_num_layers{self.rnn_layers}")
 
         else:
             self.save_path = os.path.join(self.save_dir,
-                                          f"{self.model_name}_ep{self.num_epochs}_bz{self.batch_size}_max_len{self.max_length}")
+                                          f"{self.model_name}_ep{self.num_epochs}_bz{self.batch_size}_max_len{self.max_length}_lr{self.learning_rate}_num_layers{self.rnn_layers}")
 
 
 

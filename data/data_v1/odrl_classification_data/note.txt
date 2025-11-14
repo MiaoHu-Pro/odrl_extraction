@@ -1,4 +1,0 @@
-
-Total rows: 13533
-Positives (label=1): 7606
-Negatives (label=0): 5927

@@ -130,7 +130,12 @@ if __name__ == "__main__":
 
 # Could be adding rule-based model, create a ACTREE to identify ODRL Entity
 
-
-#
-# third
-# T5 + CRF
+ # For English NER, transformer encoders fine‑tuned on tagging datasets tend to dominate. In practice I’d shortlist:
+ #
+ #  - deberta-v3-large or deberta-v3-base: strong contextual representations, great out of the box for NER with modest compute.
+ #  - roberta-large or bert-large-cased: still very competitive, tons of community recipes and checkpoints.
+ #  - xlm-roberta-large: multilingual if you need cross-language coverage.
+ #  - modernBERT-base (or “Longformer”-style models) when sentences get very long; they handle context that vanilla BERT truncates.
+ #  - Instruction-tuned encoder-decoders (FLAN-T5 large/xxl) can be repurposed, but they’re heavier. Decoder-only LLMs (Llama/Mistral) work via the new wrapper, yet they usually need more finetuning
+ #    effort to match the dedicated encoders.
+ #

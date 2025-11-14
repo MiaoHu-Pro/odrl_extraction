@@ -28,7 +28,7 @@ def print_and_save_params(config, filepath):
 
     # Save parameters to file
     try:
-        with open(filepath + f"/{config.model_name}_ep{config.num_epochs}_bz{config.batch_size}_parameters.json", 'w') as f:
+        with open(filepath + f"/{config.model_name}_ep{config.num_epochs}_bz{config.batch_size}_lr{config.learning_rate}_mq{config.max_length}_parameters.json", 'w') as f:
             json.dump(params, f, indent=4)
         print(f"Parameters saved to {filepath}")
     except TypeError as e:

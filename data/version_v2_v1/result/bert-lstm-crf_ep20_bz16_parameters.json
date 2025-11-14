@@ -7,12 +7,13 @@
     "test_path": "./data/test.txt",
     "save_dir": "./save_model",
     "quant_dir": "./save_model/quantized",
-    "num_epochs": 3,
+    "num_epochs": 20,
     "batch_size": 16,
-    "max_length": 400,
+    "max_length": 128,
     "learning_rate": 5e-05,
-    "device": "cpu",
-    "use_cuda": false,
+    "device": "cuda",
+    "use_cuda": true,
+    "trust_remote_code": false,
     "word_embedding_model_path": "/home/mh1f25/scratch/llms_model/bert-base-cased",
     "hf_config": {
         "return_dict": true,
@@ -175,6 +176,6 @@
         "19": "<eos>"
     },
     "tagset_size": 20,
-    "save_path": "./save_model/bert-lstm-crf_ep3_bz16_max_len400_num_layers1",
+    "save_path": "./save_model/bert-lstm-crf_ep20_bz16_max_len128_lr5e-05_num_layers1",
     "quant_path": "./save_model/quantized/bert-lstm-crf_quantized.pt"
 }
