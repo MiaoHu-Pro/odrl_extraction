@@ -39,6 +39,11 @@ class Config(object):
                                   getattr(args, "pad_size", 128))
         self.learning_rate = args.learning_rate
 
+        # Label scheme
+        self.label_type = getattr(args, "label_type", "BIO").upper()
+        if self.label_type not in {"BIO", "BIOES"}:
+            raise ValueError(f"Unsupported label_type {self.label_type}. Choose 'BIO' or 'BIOES'.")
+
         # Device
         self.device = torch.device(getattr(args, "device", ("cuda" if torch.cuda.is_available() else "cpu")))
         self.use_cuda = (str(self.device).startswith("cuda"))
@@ -144,9 +149,12 @@ class Config(object):
             base_labels.extend([
                 f"B-{t}",
                 f"I-{t}",
-                f"E-{t}",
-                f"S-{t}",
             ])
+            if self.label_type == "BIOES":
+                base_labels.extend([
+                    f"E-{t}",
+                    f"S-{t}",
+                ])
 
         # Whether to include <pad>, <start>, <eos> in the label space as in your previous setup
         # If your CRF already adds start/stop internally, you can set this False to avoid double counting.
@@ -172,16 +180,15 @@ class Config(object):
 
         # ---- Derived save paths ----
 
+        suffix = (f"{self.model_name}_ep{self.num_epochs}_bz{self.batch_size}_max_len{self.max_length}"
+                  f"_lr{self.learning_rate}_lt{self.label_type}")
         if self.flag == "bert-idcnn-crf":
-            self.save_path = os.path.join(self.save_dir,
-                                          f"{self.model_name}_ep{self.num_epochs}_bz{self.batch_size}_max_len{self.max_length}_lr{self.learning_rate}_kernel{self.kernel_size}_num_block{self.num_block}")
+            suffix += f"_kernel{self.kernel_size}_num_block{self.num_block}"
         elif self.flag == "bert-lstm-crf":
-            self.save_path = os.path.join(self.save_dir,
-                                          f"{self.model_name}_ep{self.num_epochs}_bz{self.batch_size}_max_len{self.max_length}_lr{self.learning_rate}_num_layers{self.rnn_layers}")
-
+            suffix += f"_num_layers{self.rnn_layers}"
         else:
-            self.save_path = os.path.join(self.save_dir,
-                                          f"{self.model_name}_ep{self.num_epochs}_bz{self.batch_size}_max_len{self.max_length}_lr{self.learning_rate}_num_layers{self.rnn_layers}")
+            suffix += f"_num_layers{self.rnn_layers}"
+        self.save_path = os.path.join(self.save_dir, suffix)
 
 
 

@@ -88,7 +88,7 @@ def evaluate(model, cfg, dev_loader, dev_features):
     # if dev_features is not None:
     #     pred_label = apply_rules_to_predictions(pred_label, dev_features)
 
-    acc, p, r, f = get_ner_fmeasure(gold_label, pred_label, label_type='BIOES')
+    acc, p, r, f = get_ner_fmeasure(gold_label, pred_label, label_type=getattr(cfg, "label_type", "BIO"))
 
 
     model.train()

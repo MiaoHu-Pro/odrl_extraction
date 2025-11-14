@@ -23,8 +23,12 @@ def main():
     parser.add_argument("--data_path", required=True, default="./data/")
     parser.add_argument("--save_dir", required=True, default="./save_models/")
     parser.add_argument("--word_embedding_model_path", required=True)  # e.g., "/home/.../bert-base-cased"
+    parser.add_argument("--label_type", choices=["BIO", "BIOES"], default="BIO",
+                        help="Tagging scheme to use for labels and metrics.")
     parser.add_argument("--trust_remote_code", action="store_true",
                         help="Pass to HuggingFace loaders when using custom community checkpoints.")
+
+    parser.add_argument("--label_type", required=True, default="BIO")
 
     # Training settings
     parser.add_argument("--num_epochs", type=int, default=10)

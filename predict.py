@@ -7,8 +7,8 @@ import pandas as pd
 import torch
 from tqdm import tqdm
 
-# from utils import compute_entity_metrics_by_type, compute_token_metrics_by_tag
-from utils import compute_entity_metrics_by_type_bioes, compute_token_metrics_by_tag
+from utils import compute_entity_metrics_by_type, compute_token_metrics_by_tag
+from utils import compute_entity_metrics_by_type_bioes
 from utils import heuristic_postprocess_purpose_constraint
 # adjust imports to where you defined them
 from utils import recover_label, get_ner_fmeasure, InputFeatures
@@ -62,6 +62,10 @@ def run_test(
 
     base_labels = [lbl for lbl in cfg.labels if not lbl.startswith("<")]
 
+    entity_metric_fn = (compute_entity_metrics_by_type_bioes
+                        if cfg.label_type == "BIOES"
+                        else compute_entity_metrics_by_type)
+
     preds, golds = [], []
 
     for batch in tqdm(test_dataloader, desc="Testing", leave=False):
@@ -80,9 +84,8 @@ def run_test(
     # Map back to string labels (cuts to <start>...<eos>)
     pred_label, gold_label = recover_label(preds, golds, cfg.l2i, cfg.i2l)
 
-    row_per_type_df = compute_entity_metrics_by_type_bioes(gold_label, pred_label)
-
-    row_per_tag_df = compute_token_metrics_by_tag(gold_label, pred_label, base_labels)  # B-*/I-*/O
+    row_per_type_df = entity_metric_fn(gold_label, pred_label)
+    row_per_tag_df = compute_token_metrics_by_tag(gold_label, pred_label, base_labels)
 
     row_per_type_df.to_csv(cfg.save_path + "_ROW_metrics_per_type.txt", index=True, sep=',', mode='a')
     row_per_tag_df.to_csv(cfg.save_path + "_ROW_metrics_per_tag.txt", index=True, sep=',', mode='a')
@@ -90,29 +93,29 @@ def run_test(
     print(row_per_type_df)
     print(row_per_tag_df)
 
-    # ---- Heuristic post-processing for PURPOSE & CONSTRAINT (BIOES) ----
-    refined_pred_label = []
-    for i, pred_seq in enumerate(pred_label):
-        # tokens from features if available
-        if test_features is not None and i < len(test_features):
-            feat = test_features[i]
-            if isinstance(feat.text, list):
-                tokens = [t for t in feat.text if t not in ("[CLS]", "[SEP]")]
+    # ---- Heuristic post-processing (BIOES only) ----
+    if cfg.label_type == "BIOES":
+        refined_pred_label = []
+        for i, pred_seq in enumerate(pred_label):
+            if test_features is not None and i < len(test_features):
+                feat = test_features[i]
+                if isinstance(feat.text, list):
+                    tokens = [t for t in feat.text if t not in ("[CLS]", "[SEP]")]
+                else:
+                    tokens = str(feat.text).split()
             else:
-                tokens = str(feat.text).split()
-        else:
-            tokens = [f"tok_{j}" for j in range(len(pred_seq))]
+                tokens = [f"tok_{j}" for j in range(len(pred_seq))]
 
-        # Align token/label lengths defensively
-        if len(tokens) != len(pred_seq):
-            min_len = min(len(tokens), len(pred_seq))
-            tokens = tokens[:min_len]
-            pred_seq = pred_seq[:min_len]
+            if len(tokens) < len(pred_seq):
+                gap = len(pred_seq) - len(tokens)
+                tokens = tokens + [f"tok_pad_{j}" for j in range(gap)]
+            elif len(tokens) > len(pred_seq):
+                tokens = tokens[:len(pred_seq)]
 
-        refined_seq = heuristic_postprocess_purpose_constraint(tokens, pred_seq)
-        refined_pred_label.append(refined_seq)
+            refined_seq = heuristic_postprocess_purpose_constraint(tokens, pred_seq)
+            refined_pred_label.append(refined_seq)
 
-    pred_label = refined_pred_label
+        pred_label = refined_pred_label
 
     # # using hybrid rules only
     # if test_features is not None:
@@ -120,8 +123,8 @@ def run_test(
 
     # per_type_df = compute_entity_metrics_by_type(gold_label, pred_label)  # ASSET/ACTION/...
 
-    per_type_df = compute_entity_metrics_by_type_bioes(gold_label, pred_label)  # ASSET/ACTION/...
-    per_tag_df = compute_token_metrics_by_tag(gold_label, pred_label, base_labels)  # B-*/I-*/O
+    per_type_df = entity_metric_fn(gold_label, pred_label)
+    per_tag_df = compute_token_metrics_by_tag(gold_label, pred_label, base_labels)
 
     print(per_type_df)
     print(per_tag_df)
@@ -130,8 +133,8 @@ def run_test(
     per_type_df.to_csv(cfg.save_path + "_heuristic_postprocess_metrics_per_type.txt", index=True, sep=',', mode='a')
     per_tag_df.to_csv(cfg.save_path + "_heuristic_postprocess_metrics_per_tag.txt", index=True, sep=',', mode='a')
 
-    # Metrics (BIOES)
-    acc, p, r, f = get_ner_fmeasure(gold_label, pred_label, label_type="BIOES")
+    # Metrics (per selected label scheme)
+    acc, p, r, f = get_ner_fmeasure(gold_label, pred_label, label_type=cfg.label_type)
     metrics_df = pd.DataFrame([{
         "num_sentences": len(gold_label),
         "accuracy": acc,

@@ -165,6 +165,8 @@ def fun(text):
     parser.add_argument("--data_path", required=True, default="./data/")
     parser.add_argument("--save_dir", required=True, default="./save_models/")
     parser.add_argument("--word_embedding_model_path", required=True)  # e.g., "/home/.../bert-base-cased"
+    parser.add_argument("--label_type", choices=["BIO", "BIOES"], default="BIO",
+                        help="Tagging scheme to use for labels.")
     parser.add_argument("--trust_remote_code", action="store_true")
 
     # Training settings

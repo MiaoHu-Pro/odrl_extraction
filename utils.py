@@ -28,7 +28,11 @@ def print_and_save_params(config, filepath):
 
     # Save parameters to file
     try:
-        with open(filepath + f"/{config.model_name}_ep{config.num_epochs}_bz{config.batch_size}_lr{config.learning_rate}_mq{config.max_length}_parameters.json", 'w') as f:
+        filename = (
+            f"{config.model_name}_ep{config.num_epochs}_bz{config.batch_size}"
+            f"_lr{config.learning_rate}_ml{config.max_length}_lt{config.label_type}_parameters.json"
+        )
+        with open(os.path.join(filepath, filename), 'w') as f:
             json.dump(params, f, indent=4)
         print(f"Parameters saved to {filepath}")
     except TypeError as e:
@@ -980,14 +984,13 @@ def _encode_sample(words, labels, tokenizer, l2i, max_length, cls_id, sep_id, pa
     return InputFeatures(text=kept_tokens, label=None, input_id=input_ids, label_id=label_ids, input_mask=input_mask)
 
 
-def _build_features(jsonl_path, tokenizer, l2i, max_length):
+def _build_features(jsonl_path, tokenizer, l2i, max_length, label_type):
     """Read a JSONL file and convert to a list of InputFeatures."""
 
-    # using BIO
-    # samples = _read_jsonl(jsonl_path, tokenizer=tokenizer)
-
-    # using BIOES
-    samples = _read_jsonl_bioes(jsonl_path, tokenizer=tokenizer)
+    if label_type.upper() == "BIOES":
+        samples = _read_jsonl_bioes(jsonl_path, tokenizer=tokenizer)
+    else:
+        samples = _read_jsonl(jsonl_path, tokenizer=tokenizer)
 
     # Resolve special token ids with safe fallbacks
     cls_id = tokenizer.cls_token_id if tokenizer.cls_token_id is not None else (
@@ -1053,9 +1056,9 @@ def get_data(cfg):
 
     # Build features
     print("Loading & encoding train/dev/test ...")
-    train_feats = _build_features(train_file, tokenizer, l2i_dic, max_length)
-    dev_feats   = _build_features(dev_file,   tokenizer, l2i_dic, max_length)
-    test_feats  = _build_features(test_file,  tokenizer, l2i_dic, max_length)
+    train_feats = _build_features(train_file, tokenizer, l2i_dic, max_length, cfg.label_type)
+    dev_feats   = _build_features(dev_file,   tokenizer, l2i_dic, max_length, cfg.label_type)
+    test_feats  = _build_features(test_file,  tokenizer, l2i_dic, max_length, cfg.label_type)
 
     # Tensors
     def to_tensors(features):
