@@ -1,14 +1,18 @@
 # predict.py
 import os
-from typing import Optional, List, Tuple
+from typing import Optional, List
+
+import pandas as pd
 # from hybrid_rules import apply_rules_to_predictions
 import torch
-import pandas as pd
 from tqdm import tqdm
 
+# from utils import compute_entity_metrics_by_type, compute_token_metrics_by_tag
+from utils import compute_entity_metrics_by_type_bioes, compute_token_metrics_by_tag
+from utils import heuristic_postprocess_purpose_constraint
 # adjust imports to where you defined them
 from utils import recover_label, get_ner_fmeasure, InputFeatures
-from utils import compute_entity_metrics_by_type, compute_token_metrics_by_tag
+
 
 def _device_from_cfg(cfg):
     if isinstance(cfg.device, torch.device):
@@ -18,12 +22,12 @@ def _device_from_cfg(cfg):
 
 @torch.no_grad()
 def run_test(
-    model,
-    cfg,
-    test_dataloader,
-    test_features: Optional[List[InputFeatures]] = None,
-    out_path: Optional[str] = None,
-    return_details: bool = False,
+        model,
+        cfg,
+        test_dataloader,
+        test_features: Optional[List[InputFeatures]] = None,
+        out_path: Optional[str] = None,
+        return_details: bool = False,
 ):
     """
     Runs Viterbi decoding on test_dataloader, computes BIO metrics,
@@ -44,13 +48,27 @@ def run_test(
     model.eval()
     model.to(device)
 
+    # base_labels = [
+    #     "O",
+    #     "B-ASSIGNEE", "I-ASSIGNEE",
+    #     "B-ACTION", "I-ACTION",
+    #     "B-ASSET", "I-ASSET",
+    #     "B-TULE_TYPE-PERMISSION", "I-TULE_TYPE-PERMISSION",
+    #     "B-TULE_TYPE-OBLIGATION", "I-TULE_TYPE-OBLIGATION",
+    #     "B-TULE_TYPE-PROHIBITION", "I-TULE_TYPE-PROHIBITION",
+    #     "B-CONSTRAINT", "I-CONSTRAINT",
+    #     "B-PURPOSE", "I-PURPOSE",
+    # ]
+
+    base_labels = [lbl for lbl in cfg.labels if not lbl.startswith("<")]
+
     preds, golds = [], []
 
     for batch in tqdm(test_dataloader, desc="Testing", leave=False):
         input_ids, masks, tags = batch
         input_ids = input_ids.to(device)
-        masks     = masks.to(device)
-        tags      = tags.to(device)
+        masks = masks.to(device)
+        tags = tags.to(device)
 
         tag_seq = model(input_ids, masks)  # may be Tensor or list[list[int]]
         if isinstance(tag_seq, torch.Tensor):
@@ -62,41 +80,58 @@ def run_test(
     # Map back to string labels (cuts to <start>...<eos>)
     pred_label, gold_label = recover_label(preds, golds, cfg.l2i, cfg.i2l)
 
+    row_per_type_df = compute_entity_metrics_by_type_bioes(gold_label, pred_label)
+
+    row_per_tag_df = compute_token_metrics_by_tag(gold_label, pred_label, base_labels)  # B-*/I-*/O
+
+    row_per_type_df.to_csv(cfg.save_path + "_ROW_metrics_per_type.txt", index=True, sep=',', mode='a')
+    row_per_tag_df.to_csv(cfg.save_path + "_ROW_metrics_per_tag.txt", index=True, sep=',', mode='a')
+
+    print(row_per_type_df)
+    print(row_per_tag_df)
+
+    # ---- Heuristic post-processing for PURPOSE & CONSTRAINT (BIOES) ----
+    refined_pred_label = []
+    for i, pred_seq in enumerate(pred_label):
+        # tokens from features if available
+        if test_features is not None and i < len(test_features):
+            feat = test_features[i]
+            if isinstance(feat.text, list):
+                tokens = [t for t in feat.text if t not in ("[CLS]", "[SEP]")]
+            else:
+                tokens = str(feat.text).split()
+        else:
+            tokens = [f"tok_{j}" for j in range(len(pred_seq))]
+
+        # Align token/label lengths defensively
+        if len(tokens) != len(pred_seq):
+            min_len = min(len(tokens), len(pred_seq))
+            tokens = tokens[:min_len]
+            pred_seq = pred_seq[:min_len]
+
+        refined_seq = heuristic_postprocess_purpose_constraint(tokens, pred_seq)
+        refined_pred_label.append(refined_seq)
+
+    pred_label = refined_pred_label
+
     # # using hybrid rules only
     # if test_features is not None:
     #     pred_label = apply_rules_to_predictions(pred_label, test_features)
 
+    # per_type_df = compute_entity_metrics_by_type(gold_label, pred_label)  # ASSET/ACTION/...
 
-    base_labels = [
-        "O",
-        "B-ASSIGNEE", "I-ASSIGNEE",
-        "B-ACTION", "I-ACTION",
-        "B-ASSET", "I-ASSET",
-        "B-TULE_TYPE-PERMISSION", "I-TULE_TYPE-PERMISSION",
-        "B-TULE_TYPE-OBLIGATION", "I-TULE_TYPE-OBLIGATION",
-        "B-TULE_TYPE-PROHIBITION", "I-TULE_TYPE-PROHIBITION",
-        "B-CONSTRAINT", "I-CONSTRAINT",
-        "B-PURPOSE", "I-PURPOSE",
-    ]
-
-
-
-
-    # pred_label, gold_label = recover_label(...)
-
-    per_type_df = compute_entity_metrics_by_type(gold_label, pred_label)  # ASSET/ACTION/...
+    per_type_df = compute_entity_metrics_by_type_bioes(gold_label, pred_label)  # ASSET/ACTION/...
     per_tag_df = compute_token_metrics_by_tag(gold_label, pred_label, base_labels)  # B-*/I-*/O
 
     print(per_type_df)
     print(per_tag_df)
 
     # optionally save
-    per_type_df.to_csv(cfg.save_path + "_metrics_per_type.txt", index=True, sep=',', mode='a')
-    per_tag_df.to_csv(cfg.save_path + "_metrics_per_tag.txt", index=True, sep=',', mode='a')
+    per_type_df.to_csv(cfg.save_path + "_heuristic_postprocess_metrics_per_type.txt", index=True, sep=',', mode='a')
+    per_tag_df.to_csv(cfg.save_path + "_heuristic_postprocess_metrics_per_tag.txt", index=True, sep=',', mode='a')
 
-
-    # Metrics (BIO)
-    acc, p, r, f = get_ner_fmeasure(gold_label, pred_label, label_type="BIO")
+    # Metrics (BIOES)
+    acc, p, r, f = get_ner_fmeasure(gold_label, pred_label, label_type="BIOES")
     metrics_df = pd.DataFrame([{
         "num_sentences": len(gold_label),
         "accuracy": acc,
@@ -109,7 +144,6 @@ def run_test(
     save_dir = getattr(cfg, "save_dir", None) or os.path.dirname(getattr(cfg, "save_path", "")) or "."
     os.makedirs(save_dir, exist_ok=True)
     out_path = cfg.save_path + "_predict_result.txt"
-
 
     # Build per-sample lines
     lines = []

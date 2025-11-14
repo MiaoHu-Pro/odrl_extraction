@@ -77,6 +77,12 @@ def get_ner_BIO(label_list):
     return stand_matrix
 
 
+def reverse_style(input_string):
+    target_position = input_string.index('[')
+    input_len = len(input_string)
+    output_string = input_string[target_position: input_len] + input_string[0: target_position]
+    return output_string
+
 
 def get_ner_BMES(label_list):
     # list_len = len(word_list)
@@ -124,6 +130,60 @@ def get_ner_BMES(label_list):
     # print stand_matrix
     return stand_matrix
 
+
+def bio_to_bioes(label_seq):
+    """
+    Convert a sequence of BIO tags into BIOES tags.
+    - 'O', '<pad>', '<start>', '<eos>' are kept as-is.
+    - Robust to a bit of broken BIO (I- without preceding B- etc.).
+    - Does NOT modify tags that are already non-B/I (e.g. S-/E-/M-), so you can call it safely once.
+    """
+    specials = {'O', '<pad>', '<start>', '<eos>'}
+    n = len(label_seq)
+    bioes = ['O'] * n
+    i = 0
+
+    while i < n:
+        lab = label_seq[i]
+        # keep non-entity & special tokens
+        if lab in specials or not (lab.startswith('B-') or lab.startswith('I-')):
+            bioes[i] = lab
+            i += 1
+            continue
+
+        # start of a span (treat both B- and broken I- as a new span)
+        typ = lab[2:]
+        j = i + 1
+        while j < n:
+            nxt = label_seq[j]
+            if nxt.startswith('I-') and nxt[2:] == typ:
+                j += 1
+                continue
+            # either different type, 'O', or a new B- => end of this span
+            break
+
+        span_len = j - i
+        if span_len == 1:
+            bioes[i] = f"S-{typ}"
+        else:
+            bioes[i] = f"B-{typ}"
+            for k in range(i + 1, j - 1):
+                bioes[k] = f"I-{typ}"
+            bioes[j - 1] = f"E-{typ}"
+
+        i = j
+
+    return bioes
+
+
+def spans_to_bioes_over_words(text, entities, tokenizer):
+    """
+    Convert span entities → BIOES per word.
+    This is a thin wrapper around spans_to_bio_over_words + bio_to_bioes.
+    """
+    words, bio_labels = spans_to_bio_over_words(text, entities, tokenizer)
+    bioes_labels = bio_to_bioes(bio_labels)
+    return words, bioes_labels
 
 
 # 利用标签字典恢复真实的预测标签
@@ -222,6 +282,111 @@ def _bio_spans(labels):
     return spans
 
 
+def _bioes_spans(labels):
+    """
+    Convert a BIOES (or BMES) tag sequence into spans: list of (TYPE, start, end) inclusive.
+    Robust to broken sequences and fallback cases.
+    """
+    spans = []
+    cur_type, start = None, None
+
+    def close_span(end_idx):
+        nonlocal cur_type, start
+        if cur_type is not None and start is not None:
+            spans.append((cur_type, start, end_idx))
+        cur_type, start = None, None
+
+    for i, lab in enumerate(labels):
+        if lab in ('O', '<pad>', '<start>', '<eos>'):
+            # close any ongoing span
+            if cur_type is not None:
+                close_span(i - 1)
+            continue
+
+        up = lab.upper()
+
+        if up.startswith('S-'):
+            # single-token span
+            typ = up[2:]
+            # close existing and add single span
+            if cur_type is not None:
+                close_span(i - 1)
+            spans.append((typ, i, i))
+
+        elif up.startswith('B-'):
+            typ = up[2:]
+            # close previous and start new
+            if cur_type is not None:
+                close_span(i - 1)
+            cur_type, start = typ, i
+
+        elif up.startswith('I-'):
+            typ = up[2:]
+            if cur_type is None:
+                # broken sequence, start new span
+                cur_type, start = typ, i
+            elif typ != cur_type:
+                # type switch, close previous and start new
+                close_span(i - 1)
+                cur_type, start = typ, i
+
+        elif up.startswith('E-'):
+            typ = up[2:]
+            if cur_type is None or typ != cur_type:
+                # inconsistent E-, treat as single-token span
+                if cur_type is not None:
+                    close_span(i - 1)
+                spans.append((typ, i, i))
+                cur_type, start = None, None
+            else:
+                # normal end
+                close_span(i)
+
+        # Other prefixes are ignored safely
+
+    # close tail span if still open
+    if cur_type is not None:
+        close_span(len(labels) - 1)
+
+    return spans
+
+
+def compute_entity_metrics_by_type_bioes(gold_seqs, pred_seqs):
+    """
+    Entity-level (span) metrics per TYPE when labels are BIOES/BMES.
+    Uses _bioes_spans instead of _bio_spans.
+    """
+    from collections import defaultdict
+    import pandas as pd
+
+    gold_sets = defaultdict(set)   # type -> set of (sent_idx, start, end)
+    pred_sets = defaultdict(set)
+
+    for si, (g, p) in enumerate(zip(gold_seqs, pred_seqs)):
+        for typ, s, e in _bioes_spans(g):
+            gold_sets[typ].add((si, s, e))
+        for typ, s, e in _bioes_spans(p):
+            pred_sets[typ].add((si, s, e))
+
+    types = sorted(set(gold_sets.keys()) | set(pred_sets.keys()))
+    rows = []
+    for t in types:
+        gset, pset = gold_sets[t], pred_sets[t]
+        tp = len(gset & pset)
+        fp = len(pset - gset)
+        fn = len(gset - pset)
+        prec = tp / (tp + fp) if (tp + fp) > 0 else 0.0
+        rec  = tp / (tp + fn) if (tp + fn) > 0 else 0.0
+        f1   = 2 * prec * rec / (prec + rec) if (prec + rec) > 0 else 0.0
+        rows.append({
+            "type": t, "support": len(gset),
+            "tp": tp, "fp": fp, "fn": fn,
+            "precision": prec, "recall": rec, "f1": f1
+        })
+    df = pd.DataFrame(rows).sort_values("f1", ascending=False).reset_index(drop=True)
+    return df
+
+
 def compute_entity_metrics_by_type(gold_seqs, pred_seqs):
     """
     Entity-level (span) metrics per TYPE (ASSET, ACTION, ...), excluding 'O'.
@@ -289,6 +454,193 @@ def compute_token_metrics_by_tag(gold_seqs, pred_seqs, label_list):
         })
     df = pd.DataFrame(rows).sort_values("f1", ascending=False).reset_index(drop=True)
     return df
+
+
+# ===================== BIOES span utils + heuristics =====================
+
+def spans_to_bioes_tags(num_tokens, spans):
+    """
+    Build a BIOES label sequence from spans = [(TYPE, start, end), ...].
+    Assumes spans do not overlap.
+    """
+    tags = ['O'] * num_tokens
+    # sort by (start, end) to have a deterministic order
+    spans = sorted(spans, key=lambda x: (x[1], x[2], x[0]))
+    for typ, s, e in spans:
+        length = e - s + 1
+        if length <= 0:
+            continue
+        if length == 1:
+            tags[s] = f"S-{typ}"
+        else:
+            tags[s] = f"B-{typ}"
+            for i in range(s + 1, e):
+                tags[i] = f"I-{typ}"
+            tags[e] = f"E-{typ}"
+    return tags
+
+def _adjust_spans_for_type(spans, tokens, entity_type, occupied,
+                           max_gap=2, max_extend=15):
+    """
+    Heuristic refinement for spans of a single entity type
+    (PURPOSE or CONSTRAINT).
+
+    spans: list of (TYPE, start, end) for this entity_type only.
+    tokens: list of tokens (same length as label sequence).
+    occupied: list of types or None, from the ORIGINAL spans, used to avoid
+              crossing other entity types.
+    """
+    if not spans:
+        return []
+
+    # -------- 1) Merge close spans separated by small connectors --------
+    allowed_gap_tokens = {",", ";", "and", "or", "and/or", "/", "(", ")"}
+
+    spans_sorted = sorted(spans, key=lambda x: x[1])
+    merged = []
+    i = 0
+    while i < len(spans_sorted):
+        _, cur_start, cur_end = spans_sorted[i]
+        j = i + 1
+        while j < len(spans_sorted):
+            _, next_start, next_end = spans_sorted[j]
+
+            # overlapping or touching directly -> just merge
+            if next_start <= cur_end + 1:
+                cur_end = max(cur_end, next_end)
+                j += 1
+                continue
+
+            gap_start = cur_end + 1
+            gap_end = next_start - 1
+            gap_len = max(0, gap_end - gap_start + 1)
+            if gap_len > max_gap:
+                break
+
+            # Check gap content: must be all allowed_connector tokens, and not
+            # occupied by other entity types.
+            ok = True
+            for k in range(gap_start, next_start):
+                if occupied[k] is not None and occupied[k] != entity_type:
+                    ok = False
+                    break
+                if tokens[k].lower() not in allowed_gap_tokens:
+                    ok = False
+                    break
+
+            if not ok:
+                break
+
+            # merge
+            cur_end = next_end
+            j += 1
+
+        merged.append((entity_type, cur_start, cur_end))
+        i = j
+
+    # -------- 2) Extend spans to clause boundaries (conservatively) --------
+    n = len(tokens)
+    extended = []
+
+    # trigger words to decide when to extend
+    if entity_type == "PURPOSE":
+        trigger_tokens = {"to", "for", "in", "so"}
+        trigger_prev = {"for", "to"}
+    else:  # CONSTRAINT
+        trigger_tokens = {"subject", "under", "unless", "provided", "outside",
+                          "prior", "except", "notwithstanding", "in"}
+        trigger_prev = {"subject", "under", "in"}
+
+    strong_boundaries = {".", ";", "?", "!"}
+
+    for _, start, end in merged:
+        new_end = end
+        start_tok = tokens[start].lower()
+        prev_tok = tokens[start - 1].lower() if start > 0 else None
+
+        extend_span = False
+
+        # Decide whether this looks like a clause that should be extended
+        if start_tok in trigger_tokens:
+            extend_span = True
+        elif prev_tok in trigger_prev:
+            extend_span = True
+        # small safety net: very short PURPOSE/CONSTRAINT (likely truncated)
+        span_len = end - start + 1
+        if span_len <= 3:
+            extend_span = True
+
+        if extend_span:
+            steps = 0
+            k = end + 1
+            while k < n and steps < max_extend:
+                tok = tokens[k]
+                # Stop at strong punctuation
+                if tok in strong_boundaries:
+                    break
+                # do not invade other entity types
+                if occupied[k] is not None and occupied[k] != entity_type:
+                    break
+                # we only extend over tokens that the model thought were 'O'
+                # (otherwise we'd be overriding another entity label)
+                # caller is responsible for checking original labels if needed.
+
+                new_end = k
+                steps += 1
+                k += 1
+
+        extended.append((entity_type, start, new_end))
+
+    return extended
+
+
+def heuristic_postprocess_purpose_constraint(tokens, labels):
+    """
+    Main entry point for the heuristic layer.
+
+    Args:
+        tokens: list of tokens for this sentence (same length as labels).
+        labels: list of BIOES tags for this sentence (strings).
+
+    Returns:
+        new_labels: list of BIOES tags after heuristic refinement
+                    for PURPOSE and CONSTRAINT (other types unchanged).
+    """
+    # 1) extract spans from BIOES labels
+    spans = _bioes_spans(labels)
+    n = len(tokens)
+
+    # 2) build occupancy map from ORIGINAL spans
+    occupied = [None] * n
+    for typ, s, e in spans:
+        for i in range(s, e + 1):
+            if 0 <= i < n:
+                occupied[i] = typ
+
+    # 3) group spans by type
+    by_type = {}
+    for typ, s, e in spans:
+        by_type.setdefault(typ, []).append((typ, s, e))
+
+    final_spans = []
+
+    for typ, span_list in by_type.items():
+        if typ in ("PURPOSE", "CONSTRAINT"):
+            refined = _adjust_spans_for_type(span_list, tokens, typ, occupied)
+            final_spans.extend(refined)
+        else:
+            final_spans.extend(span_list)
+
+    # 4) rebuild BIOES tags from refined spans
+    new_labels = spans_to_bioes_tags(n, final_spans)
+    return new_labels
+
+
+
+
+
+
+
 
 
 
@@ -443,6 +795,19 @@ def _read_jsonl(path, tokenizer=None):
 
             raise ValueError(f"{path} line {ln}: expected 'label' or 'entities' keys.")
     return samples
+
+
+def _read_jsonl_bioes(path, tokenizer=None):
+    """
+    Wrapper around _read_jsonl that converts BIO -> BIOES.
+    Keeps the original _read_jsonl unchanged and reuses all its logic.
+    """
+    bio_samples = _read_jsonl(path, tokenizer=tokenizer)
+    bioes_samples = []
+    for text, label_seq in bio_samples:
+        bioes_labels = bio_to_bioes(label_seq)
+        bioes_samples.append((text, bioes_labels))
+    return bioes_samples
 
 
 
@@ -617,7 +982,12 @@ def _encode_sample(words, labels, tokenizer, l2i, max_length, cls_id, sep_id, pa
 
 def _build_features(jsonl_path, tokenizer, l2i, max_length):
     """Read a JSONL file and convert to a list of InputFeatures."""
-    samples = _read_jsonl(jsonl_path, tokenizer=tokenizer)
+
+    # using BIO
+    # samples = _read_jsonl(jsonl_path, tokenizer=tokenizer)
+
+    # using BIOES
+    samples = _read_jsonl_bioes(jsonl_path, tokenizer=tokenizer)
 
     # Resolve special token ids with safe fallbacks
     cls_id = tokenizer.cls_token_id if tokenizer.cls_token_id is not None else (
@@ -632,12 +1002,11 @@ def _build_features(jsonl_path, tokenizer, l2i, max_length):
     n_max_length = 0
     for text, label_seq in samples:
 
-
         # words = _words_from_text(text)
         words = _words_from_text(text, tokenizer)
         if len(words) > max_length:
-            n_max_length = len(words)
-
+            # tiny improvement: keep the global max, not just the last long one
+            n_max_length = max(n_max_length, len(words))
 
         if len(words) != len(label_seq):
             raise ValueError(
@@ -646,11 +1015,21 @@ def _build_features(jsonl_path, tokenizer, l2i, max_length):
                 f"  text snippet: {text[:120]}..."
             )
 
-        feat = _encode_sample(words, label_seq, tokenizer, l2i, max_length, cls_id, sep_id, pad_label_id)
+        feat = _encode_sample(
+            words,
+            label_seq,          # already BIOES
+            tokenizer,
+            l2i,
+            max_length,
+            cls_id,
+            sep_id,
+            pad_label_id,
+        )
         features.append(feat)
 
     print("maximum length of sentence:", n_max_length)
     return features
+
 
 
 def get_data(cfg):
@@ -705,4 +1084,3 @@ def get_data(cfg):
 
 if __name__ == '__main__':
     pass
-

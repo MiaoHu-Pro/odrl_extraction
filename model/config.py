@@ -92,19 +92,61 @@ class Config(object):
 
         # ---- Labels / tag mapping ----
         # Your policy/contract BIO tag set
-        # ---- Labels / tag mapping ----
+        #
         # Final BIO tag set used in your generated data (v2, fixed):
-        base_labels = [
-            "O",
-            "B-ASSIGNEE", "I-ASSIGNEE",
-            "B-ACTION", "I-ACTION",
-            "B-ASSET", "I-ASSET",
-            "B-TULE_TYPE-PERMISSION", "I-TULE_TYPE-PERMISSION",
-            "B-TULE_TYPE-OBLIGATION", "I-TULE_TYPE-OBLIGATION",
-            "B-TULE_TYPE-PROHIBITION", "I-TULE_TYPE-PROHIBITION",
-            "B-CONSTRAINT", "I-CONSTRAINT",
-            "B-PURPOSE", "I-PURPOSE",
+        # base_labels = [
+        #     "O",
+        #     "B-ASSIGNEE", "I-ASSIGNEE",
+        #     "B-ACTION", "I-ACTION",
+        #     "B-ASSET", "I-ASSET",
+        #     "B-TULE_TYPE-PERMISSION", "I-TULE_TYPE-PERMISSION",
+        #     "B-TULE_TYPE-OBLIGATION", "I-TULE_TYPE-OBLIGATION",
+        #     "B-TULE_TYPE-PROHIBITION", "I-TULE_TYPE-PROHIBITION",
+        #     "B-CONSTRAINT", "I-CONSTRAINT",
+        #     "B-PURPOSE", "I-PURPOSE",
+        # ]
+        #
+        # # Whether to include <pad>, <start>, <eos> in the label space as in your previous setup
+        # # If your CRF already adds start/stop internally, you can set this False to avoid double counting.
+        # self.include_special_labels = getattr(args, "include_special_labels", True)
+        #
+        # labels = list(base_labels)
+        # if self.include_special_labels:
+        #     # labels += ["<pad>", "<start>", "<eos>", "[CLS]", "[SEP]"]
+        #     labels += ["<pad>", "<start>", "<eos>"]
+        #
+        # self.labels = labels
+        # self.l2i = {lbl: i for i, lbl in enumerate(self.labels)}
+        # self.i2l = {i: lbl for lbl, i in self.l2i.items()}
+        #
+        # print(self.i2l)
+        # print(self.l2i)
+        #
+        # self.tagset_size = len(self.l2i)
+
+
+        # ---- Labels / tag mapping BIOSE tag ----
+        # Final BIOES tag set used in your generated data.
+        # We define the entity types once, then expand to B/I/E/S tags.
+        entity_types = [
+            "ASSIGNEE",
+            "ACTION",
+            "ASSET",
+            "TULE_TYPE-PERMISSION",
+            "TULE_TYPE-OBLIGATION",
+            "TULE_TYPE-PROHIBITION",
+            "CONSTRAINT",
+            "PURPOSE",
         ]
+
+        base_labels = ["O"]
+        for t in entity_types:
+            base_labels.extend([
+                f"B-{t}",
+                f"I-{t}",
+                f"E-{t}",
+                f"S-{t}",
+            ])
 
         # Whether to include <pad>, <start>, <eos> in the label space as in your previous setup
         # If your CRF already adds start/stop internally, you can set this False to avoid double counting.
@@ -123,6 +165,10 @@ class Config(object):
         print(self.l2i)
 
         self.tagset_size = len(self.l2i)
+
+        # ---- Labels / tag mapping BIOSE tag ----
+
+
 
         # ---- Derived save paths ----
 
