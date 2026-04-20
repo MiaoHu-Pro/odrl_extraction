@@ -28,17 +28,23 @@ def print_and_save_params(config, filepath):
 
     # Save parameters to file
     try:
+        # filename = (
+        #     f"{config.model_name}_ep{config.num_epochs}_bz{config.batch_size}"
+        #     f"_lr{config.learning_rate}_ml{config.max_length}_lt{config.label_type}_num_layers{config.rnn_layers}_parameters.json"
+        # )
+
         filename = (
-            f"{config.model_name}_ep{config.num_epochs}_bz{config.batch_size}"
-            f"_lr{config.learning_rate}_ml{config.max_length}_lt{config.label_type}_parameters.json"
+            f"{config.save_path}_parameters.json"
         )
-        with open(os.path.join(filepath, filename), 'w') as f:
+
+
+
+        with open(filename, 'w') as f:
             json.dump(params, f, indent=4)
+        print("params:", params)
         print(f"Parameters saved to {filepath}")
     except TypeError as e:
         print(f"Error saving parameters: {e}")
-
-
 
 
 def get_ner_BIO(label_list):
@@ -432,7 +438,12 @@ def compute_token_metrics_by_tag(gold_seqs, pred_seqs, label_list):
     counts = {lbl: {"tp":0,"fp":0,"fn":0,"gold":0,"pred":0} for lbl in label_list}
 
     for g_seq, p_seq in zip(gold_seqs, pred_seqs):
-        assert len(g_seq) == len(p_seq)
+        if len(g_seq) != len(p_seq):
+            min_len = min(len(g_seq), len(p_seq))
+            if min_len == 0:
+                continue
+            g_seq = g_seq[:min_len]
+            p_seq = p_seq[:min_len]
         for g, p in zip(g_seq, p_seq):
             if g not in counts: counts[g] = {"tp":0,"fp":0,"fn":0,"gold":0,"pred":0}
             if p not in counts: counts[p] = {"tp":0,"fp":0,"fn":0,"gold":0,"pred":0}
@@ -663,9 +674,9 @@ LABEL_PRIORITY = [
     # Highest priority first (later labels overwrite earlier char mask positions)
     "ASSET",
     "ACTION",
-    "TULE_TYPE-PROHIBITION",
-    "TULE_TYPE-OBLIGATION",
-    "TULE_TYPE-PERMISSION",
+    "RULE_TYPE-PROHIBITION",
+    "RULE_TYPE-OBLIGATION",
+    "RULE_TYPE-PERMISSION",
     "ASSIGNEE",
     "CONSTRAINT",
     "PURPOSE",

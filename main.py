@@ -28,8 +28,6 @@ def main():
     parser.add_argument("--trust_remote_code", action="store_true",
                         help="Pass to HuggingFace loaders when using custom community checkpoints.")
 
-    parser.add_argument("--label_type", required=True, default="BIO")
-
     # Training settings
     parser.add_argument("--num_epochs", type=int, default=10)
     parser.add_argument("--batch_size", type=int, default=16)

@@ -1,0 +1,14 @@
+
+odrl_simodrl_spans.jsonl  version_1: labelling ASSIGNEE, TULE_TYPE, ACTION, ASSET, CONSTRAINT and PURPOSE
+
+
+convert PURPOSE to CONSTRAINT:
+odrl_simodrl_spans_constraint.jsonl  version_2: labelling ASSIGNEE, TULE_TYPE, ACTION, ASSET, CONSTRAINT (the PURPOSE is merged to CONSTRAINT)
+odrl_simodrl_spans_constraint_splitted
+odrl_simodrl_spans_constraint_splitted_checked
+odrl_simodrl_spans_constraint_splitted_checked_v2
+
+
+ 
+odrl_simodrl_spans_checked_v1: checked on ASSET and ACTION
+odrl_simodrl_spans_checked_adv_v1: based on, odrl_simodrl_spans_checked_v1, checked on PURPOSE and CONSTRAINT

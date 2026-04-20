@@ -137,9 +137,9 @@ class Config(object):
             "ASSIGNEE",
             "ACTION",
             "ASSET",
-            "TULE_TYPE-PERMISSION",
-            "TULE_TYPE-OBLIGATION",
-            "TULE_TYPE-PROHIBITION",
+            "RULE_TYPE-PERMISSION",
+            "RULE_TYPE-OBLIGATION",
+            "RULE_TYPE-PROHIBITION",
             "CONSTRAINT",
             "PURPOSE",
         ]

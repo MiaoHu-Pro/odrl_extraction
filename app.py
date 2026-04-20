@@ -163,7 +163,7 @@ def fun(text):
     # Required
     parser.add_argument("--model", required=True)
     parser.add_argument("--data_path", required=True, default="./data/")
-    parser.add_argument("--save_dir", required=True, default="./save_models/")
+    parser.add_argument("--save_dir", required=True, default="./save_model/")
     parser.add_argument("--word_embedding_model_path", required=True)  # e.g., "/home/.../bert-base-cased"
     parser.add_argument("--label_type", choices=["BIO", "BIOES"], default="BIO",
                         help="Tagging scheme to use for labels.")
@@ -227,3 +227,6 @@ def index():
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
     # python app.py --model bert-lstm-crf  --data_path ./data/ --save_dir ./save_model --word_embedding_model_path /home/mh1f25/scratch/llms_model/bert-base-cased   --do_test  --num_epochs 10
+
+    # python app.py --model contract-bert-lstm-crf  --data_path ./data/ --save_dir ./save_model --word_embedding_model_path /home/mh1f25/scratch/llms_model/bert-base-uncased-contracts  --do_test  --num_epochs 20 --rnn_layers 1 --max_length 400 --label_type BIO
+

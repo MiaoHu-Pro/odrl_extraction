@@ -100,19 +100,7 @@ def run_test(
     # recover string labels and compute metrics
     pred_label, gold_label = recover_label(all_pred_ids, golds, cfg.l2i, cfg.i2l)
 
-
-    base_labels = [
-        "O",
-        "B-PARTY_ASSIGNEE", "I-PARTY_ASSIGNEE",
-        "B-PARTY_ASSIGNER", "I-PARTY_ASSIGNER",
-        "B-ASSET", "I-ASSET",
-        "B-ACTION", "I-ACTION",
-        "B-RULE_TYPE", "I-RULE_TYPE",
-        "B-CONSTRAINT", "I-CONSTRAINT",
-        "B-DUTY", "I-DUTY",
-        "B-PURPOSE", "I-PURPOSE",
-        "B-CONSEQUENCE", "I-CONSEQUENCE"
-    ]
+    base_labels = [lbl for lbl in cfg.labels if not lbl.startswith("<")]
 
     # pred_label, gold_label = recover_label(...)
 

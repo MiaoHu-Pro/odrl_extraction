@@ -53,9 +53,9 @@ def run_test(
     #     "B-ASSIGNEE", "I-ASSIGNEE",
     #     "B-ACTION", "I-ACTION",
     #     "B-ASSET", "I-ASSET",
-    #     "B-TULE_TYPE-PERMISSION", "I-TULE_TYPE-PERMISSION",
-    #     "B-TULE_TYPE-OBLIGATION", "I-TULE_TYPE-OBLIGATION",
-    #     "B-TULE_TYPE-PROHIBITION", "I-TULE_TYPE-PROHIBITION",
+    #     "B-RULE_TYPE-PERMISSION", "I-RULE_TYPE-PERMISSION",
+    #     "B-RULE_TYPE-OBLIGATION", "I-RULE_TYPE-OBLIGATION",
+    #     "B-RULE_TYPE-PROHIBITION", "I-RULE_TYPE-PROHIBITION",
     #     "B-CONSTRAINT", "I-CONSTRAINT",
     #     "B-PURPOSE", "I-PURPOSE",
     # ]
@@ -93,35 +93,36 @@ def run_test(
     print(row_per_type_df)
     print(row_per_tag_df)
 
-    # ---- Heuristic post-processing (BIOES only) ----
-    if cfg.label_type == "BIOES":
-        refined_pred_label = []
-        for i, pred_seq in enumerate(pred_label):
-            if test_features is not None and i < len(test_features):
-                feat = test_features[i]
-                if isinstance(feat.text, list):
-                    tokens = [t for t in feat.text if t not in ("[CLS]", "[SEP]")]
-                else:
-                    tokens = str(feat.text).split()
-            else:
-                tokens = [f"tok_{j}" for j in range(len(pred_seq))]
-
-            if len(tokens) < len(pred_seq):
-                gap = len(pred_seq) - len(tokens)
-                tokens = tokens + [f"tok_pad_{j}" for j in range(gap)]
-            elif len(tokens) > len(pred_seq):
-                tokens = tokens[:len(pred_seq)]
-
-            refined_seq = heuristic_postprocess_purpose_constraint(tokens, pred_seq)
-            refined_pred_label.append(refined_seq)
-
-        pred_label = refined_pred_label
-
-    # # using hybrid rules only
-    # if test_features is not None:
-    #     pred_label = apply_rules_to_predictions(pred_label, test_features)
-
-    # per_type_df = compute_entity_metrics_by_type(gold_label, pred_label)  # ASSET/ACTION/...
+    #
+    # # ---- Heuristic post-processing (BIOES only) ----
+    # if cfg.label_type == "BIOES":
+    #     refined_pred_label = []
+    #     for i, pred_seq in enumerate(pred_label):
+    #         if test_features is not None and i < len(test_features):
+    #             feat = test_features[i]
+    #             if isinstance(feat.text, list):
+    #                 tokens = [t for t in feat.text if t not in ("[CLS]", "[SEP]")]
+    #             else:
+    #                 tokens = str(feat.text).split()
+    #         else:
+    #             tokens = [f"tok_{j}" for j in range(len(pred_seq))]
+    #
+    #         if len(tokens) < len(pred_seq):
+    #             gap = len(pred_seq) - len(tokens)
+    #             tokens = tokens + [f"tok_pad_{j}" for j in range(gap)]
+    #         elif len(tokens) > len(pred_seq):
+    #             tokens = tokens[:len(pred_seq)]
+    #
+    #         refined_seq = heuristic_postprocess_purpose_constraint(tokens, pred_seq)
+    #         refined_pred_label.append(refined_seq)
+    #
+    #     pred_label = refined_pred_label
+    #
+    # # # using hybrid rules only
+    # # if test_features is not None:
+    # #     pred_label = apply_rules_to_predictions(pred_label, test_features)
+    #
+    # # per_type_df = compute_entity_metrics_by_type(gold_label, pred_label)  # ASSET/ACTION/...
 
     per_type_df = entity_metric_fn(gold_label, pred_label)
     per_tag_df = compute_token_metrics_by_tag(gold_label, pred_label, base_labels)
